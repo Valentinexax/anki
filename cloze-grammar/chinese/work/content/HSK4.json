@@ -64,7 +64,7 @@
 "register": "Neutral"
 },
 "ZH-HSK4-01-011": {
-"notes": "否则 = otherwise, introducing what happens if the advice isn't followed. It's slightly more formal than 要不然 and 不然, though common in speech too.",
+"notes": "快点儿走 is advice, and the clause after it says what happens if it's ignored: 否则 (otherwise). It's slightly more formal than 要不然 and 不然, though common in speech too.",
 "tip": "",
 "compare": "",
 "register": "Neutral; 否则 slightly formal"
@@ -76,7 +76,7 @@
 "register": "Colloquial"
 },
 "ZH-HSK4-01-013": {
-"notes": "除非 = unless, introducing the only condition that would change the outcome. It's typically paired with 否则 or 不然 in the next clause, or with 才 (除非你道歉，他才会原谅你).",
+"notes": "否则 in the second clause pairs with 除非 (unless), naming the only condition that would change the outcome. It can also pair with 才: 除非你道歉，他才会原谅你.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -100,13 +100,13 @@
 "register": "Neutral"
 },
 "ZH-HSK4-02-003": {
-"notes": "甚至 = even, introducing the most extreme consequence. Here it sits inside a degree complement (忙得…); 连饭都没时间吃 would be the more idiomatic alternative.",
+"notes": "忙得 introduces an extreme consequence, and 甚至 (even) marks how far it goes. 连饭都没时间吃 would be the more idiomatic alternative.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-02-004": {
-"notes": "竟然 = to my surprise, marking something contrary to expectation. 居然 is a near-synonym; both go before the verb.",
+"notes": "The exclamation mark and a forgotten birthday mark something contrary to expectation: 竟然 (to my surprise). 居然 is a near-synonym; both go before the verb.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -124,19 +124,19 @@
 "register": "Neutral; impatient"
 },
 "ZH-HSK4-02-007": {
-"notes": "毕竟 = after all, giving a fact that should change the listener's view. It's often followed by 是 or 还是.",
+"notes": "别生气 asks for leniency, and 还是个孩子 is the fact that justifies it: 毕竟 (after all). 毕竟 is often followed by 是 or 还是.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-02-008": {
-"notes": "反而 = on the contrary: the result is the opposite of what was expected. It goes after the subject (病反而…), like most adverbs.",
+"notes": "Medicine should help, but 更重了 reports the opposite: 反而 (on the contrary). It goes after the subject (病反而…), like most adverbs.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-02-009": {
-"notes": "简直 = simply, practically, an emphatic adverb for exaggeration, often with 太…了 or 像…一样. It isn't used for plain statements.",
+"notes": "太好了! is exaggerated praise, intensified by 简直 (simply, practically). It's used for hyperbole, often with 太…了 or 像…一样, not for plain statements.",
 "tip": "",
 "compare": "",
 "register": "Neutral; emphatic"
@@ -160,7 +160,7 @@
 "register": "Colloquial"
 },
 "ZH-HSK4-02-013": {
-"notes": "怪不得 = no wonder, used once the reason is known; 原来 often introduces that reason first. 难怪 is a near-synonym.",
+"notes": "原来他病了 supplies the reason just discovered, so the conclusion takes 怪不得 (no wonder). 难怪 is a near-synonym.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -178,19 +178,19 @@
 "register": "Neutral"
 },
 "ZH-HSK4-03-003": {
-"notes": "恐怕 = I'm afraid, probably, introducing an unwelcome estimate. It softens bad news, much like English 'I'm afraid'.",
+"notes": "不能来了 is unwelcome news, softened by 恐怕 (I'm afraid, probably), much like English 'I'm afraid'. It can open the sentence or follow the subject.",
 "tip": "",
 "compare": "",
 "register": "Neutral; tactful"
 },
 "ZH-HSK4-03-004": {
-"notes": "果然 = sure enough, confirming a prediction made earlier (the forecast). Its opposite in feel is 竟然, for a surprise.",
+"notes": "The forecast predicted rain and it happened, so 果然 (sure enough). Its opposite in feel is 竟然, which marks a surprise.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-005": {
-"notes": "偶尔 = occasionally, now and then; it's lower in frequency than 有时候. It can also be an adjective: 偶尔的机会.",
+"notes": "一点儿酒 now and then is low frequency: 偶尔 (occasionally), lower than 有时候. It can also be an adjective: 偶尔的机会.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -208,25 +208,25 @@
 "register": "Neutral"
 },
 "ZH-HSK4-03-008": {
-"notes": "互相 = each other, and it goes before the verb: 互相帮助. A two-syllable verb sounds best after it; 互相帮 is clipped.",
+"notes": "帮助 with 我们 as subject and no object means a reciprocal action: 互相 (each other), placed before the verb. A two-syllable verb sounds best after it; 互相帮 is clipped.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-009": {
-"notes": "到处 = everywhere, and it's followed by 都; 到处都是 + noun is the usual way of saying 'there are … all over the place'. 家里 is the place topic.",
+"notes": "都是书 after 家里 describes books all over the place: 到处 (everywhere), followed by 都. 到处都是 + noun is the usual pattern for this.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-010": {
-"notes": "偷偷 (地) = secretly, without anyone noticing. It's a reduplicated form and usually takes 地 before the verb.",
+"notes": "地 and the verb 走 call for a manner adverb, and slipping away unnoticed is 偷偷 (secretly). It's a reduplicated form and usually takes 地.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-011": {
-"notes": "渐渐 = gradually, a reduplicated adverb often ending in 地 (渐渐地). 逐渐 is its more formal equivalent, and both usually go with 了 or a change verb.",
+"notes": "黑了 is a change happening by degrees: 渐渐 (gradually), a reduplicated adverb often written 渐渐地. 逐渐 is its more formal equivalent.",
 "tip": "",
 "compare": "",
 "register": "Neutral",
@@ -234,7 +234,7 @@
 "flag": "hint: 逐渐 fitted equally; added (reduplicated)"
 },
 "ZH-HSK4-03-012": {
-"notes": "稍微 = slightly; it typically pairs with 一点儿 or 一些 after the adjective: 稍微大了一点儿. Here 大了 means 'too big'.",
+"notes": "大了一点儿 (a little too big) pairs with 稍微 (slightly), which typically takes 一点儿 or 一些 after the adjective. Here 大了 means 'too big'.",
 "tip": "",
 "compare": "",
 "register": "Neutral",
@@ -243,13 +243,13 @@
 "flag": "dup: replaced 请稍微等一下 (near-identical to HSK2-03-014 请等一下)"
 },
 "ZH-HSK4-03-013": {
-"notes": "尽量 = as far as possible, before the verb. It promises effort, not a result: 我会尽量 = I'll do my best. 尽 here is read jǐn, as in 尽管, not jìn.",
+"notes": "我会…早点儿来 promises effort without guaranteeing the result: 尽量 (as far as possible). 尽 here is read jǐn, as in 尽管, not jìn.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-014": {
-"notes": "赶快 = hurry up and…, before the verb in commands and suggestions. 赶紧 is a near-synonym, slightly more colloquial and northern.",
+"notes": "走吧! with an exclamation is a call to hurry: 赶快 (hurry up and…), before the verb. 赶紧 is a near-synonym, slightly more colloquial and northern.",
 "tip": "",
 "compare": "",
 "register": "Neutral",
@@ -257,7 +257,7 @@
 "flag": "hint: 赶紧 fitted equally; added (not 赶紧)"
 },
 "ZH-HSK4-03-015": {
-"notes": "立刻 = immediately, at once; it's a shade more formal and narrative than 马上 and is mostly used for the past, as here.",
+"notes": "接到电话后 sets up an immediate reaction in a past narrative: 立刻 (at once), a shade more formal than 马上 and mostly used for the past.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal",
@@ -265,25 +265,25 @@
 "flag": "hint: 马上 fitted equally; added (not 马上)"
 },
 "ZH-HSK4-03-016": {
-"notes": "随便 = as you like, without constraints. As an answer on its own, 随便 means 'whatever' and can sound indifferent.",
+"notes": "请…坐 invites a guest to sit, and leaving the choice to them is 随便 (as you like). As an answer on its own, 随便 means 'whatever' and can sound indifferent.",
 "tip": "",
 "compare": "",
 "register": "Neutral; hospitable"
 },
 "ZH-HSK4-03-017": {
-"notes": "顺便 = while you're at it, doing one thing in passing during another; it goes before the second verb. …的话 sets up the condition that makes the errand convenient.",
+"notes": "你去超市的话 sets up an errand in passing, so 顺便 (while you're at it), before the second verb. The condition is what makes the errand convenient.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-018": {
-"notes": "亲自 = in person, stressing that someone important did it themselves. It goes before the verb and implies the act was unexpected or an honour.",
+"notes": "校长 is someone important, and the point is that he came himself: 亲自 (in person). It implies the act was unexpected or an honour.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-019": {
-"notes": "几乎 = almost, nearly: here he slept almost not at all. 几乎 can precede a negative (几乎没睡) or a positive with 都 (几乎每天都…).",
+"notes": "一夜没睡 is nearly but not quite true, so 几乎 (almost) before the negative. 几乎 can also precede a positive with 都: 几乎每天都….",
 "tip": "",
 "compare": "",
 "register": "Neutral",
@@ -292,7 +292,7 @@
 "flag": "dup: replaced 我几乎每天都跑步 (near-identical to HSK2-11-001)"
 },
 "ZH-HSK4-03-020": {
-"notes": "仍然 = still, despite a change (the rain has stopped). It's more formal than 还, and 依然 is a literary near-synonym.",
+"notes": "雨停了 is a change, and the wind continuing despite it calls for 仍然 (still), more formal than 还. 依然 is a literary near-synonym.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal",
@@ -301,31 +301,31 @@
 "flag": "dup: replaced 他仍然住在那儿 (near-identical to HSK1-02-008); hint adds (not 依然)"
 },
 "ZH-HSK4-03-021": {
-"notes": "曾经 = once, at some time in the past; it pairs naturally with 过. Its negative is 没 (有) + verb + 过, not 不曾经.",
+"notes": "工作过 marks past experience, which pairs naturally with 曾经 (once, at some point). Its negative is 没 (有) + verb + 过, not 不曾经.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-022": {
-"notes": "故意 = on purpose, deliberately, and 是…的 here frames the adverb as the predicate: it was deliberate. The negative 不是故意的 is the standard apology for an accident.",
+"notes": "是…的 frames a predicate about intent: 故意 (on purpose). The negative 不是故意的 is the standard apology for an accident.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-023": {
-"notes": "正好 = just right, in time or amount; here it's a degree complement after 来得. It can also be an adverb: 我正好也要去.",
+"notes": "来得 needs a degree complement, and arriving at exactly the right time is 正好. As an adverb it means 'happen to': 我正好也要去.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-024": {
-"notes": "一下子 = all at once, suddenly, often followed by 就 as here. It can also mean 'in no time at all': 一下子就做完了.",
+"notes": "就明白了 describes sudden understanding, introduced by 一下子 (all at once). It can also mean 'in no time': 一下子就做完了.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-03-025": {
-"notes": "不必 = there's no need to, more formal than 不用. Its positive counterpart 必须 means 'must', so 不必 is literally 'not must'.",
+"notes": "担心 is being discouraged, politely: 不必 (there's no need to), more formal than 不用. Its positive counterpart 必须 means 'must'.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
@@ -337,7 +337,7 @@
 "register": "Neutral to formal"
 },
 "ZH-HSK4-04-002": {
-"notes": "由于 = due to, the formal counterpart of 因为. It's often paired with 所以 or 因此 and is typical of announcements.",
+"notes": "航班取消了 is an announcement, and its cause takes the formal 由于 (due to), the counterpart of 因为. It's often paired with 所以 or 因此.",
 "tip": "",
 "compare": "",
 "register": "Formal"
@@ -349,13 +349,13 @@
 "register": "Formal; written"
 },
 "ZH-HSK4-04-004": {
-"notes": "按照 = according to, for following rules, plans or instructions. 请按照说明使用 is a stock phrase on packaging; 按 alone is the shorter form (按说明使用).",
+"notes": "使用 + 说明 (instructions) means following directions: 按照 (according to). 请按照说明使用 is a stock phrase on packaging; 按 alone is the shorter form.",
 "tip": "",
 "compare": "",
 "register": "Formal; written"
 },
 "ZH-HSK4-04-005": {
-"notes": "根据 = according to, based on a source of information or data. 按照 is for following instructions; 根据 for grounds of a statement.",
+"notes": "天气预报 is a source of information, so 根据 (according to, based on). 按照 is for following instructions; 根据 for the grounds of a statement.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
@@ -367,37 +367,37 @@
 "register": "Neutral to formal"
 },
 "ZH-HSK4-04-007": {
-"notes": "自从 = ever since, always about a past starting point up to now. It's often closed by 以后 or 以来 (自从来了中国以后), and the main clause reports the change.",
+"notes": "胖了很多 is a change from a past starting point up to now: 自从 (ever since). It's often closed by 以后 or 以来: 自从来了中国以后.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-04-008": {
-"notes": "直到 = right up until, usually followed by 才: the knowledge came only then. 直到现在 is common in the negative: 直到现在还没….",
+"notes": "才知道 shows the knowledge came late, and the endpoint takes 直到 (right up until). 直到现在 is common in the negative: 直到现在还没….",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-04-009": {
-"notes": "趁 = while, taking advantage of a favourable moment: 趁热 (while it's hot), 趁年轻. It's followed directly by the condition.",
+"notes": "热 is a favourable moment that won't last, so 趁 (while, taking advantage of): 趁热, 趁年轻. It's followed directly by the condition.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-04-010": {
-"notes": "沿着 = along, following a line such as a river, road or coast. 着 is part of the word here, not an aspect marker.",
+"notes": "河边 is a line to follow, so 沿着 (along), also used for roads and coasts. 着 is part of the word here, not an aspect marker.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-04-011": {
-"notes": "靠 = rely on, depend on, a verb here after the modal 要. 靠自己 is a set phrase for self-reliance; literally 靠 means 'lean against' (靠墙).",
+"notes": "自己 as the object of a modal sentence about self-reliance takes 靠 (rely on), a verb here. 靠 literally means 'lean against' (靠墙).",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-04-012": {
-"notes": "跟…有关 = be related to; 有关 can also precede a noun: 有关部门 (the relevant departments). The negative is 跟…无关 or 没有关系.",
+"notes": "这件事 and 你 are linked by relevance, the frame 跟…有关 (be related to). 有关 can also precede a noun (有关部门); the negative is 跟…无关.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -454,7 +454,7 @@
 "register": "Neutral"
 },
 "ZH-HSK4-06-001": {
-"notes": "以及 = as well as, joining the last item to a written list, usually a broader category (其他家具). Speech prefers 和.",
+"notes": "其他家具 is a broader category closing a written list, so 以及 (as well as) rather than 和. Speech prefers 和; 以及 is mainly written.",
 "tip": "",
 "compare": "",
 "register": "Formal; written"
@@ -466,13 +466,13 @@
 "register": "Formal; written"
 },
 "ZH-HSK4-06-003": {
-"notes": "于是 = so, and then, describing what happened next as a natural consequence. It's narrative, mostly for past events.",
+"notes": "天黑了 leads naturally to the next event in a past narrative, so 于是 (so, and then). It's narrative and mostly used for past events.",
 "tip": "",
 "compare": "",
 "register": "Neutral; narrative"
 },
 "ZH-HSK4-06-004": {
-"notes": "因此 = therefore, the formal counterpart of 所以, and it can start a clause or follow the subject. It's common in written argument and reports.",
+"notes": "每天锻炼 is a cause and 身体很好 its result, linked by the formal 因此 (therefore). It can start a clause or follow the subject.",
 "tip": "",
 "compare": "",
 "register": "Formal; written",
@@ -480,19 +480,19 @@
 "flag": "hint: 所以 fitted equally; added (formal; not 所以)"
 },
 "ZH-HSK4-06-005": {
-"notes": "总之 = in short, summing up what has been said, followed by a comma and the summary. 总而言之 is the fuller, more formal version.",
+"notes": "A summary statement after a comma calls for 总之 (in short), wrapping up what has been said. 总而言之 is the fuller, more formal version.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
 },
 "ZH-HSK4-06-006": {
-"notes": "首先 = first (of all), opening a sequence that continues with 其次, 然后 and 最后. 第一, 第二 work the same way in lists.",
+"notes": "我们要了解情况 is the first step in a plan, so 首先 (first of all), followed later by 其次, 然后 and 最后. 第一, 第二 do the same job in numbered lists.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
 },
 "ZH-HSK4-06-007": {
-"notes": "其次 = secondly, following 首先. It can also mean 'of secondary importance': 质量第一，价格其次 (quality first, price second).",
+"notes": "Making a plan is the second step after 首先, so 其次 (secondly). It can also mean 'of secondary importance': 质量第一，价格其次.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
@@ -510,19 +510,19 @@
 "register": "Neutral"
 },
 "ZH-HSK4-07-003": {
-"notes": "是否 = whether, the formal version of 是不是 or 会不会. It goes before the verb, needs no 吗, and is common in forms and official letters.",
+"notes": "不知道 + an embedded yes/no question needs 'whether', and in formal style that's 是否, before the verb and without 吗. Speech would say 他同意不同意.",
 "tip": "",
 "compare": "",
 "register": "Formal"
 },
 "ZH-HSK4-07-004": {
-"notes": "不得不 = have no choice but to, stronger and more formal than 只好. It implies external pressure, here the weather.",
+"notes": "下雨了 forces the decision, so 不得不 (have no choice but to), stronger and more formal than 只好. It implies external pressure.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
 },
 "ZH-HSK4-07-005": {
-"notes": "不仅 = not only, interchangeable with 不但 but slightly more formal. The second part takes 还, 也 or 而且, and 不仅 follows a shared subject.",
+"notes": "还会跳舞 in the second clause adds a further skill, so the first clause opens with 不仅 (not only), slightly more formal than 不但. 不仅 follows the shared subject.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal",
@@ -539,7 +539,7 @@
 "flag": "dup: replaced 一方面我想去，另一方面我没有时间 (flagged against HSK2-10-003)"
 },
 "ZH-HSK4-07-007": {
-"notes": "不能不 = can't not, i.e. must: a double negative for obligation. It's close to 不得不 but focuses on duty rather than pressure.",
+"notes": "The double negative 不能不 (can't not) expresses obligation from duty: I must go. It's close to 不得不, which stresses external pressure instead.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -569,25 +569,25 @@
 "register": "Neutral"
 },
 "ZH-HSK4-07-012": {
-"notes": "像…似的 = like, as if; 似的 closes the comparison and is read shìde. 一样 can replace it (像个孩子一样), and 似的 can also stand without 像.",
+"notes": "像个孩子 opens a comparison that needs a closer: 似的 (read shìde). 一样 can replace it (像个孩子一样), and 似的 can also stand without 像.",
 "tip": "",
 "compare": "",
 "register": "Colloquial"
 },
 "ZH-HSK4-08-001": {
-"notes": "左右 = about, after a number or measure phrase (三十岁左右). 大概 or 大约 do the same job before the number, and 上下 is a near-synonym for ages.",
+"notes": "三十岁 is an estimate, so 左右 (about) goes after the number. 大概 or 大约 do the same job before it, and 上下 is a near-synonym for ages.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-08-002": {
-"notes": "以上 = above, after a number or level. Whether the number itself is included is ambiguous in everyday use; legal texts in the PRC count it as included.",
+"notes": "十八岁 is a threshold, so 以上 (above) follows it. Whether 18 itself counts is ambiguous in everyday use; PRC legal texts treat it as included.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
 },
 "ZH-HSK4-08-003": {
-"notes": "…之一 = one of…, closing a noun phrase with a superlative (最大的城市之一). 之 is the classical equivalent of 的.",
+"notes": "最大的城市 is a superlative, but Beijing is only one of several: 之一 (one of) closes the noun phrase. 之 is the classical equivalent of 的.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
@@ -599,13 +599,13 @@
 "register": "Neutral"
 },
 "ZH-HSK4-08-005": {
-"notes": "以来 = since (and up to now), after a time point or event: 来中国以来. The main clause describes what has happened in that period.",
+"notes": "来中国 is a starting point, and the main clause covers the period up to now: 以来 (since). 以后 would mean simply 'after'.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal"
 },
 "ZH-HSK4-08-006": {
-"notes": "之前 = before, more formal than 以前 and normally tied to a specific event. 睡觉之前 is a common collocation.",
+"notes": "睡觉 is a specific event, and 'before' tied to it in slightly formal style is 之前. 以前 is more general and also means 'in the past'.",
 "tip": "",
 "compare": "",
 "register": "Neutral to formal",
@@ -625,7 +625,7 @@
 "register": "Neutral"
 },
 "ZH-HSK4-08-009": {
-"notes": "倍 = times, a multiple: 两倍 = twice as much. Note that 增加了两倍 is ambiguous between 'increased to two times' and 'by two times'.",
+"notes": "两 + a measure word for multiples gives 两倍 (twice as much). Note that 增加了两倍 is ambiguous between 'increased to two times' and 'by two times'.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -682,7 +682,7 @@
 "register": "Neutral"
 },
 "ZH-HSK4-09-001": {
-"notes": "下去 = continue onwards: 坚持下去 (keep at it). It describes carrying on from now into the future, and contrasts with 下来, which covers up to now.",
+"notes": "不要放弃 sets up 坚持 + 下去 (continue onwards): keep going from now into the future. 下来 would cover the period up to now instead.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -730,13 +730,13 @@
 "register": "Neutral"
 },
 "ZH-HSK4-09-009": {
-"notes": "离开 = leave, depart from, with 开 marking separation. It takes a direct object (离开北京), unlike 走, which needs 从: 从北京走.",
+"notes": "北京 is a place left behind, and 离 + 开 (separation) gives 离开 (leave), which takes a direct object. 走 would need 从: 从北京走.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK4-09-010": {
-"notes": "想开 = come to terms with something, stop dwelling on it. 想开点儿 is a stock piece of consolation; the opposite is 想不开 (take it hard).",
+"notes": "别生气了 is consolation, and 想 + 开 means coming to terms with something. 想开点儿 is a stock phrase; the opposite is 想不开 (take it hard).",
 "tip": "",
 "compare": "",
 "register": "Colloquial"

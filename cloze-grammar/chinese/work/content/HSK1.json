@@ -777,7 +777,7 @@
 "register": "Neutral"
 },
 "ZH-HSK1-08-006": {
-"notes": "里 = inside, usually unstressed, and it's what turns 包 into a place 在 can take. Countries and cities never take it: 在中国, not 在中国里.",
+"notes": "包 is an object, so it needs a location word before 在 can take it: 包里, with 里 usually unstressed. Countries and cities never take 里: 在中国, not 在中国里.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -789,7 +789,7 @@
 "register": "Neutral"
 },
 "ZH-HSK1-08-008": {
-"notes": "后面 = behind, relative to 我家, and the location phrase is the subject of 有. It also means 'at the back' (坐在后面) and, in time, 'later on'.",
+"notes": "The location is relative to 我家, so the gap needs a position word: 后面 (behind). The whole phrase 我家后面 is the subject of 有, and 后面 also means 'at the back' (坐在后面).",
 "tip": "",
 "compare": "",
 "register": "Neutral"

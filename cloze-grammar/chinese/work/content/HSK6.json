@@ -1,0 +1,333 @@
+{
+"ZH-HSK6-01-001": {
+"notes": "岂 + 不是 turns a statement into a rhetorical question: wouldn't that be…? It asserts the opposite of the negative form, so 岂不是浪费时间 means it clearly is a waste. 难道 is the everyday counterpart.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK6-01-002": {
+"notes": "何尝 + 不 = it's not that…not, a literary double denial: he does understand. The following clause (只是做不到) usually gives the real obstacle. 何尝 alone, without 不, means 'never'.",
+"tip": "",
+"compare": "",
+"register": "Literary",
+"text": "这个道理他{{c1::何尝::when has he ever (= it's not that he doesn't)}}不懂，只是做不到。",
+"tr": "It's not that he doesn't understand that; he just can't bring himself to do it.",
+"flag": "dup: replaced 我何尝不想去，只是没有时间 (near-identical to HSK5-08-004)"
+},
+"ZH-HSK6-01-003": {
+"notes": "他还没来 prompts a worried guess, voiced in literary style with 莫非 (could it be that), often ending in a question mark. 难道 can do the same in speech.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK6-01-004": {
+"notes": "试试 is being encouraged, so 何不 (why not), a literary suggestion from 何 (why) + 不. It's the opposite in tone of 何必.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK6-01-005": {
+"notes": "你这是…呢 frames a sympathetic rhetorical question about needless suffering: 何苦 (why put yourself through this). It's close to 何必 but stresses hardship.",
+"tip": "",
+"compare": "",
+"register": "Literary; also spoken"
+},
+"ZH-HSK6-01-006": {
+"notes": "本来想去爬山 sets up a plan, and the next clause reports an outcome nobody expected: 不料 (unexpectedly). 没想到 is the colloquial equivalent.",
+"tip": "",
+"compare": "",
+"register": "Formal; narrative"
+},
+"ZH-HSK6-01-007": {
+"notes": "未免 + 太…了 is a tactful criticism: rather too, a bit much. It softens the reproach compared with plain 太过分了.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-02-001": {
+"notes": "太专心了 is an extreme degree, and its consequence is introduced by 以至于 (to the point that). The result can be good or bad, unlike 以致.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-02-002": {
+"notes": "平时不努力 leads to a bad result (failing the exam), which takes 以致 (with the result that). It heads the second clause in written style.",
+"tip": "以致 = a bad result; 以至于 = any result of a degree.",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-02-003": {
+"notes": "毫无 + noun = without the slightest: 毫无疑问 (no doubt), 毫无意义 (completely meaningless). It takes a noun or two-syllable abstract, never a verb.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-02-004": {
+"notes": "丝毫 (literally 'a thread, a hair') + 不 / 没 = not in the least, before the verb. It needs a negative after it; 丝毫的 can also modify a noun.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-03-001": {
+"notes": "比赛推迟 is an official decision, and its grounds take 鉴于 (in view of) at the start. It's standard in notices and policy texts.",
+"tip": "",
+"compare": "",
+"register": "Formal; official"
+},
+"ZH-HSK6-03-002": {
+"notes": "大量数据 is the evidence underlying a conclusion: 基于 (based on). Here it sits inside 是…的, which focuses on the basis.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-03-003": {
+"notes": "本着 + 原则 / 精神 = in line with, in the spirit of. It's almost always followed by one of these nouns and is typical of diplomatic and contractual language.",
+"tip": "",
+"compare": "",
+"register": "Formal; official"
+},
+"ZH-HSK6-03-004": {
+"notes": "出于 + motive = out of (curiosity, kindness, safety). It goes before the verb, and the motive is usually an abstract noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK6-03-005": {
+"notes": "自己的努力 is what he relied on to succeed: 凭 (by virtue of). It's used in speech too: 凭票入场 (admission by ticket).",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK6-04-001": {
+"notes": "一切代价 is the price he's prepared to pay: 不惜 (not hesitate at), as in the set phrase 不惜一切代价. The following 也 reinforces determination.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-04-002": {
+"notes": "请…准时到达 is a formal, insistent request, so 务必 (be sure to), standard in notices and emails. It goes before the verb, after 请.",
+"tip": "",
+"compare": "",
+"register": "Formal; official"
+},
+"ZH-HSK6-04-003": {
+"notes": "不谈 is a postponement rather than a refusal: 姑且 (for the time being, tentatively). It implies the matter will be returned to later.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-04-004": {
+"notes": "这样下去 describes a trend, and its inevitable outcome takes 势必 (bound to), a confident written prediction that usually precedes 会 or a verb.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-04-005": {
+"notes": "既然晚了 means the plan is spoilt anyway, prompting a decisive switch: 索性 (might as well). It's also spoken, and 干脆 is the common colloquial synonym.",
+"tip": "",
+"compare": "",
+"register": "Neutral; also spoken",
+"text": "既然晚了，{{c1::索性::might as well (not 干脆)}}不去了。",
+"flag": "hint: 干脆 fitted equally; added (not 干脆)"
+},
+"ZH-HSK6-04-006": {
+"notes": "我急着出门 is exactly when the lift shouldn't break: 偏偏 (as luck would have it). It comes after the subject and expresses frustration.",
+"tip": "",
+"compare": "",
+"register": "Neutral; also spoken"
+},
+"ZH-HSK6-04-007": {
+"notes": "这个地区 is an institution-like subject with a long tradition: 历来 (always, historically), more formal than 一向.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-04-008": {
+"notes": "说说看 (try saying it) is gentle encouragement, introduced by 不妨 (there's no harm in). Unlike 索性, it doesn't imply a change of plan.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal",
+"text": "你{{c1::不妨::no harm in (… 说说看)}}说说看。",
+"flag": "hint: 'might as well' matched 索性 (HSK6-04-005); changed to 'no harm in'"
+},
+"ZH-HSK6-04-009": {
+"notes": "听到这个消息 triggers a sudden change in the past (安静了): 顿时 (instantly). It's narrative and written; 立刻 is more neutral.",
+"tip": "",
+"compare": "",
+"register": "Formal; narrative"
+},
+"ZH-HSK6-04-010": {
+"notes": "儿童 is a whole category under a rule: 一律 (without exception). It's typical of notices and regulations: 一律免费, 一律不退.",
+"tip": "",
+"compare": "",
+"register": "Formal; notices"
+},
+"ZH-HSK6-04-011": {
+"notes": "A里AB is a colloquial vivid form of some negative adjectives: 糊涂 → 糊里糊涂, 马虎 → 马里马虎. Used adverbially it takes 地.",
+"tip": "",
+"compare": "",
+"register": "Colloquial; vivid"
+},
+"ZH-HSK6-05-001": {
+"notes": "之 is the classical equivalent of 的 between a modifier and a noun: 中国之美 (the beauty of China). It survives in titles and set phrases.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-05-002": {
+"notes": "之所以 A，是因为 B = the reason A is B: the effect comes first, the cause second. 之所以 goes after the subject.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-05-003": {
+"notes": "很多城市 is a group, and the next clause picks out one member: 其中 (among them). It opens the clause that does the picking.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK6-05-004": {
+"notes": "这家公司 is the possessor, and its staff follow: 及 + 其 (and its), with 其 the classical third-person possessive. It's purely written.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-05-005": {
+"notes": "所 + verb (+ 的) nominalises: 我所知道的 = what I know. It adds formality; 我知道的就这些 means the same in speech.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-05-006": {
+"notes": "Here 所 sits inside a relative clause before a noun: 大家所关心的问题. 所 refers to the object of the verb, never the subject.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-05-007": {
+"notes": "被…所 + verb is the literary passive with 所 before the verb: 被他的话所感动. 所 is optional and adds formality.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK6-05-008": {
+"notes": "苹果和香蕉 are two items, and the second is meant: 后者 (the latter). 者 nominalises: 后 + 者 = the later one.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-05-009": {
+"notes": "工作和家庭 are two items, and work is meant: 前者 (the former). 把…放在第一位 = put first; 后者 would point to the family instead.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-06-001": {
+"notes": "则 marks contrast with a preceding clause (whereas) and goes after the second subject (他则…). It's written; speech uses 而 or nothing.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-06-002": {
+"notes": "有同感 is the formal reply 'I feel the same', with literary 亦 (also) in place of 也. 我亦有同感 is a set expression.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK6-06-003": {
+"notes": "人人…知 is a four-character set phrase needing literary 皆 (all) in place of 都. In modern prose it would be 人人都知道.",
+"tip": "",
+"compare": "",
+"register": "Literary; set phrase"
+},
+"ZH-HSK6-06-004": {
+"notes": "The proverb cue and the classical 之 call for literary 乃 (is) as the copula. 失败乃成功之母 = failure is the mother of success.",
+"tip": "",
+"compare": "",
+"register": "Literary; proverb"
+},
+"ZH-HSK6-06-005": {
+"notes": "我…他 are joined in a formal statement, so 与 (and, with), the formal 和 / 跟. It also appears in titles: 战争与和平.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-06-006": {
+"notes": "成功 + a whether-or-not meaning in literary style is 与否, the equivalent of A-不-A. 就看这一次了 = it all depends on this one go.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK6-06-007": {
+"notes": "位 (be located) takes formal 于 (at) to introduce the place: 位于. It's the formal counterpart of 在 after a verb.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-06-008": {
+"notes": "于 after an adjective = than: 大于 (greater than), 小于 (less than), 高于. It's used in formal writing, statistics and mathematics.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-06-009": {
+"notes": "有利 needs 于 to introduce the beneficiary (健康): 有利于 = beneficial to. Its opposite is 不利于; both are common in policy writing.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-06-010": {
+"notes": "以 A 为 B = take A as B: 以学生为中心 (student-centred). 以 introduces A, and 为 (wéi) the role assigned to it.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-06-011": {
+"notes": "以辣…主 is the frame 以…为主 (be mainly…), so the gap is 为, read wéi. 以…为中心 uses the same 为, and 主 here means 'the main part'.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-06-012": {
+"notes": "临 + verb = on the point of, just before: 临走前, 临睡前. It's slightly literary and usually combines with 前 or 时.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK6-07-001": {
+"notes": "A 在于 B = A lies in B, identifying the crux; B can be a noun or a whole clause. 问题在于 is a standard way of introducing the real problem.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK6-07-002": {
+"notes": "非 + verb + 不可 = must, absolutely have to, a double negative for strong necessity. In speech 不可 is sometimes dropped: 我非去.",
+"tip": "",
+"compare": "",
+"register": "Neutral; emphatic"
+},
+"ZH-HSK6-07-003": {
+"notes": "大家 + 感到高兴 with emphasis on everyone: 无不 (all without exception, literally 'none not'). It's formal; 都 would be the neutral equivalent.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-07-004": {
+"notes": "最幸福的事 is a superlative topic, and 莫过于 (nothing surpasses) introduces what tops it. 莫 is the classical 'none'.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-08-001": {
+"notes": "经济发展了 and 环境问题也出现了 happen in parallel: 与此同时 (at the same time). 此 is literary 这, so it means 'at the same time as this'.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK6-08-002": {
+"notes": "这次会议很成功 is a general verdict, opened by 总的来说 (on the whole). It's less formal than 总而言之 and common in speeches.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+}
+}

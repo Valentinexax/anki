@@ -69,7 +69,9 @@ def main(levels):
         seen = [(k, v.get(field, "")) for k, v in items if v.get(field)]
         for i, (ka, a) in enumerate(seen):
             for kb, b in seen[i + 1:]:
-                if a == b or SequenceMatcher(None, a, b).ratio() > limit:
+                m = SequenceMatcher(None, a, b)
+                if a == b or (m.real_quick_ratio() > limit and m.quick_ratio() > limit
+                              and m.ratio() > limit):
                     errors.append(f"{field} too similar: {ka} / {kb}")
     for w in warnings:
         print("warning:", w)

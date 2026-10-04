@@ -597,13 +597,13 @@
 "register": "Neutral"
 },
 "ZH-HSK2-07-004": {
-"notes": "愿意 = be willing, a polite way of asking without imposing. On its own, 我愿意 is the 'I do' of Chinese wedding vows.",
+"notes": "The request with 你…帮我吗 asks about willingness, so 愿意, a polite way of asking without imposing. On its own, 我愿意 is the 'I do' of Chinese wedding vows.",
 "tip": "",
 "compare": "",
 "register": "Polite"
 },
 "ZH-HSK2-07-005": {
-"notes": "不用 = no need to, and with 谢 it's the stock reply to 谢谢. Alternatives are 不客气 (neutral), 没事儿 (casual, northern) and 不谢 (brief).",
+"notes": "The verb 谢 that follows tells you this is the reply to thanks: 不用谢, 'no need to thank'. Alternatives are 不客气 (neutral), 没事儿 (casual, northern) and 不谢 (brief).",
 "tip": "",
 "compare": "",
 "register": "Neutral; stock phrase"
@@ -687,7 +687,7 @@
 "register": "Colloquial"
 },
 "ZH-HSK2-08-011": {
-"notes": "就是 = precisely, that very one, pointing emphatically, as when you finally reach a place. Without 就, 那是我家 is a plain statement.",
+"notes": "Pointing emphatically at a place (那) calls for 就是: precisely, that very one, as when you finally arrive. Without 就, 那是我家 is a plain statement.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -714,13 +714,13 @@
 "register": "Neutral"
 },
 "ZH-HSK2-08-015": {
-"notes": "一直 = continuously, all along: the waiting hasn't stopped. It combines naturally with 在 + verb for an ongoing action.",
+"notes": "在等你 is an ongoing action, and the meaning is that it hasn't stopped: 一直, all along. It combines naturally with 在 + verb, unlike 总是, which is about repeated occasions.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK2-08-016": {
-"notes": "马上 = at once, for something about to happen. 马上就来 is the common fuller form; in shops and restaurants it's what staff say when you call them over.",
+"notes": "我…来 with no time word is a promise about the next moment, so 马上 (right away). 马上就来 is the common fuller form; it's what staff say when you call them over.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -890,7 +890,7 @@
 "register": "Neutral"
 },
 "ZH-HSK2-10-008": {
-"notes": "然后 = afterwards, starting the second clause. It's a conjunction, so it comes before any subject: 然后我们吃饭.",
+"notes": "先 in the first clause expects a following step, introduced by 然后 (afterwards). 然后 is a conjunction, so it comes before any subject: 然后我们吃饭.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -953,13 +953,13 @@
 "register": "Neutral"
 },
 "ZH-HSK2-11-003": {
-"notes": "别的 = other (things), alone or before a noun (别的东西). With 还, it's the shop assistant's 'anything else?'.",
+"notes": "还要…吗 offers more of something, and 别的 (other things) fills the object slot. It's the shop assistant's 'anything else?'; 别的 can also precede a noun: 别的东西.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
 },
 "ZH-HSK2-11-004": {
-"notes": "大家 = everyone present, used as a pronoun. 大家好 is the standard greeting to a group or an audience; 各位 is the more formal alternative.",
+"notes": "A greeting with 好 addressed to a group calls for 大家 (everyone present), used as a pronoun. 各位 is the more formal alternative for an audience.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -985,7 +985,7 @@
 "register": "Neutral"
 },
 "ZH-HSK2-11-008": {
-"notes": "有时候 = sometimes, placed before or after the subject; 有时 is the more written form. 也要 here means 'has to… as well'.",
+"notes": "The sentence describes an irregular habit (weekend overtime), so 有时候 (sometimes), before or after the subject. 有时 is the more written form, and 也要 means 'has to… as well'.",
 "tip": "",
 "compare": "",
 "register": "Neutral",
@@ -1027,7 +1027,7 @@
 "flag": "dup: replaced 我等了一个半小时 (flagged against two other waiting sentences)"
 },
 "ZH-HSK2-11-013": {
-"notes": "一刻 = a quarter of an hour (15 minutes) and 三刻 = three quarters; 两刻 isn't used, as 半 covers it. 刻 is less common in speech than 十五分.",
+"notes": "After 三点一, the unit for fifteen minutes is 刻: 一刻 = a quarter, 三刻 = three quarters. 两刻 isn't used, as 半 covers it, and 十五分 is more common in speech.",
 "tip": "",
 "compare": "",
 "register": "Neutral"
@@ -1090,7 +1090,7 @@
 "register": "Neutral"
 },
 "ZH-HSK2-11-023": {
-"notes": "种 = kind or type, counting varieties rather than items. 件 counts upper garments, as well as matters (一件事).",
+"notes": "颜色 here are varieties, not individual items, so the measure word is 种 (kind, type). 件 counts the garment itself (这件衣服) and also matters (一件事).",
 "tip": "",
 "compare": "",
 "register": "Neutral"

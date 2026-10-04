@@ -1,0 +1,513 @@
+{
+"ZH-HSK5-01-001": {
+"notes": "与其 introduces the option being rejected, and 不如 the one recommended; the order is fixed, rejected first. The frame weighs two courses of action, so both halves need a verb phrase (看电视 / 出去走走).",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-01-002": {
+"notes": "不如 heads the preferred option after a 与其 clause and is never followed by 是. On its own, 不如 also makes a suggestion: 不如走路吧 (why don't we walk?).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-01-003": {
+"notes": "宁可 marks the sacrifice the speaker is willing to accept (going hungry), and 也不 the thing refused. It's about the speaker's own choice, unlike 与其…不如, which advises.",
+"tip": "与其…不如 recommends; 宁可…也不 states a personal choice at a cost.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-01-004": {
+"notes": "The second half of the 宁可 frame is 也不 + the refused action; 也 is essential and goes after any subject. 宁愿 is an interchangeable alternative to 宁可.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-02-001": {
+"notes": "连老师都不会 gives an extreme case, and 我 is a weaker case that follows from it: 何况 (let alone). It's often rhetorical, ending in 呢.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-02-002": {
+"notes": "更不用说 + noun / clause + 了 = not to mention. Like 何况, it follows a 连…都 clause, but it's a statement, not a rhetorical question.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-02-003": {
+"notes": "况且 adds a further, independent reason (the rain) to one already given (the hour). Unlike 何况, it doesn't argue a fortiori; 而且 or 再说 are near-synonyms.",
+"tip": "何况 = let alone (a weaker case follows); 况且 = besides (another reason).",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-02-004": {
+"notes": "中国 and 全世界 form a widening scope, linked by 乃至 (and even). It's written and formal, often followed by 都 or 也.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK5-03-001": {
+"notes": "以便 introduces a purpose that the first action makes easier (contacting you); 以免 introduces an outcome to be avoided (getting soaked). Both are formal and head the second clause.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK5-03-002": {
+"notes": "免得 is the colloquial counterpart of 以免: so as not to. It heads the second clause and introduces the unwanted outcome, here being late.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "早点儿走吧，{{c1::免得::so as to avoid (colloquial; not 省得)}}迟到。",
+"flag": "hint: 省得 fitted equally; added (not 省得)"
+},
+"ZH-HSK5-03-003": {
+"notes": "他担心 is an outcome to be avoided, and the colloquial linker is 省得 (so as not to), literally 'saving' the trouble. It's interchangeable with 免得 in most contexts.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "你直接给他打个电话，{{c1::省得::so as not to (colloquial; not 免得)}}他担心。",
+"tr": "Just give him a ring so he won't worry.",
+"flag": "dup: replaced 早点儿走，省得迟到 (near-identical to HSK5-03-002); moved from HSK6 Supplement; hint adds (not 免得)"
+},
+"ZH-HSK5-04-001": {
+"notes": "假如 introduces a hypothetical or counterfactual condition (if I were you), followed by 就 in the main clause. 假如 and 假设 are more literary than 如果.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-04-002": {
+"notes": "带上手机 is a precaution against an unwelcome possibility: 万一 (in case, if by any chance). As a noun it appears in 以防万一 (just in case).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-04-003": {
+"notes": "即便 is a more literary form of 即使: even if, paired with 也. The condition is hypothetical, here a possible failure.",
+"tip": "",
+"compare": "",
+"register": "Formal",
+"text": "{{c1::即便::even if (formal; not 即使)}}失败了，也不要放弃。",
+"flag": "hint: 即使 fitted equally; added (not 即使)"
+},
+"ZH-HSK5-04-004": {
+"notes": "固然 concedes a point (money is admittedly important) before a 但 clause that outweighs it. It goes after the subject and implies the speaker agrees with the conceded point.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-04-005": {
+"notes": "我也要去 with 也 needs a concessive condition, and the spoken one is 就算 (even if). 哪怕 is a near-synonym that stresses an extreme case.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "{{c1::就算::even if (spoken; not 哪怕)}}你不同意，我也要去。",
+"tr": "Even if you don't agree, I'm going.",
+"flag": "dup: replaced 就算下雨，我们也去 (flagged against HSK4-01-004); hint adds (not 哪怕)"
+},
+"ZH-HSK5-04-006": {
+"notes": "我就迟到了 describes something that didn't happen, so the condition is counterfactual: 要不是 (if it weren't for). The main clause usually has 就 or 早就 and 了.",
+"tip": "",
+"compare": "",
+"register": "Neutral; colloquial"
+},
+"ZH-HSK5-04-007": {
+"notes": "不论 belongs to the 无论 / 不管 family: no matter, followed by an open question (结果怎样) and 都 in the main clause. It's slightly more formal than 不管.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal",
+"text": "{{c1::不论::no matter (not 无论 or 不管)}}结果怎样，我们都接受。",
+"tr": "Whatever the outcome, we'll accept it.",
+"flag": "dup: replaced 不论多难，我都要试试 (same as HSK4-01-002 with 无论)"
+},
+"ZH-HSK5-05-001": {
+"notes": "贵的东西 and 好 form a generalisation being denied, in formal style: 未必 (not necessarily). 不一定 is the neutral equivalent and 不见得 the colloquial one.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal",
+"text": "贵的东西{{c1::未必::not necessarily (formal; two characters)}}好。",
+"flag": "hint: 不一定 / 不见得 fitted equally; added (formal; two characters)"
+},
+"ZH-HSK5-05-002": {
+"notes": "他说的…是真的 is a claim the speaker doubts, voiced colloquially with 不见得 (not necessarily). It goes before the predicate and can't be used for a plain fact.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK5-05-003": {
+"notes": "刚开始工作 makes mistakes understandable, so 难免 (bound to, hard to avoid), usually followed by 会 + the unwelcome event.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-05-004": {
+"notes": "第一次上台 explains a natural emotional reaction, so 不免 (can't help), followed by the feeling (有些紧张). Unlike 难免, it rarely takes 会.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal",
+"text": "第一次上台，他{{c1::不免::can't help but (not 难免)}}有些紧张。",
+"flag": "hint: 难免 fitted equally; added (not 难免)"
+},
+"ZH-HSK5-05-005": {
+"notes": "这点小事 is too trivial for anger, so 不至于 (not go so far as to) denies the extreme reaction. With final 吧 it becomes a gentle appeal: surely not.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-05-006": {
+"notes": "已经知道了 is an inference the speaker hedges: 似乎 (seem), the written counterpart of 好像. It goes before the predicate.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal",
+"text": "她{{c1::似乎::seems (written)}}已经知道了。",
+"flag": "hint: 好像 fitted equally; added (written)"
+},
+"ZH-HSK5-05-007": {
+"notes": "没有准备好 is a confident conclusion from visible evidence: 显然 (obviously). It can open the sentence (显然，他没有准备好) or follow the subject.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-05-008": {
+"notes": "The exclamation mark and a solo ride to Shanghai mark disbelief: 居然 (to everyone's surprise), a near-synonym of 竟然, slightly more colloquial.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他{{c1::居然::unexpectedly (surprise; not 竟然)}}一个人骑车去了上海！",
+"flag": "hint: 竟然 fitted equally; added (not 竟然)"
+},
+"ZH-HSK5-05-009": {
+"notes": "不然我就忘了 names the bad outcome that was avoided, so the first clause takes 幸亏 (luckily). 幸好 is a near-synonym.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-05-010": {
+"notes": "呢 closing a question about spending so much signals a rhetorical question: 何必 (why bother). It can stand before a verb phrase or alone: 何必呢?",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::何必::why bother (rhetorical)}}花这么多钱买一个包呢？",
+"tr": "Why spend so much money on a handbag?",
+"flag": "dup: replaced 何必为这点小事生气呢 (overlapped with HSK5-05-005)"
+},
+"ZH-HSK5-05-011": {
+"notes": "我们才按时完成 shows the result depended on the help: 多亏 (thanks to). Unlike 幸亏, 多亏 always names the helper.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::多亏::thanks to}}你帮忙，我们才按时完成。",
+"tr": "Thanks to your help, we finished on time.",
+"flag": "text: 多亏你帮忙 alone read as a fragment; added the result clause"
+},
+"ZH-HSK5-05-012": {
+"notes": "他会来 is an uncertain prediction, voiced colloquially with 说不定 (maybe), which can open the sentence. 也许 and 可能 are neutral alternatives.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK5-05-013": {
+"notes": "开个玩笑 is being played down, so 只不过 (merely, just), from 只是 + 不过. 开个玩笑 also omits 一 before the measure word, as speech often does.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-05-014": {
+"notes": "没人受伤 is the one good aspect of a bad situation, so 好在 (fortunately), opening its clause like 幸亏. It's colloquial and often follows a mishap just described.",
+"tip": "",
+"compare": "",
+"register": "Neutral; colloquial"
+},
+"ZH-HSK5-05-015": {
+"notes": "就想起她 is a recurring reaction, so the trigger takes 每当 (whenever); 就 or 总 follows in the main clause. 每当…的时候 is the fuller form.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-05-016": {
+"notes": "很准时 describes long-standing character, so 一向 (consistently, as always). 向来 is a more formal synonym.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他{{c1::一向::always (consistently; not 总是)}}很准时。",
+"flag": "hint: 总是 fitted equally; added (not 总是)"
+},
+"ZH-HSK5-05-017": {
+"notes": "没说话 lasted throughout the whole span, so 始终 (from start to finish), which often precedes a negative. It's more formal than 一直.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-05-018": {
+"notes": "在…发展 is an ongoing process, and 不断 (continuously) sits between 在 and the verb of development. It suggests no pause at all.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-05-019": {
+"notes": "变冷了 is a change by degrees, in formal style: 逐渐 (gradually), the counterpart of 渐渐. Unlike 渐渐, it isn't reduplicated.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK5-05-020": {
+"notes": "请…回复 is a request in correspondence, and the standard urgency word is 尽快 (as soon as possible). 尽 is read jǐn, as in 尽量.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-05-021": {
+"notes": "大家 is plural, and leaving in quick succession is 纷纷 (one after another). The subject must be plural; 纷纷 can't describe one person.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-05-022": {
+"notes": "回到了小时候 is impossible literally, so it's an impression: 仿佛 (as if), a literary counterpart of 好像. It often describes returning to the past.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK5-06-001": {
+"notes": "加以 + two-syllable verb (研究) is a formal frame: apply study to it. The real action is in the following verb; 加以 itself has no meaning of its own.",
+"tip": "",
+"compare": "",
+"register": "Formal; written, official"
+},
+"ZH-HSK5-06-002": {
+"notes": "将 + a two-syllable verb (支持) in an official reply calls for 予以 (give, grant), a formal dummy verb. 予以批准 (grant approval) is another typical use.",
+"tip": "",
+"compare": "",
+"register": "Formal; official"
+},
+"ZH-HSK5-06-003": {
+"notes": "进行 + two-syllable verb (讨论) is the dummy verb of formal style: carry out a discussion. The real verb can't take its own object here; the object comes in with 对.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK5-06-004": {
+"notes": "受到 + noun (欢迎, 批评, 影响) = receive, meet with. It works as a neutral passive and, unlike 被, isn't restricted to unwelcome events.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-06-005": {
+"notes": "帮助 is an abstract noun in a formal thank-you, so 给予 (give), here in a relative clause: 大家给予的帮助. Its reading is jǐyǔ.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK5-06-006": {
+"notes": "学生 is the role in which someone should act, introduced by 作为 (as), followed by a comma. 当 can do the same job in speech: 当学生的.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-06-007": {
+"notes": "为…所 + verb is a literary passive: 为人所知 = known by people. 为 is read wéi here, and 所 sits right before the verb.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK5-07-001": {
+"notes": "便 is the written equivalent of 就: then, right away. It follows the subject or the time clause and precedes the verb.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK5-07-002": {
+"notes": "北京 identifies 中国的首都 in formal style: 即 (that is, namely), the written equivalent of 就是. In speech, 中国的首都是北京 would be the norm.",
+"tip": "",
+"compare": "",
+"register": "Formal; written",
+"tr": "China's capital is Beijing.",
+"flag": "tr: removed the grammar gloss (formal: 即 = 就是) from the translation"
+},
+"ZH-HSK5-07-003": {
+"notes": "提高了效率 is the result brought about by improving the method: 从而 (thereby). The subject of both clauses is the same and isn't repeated.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK5-07-004": {
+"notes": "还 in the clause adds a further point, which is opened by 此外 (in addition) and a comma. It's written; speech uses 另外 or 还有.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK5-07-005": {
+"notes": "这次旅行很成功 is the conclusion of an account, opened by the four-character 总而言之 (all in all), the more formal version of 总之.",
+"tip": "",
+"compare": "",
+"register": "Formal",
+"text": "{{c1::总而言之::all in all (four characters)}}，这次旅行很成功。",
+"flag": "hint: 总之 fitted equally; added (four characters)"
+},
+"ZH-HSK5-07-006": {
+"notes": "这个方法是有效的 is a conclusion drawn from evidence just given: 由此可见 (from this it can be seen). It's typical of essays and reports.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK5-07-007": {
+"notes": "我们需要重新开始 restates a point more plainly, opened by 换句话说 (in other words) and a comma. 换言之 is the literary version and 也就是说 the neutral one.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::换句话说::in other words (not 也就是说)}}，我们需要重新开始。",
+"flag": "hint: 也就是说 fitted equally; added (not 也就是说)"
+},
+"ZH-HSK5-07-008": {
+"notes": "也太晚了 is a second reason after 太累了, added in speech by 再说 (besides). It's colloquial and also means 'we'll see later': 以后再说.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK5-07-009": {
+"notes": "二来 in the second clause requires 一来 in the first: for one thing…, for another…. It's often followed by a conclusion, and 三来 can extend the list.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-07-010": {
+"notes": "我们得自己做 spells out the consequence of his absence: 也就是说 (that is to say), neutral in register and usually followed by a comma.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他明天不来，{{c1::也就是说::that is to say (not 换句话说)}}，我们得自己做。",
+"flag": "hint: 换句话说 fitted equally; added (not 换句话说)"
+},
+"ZH-HSK5-08-001": {
+"notes": "决定了 is a decisive event with lasting consequences, introduced by 一旦 (once); 就 heads the consequence. It can refer to the future or to general truths.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-08-002": {
+"notes": "都 in the main clause and an unrestricted group (参加的人) call for 凡是 (all, without exception), at the head of the noun phrase. It's formal and emphatic.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK5-08-003": {
+"notes": "客套话 (polite formulas) is being belittled, so 无非 (nothing but), usually followed by 是. 不过是 is the neutral equivalent.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-08-004": {
+"notes": "不是 A，而是 B corrects a wrong assumption: it's not A but B. 而是 is required in the second half; 但是 would be wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-08-005": {
+"notes": "与其说 A，不如说 B = it's not so much A as B, a correction of description rather than of choice. Compare 与其…不如 without 说, which recommends an action.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-08-006": {
+"notes": "在 + person + 看来 = in someone's view; the person sits inside the frame. It opens the sentence and is followed by a comma.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-08-007": {
+"notes": "拿 + example + 来说 = take… for example, introducing a specific case to support a general point. 就拿…来说 is the common emphatic form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-08-008": {
+"notes": "与 + B + 相比 = compared with B, opening the sentence. 跟…比 is the spoken counterpart, and 比起 is another alternative.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK5-08-009": {
+"notes": "想…想去 is the frame V来V去 (over and over), needing 来 in the first half. 还是 then introduces the conclusion finally reached.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-001": {
+"notes": "番 counts speeches, efforts and experiences, usually with 一: 一番话, 一番努力. It suggests something substantial or deliberate.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK5-09-002": {
+"notes": "届 counts year groups of students and recurring sessions: 这届学生, 第十届奥运会 (the 10th Olympics). It's always used with events that recur.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-09-003": {
+"notes": "架 counts aircraft and some framed objects: 一架飞机, 一架钢琴. 飞过 + new noun is an appearance pattern, like 走过来一个人.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-004": {
+"notes": "艘 counts ships and boats; 条 is the everyday alternative for small boats. 停着 shows the ship moored there.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK5-09-005": {
+"notes": "束 counts bundles or bunches, especially of flowers: 一束花 (a bouquet). It also counts beams of light (一束光).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-006": {
+"notes": "串 counts things strung or clustered together: a bunch of keys, a string of beads, a bunch of grapes (一串葡萄), a kebab (一串羊肉串).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-007": {
+"notes": "堆 counts heaps and piles: 一堆书, 一堆衣服. Colloquially it also means 'loads of', often with a note of complaint: 一堆问题.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-008": {
+"notes": "滴 counts drops of liquid. In 一滴水也没有, it combines with the 'not a single' pattern (一 + MW + 也 + negative).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-009": {
+"notes": "道 counts exam questions (一道题) and dishes in a meal (一道菜), as well as doors, walls and beams of light (一道光). 题 alone is short for 问题 or 习题.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-010": {
+"notes": "根 counts long, thin objects: rope, sticks, needles, hairs. 条 is used for longer flexible things such as roads and rivers.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK5-09-011": {
+"notes": "ABB adjectives add a vivid suffix to a base: 绿 + 油油 = lush green. They take a closing 的 and can't take 很.",
+"tip": "",
+"compare": "",
+"register": "Descriptive"
+},
+"ZH-HSK5-09-012": {
+"notes": "热乎乎 (热 + 乎乎) is a warm, homely ABB form, usually for food or a pleasant feeling. Before a noun it takes 的.",
+"tip": "",
+"compare": "",
+"register": "Descriptive; spoken"
+},
+"ZH-HSK5-09-013": {
+"notes": "Colour or state adjectives of the type 雪白 (snow-white) reduplicate as ABAB: 雪白雪白. Ordinary adjectives use AABB instead (干干净净).",
+"tip": "",
+"compare": "",
+"register": "Descriptive; spoken"
+}
+}

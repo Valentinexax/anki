@@ -1,0 +1,537 @@
+{
+"ZH-HSK79-01-001": {
+"notes": "请…吸烟 on a sign is a prohibition in classical style: 勿 (do not). It's confined to notices (请勿拍照); speech would say 别 or 不要.",
+"tip": "",
+"compare": "",
+"register": "Official; notices"
+},
+"ZH-HSK79-01-002": {
+"notes": "置疑 completes a set phrase: 毋庸置疑 (beyond doubt), with 毋庸 = there's no need to. 毋 (wú) is the classical negative imperative.",
+"tip": "",
+"compare": "",
+"register": "Literary; set phrase"
+},
+"ZH-HSK79-01-003": {
+"notes": "此事 and 经批准 make an official statement, so literary 未 (not yet) in place of 没. 未经 + verb is a fixed formula: 未经允许 (without permission).",
+"tip": "",
+"compare": "",
+"register": "Formal; official"
+},
+"ZH-HSK79-01-004": {
+"notes": "确定 is still pending in a formal announcement: 尚未 (not yet), the formal 还没, with 尚 = still. It's standard in news reports and official notices.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-01-005": {
+"notes": "本意 (original intention) is being denied: 并非 (is by no means), the literary 并不是. It refutes an assumption.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-01-006": {
+"notes": "无从 + two-syllable verb = have no way to, no starting point for (无从考证, 无从下手). 已 before it is literary 已经.",
+"tip": "",
+"compare": "",
+"register": "Literary; written"
+},
+"ZH-HSK79-01-007": {
+"notes": "至今 + an unanswered question calls for 不得而知 (it cannot be known), a four-character set phrase used as the predicate.",
+"tip": "",
+"compare": "",
+"register": "Literary; set phrase"
+},
+"ZH-HSK79-02-001": {
+"notes": "事 with no measure word in a formal statement takes literary 此 (this). It survives in 因此, 如此 and 此外, and 与…无关 is formal 'have nothing to do with'.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-02-002": {
+"notes": "了解 is mutual among 我们, so 彼此 (each other, from 彼 'that' + 此 'this'). It can precede the verb like 互相 or act as a noun: 不分彼此.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK79-02-003": {
+"notes": "项目 with no measure word, referring back in an official text: 该 (the said, the aforementioned). It also works in 该公司, 该地区.",
+"tip": "该 points back to something already mentioned; 本 means the speaker's own.",
+"compare": "",
+"register": "Formal; official"
+},
+"ZH-HSK79-02-004": {
+"notes": "店 in a shop notice, meaning the speaker's own shop: 本 (our, this). Like 该, it takes the noun directly: 本公司, 本次.",
+"tip": "",
+"compare": "",
+"register": "Official; notices"
+},
+"ZH-HSK79-02-005": {
+"notes": "位专家 is unnamed, so 某 (a certain), which takes a measure word here or a noun directly (某人). 据…介绍 = according to….",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-02-006": {
+"notes": "看法 is the object in a literary question with 对此, so 何 (what) in place of 什么. 何时 and 何地 work the same way.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-03-001": {
+"notes": "活动将取消 is a formal announcement, so the condition takes literary 倘若 (if). 倘若 and 假如 both introduce hypotheses, but 倘若 is more bookish.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal",
+"text": "{{c1::倘若::if (literary; not 假如)}}明天下雨，活动将取消。",
+"flag": "hint: 假如 also fitted 'two characters'; changed to (literary; not 假如)"
+},
+"ZH-HSK79-03-002": {
+"notes": "请随时联系 is a formal email or notice, and the one-character literary 'if' is 若. It's common in 若有问题 and 若需要.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-03-003": {
+"notes": "你的帮助 is a fact being imagined away, so the condition is counterfactual: 若非 (if it weren't for), the literary 要不是.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK79-03-004": {
+"notes": "也 in the main clause and 再多 in the condition make it 'however many', in literary style: 纵然 (even if), the literary 即使.",
+"tip": "",
+"compare": "",
+"register": "Literary",
+"text": "{{c1::纵然::even if (literary; not 纵使)}}困难再多，我们也要完成。",
+"flag": "hint: 纵使 fitted equally; added (not 纵使)"
+},
+"ZH-HSK79-03-005": {
+"notes": "才 in the main clause needs a sole condition, in literary style: 唯有 (only by), the literary 只有. 唯 is also written 惟 in older texts.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-03-006": {
+"notes": "A 尚且 X，何况 B = even A can't X, let alone B. 尚且 marks the stronger case and goes after its subject (大人尚且…).",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-03-007": {
+"notes": "更是我的朋友 widens the claim, so the first clause takes 岂止 (not merely), a rhetorical frame from 岂 (how could).",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK79-03-008": {
+"notes": "立即处理 is an official warning, and its trigger takes 一经 (once, as soon as). It's typical of notices: 一经发现，严肃处理.",
+"tip": "",
+"compare": "",
+"register": "Official"
+},
+"ZH-HSK79-04-001": {
+"notes": "而 between two adjectives = and (yet): 简单而有效. It's literary and implies the qualities are notable together; speech would say 又简单又有效.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-04-002": {
+"notes": "因 A 而 B = B because of A, with 因 directly before the cause (病) and 而 before the result verb. The frame is compact and formal.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-04-003": {
+"notes": "In 因…而, 而 links the cause phrase (因压力) to the verb (失眠). It can't be dropped once 因 is used in this compact frame.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-04-004": {
+"notes": "为 A 而 B = do B for the sake of A: 为和平而努力. 为 is read wèi here, and the frame is typical of speeches and slogans.",
+"tip": "",
+"compare": "",
+"register": "Formal; speeches"
+},
+"ZH-HSK79-04-005": {
+"notes": "对 + person + 而言 = as far as someone is concerned, for someone; the literary equivalent of 对…来说. It opens the sentence.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-04-006": {
+"notes": "就 + topic + 而言 = as regards, in terms of; 就目前的情况而言 is a stock hedge. 就 here means 'with respect to', not 'then'.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-05-001": {
+"notes": "非 A 即 B = if not A then B, either A or B; 非此即彼 is a set phrase for black-and-white thinking. 即 here is literary 就是.",
+"tip": "",
+"compare": "",
+"register": "Literary; set phrase"
+},
+"ZH-HSK79-05-002": {
+"notes": "时 A 时 B = now A, now B, with single-syllable opposites: 时冷时热, 时好时坏. It describes fluctuation over a period.",
+"tip": "",
+"compare": "",
+"register": "Literary; set phrase"
+},
+"ZH-HSK79-05-003": {
+"notes": "时而 A，时而 B = at times A, at times B, the two-syllable version that takes whole verb phrases, unlike the compact 时冷时热. It's narrative and descriptive.",
+"tip": "",
+"compare": "",
+"register": "Literary; narrative",
+"text": "他{{c1::时而::sometimes (first part)}}看看窗外，时而低头写字。",
+"tr": "He kept glancing out of the window, then bending over his writing again.",
+"flag": "dup: replaced 这几天时而晴时而雨 (near-identical to HSK79-05-002)"
+},
+"ZH-HSK79-05-004": {
+"notes": "或 A 或 B = some A, some B, distributing actions over a group (或坐或站). 或 is literary 有的 here, not 'or'.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK79-05-005": {
+"notes": "自 A 至 B = from A to B, the formal 从…到…, typical of dates in notices. 本次 (this time) is official language too.",
+"tip": "",
+"compare": "",
+"register": "Official; notices"
+},
+"ZH-HSK79-05-006": {
+"notes": "营业时间 on a sign gives a time range in literary style: 至 (to, until) for 到. It also appears in 至今 and 至少.",
+"tip": "",
+"compare": "",
+"register": "Official; notices"
+},
+"ZH-HSK79-05-007": {
+"notes": "不 A 不 B frames with near-synonyms intensify the negative: 不知不觉 (without realising), 不慌不忙 (unhurried). Here it opens the sentence as an adverbial.",
+"tip": "",
+"compare": "",
+"register": "Neutral; set phrase"
+},
+"ZH-HSK79-05-008": {
+"notes": "半 A 半 B = half A, half B, with paired or opposed words: 半信半疑, 半真半假, 半推半就. Used adverbially before a verb, it takes 地.",
+"tip": "",
+"compare": "",
+"register": "Neutral; set phrase"
+},
+"ZH-HSK79-06-001": {
+"notes": "受欢迎 in a written review takes the literary degree adverb 颇 (quite), often before 受 or 有: 颇有名气. It's slightly weaker than 很.",
+"tip": "",
+"compare": "",
+"register": "Literary; written"
+},
+"ZH-HSK79-06-002": {
+"notes": "满意 is a two-syllable adjective in written style, so 甚为 (very). 极为 is a stronger near-synonym, and neither can be used before a one-syllable adjective.",
+"tip": "",
+"compare": "",
+"register": "Literary; written"
+},
+"ZH-HSK79-06-003": {
+"notes": "这一点 singles out one point, followed by a two-syllable adjective: 尤为 (especially). 尤其 is its more general counterpart.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-06-004": {
+"notes": "有上涨 is a small rise in formal reporting: 略 (slightly), before 有 + verb. It's the written counterpart of 稍微.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-06-005": {
+"notes": "两个方案 is plural, and 已通过 applies to both: formal 均 (all, both), the written 都. As a morpheme it also means 'average' (人均).",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-06-006": {
+"notes": "就来了五百万游客 stresses how much happened in a limited scope: 仅 (only), the formal 只. 仅仅 is the emphatic reduplicated form.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-06-007": {
+"notes": "大家都同意 sets up one exception: 唯独 (only, alone) before the exceptional subject 他. 只有他 is the neutral equivalent; 唯独 is more emphatic.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-06-008": {
+"notes": "不知 is total, applying to all these matters: 一概 (entirely, without exception), usually before a negative. Unlike 一律, it's not tied to rules.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-06-009": {
+"notes": "获大奖 with a one-syllable verb in literary style takes 屡 (repeatedly). 屡次 is the two-syllable form used more widely.",
+"tip": "",
+"compare": "",
+"register": "Literary; written"
+},
+"ZH-HSK79-06-010": {
+"notes": "愈 A 愈 B = the more A, the more B, the literary 越…越. 真理愈辩愈明 (truth grows clearer the more it is debated) is a well-known saying.",
+"tip": "",
+"compare": "",
+"register": "Literary; saying",
+"text": "真理{{c1::愈::the more (literary 越; … 辩 … 明)}}辩愈明。",
+"tr": "The more truth is debated, the clearer it becomes.",
+"flag": "dup: replaced 雨愈下愈大 (near-identical to HSK3-06-004 雨越下越大)"
+},
+"ZH-HSK79-06-011": {
+"notes": "解决 is urgently needed, in written style: 亟待 (urgently needs) + two-syllable verb. 亟 is read jí; the word is typical of editorials.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-07-001": {
+"notes": "先了解问题 is a first step, and the next builds on it: 进而 (and then go further). It's for progression in the same direction.",
+"tip": "进而 = a further step in the same direction; 继而 = the next event in time.",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-07-002": {
+"notes": "先是沉默 opens a sequence, and the next event takes 继而 (then, subsequently). 先是…继而… is a typical narrative frame.",
+"tip": "",
+"compare": "",
+"register": "Literary; narrative"
+},
+"ZH-HSK79-07-003": {
+"notes": "宣布会议开始 is followed at once by another act in formal narration: 随即 (immediately afterwards), typical of news reports.",
+"tip": "",
+"compare": "",
+"register": "Formal; written",
+"text": "主席宣布会议开始，{{c1::随即::immediately afterwards (formal)}}请第一位代表发言。",
+"tr": "The chair declared the meeting open and immediately invited the first delegate to speak.",
+"flag": "dup: replaced 他接到电话，随即出发了 (near-identical to HSK4-03-015)"
+},
+"ZH-HSK79-07-004": {
+"notes": "天气不好 is one reason, and 路又远 adds another unfavourable factor: 加之 (on top of that). 再加上 is the spoken equivalent.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-07-005": {
+"notes": "由于时间有限 is a cause in literary style, so the result takes 故 (therefore), the literary 所以. It also appears in 是故 and 故而.",
+"tip": "",
+"compare": "",
+"register": "Literary; written"
+},
+"ZH-HSK79-07-006": {
+"notes": "努力就会进步 states one case, and its reverse follows: 反之 (conversely). It's typical of argumentative writing.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-07-007": {
+"notes": "我们认为这个方案可行 is an essay's conclusion, opened by the standard formula 综上所述 (to sum up what has been said) and a comma.",
+"tip": "",
+"compare": "",
+"register": "Formal; essays"
+},
+"ZH-HSK79-07-008": {
+"notes": "我们失败了 restates something bluntly in literary style: 换言之 (in other words), the literary 换句话说. 言 is literary 'speech'.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-07-009": {
+"notes": "就是没钱 is a blunt summary after a long explanation: 简言之 (in short), the literary 简单地说. 言 is literary 'speech', as in 换言之.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-08-001": {
+"notes": "成功与否 is an open question, and 你自己 is the deciding factor: 取决于 (depend on), with 于 introducing it. 决定于 is a near-synonym.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-08-002": {
+"notes": "古代的传说 is the source of a festival: 源于 (originate from), with 于 marking the source. 来源于 is slightly less formal.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-08-003": {
+"notes": "环境保护 is a cause someone serves long-term (一直): 致力于 (devote oneself to), followed by a noun or verb phrase.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-08-004": {
+"notes": "这项政策 + its purpose (帮助低收入家庭) in official style: 旨在 (aim to), followed by a verb phrase. 旨 means purpose, as in 宗旨 (aim, mission).",
+"tip": "",
+"compare": "",
+"register": "Formal; official"
+},
+"ZH-HSK79-08-005": {
+"notes": "还 + 证明 shows something still pending: 有待 (remain to be), followed by a two-syllable verb such as 证明 or 改进.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-08-006": {
+"notes": "世界奇迹 is high praise for the bridge: 堪称 (can be called, deserves to be called). 堪 means 'worthy of', and the object is always laudatory.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-08-007": {
+"notes": "充满传奇 is a striking evaluation of a life in literary style: 可谓 (may be said to be), less emphatic than 堪称.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK79-08-008": {
+"notes": "梦境 is a comparison for the scenery in descriptive writing: 犹如 (just like), the literary 好像. It takes a noun or a clause after it.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK79-08-009": {
+"notes": "一个好办法 is conceded as acceptable though not ideal: 不失为 (can still count as), followed by a noun phrase with 一个.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-08-010": {
+"notes": "这次成功 is attributed to 大家的努力: 归功于 (credit to). 要 before it adds 'must be'; the credited party is the object of 于.",
+"tip": "归功于 credits success; 归咎于 assigns blame.",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-08-011": {
+"notes": "失败 is fronted with 把 and blamed on others: 归咎于 (blame on). 咎 (jiù) means fault, and 归功于 is its positive counterpart.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-08-012": {
+"notes": "向各位 + 诚挚的感谢 is a formal expression of thanks: 致以 (extend, convey), standard in speeches and letters.",
+"tip": "",
+"compare": "",
+"register": "Formal; speeches"
+},
+"ZH-HSK79-09-001": {
+"notes": "听到这个消息 triggers tears she can't control, in written narrative: 不禁 (can't help), after the subject and before the verb.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-09-002": {
+"notes": "看到孩子的笑脸 triggers an involuntary smile in neutral style: 不由得 (can't help), the spoken counterpart of 不禁.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK79-09-003": {
+"notes": "毫不 + verb or adjective (犹豫) = not in the least; 毫无 + noun (意义) = without any. Choose by what follows.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-09-004": {
+"notes": "无可 + two-syllable verb = cannot be: 无可否认 (undeniable), 无可奈何 (helpless). The phrase modifies the noun with 的.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-09-005": {
+"notes": "难以 + two-syllable verb = hard to, the formal 很难: 难以形容, 难以置信 (incredible). It never takes a one-syllable verb.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-10-001": {
+"notes": "实际行动 is the means of support in literary style: 以 (by means of), the literary 用. 以实际行动 is a stock phrase.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-10-002": {
+"notes": "以 between two verb phrases = in order to, linking an action to its purpose (提高自己). It's the literary counterpart of 来 or 为了.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-10-003": {
+"notes": "于 after a verb + time = in, at: 成立于1998年, 出生于北京. It's the formal counterpart of 在 placed before the verb (在1998年成立).",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-10-004": {
+"notes": "成功 needs to become a noun for people: + 者 (one who), as in 读者 and 记者. The meaning here is generic: those who succeed.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"ZH-HSK79-10-005": {
+"notes": "见得 is a challenge to someone's claim in literary style: 何以 (how, on what grounds). 何以见得? is a stock phrase.",
+"tip": "",
+"compare": "",
+"register": "Literary; set phrase"
+},
+"ZH-HSK79-10-006": {
+"notes": "只是随便说说 is played down, and the sentence-final closer is 而已 (that's all). 罢了 is a near-synonym; both pair with 只是 or 不过.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK79-11-001": {
+"notes": "但它很实用 in the second clause shows a concession first, in literary style: 诚然 (admittedly), the literary 固然.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+},
+"ZH-HSK79-11-002": {
+"notes": "长城是中国的象征 is a widely accepted fact, opened by 众所周知 (as is well known). Overusing it in essays is a common stylistic criticism.",
+"tip": "",
+"compare": "",
+"register": "Formal; essays"
+},
+"ZH-HSK79-11-003": {
+"notes": "健康的重要性 is the topic, and 不言而喻 (it goes without saying) is the predicate. 喻 means 'understand' here; the phrase can also open a sentence.",
+"tip": "",
+"compare": "",
+"register": "Formal; essays"
+},
+"ZH-HSK79-11-004": {
+"notes": "他是对的 is plainly evident, opened by 显而易见 (evidently), a stronger and more formal 显然. It can't take 很.",
+"tip": "",
+"compare": "",
+"register": "Formal; essays"
+},
+"ZH-HSK79-11-005": {
+"notes": "与其说 A，毋宁说 B = it would be truer to say B than A, the literary 不如说. 毋宁 (wúnìng) = rather, and the frame corrects a description, not a choice.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"ZH-HSK79-12-001": {
+"notes": "盏 counts lamps and lights: 一盏灯, 一盏路灯. It's used in modern writing but rarely in casual speech, where 个 is common.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK79-12-002": {
+"notes": "栋 counts buildings, especially multi-storey ones; 幢 is a near-synonym and 座 a more general one. 层 counts the floors.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"ZH-HSK79-12-003": {
+"notes": "枚 counts small flat or round objects: medals, coins, stamps, eggs (一枚鸡蛋 in some regions). It's formal and written.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"ZH-HSK79-12-004": {
+"notes": "股 counts smells, currents and surges: 一股香味, 一股冷空气, 一股力量. It suggests something flowing, and 空气中 locates it.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+}
+}

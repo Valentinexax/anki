@@ -1,0 +1,212 @@
+{
+"ZH-UX-01-001": {
+"notes": "就是了 at the end of a sentence closes the matter reassuringly: just do X and that's that. 你放心就是了 tells the listener there's nothing to worry about.",
+"tip": "",
+"compare": "",
+"register": "Casual; spoken"
+},
+"ZH-UX-01-002": {
+"notes": "别说了 drops the subject, opened by 算了 (forget it, let it go). It can stand alone or open a sentence, and can sound dismissive or resigned.",
+"tip": "",
+"compare": "",
+"register": "Casual; spoken"
+},
+"ZH-UX-01-003": {
+"notes": "Rhetorical 哪儿 + 有 denies outright: where would I get money from = I have none. 啊 at the end adds exasperation.",
+"tip": "",
+"compare": "",
+"register": "Casual; spoken"
+},
+"ZH-UX-01-004": {
+"notes": "Adjective + 什么 rejects someone's evaluation: 好什么 = good? hardly! The same works with verbs: 哭什么 (what are you crying for?).",
+"tip": "",
+"compare": "",
+"register": "Casual; spoken"
+},
+"ZH-UX-01-005": {
+"notes": "他会来…呢 is ironically denied by 才怪 (it'd be a miracle), always sentence-final. The speaker is sure he won't come.",
+"tip": "",
+"compare": "",
+"register": "Casual; spoken"
+},
+"ZH-UX-01-006": {
+"notes": "怪 + adjective + 的 = rather, quite, a mild northern intensifier. The closing 的 is part of the pattern.",
+"tip": "",
+"compare": "",
+"register": "Colloquial; northern"
+},
+"ZH-UX-01-007": {
+"notes": "老 before a verb = keep (doing), always, typically in a complaint. 怎么老… is a reproachful question; 总是 is the neutral equivalent.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "你怎么{{c1::老::always (complaint)}}忘带钥匙？",
+"tr": "Why do you keep forgetting your keys?",
+"flag": "dup: replaced 他老迟到 (same as HSK3-08-011 他总是迟到)"
+},
+"ZH-UX-01-008": {
+"notes": "够 + adjective (+ 了) = adjective enough; it precedes the adjective, unlike English. 够大了 = big enough already.",
+"tip": "",
+"compare": "",
+"register": "Neutral; colloquial"
+},
+"ZH-UX-01-009": {
+"notes": "时间 is the topic and 别着急 the advice, so the predicate is 有的是 (there's plenty of). Note the stress differs from 有的 'some'.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-UX-01-010": {
+"notes": "明天七点 sets a meeting time, sealed with the formula 不见不散 (we won't leave until we've met). It commits both sides to wait.",
+"tip": "",
+"compare": "",
+"register": "Casual; spoken"
+},
+"ZH-UX-01-011": {
+"notes": "In speech, 一 is often dropped between a verb and a measure word: 买个包 = 买一个包. It only works after a verb, not at the start of a sentence.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-UX-01-012": {
+"notes": "蛮 + adjective = quite, rather, typical of Wu (Shanghai), Xiang and other southern varieties; northern speakers say 挺…的. The closing 的 is common.",
+"tip": "",
+"compare": "挺好的。",
+"register": "Regional (southern)"
+},
+"ZH-UX-01-013": {
+"notes": "超 + adjective = super, an informal intensifier spread by online and youth speech across the Chinese-speaking world. It's out of place in writing.",
+"tip": "",
+"compare": "",
+"register": "Slang; informal"
+},
+"ZH-UX-01-014": {
+"notes": "好 + adjective as an exclamation (好开心, 好漂亮) = so…, strongly associated with Taiwan and the south, now widespread in mainland speech too. It's different from neutral 很.",
+"tip": "",
+"compare": "",
+"register": "Regional (Taiwan, south); colloquial"
+},
+"ZH-UX-02-001": {
+"notes": "A habit in the past takes no 了: 常常去, not 常常去了. 了 marks a bounded event, which is incompatible with 常常 or 每天.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-002": {
+"notes": "学 is the attempt, 学会 the success: three years of study without mastery is 还没学会. The negative of a result complement uses 没 and drops 了.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我学了三年钢琴，可是还没{{c1::学会::learn (and succeed)}}。",
+"tr": "I studied the piano for three years and still can't play.",
+"flag": "dup: replaced 我学会了开车 (flagged against HSK3-02-006 我学会游泳了)"
+},
+"ZH-UX-02-003": {
+"notes": "听 is the attempt and 听见 the result: listening for ages need not mean hearing. English 'listen' / 'hear' map neatly onto the pair.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-UX-02-004": {
+"notes": "没 + result in the second clause contrasts with the attempt in the first: 找 (look for) vs 找到 (find). English 'couldn't find' is 没找到, not 不能找.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-UX-02-005": {
+"notes": "帮 takes a person object and a verb: 帮你拿行李. 帮忙 is verb + object and can't take another object: 帮忙你 is wrong; say 帮你的忙.",
+"tip": "帮忙你 is a common error: use 帮你 or 帮你的忙.",
+"compare": "",
+"register": "Neutral",
+"text": "我{{c1::帮::help (+ person)}}你拿行李吧。",
+"tr": "Let me help you with your bags.",
+"flag": "dup: replaced 你能帮我吗 (flagged against HSK2-07-004)"
+},
+"ZH-UX-02-006": {
+"notes": "结婚 is intransitive: the spouse comes in with 跟 or 和 (跟她结婚). 结婚她 is a classic error from English 'marry her'.",
+"tip": "",
+"compare": "结婚她 ✗",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-007": {
+"notes": "感兴趣 takes its topic with 对: 对历史感兴趣. 我感兴趣历史 is wrong; 我对…很感兴趣 is the full pattern, with 很 before 感兴趣.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-008": {
+"notes": "Degree adverbs go before the verb: 非常喜欢, never 喜欢…非常. English 'very much' at the end has to move forward.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-009": {
+"notes": "Happy for someone = 为 + person + 高兴, with 为 (wèi) marking the beneficiary. 对你高兴 is a calque from English and wrong.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-010": {
+"notes": "Good for = 对 + beneficiary + 有好处 / 好. 为孩子有好处 is a common error: 为 marks someone you act for, not who benefits from a thing.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)",
+"text": "早睡早起{{c1::对::for (good for: … 孩子有好处)}}孩子有好处。",
+"tr": "Early nights and early mornings are good for children.",
+"flag": "dup: replaced 多运动对身体好 (near-identical to HSK2-09-010)"
+},
+"ZH-UX-02-011": {
+"notes": "还 + 要 = want another, more: 我还要一杯. English 'another' isn't 另一杯 in this context; 另 implies a different one.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-UX-02-012": {
+"notes": "With a non-round number plus a measure word, 多 follows the measure word: 两个多小时 (over two hours). Putting it before (两多个小时) is wrong.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)",
+"text": "开会开了两个{{c1::多::over (两个 … 小时)}}小时。",
+"tr": "The meeting went on for over two hours.",
+"flag": "dup: replaced 我等了一个多小时 (near-identical to HSK2-11-012)"
+},
+"ZH-UX-02-013": {
+"notes": "With a round number (十, 三百), 多 goes before the measure word: 三百多页. 三百页多 would put it in the wrong slot.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)",
+"text": "这本书三百{{c1::多::over (三百 … 页)}}页。",
+"tr": "This book is over 300 pages long.",
+"flag": "dup: replaced 来了十多个人 (near-identical to HSK2-11-015 来了十几个人)"
+},
+"ZH-UX-02-014": {
+"notes": "Time words go before the verb, never at the end as in English: 我明天去北京, not 我去北京明天. They can also open the sentence: 明天我去北京.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-015": {
+"notes": "Place phrases with 在 go before the verb: 在家吃饭, not 吃饭在家. Only verbs of position (住, 坐, 放) also allow 在 after them.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-016": {
+"notes": "再 (again) and 在 (at; -ing) are both zài, so they're often confused in writing. A repeat visit still to happen is 再.",
+"tip": "",
+"compare": "",
+"register": "Standard spelling"
+},
+"ZH-UX-02-017": {
+"notes": "和 joins nouns, not clauses: 我吃了饭，和看了电视 is wrong. Sequential actions need 然后, 再 or 又, or just a comma.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+},
+"ZH-UX-02-018": {
+"notes": "A question word (哪儿) already makes the question, so 吗 is impossible; 呢 can soften it. 你周末去哪儿吗? would be wrong.",
+"tip": "",
+"compare": "",
+"register": "Prescriptive (standard vs common error)"
+}
+}
