@@ -1,0 +1,1116 @@
+{
+"ZH-HSK2-01-001": {
+"notes": "过 after the verb marks experience: it happened at some point up to now, with no time specified. The result needn't still hold, so 我去过北京 implies I'm not there now.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-002": {
+"notes": "过 + 吗 asks about experience: 'have you ever…?'. The short answers are 吃过 and 没吃过, and the A-not-A form is 你吃没吃过?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-003": {
+"notes": "The negative of experiential 过 keeps 过: 没 + verb + 过. That's the opposite of 了, which disappears under 没. 从来没…过 strengthens it to 'never once'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-004": {
+"notes": "No time word and the point is experience → 过; 昨天 pins down one occasion → 了. A time word can go with 过 only when it marks a period: 去年我去过两次.",
+"tip": "A specific past moment (昨天, 上周三) normally rules out 过.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-005": {
+"notes": "Here 过 is completion rather than experience: 吃过饭了 = I've already eaten, the usual answer to an invitation to eat. Final 了 confirms the current state.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-006": {
+"notes": "A past event is negated with 没, and 了 drops: 他没来, never 他没来了. 上周 sets the time; the verb itself never changes form.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他上周{{c1::没来::didn't come (no 了)}}上课。",
+"tr": "He didn't come to class last week.",
+"flag": "dup: replaced 我昨天没去 (repeated in HSK1-06-001); answer 没去 → 没来"
+},
+"ZH-HSK2-01-007": {
+"notes": "开 + 着 describes the resulting state (open), not the act of opening. 门开了 would report the change: the door has just opened.",
+"tip": "",
+"compare": "门开了。",
+"register": "Neutral"
+},
+"ZH-HSK2-01-008": {
+"notes": "穿 + 着 describes what she has on, a state; 她在穿衣服 would be the act of getting dressed. Verbs of wearing (穿, 戴) are among the commonest with 着.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-009": {
+"notes": "In V1 着 + V2, the first verb gives the manner of the second: reading in a lying position. Common pairs are 站着吃, 走着去 and 笑着说.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-010": {
+"notes": "Place + verb + 着 + thing is the existence pattern: the map is in a hanging state on the wall. The thing is new information, so it takes number + measure word (张 for flat objects).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-011": {
+"notes": "正在 stresses that the action is under way at this very moment, which makes it a natural excuse for not doing something else. It can't go with verbs of state: 正在知道 is impossible.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-012": {
+"notes": "正在 and final 呢 often frame the action together, though either would do alone. 开会 is a verb + object compound, so 正在 goes before the whole thing.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-01-013": {
+"notes": "An action under way takes 在 before the verb; 着 after a verb describes a resulting state or the manner of another action. 洗澡 leaves no lasting state, so 洗着澡 only works as background: 洗着澡唱歌.",
+"tip": "着 marks a state (门开着); 在 + verb marks an action in progress.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-001": {
+"notes": "完 shows the action reached its end: the whole book has been read. Without it, 我看了这本书 says only that some reading took place.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-002": {
+"notes": "懂 marks understanding achieved: 听懂 by listening, 看懂 by reading. 听 alone is just the act of listening, with no guarantee of success.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-003": {
+"notes": "见 marks perception achieved: 看 is to look, 看见 is to see, just as 听 / 听见 are listen / hear. 看到 is a common alternative to 看见.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-004": {
+"notes": "到 marks reaching a goal: 找 is to look for, 找到 is to find. Many verbs take 到 for success: 买到, 收到, 想到.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-005": {
+"notes": "好 marks a task completed properly and now ready for use. 饭做好了 is the standard call to the table; 做完了 would say only that the cooking has stopped.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-006": {
+"notes": "错 marks an action done wrongly: 写错, 说错, 走错 (go the wrong way), 打错 (dial a wrong number). Its counterpart is 对 (写对了), and the negative is 没写错.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-007": {
+"notes": "Result complements are negated with 没, not 不, and 了 drops: 没听懂. The form with 不 inside (听不懂) is a different structure, the potential complement.",
+"tip": "没听懂 = didn't understand (this time); 听不懂 = can't understand.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-008": {
+"notes": "得 links the verb 唱 to a comment on how well it's done. The comment is usually an adjective with a degree word: 唱得很好, 唱得不错.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-009": {
+"notes": "With an object (汉语), the verb is repeated before 得: 说汉语说得…. The first 说 is often dropped, giving the usual form of this compliment: 你汉语说得真好.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-010": {
+"notes": "After 得, a bare adjective tends to sound comparative (跑得快 = faster than others), so a plain statement adds a degree word: 很快, 非常快.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-011": {
+"notes": "In a degree complement the negative goes after 得: 睡得不好, never 不睡得好. 昨天 covers the previous night here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-012": {
+"notes": "Before a noun (书) → 的; after a verb (写), introducing a comment on manner → 得. Both are pronounced de, so only the character shows the function.",
+"tip": "",
+"compare": "",
+"register": "Standard spelling"
+},
+"ZH-HSK2-02-013": {
+"notes": "A modifying adjective phrase (很漂亮) needs 的 before the noun. Only single-syllable adjectives attach directly: 红衣服, 好朋友.",
+"tip": "",
+"compare": "",
+"register": "Standard spelling"
+},
+"ZH-HSK2-02-014": {
+"notes": "得 follows the verb 做 and introduces the evaluation; this is the standard way to praise someone's work. The noun-like 你做的 (what you made) would need a different predicate.",
+"tip": "做的很好 for 做得很好 is a very common slip in informal writing.",
+"compare": "",
+"register": "Standard spelling"
+},
+"ZH-HSK2-02-015": {
+"notes": "Direction is judged from the speaker: coming in towards someone inside → 进来; going out away from them → 出去. The complement is unstressed and often neutral-toned (jìnlai).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-02-016": {
+"notes": "The speaker is at home, so returning home is movement towards them: 回来. 下班 (finish work) is a verb + object compound, followed by the movement 回来.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(The speaker is at home) 爸爸下班回{{c1::来::来 or 去?}}了。",
+"tr": "Dad's back from work.",
+"flag": "dup: replaced 你什么时候回来"
+},
+"ZH-HSK2-02-017": {
+"notes": "From downstairs, coming down means moving towards the speaker: 下来. 快 before a verb in a command means 'hurry up and…'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-001": {
+"notes": "The duration (两年) can sit between the verb and the object, like a measure phrase: 学了两年汉语. 两 is used because 年 behaves like a measure word.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-002": {
+"notes": "Duration goes after the verb (睡了八个小时), never before it. 小时 needs 个, but 天, 年 and 分钟 don't: 八天, 两年. 钟头 is a colloquial northern alternative to 小时.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-003": {
+"notes": "With a pronoun object (你), the duration follows the pronoun: 等了你半个小时. 半个小时 has 半 before the measure word because there's no whole number.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-004": {
+"notes": "Repeating the verb fits both object and duration: 学汉语 + 学了三年. With no final 了 this reports a finished period; 学了三年了 would mean the study is still going on.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"tr": "I studied Chinese for three years.",
+"flag": "tr: without a final 了 the sentence doesn't say the learning is still going on; was 'I've been learning'"
+},
+"ZH-HSK2-03-005": {
+"notes": "The double 了 (verb + 了 … duration + 了) means the situation has lasted that long and continues. With only the first 了, 住了十年 would be over: I lived here for ten years.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我在这儿住了十年{{c1::了::still going (sentence-final)}}。",
+"tr": "I've lived here for ten years (and still do).",
+"flag": "dup: replaced 我学中文学了三年了 (same as HSK3-08-018)"
+},
+"ZH-HSK2-03-006": {
+"notes": "开车 is a verb + object compound, so the verb is repeated to carry the duration: 开车开了五个小时. Splitting the compound is the alternative: 开了五个小时车.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他开车{{c1::开了::drive (repeated verb + 了)}}五个小时。",
+"tr": "He drove for five hours.",
+"flag": "dup: replaced 他学汉语学了三年 (same as HSK2-03-004); answer 学了 → 开了"
+},
+"ZH-HSK2-03-007": {
+"notes": "A pronoun object stays next to the verb, before the duration: 等了他半天. 半天 is literally 'half a day' but usually just means 'ages'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-008": {
+"notes": "次 counts occasions. With a place-name object it can go either side (去过中国两次 or 去过两次中国); with a pronoun object it must come after the pronoun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-009": {
+"notes": "遍 counts complete run-throughs, start to finish, which suits watching a whole film. The object 这个电影 is moved to the front as topic, leaving 看了三遍.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-010": {
+"notes": "Asking someone to repeat what they said takes 遍, because the whole utterance is to be said again. 再 marks repetition still to come.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"ZH-HSK2-03-011": {
+"notes": "A pronoun object (他) comes before the frequency: 见过他两次. With a noun object both orders are possible.",
+"tip": "见过两次他 is wrong: the pronoun goes before the frequency.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-012": {
+"notes": "下 counts quick, brief actions such as knocks, taps and claps. Here the frequency goes before the noun object 门.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-013": {
+"notes": "趟 counts round trips, there and back, so it's the natural measure word for errands. 次 would simply count occasions.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-03-014": {
+"notes": "一下 after the verb makes the action brief and the request politer. 等一下 is also a stock phrase for 'hang on'.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"ZH-HSK2-03-015": {
+"notes": "一下 softens the instruction; 你看这个 without it sounds abrupt. With an object, 一下 comes between the verb and the object.",
+"tip": "",
+"compare": "",
+"register": "Neutral; softened"
+},
+"ZH-HSK2-03-016": {
+"notes": "Reduplicating a one-syllable verb (试试) means 'have a go'; 试一试 and 试一下 are near-equivalents. The second syllable is usually neutral-toned.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"ZH-HSK2-03-017": {
+"notes": "Two-syllable verbs reduplicate as ABAB (休息休息), not AABB. Only action verbs reduplicate; states like 知道 or 喜欢 don't.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"ZH-HSK2-03-018": {
+"notes": "With 了, a reduplicated verb becomes V了V: 想了想, a brief completed action. It typically leads into a second action, as here.",
+"tip": "",
+"compare": "",
+"register": "Neutral; narrative",
+"text": "他想{{c1::了想::thought briefly (V了V)}}，还是同意了。",
+"tr": "He thought for a moment, then agreed.",
+"flag": "dup: replaced 他看了看我 (flagged against HSK2-02-003 我看见他了); answer 了看 → 了想"
+},
+"ZH-HSK2-03-019": {
+"notes": "ABAB reduplication of a two-syllable verb (研究研究) makes the action tentative. 研究研究 is also a stock official phrase, sometimes heard as a polite way of putting something off.",
+"tip": "",
+"compare": "",
+"register": "Neutral; official"
+},
+"ZH-HSK2-04-001": {
+"notes": "比 + B comes before the adjective, so English 'colder than yesterday' becomes 比昨天冷. A (今天) is the topic and leads the sentence.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-002": {
+"notes": "The adjective in a 比 sentence stands bare: 很, 非常 and 太 are all ruled out. To intensify, add 得多 or 多了 after it: 他比我高得多.",
+"tip": "他比我很高 is a classic error.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-003": {
+"notes": "The size of the difference goes after the adjective: 大三岁, 高十厘米. For age, 大 and 小 (not 老 / 年轻) say who's older.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-004": {
+"notes": "一点儿 after the adjective gives a small difference, and 儿 is often dropped outside the north (贵一点). It can't go before the adjective: 比那个一点儿贵 is wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-005": {
+"notes": "更 goes before the adjective (unlike 一点儿, which follows) and implies the other book is interesting too. 那本 drops 书, since the noun is understood.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-006": {
+"notes": "还 in a 比 sentence means 'even', presupposing that B already has the quality to a notable degree (the older brother is tall). It's more emphatic and more colloquial than 更.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "弟弟比哥哥{{c1::还::even (比 … + adj)}}高。",
+"tr": "The younger brother is even taller than the older one.",
+"flag": "dup: replaced 今天比昨天还冷 (near-identical to HSK2-04-001)"
+},
+"ZH-HSK2-04-007": {
+"notes": "A 没有 B + adjective means A falls short of B, and implies B has the quality to a notable degree (Beijing is cold). The adjective again takes no 很.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "上海{{c1::没有::not as … as (negative comparison)}}北京冷。",
+"tr": "Shanghai isn't as cold as Beijing.",
+"flag": "dup: replaced 我没有他高 (flagged against 他比我高)"
+},
+"ZH-HSK2-04-008": {
+"notes": "没有 is the usual negative of a 比 comparison. 今天不比昨天热 also exists but means something else: today is no hotter than yesterday.",
+"tip": "不比 means 'no more … than', not 'not as … as'.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-009": {
+"notes": "A 跟 B 一样 states sameness, and 你的 stands for 你的手机. 和 and the more formal 同 can replace 跟 in this frame.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我的手机{{c1::跟::with (not 和; … 一样)}}你的一样。",
+"flag": "hint: 和 fitted equally; added (not 和)"
+},
+"ZH-HSK2-04-010": {
+"notes": "An adjective after 一样 gives 'as … as': 一样漂亮. The negative of this is usually expressed with 没有 (没有她妈妈漂亮) rather than 不一样漂亮.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-011": {
+"notes": "那么 (or 这么) after 没有 B adds 'so / that': not as tall as you are. It strengthens the comparison but is optional.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-012": {
+"notes": "A 跟 B 不一样 = different from. The negative goes before 一样, not before 跟: 南方菜不跟北方菜一样 is unidiomatic. 不同 is the more written equivalent of 不一样.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "南方菜{{c1::跟::with (not 和; … 北方菜不一样)}}北方菜不一样。",
+"tr": "Southern food is different from northern food.",
+"flag": "dup: replaced 我的看法跟你不一样 (near-identical frame to HSK2-04-009); hint adds (not 和)"
+},
+"ZH-HSK2-04-013": {
+"notes": "最 picks one out of a whole group (我们班); 更 compares two. 最 + adjective + 的 works as a noun phrase: 最高的 (the tallest one).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-04-014": {
+"notes": "最 also modifies verbs of feeling: 最喜欢 = like best, here out of all seasons. 更喜欢 would compare just two options, like English 'prefer'.",
+"tip": "",
+"compare": "我更喜欢夏天。",
+"register": "Neutral"
+},
+"ZH-HSK2-05-001": {
+"notes": "是 + 不 + 是 makes the question, with no 吗. 是不是 can also be tagged on to check an assumption: 你是学生，是不是?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-002": {
+"notes": "A-not-A with a one-syllable verb doubles it around 不: 去不去, with 不 neutral-toned in fast speech. The time word 明天 stays before the verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-003": {
+"notes": "A two-syllable adjective can do A-not-A in full (好吃不好吃) or clipped (好不好吃); the clipped form is more common in speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-004": {
+"notes": "有 is negated with 没, so its A-not-A form is 有没有. 有没有 + verb also asks whether something happened (你有没有看见他?), a pattern established in the south and Taiwan and spreading north.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-005": {
+"notes": "For a past event, A-not-A uses 没: 去没去 (did you go or not?). 你昨天去了没有? is the more common alternative.",
+"tip": "",
+"compare": "",
+"register": "Neutral; colloquial"
+},
+"ZH-HSK2-05-006": {
+"notes": "还是 offers alternatives in a question (choose one); 或者 lists them in a statement (either will do). 都可以 in the second line confirms it's a statement.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-007": {
+"notes": "A suggestion with 吧 is a statement, not a question, so 或者. 还是 would turn it into 'Saturday or Sunday?'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-008": {
+"notes": "A choice question takes 还是, with the second option (打车) following directly. 吗 is never added to a 还是 question.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "你坐地铁{{c1::还是::还是 or 或者?}}打车？",
+"tr": "Are you taking the underground or a taxi?",
+"flag": "dup: replaced 你是中国人还是日本人 (flagged against HSK1-03-001)"
+},
+"ZH-HSK2-05-009": {
+"notes": "为什么 asks for a reason and goes before the verb, after the subject. Answers usually start with 因为; 为啥 is a colloquial northern variant of 为什么.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-010": {
+"notes": "怎么 + a negative or unexpected situation expresses surprise (how come…?) rather than asking for a method. 为什么 would be a neutral request for the reason.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-011": {
+"notes": "怎么 + verb asks for the method; 怎么走 is the standard request for directions. 怎么去 would ask about the means of transport instead.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-05-012": {
+"notes": "怎么 + 这么 + adjective expresses surprise or complaint: how come it's so…? 这么 points to the situation at hand, 那么 to something further away.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK2-05-013": {
+"notes": "怎么了 asks what has happened or what's wrong, and stands as the whole predicate. Here it's about the child; to the person themselves it's 你怎么了?",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "孩子一直在哭，他{{c1::怎么了::what's wrong}}？",
+"tr": "The child keeps crying — what's wrong with him?",
+"flag": "dup: replaced 你怎么了 (flagged against 你怎么又忘了)"
+},
+"ZH-HSK2-06-001": {
+"notes": "是…的 focuses on a detail of a known past event, here the time. 是 goes right before the focused element (什么时候), and 的 closes the sentence.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-06-002": {
+"notes": "The focus is the means of travel (坐飞机). The arrival itself is presupposed, so 了 isn't used. 坐 + vehicle comes before 来, as the first of two serial verbs.",
+"tip": "No 了 in 是…的: 我是坐飞机来的, not …来了.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-06-003": {
+"notes": "Place of birth is the classic 是…的 case: the birth is presupposed and the place is the news. In speech 是 can be dropped: 他在北京出生的.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-06-004": {
+"notes": "The focus here is the companion. When the verb has an object, 的 often moves in front of it: 我是昨天买的票.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-06-005": {
+"notes": "要…了 signals something imminent; 快, 快要 and 就要 are near-equivalents. Of these, only 就要 can combine with a specific time word.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "火车{{c1::要::about to (one character, not 快)}}开了。",
+"flag": "hint: 快 / 快要 / 就要 all fitted; added (one character, not 快)"
+},
+"ZH-HSK2-06-006": {
+"notes": "快 + time + 了 = it's nearly…. Unlike 要, 快 goes comfortably straight before a number or time: 快十二点了, 快三十岁了, 快过年了.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::快::nearly (one character, not 要)}}十二点了。",
+"flag": "hint: 快要 also fitted; added (one character, not 要)"
+},
+"ZH-HSK2-06-007": {
+"notes": "With a definite time word (明天), 就要 is required; 快要 can't take one. 就 here adds a sense of 'as soon as that'.",
+"tip": "他明天快要走了 is wrong: 快要 can't take a time word.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-06-008": {
+"notes": "Serial verbs follow the order of events: go to the shop, then buy. The second verb (买) expresses the purpose with no linking word.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-06-009": {
+"notes": "The first verb phrase (坐地铁) is the means, the second the main action. 坐 is for any vehicle you ride inside; 骑 for bikes and horses.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-06-010": {
+"notes": "去 + place comes first, then the purpose (看书); 来 works the same way (来北京学习). A time word like 每天 goes before the whole chain.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他每天{{c1::去::go (first verb)}}图书馆看书。",
+"tr": "He goes to the library every day to read.",
+"flag": "dup: replaced 我们去饭店吃饭吧 (near-identical to HSK1-08-003)"
+},
+"ZH-HSK2-06-011": {
+"notes": "让 + person + verb is a pivot sentence: 我 is the object of 让 and the subject of 回家. 让 covers 'let', 'make' and 'tell', and context decides which.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "妈妈{{c1::让::let / make / tell (not 叫)}}我早点儿回家。",
+"flag": "hint: 叫 fitted equally; added (not 叫)"
+},
+"ZH-HSK2-06-012": {
+"notes": "叫 + person + verb = tell someone to do something. It's more colloquial than 让 and leans towards an instruction.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "老师{{c1::叫::tell (someone to do; not 让)}}我们写作业。",
+"flag": "hint: 让 fitted equally; added (not 让)"
+},
+"ZH-HSK2-06-013": {
+"notes": "不让 + person + verb = not let someone do something. Where the negative goes matters: 让他不去 would mean 'tell him not to go'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-07-001": {
+"notes": "应该 gives advice or obligation and comes before the verb phrase. 早点儿 (a bit earlier) is an adverbial before 睡.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-07-002": {
+"notes": "This 得 is read děi, the colloquial 'have to', and 了 marks the new situation (it's got late). It has no direct negative: 'don't have to' is 不用.",
+"tip": "",
+"compare": "",
+"register": "Colloquial (得 děi)"
+},
+"ZH-HSK2-07-003": {
+"notes": "敢 (dare) is a modal verb and comes before the main verb. Its negative 不敢 is far more frequent than the positive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-07-004": {
+"notes": "愿意 = be willing, a polite way of asking without imposing. On its own, 我愿意 is the 'I do' of Chinese wedding vows.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"ZH-HSK2-07-005": {
+"notes": "不用 = no need to, and with 谢 it's the stock reply to 谢谢. Alternatives are 不客气 (neutral), 没事儿 (casual, northern) and 不谢 (brief).",
+"tip": "",
+"compare": "",
+"register": "Neutral; stock phrase"
+},
+"ZH-HSK2-07-006": {
+"notes": "不要 + verb gives a prohibition or warning, with 别 as its shorter equivalent. In signs and classroom rules, 不要 is more usual than 别.",
+"tip": "",
+"compare": "",
+"register": "Neutral; instructions"
+},
+"ZH-HSK2-07-007": {
+"notes": "得 (děi) has no grammatical negative: 不得 means 'must not' in formal rules. 'Don't have to' is 不用, or 不必 in more formal style.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-07-008": {
+"notes": "The cue is a past occasion, and 能 negated for the past is 没能 (didn't manage to). 不能去 would mean 'can't go', about now or the future.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-001": {
+"notes": "再 is for repetition still to come (a future plan or a request); 又 for repetition that has already happened. 又 also covers predictable repeats: 明天又是星期一了.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-002": {
+"notes": "The forgetting has already happened again, so 又, and with 怎么 it sounds reproachful. 又 usually comes with 了.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-003": {
+"notes": "下次 sets the meeting in the future, so 再. The everyday goodbye 再见 is literally 'see again', with the same future 再.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-004": {
+"notes": "再 also means 'and only then': do A first, then B. The first action takes 了 (吃了饭), and 再 introduces the delayed second one.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-005": {
+"notes": "就 marks earlier or sooner than expected and goes with 了; 才 marks later than expected, and its sentence takes no 了. The time word comes before both.",
+"tip": "才 takes no 了: 他十点才起床, not …才起床了.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-006": {
+"notes": "就 here means 'soon': 一会儿就 = in a moment. It refers to the future, so there's no 了, and 回来 (not 回去) because the speaker will return to where they are now.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-007": {
+"notes": "才 after the time word (现在) signals lateness, and 怎么 turns it into a complaint. As always with this 才, the sentence takes no 了.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-008": {
+"notes": "才 before a number means 'only', a small amount. The verb can be dropped with prices and ages: 才五十 (块).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-009": {
+"notes": "才 + time = only, earlier than you'd think. It's the opposite of 已经七点了 (it's already seven), and here too 才 rules out 了.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-010": {
+"notes": "就 before a noun singles it out: only he. 只有他一个人没来 is the neutral equivalent; 一个人 here means 'alone, the single one', not 'a person'.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK2-08-011": {
+"notes": "就是 = precisely, that very one, pointing emphatically, as when you finally reach a place. Without 就, 那是我家 is a plain statement.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-012": {
+"notes": "还 + 在 + verb = still doing. Its negative counterpart, 还没, means 'not yet': 他还没起床. 睡觉 is the activity of sleeping; 睡着 is falling asleep.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-013": {
+"notes": "已经 presupposes a reference point: the film had begun before now. Its negative counterpart is 还没 (开始), which drops 了.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "电影{{c1::已经::already}}开始了。",
+"tr": "The film has already started.",
+"flag": "dup: replaced 我已经吃饭了 (same meaning and translation as HSK2-01-005 我吃过饭了)"
+},
+"ZH-HSK2-08-014": {
+"notes": "还 adds another item, 'also, in addition', and goes before the second verb (还买了), not before the object.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-015": {
+"notes": "一直 = continuously, all along: the waiting hasn't stopped. It combines naturally with 在 + verb for an ongoing action.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-016": {
+"notes": "马上 = at once, for something about to happen. 马上就来 is the common fuller form; in shops and restaurants it's what staff say when you call them over.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-017": {
+"notes": "还 + 行 / 可以 / 不错 = fairly, passable. It's a lukewarm verdict, weaker than 不错 alone, and a polite way to avoid real praise.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK2-08-018": {
+"notes": "别 is the one-character equivalent of 不要 and sounds more immediate in speech. It's used only for prohibitions, never in statements: 我别去 is wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::别::don't (one character)}}说话！",
+"flag": "hint: 不要 fitted equally; added (one character)"
+},
+"ZH-HSK2-08-019": {
+"notes": "With 你 as subject, 别 still gives an instruction, here as reassurance. 不用担心 is a near-synonym that sounds less like an order.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "你{{c1::别::don't (one character)}}担心。",
+"flag": "hint: 不要 fitted equally; added (one character)"
+},
+"ZH-HSK2-08-020": {
+"notes": "只 goes before the verb (只有), not before the noun as English 'only ten yuan' might suggest. 只 + 有 is its commonest pattern.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-08-021": {
+"notes": "只 + verb restricts what follows: only water, nothing else. To restrict the subject you need 只有: 只有他喝水 (only he drinks water).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-001": {
+"notes": "从…到… sets a time span, and the whole span goes before the verb (上课); English puts it after. 从 can drop in speech: 八点到十二点上课.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-002": {
+"notes": "With places, 从…到… marks a route. 要 + time here means 'takes', and 几个小时 asks the number of hours with 几 because the answer is small.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-003": {
+"notes": "从 + place marks origin; inside 是…的 it asks where someone comes from. 你是哪国人? asks nationality more directly.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-004": {
+"notes": "离 marks the reference point for distance, and the predicate is 远 or 近 with a degree word. The subject (我家) is what's being placed.",
+"tip": "Not 从: 我家从学校很近 is a common error.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-005": {
+"notes": "The predicate of a 离 sentence is 远 or 近, or a figure: 离这儿五公里. In a 吗 question the adjective can stand bare.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-006": {
+"notes": "离 also measures time until an event. The sentence has no subject: 离 + event + 还有 + time. 还 stresses that the time is still to run.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-007": {
+"notes": "往 + direction = towards: 往前, 往左, 往北. 一直 here means 'straight on'. 向 and 朝 are near-synonyms (see HSK3).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-008": {
+"notes": "对 + person + attitude: kind to, strict with (对学生很严格), polite to (对客人很客气). The adjective for the attitude follows.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-009": {
+"notes": "给 + person introduces the recipient: call you, write to you (给你写信). The phrase goes before the verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-010": {
+"notes": "对 + thing + 好 / 不好 = good or bad for. 身体 (the body) is the usual way of saying 'for your health'; formal style has 对健康有害.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-011": {
+"notes": "见面 (meet) is intransitive, so the other person comes in with 跟 or 和: 跟朋友见面, never 见面朋友. 对 marks the target of an attitude or remark, not a companion.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-012": {
+"notes": "Verb + 在 + place gives where the action leaves someone or something: 住在, 坐在, 放在, 写在. 在 before the verb (在北京工作) just sets the scene.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-013": {
+"notes": "Verb + 给 + recipient (送给, 借给, 交给) shows the object passing to that person. 送 alone means give as a present.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-09-014": {
+"notes": "Verb + 到 + place marks the endpoint reached: walked as far as the door. 走向门口 would only mean heading towards it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-001": {
+"notes": "因为 introduces the cause, and Chinese happily adds 所以 as well, unlike English. Either word can also be dropped.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-002": {
+"notes": "所以 heads the result clause, whose subject 我 is understood from the first clause. 因为 can also come second: 我没上班，因为我病了.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-003": {
+"notes": "但是 introduces the contrast and starts its clause, before any subject. 很想 + verb = would really like to, the polite softening before a refusal.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我很想去，{{c1::但是::but (not 可是)}}没有时间。",
+"flag": "hint: 可是 fitted equally; added (not 可是)"
+},
+"ZH-HSK2-10-004": {
+"notes": "可是 is a slightly more colloquial 'but' than 但是, and 不过 is softer still. All three start the second clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral; slightly colloquial",
+"text": "这件衣服很漂亮，{{c1::可是::but (not 但是)}}太贵了。",
+"flag": "hint: 但是 fitted equally; added (not 但是)"
+},
+"ZH-HSK2-10-005": {
+"notes": "如果 opens the condition and 就 introduces the consequence, after the subject (我们就). Final 了 marks a change of plan.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-006": {
+"notes": "With no subject in the result clause, 就 starts it. 来我家 is how Chinese says 'come round to mine', and 吧 makes it an invitation.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-007": {
+"notes": "先 is an adverb before the first verb; 然后 links the next step and can be reinforced with 再: 然后再去看电影. 去看 here is a serial verb chain.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-008": {
+"notes": "然后 = afterwards, starting the second clause. It's a conjunction, so it comes before any subject: 然后我们吃饭.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-009": {
+"notes": "先…再… orders two steps, and 再 is an adverb, so it comes after any subject (你再出去). It's typical of instructions to children.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::先::first (… 再 …)}}把作业做完，再出去玩。",
+"tr": "Finish your homework first, then go out and play.",
+"flag": "dup: replaced 先洗手，再吃饭 (near-identical to HSK2-10-008)"
+},
+"ZH-HSK2-10-010": {
+"notes": "越来越 + adjective describes gradual change over time, with final 了 marking the change. No 很 can be added: 越来越很冷 is wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-011": {
+"notes": "越来越 also applies to abilities, often as a compliment, with final 了 marking the change. The downward version usually uses 差: 越来越差.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-012": {
+"notes": "又 goes before each adjective: both cheap and tasty. The adjectives need no 很, and the two qualities are usually of the same kind, both good or both bad.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-013": {
+"notes": "以前 follows the clause it modifies (吃饭以前), unlike English 'before', which comes first. 要 here means 'must'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-014": {
+"notes": "的时候 also follows its clause: 我小的时候 (when I was little). 小时候 is a fixed alternative without 的, and the main clause needs no 'then'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-10-015": {
+"notes": "那 at the start, short for 那么, means 'in that case' and draws on what the other speaker has just said.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK2-11-001": {
+"notes": "每 + 天 needs no measure word because 天 is itself measure-like, as are 年 and 次. 都 before the verb completes the pattern.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-002": {
+"notes": "每 normally needs a measure word (每个人), and 都 follows before the verb; without 都 the sentence sounds unfinished.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-003": {
+"notes": "别的 = other (things), alone or before a noun (别的东西). With 还, it's the shop assistant's 'anything else?'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-004": {
+"notes": "大家 = everyone present, used as a pronoun. 大家好 is the standard greeting to a group or an audience; 各位 is the more formal alternative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-005": {
+"notes": "自己 after a pronoun = oneself, implying no one else does it. It also works as a reflexive object: 照顾好自己 (look after yourself).",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"tr": "I do my own cooking.",
+"flag": "tr: 'I cook for myself' implied 给自己; 自己做饭 means by oneself"
+},
+"ZH-HSK2-11-006": {
+"notes": "有的…有的… divides a group: some…, others…. It modifies the subject, so it comes before the noun; the second 人 can be dropped (有的喜欢咖啡).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-007": {
+"notes": "有人 + verb introduces an unspecified person. Chinese avoids indefinite subjects, so 有 brings 'someone' in.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-008": {
+"notes": "有时候 = sometimes, placed before or after the subject; 有时 is the more written form. 也要 here means 'has to… as well'.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::有时候::sometimes}}他周末也要加班。",
+"tr": "Sometimes he has to work at weekends too.",
+"flag": "dup: replaced 有时候我坐地铁上班 (near-identical to HSK2-06-009)"
+},
+"ZH-HSK2-11-009": {
+"notes": "咱们 is the inclusive 'we' (speaker + listener), typical of northern speech; 我们 can be inclusive or exclusive.",
+"tip": "",
+"compare": "",
+"register": "Colloquial; northern (咱们)",
+"text": "{{c1::咱们::we (including you)}}晚上吃什么？",
+"tr": "What shall we have for dinner?",
+"flag": "dup: replaced 咱们走吧 (same as HSK1-09-005 我们走吧)"
+},
+"ZH-HSK2-11-010": {
+"notes": "第 + number makes an ordinal: 第一次 (the first time). Some fixed sequences drop it: 一年级 (Year 1), 二楼 (the first floor, in British terms).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-011": {
+"notes": "多 after a round number gives 'more than': 四十多岁 = forty-something. With round numbers 多 comes before the measure word.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他已经四十{{c1::多::more than (… -odd)}}岁了。",
+"tr": "He's already over forty.",
+"flag": "dup: replaced 我们班有二十多个学生 (near-identical to HSK1-04-011)"
+},
+"ZH-HSK2-11-012": {
+"notes": "半 follows the measure word when added to a whole number (两个半小时) but precedes it on its own (半个小时). The time phrase here is the predicate, with no verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "这部电影两个{{c1::半::half (after the measure word)}}小时。",
+"tr": "This film is two and a half hours long.",
+"flag": "dup: replaced 我等了一个半小时 (flagged against two other waiting sentences)"
+},
+"ZH-HSK2-11-013": {
+"notes": "一刻 = a quarter of an hour (15 minutes) and 三刻 = three quarters; 两刻 isn't used, as 半 covers it. 刻 is less common in speech than 十五分.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-014": {
+"notes": "差 + minutes + hour = so many minutes to: 差五分八点 = 7.55. The order (minutes before hour) is fixed. In everyday speech 七点五十五 is more common.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-015": {
+"notes": "几 after 十 means 'a few more': 十几 = 11 to 19. Before a ten, it multiplies instead: 几十个人 = several dozen people.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-016": {
+"notes": "Two adjacent numbers give an estimate: 两三 (two or three), 七八 (seven or eight). No word for 'or' is needed.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我昨晚只睡了{{c1::两三::two or three}}个小时。",
+"tr": "I only got two or three hours' sleep last night.",
+"flag": "dup: replaced 我在北京住了两三天 (flagged against 我住在北京)"
+},
+"ZH-HSK2-11-017": {
+"notes": "来 after a round number means 'about', either side of it: 二十来岁 = about twenty. 二十多岁 would mean over twenty.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-018": {
+"notes": "有一点儿 goes before an adjective and signals mild disapproval; 一点儿 goes after one to compare or to ask for more (便宜一点儿).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-019": {
+"notes": "有一点儿 + adjective describes a slightly unwelcome state. In speech the short form 有点儿 is the usual one.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-020": {
+"notes": "Adjective + 一点儿 in a request = a bit more…: 慢一点儿. The adjective follows the verb 说 here, as a complement.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"ZH-HSK2-11-021": {
+"notes": "把 is the measure word for things with a handle or held in the hand: 伞, 椅子, 刀, 钥匙. It's unrelated to the 把 construction of HSK3.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-022": {
+"notes": "家 counts businesses and institutions: shops, restaurants, companies, hospitals. 条 counts long things such as streets.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-023": {
+"notes": "种 = kind or type, counting varieties rather than items. 件 counts upper garments, as well as matters (一件事).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-024": {
+"notes": "台 counts machines and appliances: 电脑, 电视, 空调, 洗衣机. 个 is also heard in casual speech, and 部 is used for phones and films.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-025": {
+"notes": "份 counts jobs, newspapers, copies and portions (一份饭, 一份报纸). 找到 marks success in finding, so the job has actually been secured.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK2-11-026": {
+"notes": "一 + measure word + noun + 也 / 都 + negative = not a single. 也 or 都 is required, and the 一 phrase goes before the verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+}
+}

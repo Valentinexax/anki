@@ -1,0 +1,857 @@
+{
+"ZH-HSK1-01-001": {
+"notes": "学生 is a noun, so 是 is needed to link it to 我. The copula 是 equates two noun phrases and never changes for person or time (我是, 他们是, 昨天是); its only negative is 不是.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-002": {
+"notes": "老师 is a noun after the copula, so the negative is 不是. 是 always takes 不, even about the past: 他以前不是老师 (he didn't use to be a teacher). 没是 doesn't exist.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-003": {
+"notes": "The bare demonstrative 那 is the subject, and 是 links it to the noun phrase 我们的学校. Used as a pronoun 那 needs no measure word; before a noun it does: 那个学校. Institutions often drop 的 after a pronoun: 我们学校.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "那{{c1::是::link verb: to be}}我们的学校。",
+"tr": "That's our school.",
+"flag": "dup: replaced 这是我的书 (also in HSK1-02)"
+},
+"ZH-HSK1-01-004": {
+"notes": "中国人 is a noun, so it takes 是; 忙 is an adjective, which is a predicate in its own right and takes no copula. The 很 before an adjective is largely structural here rather than meaning 'very'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-005": {
+"notes": "冷 is an adjective, so no 是. A bare 今天冷 implies a contrast (today is cold, unlike yesterday); 很 makes it a plain statement, and only when stressed does it mean 'very'.",
+"tip": "我是忙 is a classic learner error: adjectives never take 是 as a plain description.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-006": {
+"notes": "With a person as subject, 有 expresses possession, and the object takes number + measure word (一个哥哥). Siblings are always split by relative age: 哥哥 / 弟弟, 姐姐 / 妹妹.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-007": {
+"notes": "The English 'don't' is a trap: 有 is negated only with 没, whatever the time reference, so 不有 is never possible. In speech 有 can drop after 没: 我没钱 is just as natural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-008": {
+"notes": "The subject is a place (房间里), so 有 means 'there is / are'. The noun after existential 有 is new information and usually carries number + measure word: 两张床, with 张 for flat things such as beds and tables.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "房间里{{c1::有::there is}}两张床。",
+"tr": "There are two beds in the room.",
+"flag": "dup: replaced 桌子上有一本书 (repeated verbatim in HSK1-01-013)"
+},
+"ZH-HSK1-01-009": {
+"notes": "Abstract possessions such as 时间 also take 有. The A-not-A version of this question is 你有没有时间?, because the negative of 有 is 没有; you can't mix the two forms with 吗.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-010": {
+"notes": "A known person's location is expressed with 在 + place as the main verb; no other verb is needed. Kinship terms after a pronoun normally drop 的 (我妈妈), and 家 takes no location word after 在.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-011": {
+"notes": "As a question word, 哪儿 sits in the answer's slot, right after 在. 哪儿 is typical of northern speech; southern and Taiwanese speakers favour 哪里, which is also the usual written form.",
+"tip": "",
+"compare": "",
+"register": "Neutral; 哪儿 northern"
+},
+"ZH-HSK1-01-012": {
+"notes": "医院 is a specific, known building, so 在 locates it. 学校 alone can follow 在 (在学校), but a relative position needs a location word: 学校前面, or 前边 in speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-013": {
+"notes": "Word order decides: a known thing first (我的书) takes 在 + place; a place first takes 有 + new thing. So the same book and table produce two different verbs depending on what's already known.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-014": {
+"notes": "Place first (学校里), so 有. 很多 goes straight before the noun without a measure word (很多学生), though 很多个 is heard in casual speech. With 有, 学校 and 学校里 are both acceptable subjects.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-01-015": {
+"notes": "小狗 is the topic, a dog both speakers know, so its location takes 在. Swap the order and the dog becomes new information introduced by 有, now with a measure word: 只 for most animals.",
+"tip": "",
+"compare": "门后面有一只小狗。",
+"register": "Neutral"
+},
+"ZH-HSK1-02-001": {
+"notes": "'Several of us' gives the first-person plural: 我 + suffix 们. 们 attaches only to pronouns and nouns for people (老师们), and it's dropped whenever a number is present.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-002": {
+"notes": "Addressing a teacher calls for 您, the honorific second person used for elders, teachers, customers and strangers. Its plural is contested: prescriptive usage rejects 您们 in favour of 你们 or 各位, though 您们 appears in service writing.",
+"tip": "",
+"compare": "",
+"register": "Polite (您)"
+},
+"ZH-HSK1-02-003": {
+"notes": "The cue tells you the referent is female, which matters only in writing: 他, 她 and 它 are all pronounced tā. The character 她 was popularised around 1920 (by the linguist Liu Bannong); speech doesn't mark gender at all.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-004": {
+"notes": "Several men → 他们. For mixed groups 他们 is also the standard form; 她们 is used only when everyone is female. Here 在 is the main verb 'be at'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-005": {
+"notes": "Near the speaker → 这, and as the subject of 是 it needs no measure word. In introductions 小 + surname (小王) is the friendly form for a peer or someone younger; 老 + surname for an older acquaintance.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(Near me) {{c1::这::this}}是我朋友小王。",
+"tr": "This is my friend Xiao Wang.",
+"flag": "dup: replaced 这是我的手机"
+},
+"ZH-HSK1-02-006": {
+"notes": "Distance from the speaker selects 那. In the question, 谁的 fills the possessor slot, exactly where the answer would go: 那是我的车.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-007": {
+"notes": "'Here' as a place word = 这 + the suffix 儿, typical of northern Mandarin; 这里 is the standard alternative and the usual form in the south and in writing. As a place word it can be the subject of 有.",
+"tip": "",
+"compare": "",
+"register": "Neutral; 这儿 northern"
+},
+"ZH-HSK1-02-008": {
+"notes": "那儿 is a place word, so it follows 住在 directly. 住 is one of the verbs that can take 在 + place after it (住在, 坐在, 放在); 他在那儿住 is equally correct.",
+"tip": "",
+"compare": "",
+"register": "Neutral; 那儿 northern"
+},
+"ZH-HSK1-02-009": {
+"notes": "哪 + measure word asks 'which'. In speech 哪 (nǎ) and 那 (nà) differ only in tone, and casual 哪个 / 那个 are often pronounced něige / nèige, a fusion with 一.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-010": {
+"notes": "Before a noun a demonstrative needs a measure word: 这 + 本 + 书, with 本 for bound volumes. Once the noun is understood, 这本 can stand alone: 我想买这本.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-011": {
+"notes": "The possessor 你 is linked to 电脑 with 的, which is required for ordinary objects. It's close relationships and institutions that drop it: 你妈妈, 你们公司.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::你的::your (pronoun + 的)}}电脑很新。",
+"tr": "Your computer's very new.",
+"flag": "dup: replaced 这是我的书; answer 我的 → 你的"
+},
+"ZH-HSK1-02-012": {
+"notes": "A noun possessor such as 老师 takes 的 just like a pronoun. The bare noun 老师 is ambiguous between 'the teacher' and 'teachers'; context, or 这个 / 那个, settles which.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-013": {
+"notes": "谁 + 的 = whose. The noun can be dropped once it's clear: 这是谁的? A 的 phrase on its own works as a noun phrase.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-014": {
+"notes": "Work relationships sit in the middle ground: 我的同事 and 我同事 are both common. 的 drops most readily with short nouns for close relationships, such as 我朋友 or 我老公.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "她是我{{c1::的::possessive particle}}同事。",
+"tr": "She's my colleague.",
+"flag": "dup: replaced 他是我的朋友"
+},
+"ZH-HSK1-02-015": {
+"notes": "红 + 的 forms a noun phrase, 'the red one', with the noun understood from context. English needs 'one'; Chinese needs 的, and 我要红 on its own is ungrammatical.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-016": {
+"notes": "A whole clause (我买) becomes a noun phrase with 的: 'what I bought'. With a noun after it, the same structure is a relative clause, and it always comes before the noun.",
+"tip": "",
+"compare": "我买的书",
+"register": "Neutral"
+},
+"ZH-HSK1-02-017": {
+"notes": "The number 三 rules out 们: three friends is 三个朋友. 们 marks a definite group of people and is avoided after numbers and 很多.",
+"tip": "三个朋友们 is a common learner error.",
+"compare": "",
+"register": "Neutral",
+"text": "我有三个好{{c1::朋友::friends (after a number: no 们)}}。",
+"tr": "I've got three good friends.",
+"flag": "dup: replaced 我们班有三十个学生; answer 学生 → 朋友"
+},
+"ZH-HSK1-02-018": {
+"notes": "Surname alone → 姓; full name → 叫. The polite question is 您贵姓?, answered 我姓李, never 我贵姓. Friends may be called by the given name alone with 叫.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-02-019": {
+"notes": "叫 takes a name, so the question is 叫 + 什么名字. To an adult stranger it can sound blunt; 您贵姓? or 请问您怎么称呼? are the polite alternatives.",
+"tip": "",
+"compare": "",
+"register": "Neutral; can sound blunt"
+},
+"ZH-HSK1-03-001": {
+"notes": "吗 turns the statement into a yes/no question with no change of order. The answer repeats the verb instead of saying 'yes' or 'no': 是 or 不是.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-002": {
+"notes": "吗 goes at the very end, after the object 喝茶. 喜欢 takes a verb phrase directly, with no equivalent of 'to' or '-ing'; the short answer is 喜欢 or 不喜欢.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-003": {
+"notes": "A 在 + place sentence becomes a yes/no question with 吗 like any other. The A-not-A alternative is 他在不在家?, and the two can't be combined: 他在不在家吗 is wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-004": {
+"notes": "什么 sits where the answer would go, as the object of 吃. A question word already makes this a question, so 吗 isn't added. 想 + verb here means 'feel like'.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "你想吃{{c1::什么::what}}？",
+"tr": "What do you fancy eating?",
+"flag": "dup: replaced 你叫什么名字 (same as HSK1-02-019)"
+},
+"ZH-HSK1-03-005": {
+"notes": "谁 asks about a person and stands in the answer's slot: 他是我哥哥. Both shéi and shuí are standard readings; shéi is far more common in speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-006": {
+"notes": "哪儿 fills the place slot after 在. 洗手间 and 卫生间 are the polite everyday words for the loo; 厕所 is blunter. Starting with 请问 makes the question more courteous.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "洗手间在{{c1::哪儿::where}}？",
+"tr": "Where's the loo?",
+"flag": "dup: replaced 你家在哪儿"
+},
+"ZH-HSK1-03-007": {
+"notes": "怎么 + verb asks for the method: how to read (pronounce) it. Its natural companions are 怎么写 (how to write it) and 怎么说 (how to say it).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-008": {
+"notes": "怎么样 asks for an evaluation and is a predicate on its own, so no verb is needed. Tacked onto a proposal it means 'how about…?': 我们明天去，怎么样?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-009": {
+"notes": "'When' is 什么 + 时候, literally 'what time'. Like any time expression it goes before the verb, never at the end: 我们见面什么时候 is wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我们{{c1::什么::what (+ 时候 = when)}}时候见面？",
+"tr": "When shall we meet?",
+"flag": "dup: replaced 你什么时候来"
+},
+"ZH-HSK1-03-010": {
+"notes": "多 + adjective asks about degree. 多大 is the neutral age question for adults; ask small children 几岁 and elderly people the respectful 您多大年纪了?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-011": {
+"notes": "多远 asks distance, with 离 marking the reference point (这儿). Answers often give a time rather than a distance: 走路十分钟.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-012": {
+"notes": "多长时间 (or 多久) asks duration and goes after the verb, where the duration itself would go. The verb is repeated because of the object: 学中文学了…; contrast 什么时候, which asks for a point in time and goes before the verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-013": {
+"notes": "几 assumes a small number, typically under ten, and needs a measure word (几个孩子). 多少 is open-ended and can take the noun directly (多少学生).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-014": {
+"notes": "Prices always take 多少, however small the sum, and 钱 follows with no measure word. For things sold by weight, 怎么卖? is the usual market question.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-015": {
+"notes": "Hours form a small, closed set, so the question is 几点. The answer needs no 是 (现在三点), and the polite way to ask a stranger is 请问，现在几点了?, with 了 because the time keeps changing.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-016": {
+"notes": "Days of the month run only to 31, so 几号. 号 is spoken; in writing and formal speech the day is 日, and the full written form of the question is 今天几月几日?",
+"tip": "",
+"compare": "",
+"register": "Neutral; spoken (号)"
+},
+"ZH-HSK1-03-017": {
+"notes": "呢 after a pronoun asks the same question again about a new topic, here bouncing 'how are you' back. Nothing needs repeating; 呢 carries the whole question.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-018": {
+"notes": "The first clause sets the frame (job), so 他呢 asks for his job. Because 呢 relies on that context, 他呢 with no lead-in would mean 'where is he?'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-019": {
+"notes": "With no earlier question to echo, noun + 呢 asks where the thing is, usually something you expected to find. It often carries mild puzzlement or irritation.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-03-020": {
+"notes": "In A-not-A, a two-syllable verb usually keeps only its first syllable the first time: 喜不喜欢. The full 喜欢不喜欢 is also correct, just heavier. 吗 is never added.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-001": {
+"notes": "书 is a bound volume, so it takes 本, as do 词典 and 杂志. A number can never attach directly to a noun: 三书 is impossible.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-002": {
+"notes": "Counting household members uses 口 ('mouths'), but only in this formula about family size; individual relatives take 个: 两个哥哥.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-003": {
+"notes": "杯 is a container measure word: the cup does the counting, like English 'a cup of'. Other containers work the same way: 一瓶水, 一碗饭.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-004": {
+"notes": "个 is the default measure word and the normal one for 人. For guests and strangers the polite measure word is 位: 那位先生.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-005": {
+"notes": "岁 follows the number directly and the age is the predicate, with no 是: 她五岁. In the negative 是 does appear: 她不是五岁，是六岁.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-006": {
+"notes": "块 is the spoken unit for the yuan, and 钱 after it is optional (三块). As with ages, a price is a predicate without a verb.",
+"tip": "",
+"compare": "",
+"register": "Spoken (块)"
+},
+"ZH-HSK1-04-007": {
+"notes": "一些 works like number + measure word and goes straight before the noun: indefinite and plural. For a small quantity, 一点儿 is the alternative: 买一点儿水果.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-008": {
+"notes": "With a measure word (个), 2 is 两; inside a compound numeral (十二) it's always 二. Even with a measure word, 12 stays 十二个, never 十两个.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-009": {
+"notes": "杯 is a measure word, so 'two' is 两, as with any measure word: 两本, 两个, 两块. Before 千 and 万, 两 is also the usual spoken form: 两千, 两万.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-010": {
+"notes": "In bare counting, 2 is always 二. Phone and room numbers are also read digit by digit, and there 1 is often read yāo to avoid confusion with 七.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-011": {
+"notes": "Tens are built by multiplication: 二十 = two tens, 二十一 = 21. 二 is part of a compound numeral here, so never 两十, even though a measure word (个) follows.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-012": {
+"notes": "百 must have a number before it: 一百. Only 十 can stand alone for its value (十 = 10, but 百 alone isn't 100).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-013": {
+"notes": "零 marks a gap in the place values: 1,050 has no hundreds, so 一千零五十. One 零 covers several zeros: 1,005 = 一千零五.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "这台电脑一千{{c1::零::zero (in 1,050)}}五十块。",
+"tr": "This computer costs 1,050 yuan.",
+"flag": "dup: replaced 这本书一百零五块"
+},
+"ZH-HSK1-04-014": {
+"notes": "千 is a place value like 百: 三千 = 3,000. Prices from 1,000 up are often clipped in speech (三千五 = 3,500). In speech 手机 takes 个; the more careful measure word is 部.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-015": {
+"notes": "Chinese counts large numbers in units of ten thousand: 20,000 = 两万, 100,000 = 十万, a million = 一百万. Before 万, 两 is the usual form for 2.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-04-016": {
+"notes": "Money runs 块 (yuan) → 毛 (0.1 yuan) → 分 (0.01). The last unit is usually dropped in speech, so 两块五 is the everyday way to say 2.50.",
+"tip": "",
+"compare": "",
+"register": "Colloquial (块 / 毛)",
+"text": "一瓶水两{{c1::块::yuan (spoken)}}五{{c1::毛::ten fen (spoken)}}。",
+"tr": "A bottle of water is 2.50 yuan.",
+"flag": "dup: replaced 这个苹果三块五毛"
+},
+"ZH-HSK1-04-017": {
+"notes": "元 is the written and formal unit, seen on price tags and receipts; 块 is the spoken equivalent. 一共 (in total) comes before the number.",
+"tip": "",
+"compare": "",
+"register": "Formal; written (元)"
+},
+"ZH-HSK1-05-001": {
+"notes": "Dates run month → day with no preposition, and 是 is optional: 今天十月一号 is just as natural. 号 is the spoken word for the day.",
+"tip": "",
+"compare": "",
+"register": "Spoken (号)"
+},
+"ZH-HSK1-05-002": {
+"notes": "Weekdays are numbered from Monday (星期一) to Saturday (星期六); Sunday breaks the pattern: 星期天 in speech, 星期日 in writing. 周六 is a common short form, and 礼拜六 is colloquial and regional.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-003": {
+"notes": "The weekday answer is a number from one to six, so the question is 星期 + 几. 几 makes this a question, so no 吗 or 是 is needed.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-004": {
+"notes": "Months are simply numbered: 五月 = May. The order is month then day, bigger unit first, the reverse of British '8 May'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-005": {
+"notes": "Full dates run year → month → day, each with its own unit. The year is read digit by digit: 二〇二六年 (èr líng èr liù nián), not as a single number.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-006": {
+"notes": "点 marks the hour, and a clock time is a predicate with no verb: 现在八点. 钟 can be added for a full hour (八点钟), and 整 stresses 'exactly' (八点整).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-007": {
+"notes": "半 follows the hour directly: 七点半. The whole time phrase comes before the verb 起床, the reverse of English 'get up at…'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-008": {
+"notes": "分 counts minutes and is often dropped in speech (三点二十). Below ten minutes, 零 is often inserted: 三点零五 (分).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-009": {
+"notes": "Clock hours take 两 for 2: 两点, because 点 behaves like a measure word here. 二 comes back in 十二点 and in the minutes: 两点二十二分.",
+"tip": "二点 is wrong for two o'clock.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-010": {
+"notes": "昨天 can open the sentence or follow the subject (我昨天…), but it can't go after the verb. At the start it frames the whole sentence as being about yesterday.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::昨天::yesterday}}我在家休息了一天。",
+"tr": "I spent yesterday resting at home.",
+"flag": "dup: replaced 昨天我去商店了"
+},
+"ZH-HSK1-05-011": {
+"notes": "With no other time word, 下午 refers to this afternoon. The parts of the day are 早上, 上午, 中午, 下午 and 晚上, all placed before the verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-012": {
+"notes": "现在 is a time word, so it goes before the verb, either after the subject or at the start. The verb here is 有, so its negative is 没有.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我{{c1::现在::now}}没有时间。",
+"tr": "I haven't got time right now.",
+"flag": "dup: replaced 现在几点 (same as HSK1-03-015)"
+},
+"ZH-HSK1-05-013": {
+"notes": "With no 了 or 在, 晚上 + verb reads as a habit (in the evenings) or a plan (this evening); context decides, since the verb doesn't mark tense.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-05-014": {
+"notes": "什么时候 asks 'when' and goes in the time slot before the verb. 有空 (have free time) is a fixed verb + object, with the opposite 没空.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "你{{c1::什么时候::when}}有空？",
+"tr": "When are you free?",
+"flag": "dup: replaced 你什么时候回家"
+},
+"ZH-HSK1-06-001": {
+"notes": "明天 points to the future, so 不; 昨天 points to a past event, so 没. The real criterion is completion rather than time: a past habit still takes 不 (他以前不抽烟).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-002": {
+"notes": "喜欢 is a stative verb (a liking, not an event), and states are negated with 不 at any time. Psychological verbs like 喜欢, 认识 and 知道 normally take 不.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-003": {
+"notes": "The gap is followed by 有, so only 没 works: 有 is the one verb whose negative is always 没, even about the present. 没有手机 and the clipped 没手机 are both fine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-004": {
+"notes": "是 is negated only with 不, in any time frame. Before a fourth tone like 是, 不 changes from bù to bú (tone sandhi), so 不是 is said bú shì.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-005": {
+"notes": "还 + 没 + verb = not yet: the event is still expected, and no 了 appears. Without 还, 我没吃饭 just states that it didn't happen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-006": {
+"notes": "贵 is an adjective, and adjectives are negated with 不. 没 + adjective is possible only for a change that hasn't yet happened: 天还没黑. 条 is the measure word for trousers.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "这条裤子{{c1::不::不 or 没?}}贵。",
+"tr": "These trousers aren't expensive.",
+"flag": "dup: replaced 这个菜不好吃"
+},
+"ZH-HSK1-06-007": {
+"notes": "Word order flips the meaning: 不太 + adjective softens (not very), while 太不 + adjective intensifies the negative (far too un-). 太不认真了 is a sharp criticism; 不太认真 a mild one.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-008": {
+"notes": "都不 puts the negative inside 'all', giving 'none'; 不都 negates 'all' itself, so some are and some aren't, hence the follow-up about the student.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-009": {
+"notes": "高兴 is an adjective predicate, linked by 很 rather than 是. Other degree adverbs can take its place (非常高兴, 特别高兴, 挺高兴的), but one is usually needed in a plain statement.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-010": {
+"notes": "太 + adjective + 了 frames an excess: too expensive to buy. The final 了 belongs to the frame, and 太贵 without it sounds clipped. A gentler complaint is 有点儿贵.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-011": {
+"notes": "Here 太…了 is an exclamation (so hot!) rather than a complaint about excess; context decides which. 太好了! (great!) is its most common positive use.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-012": {
+"notes": "真 + adjective is exclamatory and works only as a direct comment. Unlike 很, it can't go inside a noun phrase: 一个很漂亮的女孩, but not 一个真漂亮的女孩.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-013": {
+"notes": "也 goes before the verb, never at the end like 'too': 我也喜欢, not 我喜欢也. The object can be left out because 也 points back to the first clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他喜欢喝茶，我{{c1::也::also}}喜欢。",
+"tr": "He likes tea, and so do I.",
+"flag": "dup: replaced 我也是学生"
+},
+"ZH-HSK1-06-014": {
+"notes": "都 sums up the plural subject on its left (我们) and goes right before the verb. It can never come before the subject: 都我们 is impossible.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-015": {
+"notes": "When both adverbs occur, the order is fixed: 也都 (also all), not 都也. Adverbs stack before the verb in a set sequence.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-016": {
+"notes": "也 + 不 gives 'not… either' or 'nor'. The negative comes after 也 (也不吃, never 不也吃), and the second clause can drop the object 肉 because 也 points back to it.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他不吃肉，我{{c1::也::also}}不吃。",
+"tr": "He doesn't eat meat, and nor do I.",
+"flag": "dup: replaced 我也不知道"
+},
+"ZH-HSK1-06-017": {
+"notes": "和 + person + 一起 + verb = do something with someone, and the whole phrase comes before the verb. 和 is the more frequent choice in writing and in the south.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我{{c1::和::with (not 跟)}}朋友一起吃饭。",
+"flag": "hint: 和 and 跟 both fitted 'with'; added (not 跟)"
+},
+"ZH-HSK1-06-018": {
+"notes": "一起 is an adverb, so it sits before the verb 去. With 吧 at the end the sentence becomes a suggestion that includes the listener.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-06-019": {
+"notes": "跟 introduces the companion, and 跟妈妈一起 goes before 去商店; English puts 'with my mum' last. 跟 is more colloquial than 和 and typical of northern speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral; 跟 colloquial",
+"text": "我{{c1::跟::with (not 和)}}妈妈一起去商店。",
+"flag": "hint: 和 and 跟 both fitted 'with'; added (not 和)"
+},
+"ZH-HSK1-07-001": {
+"notes": "Speaking a language is a learned skill, so 会; going to work is ruled out by the cold on this occasion, so 能. Both are negated with 不.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-002": {
+"notes": "The question is about permission in this place, so 可以. 能 is also common in permission questions (这儿能吃东西吗?), but 会 concerns skill or likelihood and can't be used.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-003": {
+"notes": "The cue is a wish, so 想 + verb, which is softer than 要. 我会去中国 would be a prediction or promise (I will go), not a wish.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(A wish) 我{{c1::想::想 or 会?}}去中国。",
+"flag": "hint: 会 (will) also fitted; added context cue (A wish)"
+},
+"ZH-HSK1-07-004": {
+"notes": "Driving is a learned skill, so 会. 你能开车吗? asks something different: whether you're able to drive now, for instance after a drink.",
+"tip": "",
+"compare": "今天我喝了酒，不能开车。",
+"register": "Neutral"
+},
+"ZH-HSK1-07-005": {
+"notes": "Asking permission → 可以, and the reply uses the same verb: 可以 or 不行. 进来 has 来 because the listener is inside.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-006": {
+"notes": "With a noun object, 'want' is 要, because 想 + noun means 'miss' or 'think of'. 不要 + noun is a refusal; 不要 + verb means 'don't'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-007": {
+"notes": "想 + person = miss. Because 想 is a psychological verb, degree adverbs like 很 can modify it; 我很要妈妈 is impossible.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-008": {
+"notes": "Here 会 predicts what is likely, not a skill. Forecasts and confident predictions use it, often with a final 的: 他会来的.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-009": {
+"notes": "喜欢 takes a verb phrase directly: 喜欢看书. 看书 (literally 'look at books') is the everyday phrase for reading.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-010": {
+"notes": "Here 喜欢 takes a noun object (颜色), with 什么 modifying it. 什么 + noun asks about an open set; for a limited set on show, 哪个颜色 is the choice.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-07-011": {
+"notes": "认识 is knowing a person (being acquainted) or recognising a character; 知道 is knowing a fact, here where he lives. You can 知道 someone (know of them) without 认识 them.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-001": {
+"notes": "在 + place goes before the verb it locates: 在家 + 看电视. 我看电视在家 is ungrammatical; English end-position place phrases always move forward in Chinese.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-002": {
+"notes": "在医院 states where the work happens and comes before 工作. Unlike 住在 or 坐在, 工作在医院 is non-standard in speech, though it turns up in journalese.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-003": {
+"notes": "在饭店 precedes 吃饭, and 吧 makes the sentence a suggestion. 饭店 is a restaurant in everyday mainland speech but also names large hotels, as in 北京饭店.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-004": {
+"notes": "桌子 is an object, not a place, so it needs a location word after 在: 桌子上. Place names (北京) and some institutions (学校, 家) can follow 在 directly.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-005": {
+"notes": "下面 (or 下边) = underneath. The single-syllable 下 also works after a noun (椅子下), especially in writing; 下面 is more usual in speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-006": {
+"notes": "里 = inside, usually unstressed, and it's what turns 包 into a place 在 can take. Countries and cities never take it: 在中国, not 在中国里.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-007": {
+"notes": "The location phrase 学校前面 is the subject of 有: place first, then 有 + thing. 前面 can't be dropped: 学校有一个商店 would put the shop on the school premises.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-08-008": {
+"notes": "后面 = behind, relative to 我家, and the location phrase is the subject of 有. It also means 'at the back' (坐在后面) and, in time, 'later on'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-001": {
+"notes": "了 after the verb marks a completed action, and the counted object (一本书) makes the sentence feel complete. With a bare object, 我买了书 tends to sound unfinished, as if more is coming.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-002": {
+"notes": "Sentence-final 了 announces a new state of affairs. 下雨 is a verb + object compound, and 了 goes after the whole compound.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-003": {
+"notes": "饿 is an adjective, and adjective + 了 signals a change into that state. Without 了 (我很饿), it's simply a description.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-004": {
+"notes": "已经 presupposes completion, so it strongly attracts 了. Here one 了 does both jobs, verbal and sentence-final, because the verb ends the sentence.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-005": {
+"notes": "吧 softens an imperative into a suggestion, and 我们 includes the speaker. Without 吧, 我们走 sounds like a decision or an order.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-006": {
+"notes": "吧 on a statement seeks confirmation of what you already suspect, like a tag question; 吗 would make it a genuinely open question. 老师 is a title for teachers of either sex.",
+"tip": "",
+"compare": "你是王老师吗？",
+"register": "Neutral"
+},
+"ZH-HSK1-09-007": {
+"notes": "No subject is needed: 吧 plus the context makes this a suggestion to the listener. The same particle also marks reluctant agreement: 好吧 (all right, then).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-008": {
+"notes": "在 + verb marks an action in progress, and 呢 at the end often reinforces it. Either alone is enough: 他在看书 or 他看书呢.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-009": {
+"notes": "在 before the verb already marks progress; final 呢 adds the 'ongoing' sense with a matter-of-fact, informing tone, as when explaining why someone can't come.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK1-09-010": {
+"notes": "In a question-word question, 呢 adds the ongoing sense and softens the question. 吗 is impossible here because 什么 already makes it a question.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+}
+}
