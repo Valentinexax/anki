@@ -1,0 +1,994 @@
+{
+"ZH-HSK3-01-001": {
+"notes": "把 moves a specific, known object (作业 = my homework) in front of the verb, and the verb can't stand bare: it needs a result such as 完. 我把作业写 on its own is incomplete.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-002": {
+"notes": "In a request, 把 + object + verb + complement says what should be done to the thing: 关上, with 上 marking the door reaching its closed position. 请 at the start makes it polite.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"ZH-HSK3-01-003": {
+"notes": "放 + 在 + place gives the object's final location. With verbs of placing, 把 is practically obligatory: 他放钱在包里 is ungrammatical.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-004": {
+"notes": "还 + 给 + person shows the object passing to someone. 把 fronts 书, a specific book both speakers know about; an indefinite 一本书 couldn't follow 把.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-005": {
+"notes": "Negatives and modals go before 把, never between 把 and the verb: 别把…忘在, not 把手机别忘. 忘在 + place = leave something behind somewhere.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-006": {
+"notes": "In the past negative, 没 goes before 把 and 了 drops. 告诉 normally takes two objects; 把 fronts the thing told (这件事) and leaves the person (他) after the verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-007": {
+"notes": "成 marks transformation into something else: 翻译成, 换成, 写成. It requires 把 to bring the original (这句话) forward, leaving the result after 成.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-008": {
+"notes": "打 + 破 = break by hitting or dropping; the result 破 is what licenses 把. English 'break' is one verb, where Chinese splits the cause (打) from the result (破).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-009": {
+"notes": "被 makes the affected thing the subject, and the doer can be left out (被偷了). 被 sentences typically report something unwelcome, such as theft.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-010": {
+"notes": "Here the doer (老师) follows 被: subject + 被 + doer + verb + 了. 批评 (criticise) is the usual verb for being told off at school or work.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-011": {
+"notes": "被 sentences rarely end in a bare verb; the result 完 completes it. Inanimate subjects such as 牛奶 are typical, and 们 marks 孩子们 as a definite group.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "牛奶被孩子们喝{{c1::完::result: finished}}了。",
+"tr": "The milk's all been drunk by the kids.",
+"flag": "dup: replaced 蛋糕被弟弟吃完了 (repeated in HSK3-01-014)"
+},
+"ZH-HSK3-01-012": {
+"notes": "让 and 叫 as passive markers are colloquial and, unlike 被, can't drop the doer: 钱包让偷走了 is impossible. 走 shows the wallet has gone.",
+"tip": "",
+"compare": "",
+"register": "Colloquial (让)",
+"text": "我的钱包{{c1::让::passive marker (colloquial; not 叫)}}小偷偷走了。",
+"flag": "hint: 叫 fitted equally; added (not 叫)"
+},
+"ZH-HSK3-01-013": {
+"notes": "The negative 没 goes before 被, not before the verb. 选上 = be chosen, with 上 marking success in getting into a group or position.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-01-014": {
+"notes": "把: the doer (弟弟) is the subject and acts on the cake. 被: the cake is the subject and undergoes the action. Same event, opposite perspective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-001": {
+"notes": "掉 marks removal: the phone has gone from my possession. It's very common with verbs of disposal: 扔掉, 卖掉, 忘掉, 删掉.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我把旧手机卖{{c1::掉::away; off (result)}}了。",
+"tr": "I've sold my old phone.",
+"flag": "dup: replaced 他把蛋糕吃掉了 (third cake-eating sentence in the deck)"
+},
+"ZH-HSK3-02-002": {
+"notes": "走 as a result complement marks movement away from here: 拿走 (take away), 带走, 开走. Its opposite is 拿来 (bring).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-003": {
+"notes": "开 as a result means 'open': 推开 (push open), 拉开 (pull open), 打开 (open). The verb shows the action and 开 the outcome.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "他把窗户推{{c1::开::open (result)}}了。",
+"tr": "He pushed the window open.",
+"flag": "dup: replaced 请把门打开 (flagged against 请把门关上)"
+},
+"ZH-HSK3-02-004": {
+"notes": "着 read zháo marks success, here in falling asleep; it's unrelated to aspectual zhe. 睡觉 is going to bed, 睡着 is actually getting to sleep, and its negative is 没睡着.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-005": {
+"notes": "光 = used up completely, nothing left: 花光, 吃光, 卖光. 都 before the verb sums up the fronted object 钱, and 把 is natural because the money is specific (his).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-006": {
+"notes": "会 as a complement marks mastery: 学会 = learn successfully. 学 alone just means study, so 我学了游泳 doesn't say you can swim.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-007": {
+"notes": "A two-syllable adjective can be a result: 洗干净. The subject 衣服 is the thing affected, with no 被 needed, a so-called notional passive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-008": {
+"notes": "出来 as a result marks something produced or revealed: 算出来 (work out), 想出来 (think up), 看出来 (make out). 道 is the measure word for exam questions.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "这道题的答案我算{{c1::出来::out (result: worked out)}}了。",
+"tr": "I've worked out the answer to this question.",
+"flag": "dup: replaced 我听出来了，是你 (near-identical to HSK4-09-005)"
+},
+"ZH-HSK3-02-009": {
+"notes": "不 inside verb + result gives the potential complement: 听不懂 = can't understand. It reports inability under the circumstances, here the speed of speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-010": {
+"notes": "得 inside verb + result = can achieve it: 听得懂. Shanghainese is a Wu variety, largely unintelligible to Mandarin speakers, which is why the question is a real one.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-011": {
+"notes": "看不见 = can't see (it's beyond reach), with 太远了 as the reason. 没看见 would mean you happened not to see it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-012": {
+"notes": "This 了 is liǎo, 'finish, manage', used only in potential forms: 吃不了, 去不了 (can't go). It has nothing to do with the aspect particle le.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-013": {
+"notes": "来不及 = not enough time to make it; 来得及 = still in time. It can take a verb: 来不及吃早饭 (no time for breakfast).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-014": {
+"notes": "买不到 = can't get any, because none are available, which is why 卖完了 comes first. 买不起 would mean can't afford.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-015": {
+"notes": "Potential complements also work with direction: 进不去 = can't get in. 去 because the fridge would be moving away from the speaker.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-016": {
+"notes": "起 in potential form concerns affordability or standing: 买不起 (can't afford), 看不起 (look down on). There's no plain result form 买起.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-017": {
+"notes": "下 in potential form means there's room to take something in: 吃不下 (can't eat any more), 坐不下 (not enough seats). 饱 is the result that causes it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-018": {
+"notes": "动 = movement possible: 走不动 (too tired to walk), 拿不动 (too heavy to carry). It's about physical capacity, not permission.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-019": {
+"notes": "住 = held firmly: 记住 (commit to memory), 记不住 (can't retain); 拿住 and 站住 use the same sense. The object 这么多生词 is fronted as topic.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-020": {
+"notes": "受不了 = can't bear it, a fixed potential of 受 + 了 (liǎo). It also takes an object, including a person: 我受不了他.",
+"tip": "",
+"compare": "",
+"register": "Neutral; colloquial"
+},
+"ZH-HSK3-02-021": {
+"notes": "Can't because it's too hard → potential complement (看不懂); can't because it isn't allowed → 不能 + verb. The potential form never expresses prohibition.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-02-022": {
+"notes": "The cue gives a physical limit (too heavy), so the potential 拿不动. 不能拿 would mean you mustn't take it, perhaps because it isn't yours.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-001": {
+"notes": "出来 = out, towards the speaker, who is outside the room. 从…里 sets the starting point, and the direction complement completes the movement.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(The speaker is outside) 她从房间里走{{c1::出来::out (towards the speaker)}}了。",
+"tr": "She came out of the room.",
+"flag": "dup: replaced 他从包里拿出来一本书 (same sentence as HSK3-03-008, reordered)"
+},
+"ZH-HSK3-03-002": {
+"notes": "进来 combines 进 (into) with 来 (towards me, inside). 走 gives the manner: on foot; 跑进来 would be running in.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-003": {
+"notes": "上去 = up and away from the speaker below. A speaker upstairs would say 跑上来. 跑 gives the manner, so the complement carries only the direction.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-004": {
+"notes": "回去 = back, away from here, to where the book belongs. 带 = take with you, so the book leaves with the listener.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-005": {
+"notes": "起来 = up, rising from a lower position: 站起来, 坐起来 (sit up), 拿起来 (pick up). It's neutral as to where the speaker is.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-006": {
+"notes": "过来 = across towards the speaker; 过去 would be away. It's the usual complement for something approaching.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-007": {
+"notes": "A place object goes between the two parts: 走进 + 教室 + 来. It can never come after 来: 走进来教室 is wrong. With 去 the pattern is the same: 走进教室去.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-008": {
+"notes": "An ordinary object can go between the two parts (拿出一本书来) or after the whole complement (拿出来一本书). The split form is the more colloquial.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-009": {
+"notes": "想起来 = recall: 起来 marks something rising back into memory, and 了 marks the moment it did. The recalled fact follows in the next clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-010": {
+"notes": "看起来 = look, judged by appearance, with 起来 marking an impression formed on observing. It's followed by an adjective or a clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-011": {
+"notes": "听起来 = sound, judged by hearing; the same pattern gives 闻起来 (smell) and 吃起来 (taste). 不错 is a typical evaluative adjective after it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-012": {
+"notes": "下去 = continue onwards from now: 说下去 (go on speaking), 坚持下去 (keep at it). 请你 makes it an encouragement rather than an order.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"ZH-HSK3-03-013": {
+"notes": "想出来 = come up with: 出来 marks something emerging that didn't exist before. 想起来 is different: recalling something already known.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-03-014": {
+"notes": "Recalling a name you once knew takes 起来, so 想不起来 = can't remember. 想不出来 would mean you can't come up with something new. 来着 asks about something you've forgotten.",
+"tip": "",
+"compare": "",
+"register": "Colloquial (来着)"
+},
+"ZH-HSK3-04-001": {
+"notes": "地 links an adverbial (高兴) to the verb, describing how he smiled. A two-syllable adjective used before a verb like this usually needs 地.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-04-002": {
+"notes": "A reduplicated adjective (慢慢) commonly takes 地 before the verb, though it can be dropped: 请慢慢说. In Beijing speech the form is 慢慢儿, with the second syllable in first tone.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"ZH-HSK3-04-003": {
+"notes": "认真地 + verb describes manner. 地 is the same character as 'ground' (dì), but as a particle it's neutral-toned de.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-04-004": {
+"notes": "A noun follows → 的; a verb precedes and a comment follows → 得; an adverbial precedes a verb → 地. All three are pronounced de, so only the writing shows the difference.",
+"tip": "",
+"compare": "",
+"register": "Standard spelling"
+},
+"ZH-HSK3-04-005": {
+"notes": "开心 is an adjective used adverbially before 唱歌, so 地. 开心 is close to 高兴 but more colloquial, and it's also a verb in 开开心心 or 开心一下.",
+"tip": "",
+"compare": "",
+"register": "Standard spelling"
+},
+"ZH-HSK3-04-006": {
+"notes": "得 follows the verb 说 and introduces the outcome: clear. 清楚地说 would describe the intended manner instead (speak clearly).",
+"tip": "",
+"compare": "清楚地说",
+"register": "Standard spelling"
+},
+"ZH-HSK3-04-007": {
+"notes": "极了 after an adjective = extremely, emphatic and usually positive or neutral. No degree adverb can be added: 很好极了 is wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-04-008": {
+"notes": "死了 after an adjective = 'to death', a hyperbole common in speech. It's mostly used for unpleasant states (累死了, 热死了), though 高兴死了 also occurs.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK3-04-009": {
+"notes": "坏了 after an adjective = extremely, and despite 坏 (bad) it can describe pleasure: 乐坏了 (thrilled to bits). It's equally common with negative states: 急坏了.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "听到这个好消息，孩子们乐{{c1::坏了::terribly (adj + …)}}。",
+"tr": "The children were thrilled to bits at the good news.",
+"flag": "dup: replaced 我饿坏了 (flagged against HSK1 我饿了)"
+},
+"ZH-HSK3-04-010": {
+"notes": "得不得了 = extremely, following 得 like any degree complement. 不得了 on its own is an exclamation: 'terrible!' or 'amazing!'.",
+"tip": "",
+"compare": "",
+"register": "Neutral; colloquial"
+},
+"ZH-HSK3-04-011": {
+"notes": "得要命 = 'enough to kill me', for something unbearable. Like 死了 it's colloquial, but it needs 得 before it.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK3-04-012": {
+"notes": "AABB reduplication of a two-syllable adjective (高兴 → 高高兴兴) makes it vivid, and before a verb it takes 地. Reduplicated adjectives can't take 很.",
+"tip": "",
+"compare": "",
+"register": "Neutral; vivid"
+},
+"ZH-HSK3-04-013": {
+"notes": "After 得, a reduplicated adjective describes a vivid result and usually ends in 的. 很干干净净 is impossible, because reduplication already intensifies.",
+"tip": "",
+"compare": "",
+"register": "Neutral; vivid"
+},
+"ZH-HSK3-04-014": {
+"notes": "AA reduplication of a one-syllable adjective used adverbially: 好好 = properly, thoroughly. In Beijing speech it becomes 好好儿 (hǎohāor).",
+"tip": "",
+"compare": "",
+"register": "Neutral; caring"
+},
+"ZH-HSK3-04-015": {
+"notes": "清楚 → 清清楚楚 after 得, with a closing 的. In a request the vivid form describes the result you want to see.",
+"tip": "",
+"compare": "",
+"register": "Neutral; vivid"
+},
+"ZH-HSK3-04-016": {
+"notes": "A doubled measure word (个个) means 'every single one' and is followed by 都. Similar forms are 人人, 家家 and 件件.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-04-017": {
+"notes": "天天 = every day, a doubled noun of time. It's more colloquial than 每天 and often goes without 都. 锻炼 is the everyday word for taking exercise.",
+"tip": "",
+"compare": "",
+"register": "Neutral; colloquial"
+},
+"ZH-HSK3-05-001": {
+"notes": "虽然 concedes a real fact, and 但是 / 可是 still introduces the main point. Unlike English 'although… but', Chinese normally keeps both.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-002": {
+"notes": "虽然 can follow the subject (他虽然很忙) or precede it. 还是 in the second clause adds 'still', and the subject there is understood.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-003": {
+"notes": "With one shared subject, 不但 goes after it (她不但…). 而且 introduces the further point, often reinforced with 还 or 也.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-004": {
+"notes": "不但…而且… also links adjectives; the second item should be an addition or a stronger point. 而且 starts the second clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-005": {
+"notes": "一边 + verb, 一边 + verb: simultaneous actions by the same subject. With one-syllable verbs 一 can drop: 边吃边看.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-006": {
+"notes": "The second 一边 heads the second clause, and both actions run in parallel. 聊天 is a verb + object compound (chat), which can split: 聊了一会儿天.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-007": {
+"notes": "一 + verb 1, 就 + verb 2: B happens immediately after A. Both 一 and 就 go after their subjects (我一到家就…), never before.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-008": {
+"notes": "For a habit, 一…就 means 'whenever'. 脸红 (face goes red) is itself a subject + predicate phrase acting as the second verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-009": {
+"notes": "只要 states a sufficient condition (that's enough) and pairs with 就; 只有 states the only necessary condition and pairs with 才.",
+"tip": "The second word gives it away: 就 goes with 只要, 才 with 只有.",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-010": {
+"notes": "只有 + condition + 才 = only if. 才 after the subject 他 shows nothing else will make him go, and 会 adds prediction: he would only go then.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-011": {
+"notes": "只要 = as long as, presenting the condition as easy to meet. 就 + imperative + 吧: then just buy it. 就 here can't be replaced by 才.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-012": {
+"notes": "比如 introduces examples after a general statement; 比如说 is the spoken variant and 例如 the written one. The examples needn't be a complete list.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-05-013": {
+"notes": "结果 = as a result, often for an unwanted outcome, and it starts its clause. As a noun it means 'result': 考试结果.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-06-001": {
+"notes": "除了…以外 + 还 / 也 adds to the list (besides); + 都 leaves the item out (except). The adverb in the second clause decides which.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-06-002": {
+"notes": "连 + 饭 + 都 picks an extreme case: not even food. 没吃就走了 = left without eating; 就 links the two events.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-06-003": {
+"notes": "连 + noun + 都 / 也 highlights the least likely case, here a child. 都 or 也 must follow; 连 alone isn't enough.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-06-004": {
+"notes": "越 A 越 B with one subject: the more it rains, the heavier it gets. 越来越 is the fixed version for change over time.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-06-005": {
+"notes": "越 + verb, 越 + adjective: the more I think, the angrier I get. Each 越 stands directly before its own verb or adjective, after the subject.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-06-006": {
+"notes": "要是 = if, more colloquial than 如果, and it pairs with 就. 的话 can also close the condition (要是你不舒服的话), and 早点儿 softens the advice.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK3-06-007": {
+"notes": "…的话 at the end of a clause marks a condition by itself, with no 如果 needed. 就 + 别 then gives the advice.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK3-06-008": {
+"notes": "不是 A 就是 B = it must be A or B, nothing else. Each part can carry its own 在 + place, and the subject comes before 不是. 宿舍 is a student hall of residence.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-06-009": {
+"notes": "Applied to habits, 不是…就是… gives the only two options and often sounds like a gentle complaint about routine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-07-001": {
+"notes": "In comparisons of how well something is done, 比 B can follow 得: 跑得比我快. The alternative order is 他比我跑得快; both are standard.",
+"tip": "",
+"compare": "他比我跑得快。",
+"register": "Neutral"
+},
+"ZH-HSK3-07-002": {
+"notes": "Here 比 B comes before the verb: 比我考得好. 考得好 = do well in an exam, and 这次考试 at the start sets the scene. The adjective after 得 stays bare.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "这次考试，小王比我考{{c1::得::degree particle (after the verb)}}好。",
+"tr": "Xiao Wang did better than me in this exam.",
+"flag": "dup: replaced 她比我唱得好 (flagged against HSK2 她唱得很好)"
+},
+"ZH-HSK3-07-003": {
+"notes": "多了 after the adjective = much more. It's an alternative to 得多 (方便得多) and slightly more colloquial; neither takes 很.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "坐高铁比坐飞机方便{{c1::多了::much (big difference)}}。",
+"tr": "Taking the high-speed train is far more convenient than flying.",
+"flag": "dup: replaced 今天比昨天冷多了 (near-identical to HSK2-04-001)"
+},
+"ZH-HSK3-07-004": {
+"notes": "得多 = much more, equivalent to 多了 but a touch more formal. Like every 比 sentence, the adjective can't take 很.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-07-005": {
+"notes": "一 + MW + 比 + 一 + MW = progressively: better year by year. 一天比一天 is the common daily version. 日子 here means one's life and circumstances.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-07-006": {
+"notes": "像 B 一样 + adjective = as … as B, with 像 suggesting resemblance. 跟…一样 is the neutral alternative, and 不像 gives the negative: 他不像他爸爸那么高.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-07-007": {
+"notes": "像…一样 can follow 得: 说得像中国人一样好. In this context 中国人 means a native speaker, and the comparison is of how well she speaks.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-07-008": {
+"notes": "A 不如 B (+ adjective) = A is not as good as B. Unlike 没有, 不如 can stand without an adjective (这家不如那家), and with one it implies a positive quality: 不如那家好吃.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-001": {
+"notes": "刚 is an adverb before the verb and can cover a time weeks ago (刚来一个月). 刚才 is a time noun for minutes ago and can open the sentence.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-002": {
+"notes": "终于 = finally, after a long wait or effort, and it's almost always followed by 了. 等了一个小时 supplies the wait.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-003": {
+"notes": "突然 = suddenly; unlike the synonym 忽然, it's also an adjective (很突然). 下起雨来 splits 起来 around the object 雨.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-004": {
+"notes": "其实 introduces the truth behind an appearance (看起来很年轻). It usually follows a clause that states the misleading impression.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-005": {
+"notes": "本来 = originally, implying the plan changed. The second clause usually explains why (可是太忙了). As an adjective, 本来 also means 'original': 本来的意思.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-006": {
+"notes": "只好 = had no choice but to, implying reluctance. The reason comes first (没有车了). 不得不 is a stronger, more formal near-synonym.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-007": {
+"notes": "差不多 = almost, before the verb or a number (差不多十点了). As an adjective it means 'about the same': 这两个差不多.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "我们{{c1::差不多::almost}}到了。",
+"tr": "We're nearly there.",
+"flag": "dup: replaced 作业我差不多写完了 (flagged against HSK3-01-001)"
+},
+"ZH-HSK3-08-008": {
+"notes": "一定 + 要 = must, be sure to: an emphatic request. On its own 一定 can also mean 'certainly' (他一定会来), and 不一定 = not necessarily.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-009": {
+"notes": "千万 + 别 / 不要 = whatever you do, don't. It's used almost exclusively in negative warnings; 千万要小心 is the rarer positive use.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-010": {
+"notes": "好像 = seem, as if, softening a judgement about someone's state. 不太高兴 is the polite way of saying 'unhappy'. 似乎 is the written equivalent.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-011": {
+"notes": "总是 = always, often critical in tone when it describes a habit. 老 is the colloquial equivalent (他老迟到), and 一直 means 'continuously', not 'every time'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-012": {
+"notes": "挺 + adjective (+ 的) = quite, pretty; softer than 很 and colloquial. The closing 的 is optional but very common.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"ZH-HSK3-08-013": {
+"notes": "从来 + 不 = never, as a habit or principle: he doesn't drink at all. 从来 is used almost only with negatives in standard Mandarin.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-014": {
+"notes": "从来 + 没 + verb + 过 = have never done something. 过 is usual here, since the point is a lack of experience.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-015": {
+"notes": "后来 = later, afterwards, only for past events, and it starts its clause. For the future, 以后 is used: 以后再说. 又 marks the second trip.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-016": {
+"notes": "该 + verb + 了 = it's time to; 十一点了 gives the reason. As a modal 该 also gives 'turn' (该你了) and 'should' (你该休息了).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-017": {
+"notes": "Duration + 没 + verb + 了 = haven't done it for that long. The duration comes before the verb, unlike positive durations, which follow it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-08-018": {
+"notes": "The double 了 (工作了 … 五年了) marks a situation still going on, as the cue says. With one 了 she would have left the company.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(Still working there) 她在这家公司工作了五年{{c1::了::still ongoing (sentence-final particle)}}。",
+"tr": "She's been working at this company for five years.",
+"flag": "dup: replaced 我学汉语学了三年了 (near-identical to HSK2-03-004)"
+},
+"ZH-HSK3-09-001": {
+"notes": "什么 + 都 + negative = nothing at all. The question word goes before the verb, followed by 都 or 也. 想 + verb here is 'feel like'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-002": {
+"notes": "谁 + 都 = everyone: any question word + 都 gives a universal meaning, and here it's positive. 这件事 is fronted as the topic.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-003": {
+"notes": "哪儿 + 都 + 没 = nowhere; the past negative 没 fits the past weekend. 也 can replace 都 here (哪儿也没去), and 哪里 is the southern and written form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-004": {
+"notes": "怎么 + 也 + negative = no matter how hard; with a potential complement (找不到) it gives 'just can't'. 都 can replace 也 here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-005": {
+"notes": "不是…吗 is a rhetorical question: I thought you said…. It carries surprise or mild reproach, and the expected answer is 'yes, I did'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-006": {
+"notes": "Place + verb + 着 + indefinite noun expresses existence. 放着 shows the tea was put there and remains. 有 would state existence without the resulting position.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-007": {
+"notes": "Place + verb + 了 + new arrival expresses appearance. The newcomer follows the verb because they're new information.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-008": {
+"notes": "Place + verb + direction complement + noun: someone appears. 过来 = towards us, and the noun has 一个 because the person is new.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-09-009": {
+"notes": "V着V着 + 就 = while doing something, another thing happened. Doubling 着 implies the action went on for a while.",
+"tip": "",
+"compare": "",
+"register": "Neutral; narrative"
+},
+"ZH-HSK3-09-010": {
+"notes": "Verb + 着 as a command = keep (doing): 听着! (listen!), 拿着 (hold this), 等着 (wait). It's brusque and often precedes a warning.",
+"tip": "",
+"compare": "",
+"register": "Brusque"
+},
+"ZH-HSK3-09-011": {
+"notes": "V1 着 + V2 gives the posture of the main action: sitting down. 站着吃 (eat standing up) is the contrast, and 吧 makes it a suggestion.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-10-001": {
+"notes": "向 + person + 学习 = learn from someone, with 向 marking the direction. 跟他学习 is the colloquial alternative.",
+"tip": "",
+"compare": "",
+"register": "Neutral; slightly formal"
+},
+"ZH-HSK3-10-002": {
+"notes": "朝 = facing, towards, like 往 or 向 with directions. 朝 also says which way something faces (房子朝南), and 一直 here means 'straight on'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-10-003": {
+"notes": "替 = instead of, on behalf of: 我替你去 = I'll go in your place. 替 + person + verb also means 'for someone's benefit': 我替你高兴 (I'm happy for you).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-10-004": {
+"notes": "用 + tool + verb = do something with a tool. 用 is a verb used like a preposition (a coverb), and it can also be the main verb: 你会用筷子吗?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-10-005": {
+"notes": "请 + person + verb = invite or treat someone, so 请你吃饭 means the speaker pays. The pattern is a pivot sentence: 你 is both object of 请 and subject of 吃饭.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-10-006": {
+"notes": "好 + verb = easy to: 好回答, 好找, 好学. It's the opposite of 难 + verb, and some combinations are lexicalised: 好吃 (tasty), 好看 (good-looking).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-10-007": {
+"notes": "难 + verb = hard to: 难找, 难懂, 难说. 很 goes before 难 as before any adjective, and lexicalised forms include 难吃 (horrible to eat) and 难看 (ugly).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-001": {
+"notes": "笔 is a thin, stick-shaped object, so it takes 支 (also 枝 in some writing). 支 covers cigarettes and candles too, and by extension songs (一支歌) and teams (一支队伍). 借我 = lend me.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-002": {
+"notes": "山 is a large, fixed mass, so it takes 座, which also counts bridges, buildings, towers and cities. 那座 + noun points to one visible at a distance.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-003": {
+"notes": "树 is a plant, so it takes 棵, also used for cabbages and grass (一棵草). 门口 (the doorway) is the place subject of existential 有.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-004": {
+"notes": "信 takes 封, originally 'sealed'; it now also counts emails (一封邮件). 给 + person + 写 = write to someone.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-005": {
+"notes": "歌 takes 首, which counts songs and poems (一首诗). 支 is the alternative for songs, mainly in writing and older usage.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-006": {
+"notes": "文章 takes 篇, the measure word for pieces of writing: articles, essays, papers, reports. It's also used for pages in older texts.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-007": {
+"notes": "房子 bought as a unit takes 套, the measure word for complete sets: a flat (一套房子), a suit (一套西装), a set of books. 一所房子 would be a free-standing house.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-008": {
+"notes": "面包 sliced takes 片, the measure word for thin, flat pieces: slices of bread, tablets (两片药), leaves. A whole loaf would be 一个面包.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-009": {
+"notes": "人 in a crowd takes 群, the collective measure word for groups of people or animals: 一群羊. 外面 (outside) is the place subject.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-010": {
+"notes": "比赛 is an event, so it takes 场, which also counts films, performances, exams and spells of weather (一场雨). 场 is read chǎng here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-011": {
+"notes": "饭 counted as a meal takes 顿; the same measure word counts beatings and scoldings (骂了他一顿). 吃一顿饭 suggests a proper sit-down meal.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-012": {
+"notes": "时间 as a stretch takes 段, the measure word for sections of something continuous: periods of time, stretches of road (一段路), passages of text.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-013": {
+"notes": "话 counted by the sentence takes 句: 说一句话 = say a few words. It's also the measure word for lines of a poem.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-014": {
+"notes": "课 as a lesson period takes 节, which counts class periods and also train carriages (一节车厢). 门 counts courses: 三门课 = three subjects.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-015": {
+"notes": "一眼 counts the glance itself: body parts serve as verbal measure words for the action they perform. With a pronoun object, the order is 看了我一眼.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-016": {
+"notes": "一口 counts a bite or mouthful, using 口 (mouth) as a verbal measure word. 喝了一口 is a sip; 尝一口 a taste. 口 is also the noun measure word for family members.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-017": {
+"notes": "一 MW 一 MW (地) = one by one, used adverbially before the verb. Other measure words fit the frame: 一件一件地, 一步一步地 (step by step).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-018": {
+"notes": "所有 = all, before a noun, with 的 optional (所有人). It's normally backed up by 都 before the verb, which is what completes the universal meaning.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-019": {
+"notes": "任何 = any, before a noun, and it needs 都 or 也 after it in a statement. In negatives it means 'no… at all': 任何人都不能进.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-020": {
+"notes": "其他 = other, before a noun, referring to the rest of a known group. 别的 is the more colloquial alternative: 别的人都走了.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-021": {
+"notes": "另外 + 一 + MW = another, one more. It can also stand alone at the start of a clause meaning 'besides, in addition'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-022": {
+"notes": "全 + noun = the whole, here the whole class. It can precede a measure-word-free noun (全班, 全国, 全家) and is followed by 都.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-023": {
+"notes": "各 = each, every, before a noun or measure word (各国, 各位). It's more formal than 每 and stresses each member separately; 都 follows.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-024": {
+"notes": "俩 (liǎ) = two people, a fusion of 两个, so no measure word follows: 你们俩, 我们俩. It's colloquial and northern-flavoured; 你们两个 is the neutral form.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "你们{{c1::俩::two (of you)}}去哪儿？",
+"tr": "Where are you two off to?",
+"flag": "dup: replaced 我们俩是好朋友 (flagged against HSK1-02-001 我们是朋友)"
+},
+"ZH-HSK3-11-025": {
+"notes": "好几 + MW = quite a few, more than expected: 好几次, 好几个人. 好 here intensifies 几 rather than meaning 'good'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"ZH-HSK3-11-026": {
+"notes": "什么的 closes an open list: and so on, that sort of thing. It follows the last item directly; 等等 is the written equivalent. 看看书 here uses relaxed verb reduplication.",
+"tip": "",
+"compare": "",
+"register": "Colloquial",
+"text": "周末我一般看看书、听听音乐{{c1::什么的::and so on (spoken)}}。",
+"tr": "At weekends I usually read, listen to music, that sort of thing.",
+"flag": "dup: replaced 我买了苹果、香蕉什么的 (flagged against HSK2-08-014)"
+}
+}
