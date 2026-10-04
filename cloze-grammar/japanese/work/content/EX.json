@@ -1,0 +1,669 @@
+{
+"JP-EX-01-001": {
+"notes": "あく is intransitive (the door opens, with が); あける is transitive (I open the door, with を). Japanese has many such pairs, and the particle is the clue: が for 'it happens', を for 'someone does it'.",
+"tip": "Intransitive + が; transitive + を.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-002": {
+"notes": "始まる (intransitive): 授業が始まる 'class starts'. 始める (transitive): 先生が授業を始める. English 'start' covers both, so learners often mix them up.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-003": {
+"notes": "つく (intransitive): 電気がつく 'the light comes on'. つける (transitive): 電気をつける 'switch on the light'. The pair also covers TVs and air conditioners.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-004": {
+"notes": "落ちる (intransitive): コップが落ちる 'the glass falls'. 落とす (transitive): コップを落とす 'drop the glass'. 落とす also means 'lose' small things: さいふを落とした.",
+"tip": "落とす also means 'lose (something small)'.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-005": {
+"notes": "こわれる (intransitive): パソコンがこわれる 'breaks (down)'. こわす (transitive): 弟がこわす 'my brother broke it'. The transitive version assigns blame.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-006": {
+"notes": "起きる (intransitive): 子どもが起きる 'wakes up'. 起こす (transitive): 母が子どもを起こす 'wakes the child'. 起こす also means 'cause': 事故を起こす.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-007": {
+"notes": "止まる (intransitive): 車が止まる 'the car stops'. 止める (transitive): 警察が車を止める 'the police stop the car'. 止める is also 'park': 車を止める.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-008": {
+"notes": "わく (intransitive): お湯がわく 'water boils'. わかす (transitive): お湯をわかす 'boil water'. お湯 is hot water; 水 is always cold or room temperature.",
+"tip": "お湯 = hot water; 水 = cold water.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-009": {
+"notes": "しまっている (intransitive + ている) states that the window is shut, with no one implied. しめてある (transitive + てある) means someone shut it on purpose and it stays shut.",
+"tip": "Intransitive + ている = a state; transitive + てある = left that way on purpose.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-01-010": {
+"notes": "出る (intransitive): 家を出る 'leave home', where を marks the place left, not an object. 出す (transitive): ごみを出す 'put out the rubbish'. Japanese rubbish goes out on set days.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-001": {
+"notes": "ている on a change-of-state verb describes the resulting state: 結婚しています 'is married', not 'is getting married'. The wedding happened in the past; the state continues.",
+"tip": "結婚している = is married (a state).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-002": {
+"notes": "来ています 'has come and is here'. With 来る and 行く, ている means 'is there now', not 'is on the way'. For 'on the way', use 向かっています.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-003": {
+"notes": "勤めています 'works at (is employed by)'. 勤める describes employment, so ている gives the ongoing job. 働く would focus on the activity of working.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-004": {
+"notes": "知っています means 'know', but the negative is 知りません, not ×知っていません. 知る describes coming to know; the ている form is the state of knowing.",
+"tip": "Know = 知っている; don't know = 知らない.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-005": {
+"notes": "の turns a clause into a noun for things perceived directly: 遊んでいるのが見える. こと is for abstract facts, and is required in 趣味は…ことです.",
+"tip": "Perception verbs take の; 趣味は… takes こと.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-006": {
+"notes": "走っているのを見ました 'saw him running'. 見る, 聞く and 見える take の for a scene you witness; こと would be wrong here.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-007": {
+"notes": "ことができる requires こと: 話すことができます. の can't replace it in this fixed pattern, nor in ことにする or ことがある. 話す is in the dictionary form.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-008": {
+"notes": "は after an object, replacing を, marks contrast: たばこはすいません 'cigarettes, I don't smoke'. The first clause sets up the contrast: お酒は飲みますが.",
+"tip": "Contrastive は replaces を and が.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-009": {
+"notes": "は after another particle adds contrast: 東京には行った 'to Tokyo, at least'. には, では, からは, とは are all common.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-010": {
+"notes": "が marks the subject inside a clause that describes a noun: 私が作ったケーキ. は can't be used inside such a clause, since it marks the topic of the whole sentence.",
+"tip": "Inside a relative clause, the subject takes が.",
+"compare": "",
+"register": "Polite request"
+},
+"JP-EX-02-011": {
+"notes": "が inside a とき clause: 母が帰ってきたとき. The main sentence has its own topic, 私は. Two subjects, two particles.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-012": {
+"notes": "あの refers to something both speakers know from shared memory; その refers to something just mentioned that the listener doesn't know. Using あの for a new shop would sound odd.",
+"tip": "Shared memory → あの; just mentioned → その.",
+"compare": "",
+"register": "Casual / polite"
+},
+"JP-EX-02-013": {
+"notes": "やる means 'give' to plants, animals or people below you: 花に水をやる 'water the flowers'. Many speakers now prefer あげる, even for plants.",
+"tip": "やる to people sounds rough; あげる is safer.",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-02-014": {
+"notes": "犬にえさをやる 'feed the dog'. えさ is animal food; for people, ごはん. あげる is increasingly common with pets. The past やりました reports a routine act.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-02-015": {
+"notes": "を with motion verbs marks the route: 道を渡る 'cross the road'. It isn't an object; the road isn't acted on. Likewise 公園を歩く, 橋を渡る.",
+"tip": "Motion verbs: を marks the route or the place left.",
+"compare": "",
+"register": "Polite request"
+},
+"JP-EX-02-016": {
+"notes": "を marks the vehicle you get off: 電車を降りる 'get off the train'. Getting on uses に: 電車に乗る. Learners often say ×電車から降りる, which is possible but less standard.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-EX-02-017": {
+"notes": "を marks the place left with 出る: 大学を出る, literally 'leave university', which also means 'graduate'. ずっと + ている shows the job has lasted ever since.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)",
+"text": "大学{{c1::を::particle: out of (leaving)}}出てから、ずっと東京で働いています。",
+"tr": "Since leaving university, I've worked in Tokyo.",
+"flag": "dup: replaced 毎朝、八時に家を出ます (same sentence as part of EX-01-010)"
+},
+"JP-EX-03-001": {
+"notes": "てる is the casual contraction of ている: してる. In casual speech the い disappears in all forms: してた, してない.",
+"tip": "ている → てる; ていた → てた.",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-002": {
+"notes": "知ってる 'I know'. It's the default form among friends; 知っている would sound stiff. よ adds 'I'm telling you'.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-003": {
+"notes": "とく is the casual contraction of ておく: 買っておく → 買っとく. It means doing something in advance, here getting drinks before guests arrive.",
+"tip": "ておく → とく; でおく → どく.",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-004": {
+"notes": "置いとく 'I'll leave it here'. ておく here means leaving something in place for later. 置く = put, place. The prefix-like contraction keeps the meaning: leave it here for now, for later use.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-005": {
+"notes": "じゃう is the casual contraction of でしまう: 飲んでしまう → 飲んじゃう. 飲む gives で because its て-form is 飲んで. ジュース = juice, soft drink.",
+"tip": "Verbs with a で て-form (飲んで, 読んで) take じゃう.",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-006": {
+"notes": "ちゃった is the casual past of てしまった: 行っちゃった 'has gone (and I missed it)'. The regret is built in. 電車 is the subject: the train has left.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-007": {
+"notes": "じゃ is the casual contraction of では: 泳いでは → 泳いじゃ. It's most common in ちゃだめ / じゃだめ 'mustn't'. 泳ぐ has the て-form 泳いで, so では → じゃ.",
+"tip": "ては → ちゃ; では → じゃ.",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-008": {
+"notes": "見ちゃだめ 'don't look'. 見ては → 見ちゃ. It's typical of parents and friends; with a stranger, 見ないでください. Said in fun, it can tease.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-009": {
+"notes": "なくちゃ is the casual form of なくては (いけない): やらなくちゃ 'I've got to'. The rest of the sentence is dropped. やる = do (casual).",
+"tip": "なくちゃ and なきゃ = must (casual).",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-010": {
+"notes": "なきゃ is the casual form of なければ (ならない): 行かなきゃ. It's slightly more common than なくちゃ among younger speakers.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-011": {
+"notes": "わかんない is a casual contraction of わからない: ら becomes ん before な. It's very casual and common among friends.",
+"tip": "ら / る / れ before な or の often become ん.",
+"compare": "",
+"register": "Very casual"
+},
+"JP-EX-03-012": {
+"notes": "つまんない is casual for つまらない (boring). The same ん contraction gives すんの (するの) and いらんない (いられない). 映画 = film.",
+"tip": "",
+"compare": "",
+"register": "Very casual"
+},
+"JP-EX-03-013": {
+"notes": "じゃん at the end means 'isn't it, you know': いいじゃん 'that's great'. It spread from Yokohama and the Kanto region and is now nationwide.",
+"tip": "じゃん = casual じゃないか.",
+"compare": "",
+"register": "Very casual"
+},
+"JP-EX-03-014": {
+"notes": "だから言ったじゃん 'I told you so'. じゃん here asserts something the listener should have known. The past 言った is the speaker's earlier warning. The tone is smug or exasperated.",
+"tip": "",
+"compare": "",
+"register": "Very casual"
+},
+"JP-EX-03-015": {
+"notes": "っけ means 'was it?', when trying to remember: 何時だったっけ. It's usually with the past form, even about the future.",
+"tip": "っけ = what was it again? Polite: でしたっけ.",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-016": {
+"notes": "名前なんだっけ 'what was the name?'. なん is 何 before だ. The polite version is お名前は何でしたっけ. あの人 = that person (both know).",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-017": {
+"notes": "んだって means 'I heard, apparently': 結婚するんだって. It's casual hearsay, equal to そうだ. The source is unnamed; it might be gossip. Compare 結婚するらしい (apparently, slightly more distant).",
+"tip": "んだって = casual そうだ (I heard).",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-018": {
+"notes": "閉まるんだって 'apparently it's closing'. Rising intonation turns it into a question: 'is it really?'. 来月 = next month.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-019": {
+"notes": "っす is a clipped です used by young men to seniors in sport clubs and part-time jobs: そうっすね. In a job interview or with customers it would be too casual.",
+"tip": "っす = clipped です (young men to seniors).",
+"compare": "",
+"register": "Casual-polite"
+},
+"JP-EX-03-020": {
+"notes": "いいっす 'that's fine'. っす keeps a hint of politeness while sounding relaxed. Some find it sloppy. The よ adds friendliness.",
+"tip": "",
+"compare": "",
+"register": "Casual-polite"
+},
+"JP-EX-03-021": {
+"notes": "の at the end with rising intonation makes a soft casual question: 行くの? 'are you going?'. Plain 行く? is blunter.",
+"tip": "Casual question: plain + の? (noun + なの?).",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-03-022": {
+"notes": "Nouns and な-adjectives take な before の: 本当なの? 'is it true?'. ×本当の? is wrong. The question is soft and curious rather than sceptical. A sharper version would be 本当?",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-04-001": {
+"notes": "かな means 'I wonder', thinking aloud: 晴れるかな. It's neutral between men and women and very common in casual speech.",
+"tip": "かな = I wonder; かしら = the same, feminine and dated.",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-04-002": {
+"notes": "かしら means 'I wonder' too, but sounds feminine and rather old-fashioned. It's heard from older women and in fiction.",
+"tip": "",
+"compare": "",
+"register": "Casual; feminine, older"
+},
+"JP-EX-04-003": {
+"notes": "ぞ adds a strong assertion or warning: 危ないぞ! 'look out!'. It sounds masculine and rough. 危ない = dangerous. Women would more often say 危ない! alone or 危ないよ.",
+"tip": "ぞ = warning, emphatic (masculine).",
+"compare": "",
+"register": "Masculine; very casual"
+},
+"JP-EX-04-004": {
+"notes": "ぜ adds a casual 'come on': 行こうぜ 'let's go'. It's masculine and a little dated, typical of manga. Women would say 行こう or 行こうよ.",
+"tip": "",
+"compare": "",
+"register": "Masculine; very casual"
+},
+"JP-EX-04-005": {
+"notes": "よね checks something you believe: 止まりますよね 'it stops there, right?'. It's softer than plain ね and very common when confirming facts.",
+"tip": "よね = checking your own belief.",
+"compare": "",
+"register": "Polite (ます)",
+"text": "この電車、渋谷に止まります{{c1::よね::right? (checking)}}。",
+"tr": "This train stops at Shibuya, doesn't it?",
+"flag": "dup: replaced 明日は休みですよね (near-identical to N5-08-018)"
+},
+"JP-EX-04-006": {
+"notes": "だよね after a noun: 田中さんのだよね 'it's Tanaka's, isn't it?'. In casual speech だ is needed before よね after nouns.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-EX-04-007": {
+"notes": "もん gives a childish or sulky excuse: 眠いもん 'because I'm sleepy!'. だって (but) often comes before it. 眠い = sleepy.",
+"tip": "もん = sulky 'because'.",
+"compare": "",
+"register": "Childish; casual"
+},
+"JP-EX-04-008": {
+"notes": "んだもん 'well, I didn't know!'. Adults use it jokingly or when sulking. It's casual for ものだから. The past form plus んだ.",
+"tip": "",
+"compare": "",
+"register": "Casual; sulky"
+},
+"JP-EX-04-009": {
+"notes": "な at the end is a masculine or self-directed ね: いい天気だな. It sounds relaxed and is common among men. Women would use ね.",
+"tip": "な = masculine or self-directed ね.",
+"compare": "",
+"register": "Casual; masculine"
+},
+"JP-EX-04-010": {
+"notes": "な said to yourself: 疲れたな 'I'm tired'. Anyone can use it when talking to themselves. The speaker is reflecting, not addressing anyone. It's like a sigh.",
+"tip": "",
+"compare": "",
+"register": "Casual; to yourself"
+},
+"JP-EX-04-011": {
+"notes": "わ in Tokyo is a feminine softener: すてきだわ. It's now mostly heard from older women and in fiction. まあ (oh) adds to the old-fashioned feminine tone.",
+"tip": "わ: feminine in Tokyo; neutral in Kansai.",
+"compare": "",
+"register": "Feminine; older Tokyo style"
+},
+"JP-EX-04-012": {
+"notes": "わ in Kansai is a neutral assertion used by men and women alike: 帰るわ 'I'm off'. The same sound means different things by region.",
+"tip": "",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-04-013": {
+"notes": "さ is a casual filler or emphasis: だからさ 'so, like'. Overusing it sounds childish. もう一回 = once more. The さ is placed mid-sentence, after だから, as a pause.",
+"tip": "さ = casual filler (masculine-leaning).",
+"compare": "",
+"register": "Very casual"
+},
+"JP-EX-04-014": {
+"notes": "さ attaches directly to nouns and な-adjectives, dropping だ: 大丈夫さ 'it'll be fine', not ×大丈夫ださ. At the end of a sentence it reassures casually, a bit like 'no worries'.",
+"tip": "",
+"compare": "",
+"register": "Very casual",
+"text": "(To a friend) 大丈夫{{c1::さ::reassuring emphasis}}。",
+"flag": "text: removed だ: sentence-final さ follows a noun or な-adjective directly (大丈夫さ, not 大丈夫ださ)"
+},
+"JP-EX-05-001": {
+"notes": "でございます is the very polite です used by shop staff: 二階でございます. 二階 is the first floor in British terms, since Japan counts the ground floor as 一階.",
+"tip": "二階 = first floor (UK); 一階 = ground floor.",
+"compare": "",
+"register": "Very polite; customer service",
+"tr": "The toilets are on the first floor.",
+"flag": "tr: 二階 is the British first floor (Japan counts the ground floor as 一階); was 'second floor'"
+},
+"JP-EX-05-002": {
+"notes": "ございます is the very polite ある: メニューがございます. It's the standard in shops, hotels and restaurants. こちら = here (polite).",
+"tip": "",
+"compare": "",
+"register": "Very polite; customer service"
+},
+"JP-EX-05-003": {
+"notes": "伺う is the humble form of 行く (and 聞く): 御社に伺います. 御社 means 'your company' in speech; in writing it's 貴社.",
+"tip": "御社 (spoken) / 貴社 (written) = your company.",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-004": {
+"notes": "拝見する is the humble form of 見る: 資料を拝見しました. 資料 = documents, materials. 拝見 contains 拝 (worship, bow), showing deference. It's used for looking at something belonging to a superior or client.",
+"tip": "",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-005": {
+"notes": "存じる is the humble form of 知る: 存じております 'I'm aware'. The negative is 存じません. その件 = that matter. ている becomes ております in humble speech. It's standard in business emails.",
+"tip": "",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-006": {
+"notes": "申し上げる is the humble form of 言う when addressing a superior: 社長に申し上げます. It's stronger than 申す. 社長 = company president.",
+"tip": "",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-007": {
+"notes": "ていらっしゃる is the honorific ている: 話していらっしゃいます. ておられる is a slightly weaker alternative. 電話で話す = talk on the phone. The subject is a superior, so the progressive is raised.",
+"tip": "Honorific ている: ていらっしゃる.",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-008": {
+"notes": "住んでいらっしゃいます 'lives (honorific)'. The state continues, so ている is needed. 東京に住む = live in Tokyo. The state of residing continues. The plain version would be 住んでいます.",
+"tip": "",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-009": {
+"notes": "お + stem + ください is the honorific request: お待ちください 'please wait'. 少々 is a formal 'a little'. It's the standard phrase on the phone.",
+"tip": "お + stem + ください = honorific please.",
+"compare": "",
+"register": "Business; notices"
+},
+"JP-EX-05-010": {
+"notes": "ご + noun + ください: ご記入ください 'please fill this in'. Sino-Japanese nouns usually take ご (ご記入, ご連絡) and native words お (お待ち), with exceptions such as お電話.",
+"tip": "",
+"compare": "",
+"register": "Business; forms"
+},
+"JP-EX-05-011": {
+"notes": "ご利用いただき 'thank you for using (our service)'. ご〜いただく is humble 'receive the favour of your using'. It's on every train and bus.",
+"tip": "",
+"compare": "",
+"register": "Business; announcements"
+},
+"JP-EX-05-012": {
+"notes": "When speaking to outsiders, your own colleagues and boss count as 'inside': no さん, and humble verbs (外しております). This uchi–soto rule surprises many learners.",
+"tip": "To outsiders: your boss = 田中, with humble verbs.",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-013": {
+"notes": "おっしゃる is already honorific; adding られる (おっしゃられる) makes a double honorific, common in speech but considered incorrect.",
+"tip": "Avoid double honorifics: おっしゃる, not ×おっしゃられる.",
+"compare": "",
+"register": "Business"
+},
+"JP-EX-05-014": {
+"notes": "ご覧になる is already honorific; ご覧になられる piles on a second honorific (られる) and is considered incorrect, though it's often heard.",
+"tip": "",
+"compare": "",
+"register": "Business",
+"text": "部長はもう資料を{{c1::ご覧になりました::ご覧になりました or ご覧になられました?}}。",
+"tr": "The manager has already looked at the documents.",
+"flag": "dup: replaced 部長はもうお帰りになりました (near-identical to N4-11-006); answer お帰りになりました → ご覧になりました"
+},
+"JP-EX-06-001": {
+"notes": "である is the essay-style copula: 島国である. Reports and academic writing use である instead of です or だ. 島国 = island nation.",
+"tip": "Essay copula: である / ではない / であった.",
+"compare": "",
+"register": "Essays, reports"
+},
+"JP-EX-06-002": {
+"notes": "ではない is the essay-style negative copula. じゃない would be too casual in writing. 簡単な問題 = a simple problem. Essays avoid じゃない entirely.",
+"tip": "",
+"compare": "",
+"register": "Essays, reports"
+},
+"JP-EX-06-003": {
+"notes": "であった is the essay-style past copula: 重要であった. な-adjectives take である directly. 結果 = result. 重要 = important. The tone is objective and suits scientific papers.",
+"tip": "",
+"compare": "",
+"register": "Essays, reports"
+},
+"JP-EX-06-004": {
+"notes": "A verb stem can link clauses in writing: 歩き、電車に乗った. It's more formal than the て-form 歩いて. 電車に乗る = get on a train.",
+"tip": "Written linking: stem (歩き), く (広く), ず (言わず).",
+"compare": "",
+"register": "Written"
+},
+"JP-EX-06-005": {
+"notes": "ず links clauses in writing: 言わず 'without saying'. It's the written ないで. 部屋を出る = leave the room. The speaker narrates in written style. する becomes せず.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-EX-06-006": {
+"notes": "い-adjectives link with く in writing: 広く、明るい. Speech uses 広くて. The two qualities are listed side by side. 広い = spacious; 明るい = bright. It's typical of property descriptions.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-EX-06-007": {
+"notes": "のである is the essay-style のです: 問題はここにあるのである. It stresses a conclusion. 問題 = the problem. ここにある = lies here. The tone is that of an argument reaching its point.",
+"tip": "",
+"compare": "",
+"register": "Essays"
+},
+"JP-EX-06-008": {
+"notes": "とされている means 'is said, is held': 効果があるとされている. It's impersonal and typical of reports. 効果 = effect, efficacy.",
+"tip": "とされている = is held to be.",
+"compare": "",
+"register": "Reports, academic"
+},
+"JP-EX-06-009": {
+"notes": "と考えられる means 'is thought': 上昇だと考えられる. The speaker avoids personal responsibility for the claim. 原因 = cause.",
+"tip": "",
+"compare": "",
+"register": "Reports, academic"
+},
+"JP-EX-06-010": {
+"notes": "であり links two descriptions in writing: 医者であり、作家でもある. Speech would say 医者で. The second description takes でもある: 'is also'. It's a compact written way to give two roles.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-EX-07-001": {
+"notes": "ぬ is the classical negative, equal to ない: 見知らぬ人 'a stranger' (a person one doesn't know). It survives before nouns and in set phrases.",
+"tip": "ぬ = classical ない (見知らぬ, 知らぬ).",
+"compare": "",
+"register": "Literary; set phrases"
+},
+"JP-EX-07-002": {
+"notes": "知らぬが仏 'not knowing is Buddha', i.e. ignorance is bliss. The proverb keeps ぬ where modern Japanese would say 知らない.",
+"tip": "",
+"compare": "",
+"register": "Proverb"
+},
+"JP-EX-07-003": {
+"notes": "思わず means 'without meaning to': 思わず笑った 'couldn't help laughing'. ず is the classical negative, frozen in everyday words.",
+"tip": "思わず, 相変わらず, 少なからず: fixed ず forms.",
+"compare": "",
+"register": "Everyday set phrase"
+},
+"JP-EX-07-004": {
+"notes": "相変わらず means 'as ever': 相変わらず元気 'as energetic as ever'. Literally 'not changing (from before)'. 相変わらず can also be ironic.",
+"tip": "",
+"compare": "",
+"register": "Everyday set phrase"
+},
+"JP-EX-07-005": {
+"notes": "ざる is the classical negative before a noun: 知られざる名作 'an unknown masterpiece'. It's common in book and TV titles.",
+"tip": "知られざる = little-known (titles).",
+"compare": "",
+"register": "Literary; titles"
+},
+"JP-EX-07-006": {
+"notes": "べし is the classical 'must': 勉強すべし. する takes す before べし. It's found in maxims and old rules. The tone is lofty.",
+"tip": "べし = classical べき.",
+"compare": "",
+"register": "Maxims"
+},
+"JP-EX-07-007": {
+"notes": "ごとし is the classical 'is like': 過ぎたるは猶及ばざるが如し, a saying from the Analects of Confucius. Modern Japanese would use ようだ.",
+"tip": "",
+"compare": "",
+"register": "Proverb"
+},
+"JP-EX-07-008": {
+"notes": "堂々と is an adverb from a たる-adjective: 堂々と述べる 'state confidently'. These Chinese-origin words take と as adverbs.",
+"tip": "たる-adjectives: 堂々たる + noun; 堂々と + verb.",
+"compare": "",
+"register": "Written"
+},
+"JP-EX-07-009": {
+"notes": "堂々たる before a noun: 堂々たる演技 'a commanding performance'. たる is the classical attributive form. 演技 = performance.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-EX-07-010": {
+"notes": "なかれ means 'do not' in literary commands: 恐れるなかれ 'fear not'. It's used in mottos and slogans. 失敗 = failure.",
+"tip": "Dictionary form + なかれ = do not (literary).",
+"compare": "",
+"register": "Literary; mottos"
+},
+"JP-EX-07-011": {
+"notes": "かりし is the classical past of an い-adjective before a noun: 若かりし頃 'in my younger days'. It's nostalgic and literary.",
+"tip": "",
+"compare": "",
+"register": "Literary; nostalgic"
+},
+"JP-EX-08-001": {
+"notes": "へん is the Kansai negative: 行かへん = 行かない. In Kyoto, 行かはらへん adds respect. ん (行かん) is also common. The tone is relaxed.",
+"tip": "Kansai: ない → へん (行かへん, 食べへん).",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-002": {
+"notes": "知らへん 'don't know'. そんなん is Kansai for そんなの. The same へん works with any verb. The tone is dismissive. The standard version is そんなの知らない.",
+"tip": "",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-003": {
+"notes": "や is the Kansai copula: ほんまや = 本当だ. ほんま is Kansai for 本当. それ = that. The copula や is the hallmark of Kansai speech, heard in Osaka, Kyoto and Kobe.",
+"tip": "Kansai copula: だ → や.",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-004": {
+"notes": "やで = だよ in Kansai: 雨やで 'it's rain, you know'. Other forms: やな (だね), やろ (だろう). 明日 = tomorrow. The で adds 'you know', like standard よ.",
+"tip": "",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-005": {
+"notes": "ねん is the Kansai explanatory: 帰るねん = 帰るんだ. It explains or asserts gently. 今から = from now. The past form uses てん: 帰ってん (I went home).",
+"tip": "Kansai ねん = んだ.",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-006": {
+"notes": "やねん after nouns and な-adjectives: 好きやねん = 好きなんだ. めっちゃ (really) is Kansai slang now used nationwide. The emotion is strong.",
+"tip": "",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-007": {
+"notes": "はる is the Kansai light honorific: 帰らはった 'has gone home'. It shows friendly respect, softer than standard keigo.",
+"tip": "Kansai はる = light honorific.",
+"compare": "",
+"register": "Kansai; friendly respect"
+},
+"JP-EX-08-008": {
+"notes": "言わはった 'said (with respect)'. Kyoto speakers use はる very widely, even for strangers. 何て = what. The polite standard is おっしゃった.",
+"tip": "",
+"compare": "",
+"register": "Kansai; friendly respect"
+},
+"JP-EX-08-009": {
+"notes": "あかん means 'no good, mustn't' = だめ: したらあかん. It's one of the best-known Kansai words. したら = if you do. The word comes from 埒が明かない (get nowhere).",
+"tip": "あかん = だめ; なあかん = must.",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-010": {
+"notes": "なあかん means 'must': 行かなあかん = 行かなければならない. It's the Kansai なきゃ. もう = already, now. The ending is shortened from なければあかん. It's heard constantly in Osaka.",
+"tip": "",
+"compare": "",
+"register": "Kansai; casual"
+},
+"JP-EX-08-011": {
+"notes": "やから = だから in Kansai: 雨やから. おる (be) is the Kansai いる; in standard Japanese, おる is humble. わ adds Kansai assertion.",
+"tip": "",
+"compare": "",
+"register": "Kansai; casual"
+}
+}

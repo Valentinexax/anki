@@ -1,0 +1,1112 @@
+{
+"JP-N2-01-001": {
+"notes": "以来 after the て-form means 'ever since': 来て以来. The state continues up to now, so the main clause is usually ている or a negative: ずっと住んでいます. It's more formal than てから.",
+"tip": "て以来 = ever since (and still now).",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-01-002": {
+"notes": "卒業して以来 'since graduating'. A negative main clause (会っていません) is very common: something hasn't happened since. 以来 can also follow a noun: 去年以来.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-01-003": {
+"notes": "てからでないと + negative means 'not until after': 相談してからでないと決められない 'can't decide until I've consulted'. The first step is a precondition.",
+"tip": "てからでないと… + negative = not until after.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N2-01-004": {
+"notes": "払ってからでないと入れません 'you can't go in until you've paid'. からでなければ is a slightly more formal variant with the same meaning.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N2-01-005": {
+"notes": "次第 after a verb stem means 'as soon as': わかり次第 'as soon as we know'. After a noun, 次第で means 'depending on': 結果次第で. Both are business-like.",
+"tip": "Stem + 次第 = as soon as; noun + 次第 = depends on.",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N2-01-006": {
+"notes": "でき次第 'as soon as it's ready'. The main clause is the speaker's planned action, never something past or accidental. It's common in shop and office announcements.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N2-01-007": {
+"notes": "次第です after a noun means 'depends on': 努力次第です 'it depends on your effort'. The condition is the deciding factor, often with encouragement implied.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-01-008": {
+"notes": "かと思うと means 'no sooner had A happened than B': やんだかと思うと、また降り出した. B is unexpected and outside the speaker's control.",
+"tip": "かと思うと: not about your own actions.",
+"compare": "",
+"register": "Neutral; narrative"
+},
+"JP-N2-01-009": {
+"notes": "かと思ったら is a spoken variant: 帰ってきたかと思ったら、すぐ出かけた 'had barely got home before going out again'. It suits describing other people's restless behaviour.",
+"tip": "",
+"compare": "",
+"register": "Neutral; narrative"
+},
+"JP-N2-01-010": {
+"notes": "をきっかけに means 'with X as the trigger': 留学をきっかけに 'studying abroad got me into…'. It introduces a new start or change prompted by an event.",
+"tip": "をきっかけに = prompted by (an event).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N2-01-011": {
+"notes": "病気をきっかけに 'my illness made me…'. The trigger can be good or bad; the result is a change in behaviour, such as quitting smoking.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N2-01-012": {
+"notes": "際は means 'when, on the occasion of' in formal notices: 使用する際は. The は marks it as a condition for the instruction that follows.",
+"tip": "際 = formal とき.",
+"compare": "",
+"register": "Formal; notices"
+},
+"JP-N2-01-013": {
+"notes": "いらっしゃった際には 'when you come': 際 combines naturally with honorific verbs in business letters. ぜひご連絡ください is a standard closing line.",
+"tip": "",
+"compare": "",
+"register": "Formal; business letters"
+},
+"JP-N2-01-014": {
+"notes": "た上で means 'after doing (and on that basis)': 考えた上で決める 'decide after thinking it over'. It implies the first step informs the second.",
+"tip": "Past + 上で = after (and based on that).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-01-015": {
+"notes": "Dictionary form + 上で means 'in doing, for the purpose of': 学ぶ上で大切なこと 'what's important in learning'. The tense before 上で changes the meaning.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-01-016": {
+"notes": "に先立って means 'prior to': 工事に先立って 'before the construction'. It's used for official events and preparations, not everyday actions.",
+"tip": "に先立って = prior to (an official event).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-01-017": {
+"notes": "試合に先立って 'before the match'. Before a noun it becomes に先立つ: 試合に先立つ式典. 先立つ literally means 'go ahead of'.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-01-018": {
+"notes": "つつある after a verb stem means 'is in the process of': 上がりつつある 'is rising'. It stresses an ongoing gradual change, typical of news and reports.",
+"tip": "つつある = a change under way now.",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N2-01-019": {
+"notes": "変わりつつあります 'is (gradually) changing'. 少しずつ underlines the slowness. ている (変わっている) could mean the change is already complete.",
+"tip": "",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N2-01-020": {
+"notes": "一方だ after a dictionary form means 'keeps going one way': 上がる一方 'just keeps going up'. It usually describes an unwelcome trend.",
+"tip": "一方だ = keeps (getting worse), one way only.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N2-01-021": {
+"notes": "減る一方です 'keeps falling'. The falling birth rate (少子化) is a typical topic for this pattern in Japanese news.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N2-01-022": {
+"notes": "につけ after a dictionary form means 'whenever (it stirs a feeling)': 見るにつけ思い出す. It's literary and goes with verbs like 見る, 聞く and 思う.",
+"tip": "につけ = whenever (feelings arise).",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-01-023": {
+"notes": "何かにつけ is a set phrase: 'at every opportunity, at the slightest excuse'. It often describes a habit the speaker finds annoying.",
+"tip": "",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N2-01-024": {
+"notes": "か…ないかのうちに means 'just as, barely': 鳴るか鳴らないかのうちに 'the bell had barely rung'. The same verb appears in positive and negative form.",
+"tip": "Verb か verb-ない かのうちに = barely had…",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-01-025": {
+"notes": "ばかりだ after a dictionary form means 'just keeps (getting worse)': 悪くなるばかり. It's a near-synonym of 一方だ and also describes bad trends.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N2-02-001": {
+"notes": "からには means 'now that, since (you must)': 約束したからには守らなければならない. The second half states a duty or resolve.",
+"tip": "からには… = now that (so you must).",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-02-002": {
+"notes": "以上 after a plain form means 'as long as, since': 住む以上 'as long as you live here'. It's a more formal からには and also leads to a duty or firm judgement.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-02-003": {
+"notes": "ことから gives the basis for a name or conclusion: 富士山が見えることから 'from the fact that Mount Fuji can be seen'. Many place names are explained this way.",
+"tip": "ことから = from the fact that (explaining a name or conclusion).",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-02-004": {
+"notes": "一致したことから 'from the fact that they matched': the fingerprints are the evidence. It's typical of news reports on crimes.",
+"tip": "",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N2-02-005": {
+"notes": "あまり after a noun + の means 'out of too much (feeling)': 心配のあまり 'out of too much worry'. The result is usually bad: couldn't sleep.",
+"tip": "あまり + bad result: out of excessive feeling.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-02-006": {
+"notes": "あまり after a dictionary form: 緊張するあまり 'so nervous that'. The emotion is so strong it stops the speaker acting normally.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-02-007": {
+"notes": "ばかりに means 'just because (of one thing)': 言ったばかりに怒らせた. It carries regret: a small cause led to a bad result.",
+"tip": "ばかりに = just because (and I regret it).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-02-008": {
+"notes": "忘れたばかりに 'just because I forgot': a single slip blocked everything. The main clause is a negative or unwelcome outcome.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-02-009": {
+"notes": "せいか means 'perhaps because': 寝不足のせいか 'perhaps because I didn't sleep enough'. か adds uncertainty about the cause.",
+"tip": "せいか = maybe because (of something bad).",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N2-02-010": {
+"notes": "年のせいか 'maybe it's my age'. It's a stock self-deprecating phrase about forgetfulness or tiredness. 物を忘れる = forget things.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N2-02-011": {
+"notes": "だけに means 'all the more because': 期待していただけに 'all the more because I'd had high hopes'. The reaction is proportionate to the expectation.",
+"tip": "だけに = all the more because.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-02-012": {
+"notes": "だけに can also mean 'as you'd expect, since': 留学していただけに英語が上手. It confirms that a result matches its cause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-02-013": {
+"notes": "ものですから gives a personal excuse: 遅れたものですから 'it's just that the train was late'. It sounds apologetic, unlike plain から.",
+"tip": "ものだから / もので = apologetic 'because'.",
+"compare": "",
+"register": "Polite; apologetic"
+},
+"JP-N2-02-014": {
+"notes": "もので is a shorter, softer form of ものだから: 急いでいたもので. It's common when apologising to a superior. The result often uses てしまう, admitting fault.",
+"tip": "",
+"compare": "",
+"register": "Polite; apologetic"
+},
+"JP-N2-03-001": {
+"notes": "ものの means 'although', with a gap between expectation and result: 卒業したものの仕事が見つからない. It's mainly written.",
+"tip": "ものの = although (but things didn't follow).",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-03-002": {
+"notes": "わかっているものの 'although I know'. It's typical of confessing a weakness: you know, but can't act on it. なかなか + negative = just can't.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-03-003": {
+"notes": "にもかかわらず means 'despite': 雨にもかかわらず. It's formal and can follow a noun or a plain form. The result is surprising.",
+"tip": "にもかかわらず = despite (formal).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-03-004": {
+"notes": "注意したにもかかわらず 'despite being warned'. A plain-form clause goes straight before it. The spoken equivalent would be のに.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-03-005": {
+"notes": "からといって + negative means 'just because…, (it doesn't mean)': 高いからといって、いい物だとは限らない. It rejects a hasty conclusion.",
+"tip": "からといって… is followed by a negative.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-03-006": {
+"notes": "日本人だからといって 'just because someone is Japanese'. It often pairs with わけではない or とは限らない. 敬語 is the Japanese honorific system. Many native speakers find business keigo hard too.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-03-007": {
+"notes": "といっても means 'although I say': 料理ができるといっても 'I say I can cook, but…'. It plays down what was just said.",
+"tip": "といっても = I say so, but it's less than it sounds.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-03-008": {
+"notes": "旅行といっても 'I call it a trip, but…'. Nouns go straight before といっても. The second half reveals the modest reality.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-03-009": {
+"notes": "にしても means 'even if, granted': 冗談にしても 'even if it was a joke'. The speaker concedes a point but still objects.",
+"tip": "にしても = even granting that.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-03-010": {
+"notes": "AにしろBにしろ means 'whether A or B': 行くにしろ行かないにしろ. にせよ is a more formal variant. The two items are usually opposites, and the main clause holds either way: please let me know.",
+"tip": "",
+"compare": "",
+"register": "Neutral; にせよ formal"
+},
+"JP-N2-03-011": {
+"notes": "反面 means 'on the other hand': 給料がいい反面、休みが少ない. It contrasts two sides of the same thing. It suits balanced descriptions of pros and cons. 給料 = pay, salary.",
+"tip": "反面 = two sides of one thing.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-03-012": {
+"notes": "一方で means 'while on the other hand': 便利な一方で. な-adjectives take な. 一方 can also compare two different things.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-03-013": {
+"notes": "ながらも after an adjective means 'although': 狭いながらも 'though small'. 狭いながらも楽しい我が家 is a well-known phrase.",
+"tip": "State + ながら(も) = although.",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-03-014": {
+"notes": "子どもながら 'for a child, though just a child'. ながら after a noun concedes a limitation, then praises. 小さいながら and 残念ながら work the same way.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-03-015": {
+"notes": "つつ after a verb stem can mean 'although': 知りつつ 'though I know'. It's literary, typical with 知る and 思う.",
+"tip": "知りつつ / 思いつつ = although knowing / thinking.",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-03-016": {
+"notes": "思いつつも 'although I thought'. も strengthens the concession. The speaker admits acting against their own judgement.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-03-017": {
+"notes": "に反して means 'contrary to': 予想に反して 'contrary to expectations'. It's formal and typical of news and reports.",
+"tip": "に反して = contrary to.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-03-018": {
+"notes": "期待に反して 'against (their) hopes'. Before a noun it becomes に反する: 規則に反する行為 'an act against the rules'. 親 = parents.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-03-019": {
+"notes": "はともかく means 'leaving aside': 見た目はともかく 'looks aside'. The speaker sets one point aside to focus on another, usually more positive one.",
+"tip": "はともかく = leaving aside.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-001": {
+"notes": "ないことには + negative means 'unless (you do X), you can't': 見ないことには何とも言えない. The first action is an essential precondition.",
+"tip": "ないことには + negative = unless.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-002": {
+"notes": "来ないことには始められない 'can't start unless he comes'. The ない form of 来る is 来ない (こない). It's typical of meetings where a key person is missing. The main clause is a negative potential: 始められません.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N2-04-003": {
+"notes": "Potential + ものなら means 'if I could (unlikely)': できるものなら 'if only I could'. The wish is known to be unrealistic.",
+"tip": "Potential + ものなら = if only I could.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-004": {
+"notes": "Volitional + ものなら means 'if you dare': 反対しようものなら 'if you so much as object'. A bad consequence follows.",
+"tip": "Volitional + ものなら = if you so much as…",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-005": {
+"notes": "限り after 知る means 'as far as': 知っている限り 'as far as I know'. It limits a claim to the speaker's knowledge.",
+"tip": "知っている限り = as far as I know.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-006": {
+"notes": "ない限り means 'unless': 降らない限り 'unless it rains'. The main clause holds in every other case. 雨天決行 (going ahead rain or shine) is the opposite promise on event posters.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-007": {
+"notes": "限り after a state means 'as long as': 元気な限り 'as long as I'm healthy'. な-adjectives take な. The main clause states a wish or intention held for that whole period.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-008": {
+"notes": "としても means 'even if (supposing)': 失敗したとしても. たとえ often comes with it. It's more hypothetical than ても.",
+"tip": "としても = even supposing.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-009": {
+"notes": "急いだとしても 'even if we hurry'. The main clause often ends in a guess: 間に合わないでしょう. 間に合う means 'be in time'. The hypothesis is that we hurry; even so, the outcome is bleak.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-010": {
+"notes": "に限って means 'of all times, only then (unluckily)': 急いでいる時に限って. に限らず means 'not limited to': 若い人に限らず. The に限って sense implies Murphy's law: bad luck strikes at the worst time.",
+"tip": "に限って = of all times; に限らず = not only.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-011": {
+"notes": "てはじめて means 'only after': 病気になってはじめて 'only after falling ill'. It introduces a realisation that came late.",
+"tip": "てはじめて = only after (did I realise).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-012": {
+"notes": "暮らしてはじめて 'only after living (alone)'. The main clause often uses わかる or 知る: a lesson learnt through experience.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-013": {
+"notes": "をぬきにしては + negative means 'without X, (you can't)': 協力をぬきにしては 'without his cooperation'. X is essential.",
+"tip": "をぬきにして = leaving out (X is essential).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-04-014": {
+"notes": "中国との関係をぬきにしては語れない 'can't be discussed without China'. 語る (talk about) is a formal verb. The main verb is a negative potential: 語れません.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-04-015": {
+"notes": "を問わず means 'regardless of': 年齢を問わず 'regardless of age'. It's common in job adverts and event notices.",
+"tip": "を問わず = regardless of (common in adverts).",
+"compare": "",
+"register": "Formal; notices"
+},
+"JP-N2-04-016": {
+"notes": "経験の有無を問わず 'with or without experience'. 有無 (うむ) means 'presence or absence', a typical pair with を問わず.",
+"tip": "",
+"compare": "",
+"register": "Formal; adverts"
+},
+"JP-N2-05-001": {
+"notes": "をめぐって means 'over, concerning' a dispute: 遺産をめぐって争う 'fight over an inheritance'. It implies conflicting views.",
+"tip": "をめぐって = over (a dispute).",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N2-05-002": {
+"notes": "建設をめぐって意見が分かれる 'opinions divided over building'. It's a staple of news headlines. 意見が分かれる = opinions are divided. 空港の建設 = construction of the airport.",
+"tip": "",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N2-05-003": {
+"notes": "にかけては means 'when it comes to (a skill)': 料理にかけては. The main clause praises: nobody is better. 右に出る人はいない = second to none.",
+"tip": "にかけては = when it comes to (and nobody beats them).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-004": {
+"notes": "足の速さにかけては 'when it comes to speed'. だれにも負けない means 'second to none'. 足の速さ uses さ to make a noun from 速い: 'speed of foot'. The pattern always praises a skill, often your own in a boast.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-005": {
+"notes": "に沿って means 'along': 川に沿って 'along the river'. It's used for roads, rivers and coastlines. 桜の木が並ぶ = cherry trees line (it).",
+"tip": "に沿って = along; in line with.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-006": {
+"notes": "に沿って can also mean 'in line with': マニュアルに沿って 'following the manual'. It's common at work. 作業を進める = carry on with the work. The verb behind it is 沿う (run along, follow).",
+"tip": "",
+"compare": "",
+"register": "Neutral; business"
+},
+"JP-N2-05-007": {
+"notes": "に基づいて means 'based on': 事実に基づいて 'based on fact'. Before a noun: 事実に基づく話 'a true story'. It's the standard phrase on films 'based on a true story'.",
+"tip": "に基づいて = based on.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-008": {
+"notes": "結果に基づいて 'based on the results'. It suggests a firm, objective basis for a decision. アンケート (from French enquête) means a questionnaire or survey.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N2-05-009": {
+"notes": "を中心に means 'centred on': 駅を中心に 'with the station at the centre'. It describes a physical layout here.",
+"tip": "を中心に = centred on; mainly among.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-010": {
+"notes": "を中心に can mean 'mainly among': 若者を中心に 'mainly among young people'. It's common in trend reports. 人気が高まる = grow in popularity.",
+"tip": "",
+"compare": "",
+"register": "Neutral; news"
+},
+"JP-N2-05-011": {
+"notes": "を通じて means 'through, via': 友人を通じて 'through a friend'. を通して is a near-synonym. The person or means is the channel, not the source. 知り合う = get to know each other.",
+"tip": "を通じて = via; throughout.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-012": {
+"notes": "を通じて can mean 'throughout (a period)': 一年を通じて 'all year round'. Both mean 'all year round'. The time phrase comes straight before を通じて without の. を通して is interchangeable here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-013": {
+"notes": "にわたって means 'over (a span)': 三時間にわたって 'for three hours'. It stresses the length or breadth. 三時間も would add surprise at the length. It's typical of formal reports about meetings and events.",
+"tip": "にわたって = over (a whole span).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-014": {
+"notes": "広い範囲にわたって 'over a wide area'. Before a noun: 広範囲にわたる被害. It's typical of weather and disaster reports. 被害をもたらす = cause damage. 範囲 means range or area.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"JP-N2-05-015": {
+"notes": "にかわって means 'on behalf of': 社長にかわって 'on behalf of the president'. It's typical of speeches. ごあいさつします is humble: the speaker lowers their own action.",
+"tip": "にかわって = on behalf of; in place of.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-016": {
+"notes": "にかわって can mean 'in place of': 手紙にかわって 'instead of letters'. It describes one thing replacing another over time.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-017": {
+"notes": "に応じて means 'according to, to suit': 予算に応じて 'to suit your budget'. It describes adjustment to a variable.",
+"tip": "に応じて = depending on, adjusting to.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-018": {
+"notes": "能力に応じて 'according to ability'. Before a noun: 能力に応じた給料. 能力 = ability, competence. The pay rises or falls with ability, so the relationship is proportional. It's common in job adverts.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-019": {
+"notes": "に比べて means 'compared with': 去年に比べて. The main clause states the difference. より would be a shorter alternative.",
+"tip": "に比べて = compared with.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-020": {
+"notes": "に加えて means 'in addition to': 雨に加えて 'on top of the rain'. The second item takes も. 風が強くなる = the wind picks up. てくる shows the change up to now.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-021": {
+"notes": "とともに means 'along with, as': 時代の変化とともに. It can also mean 'together with': 家族とともに. 言葉 here means language in general. It's typical of essays and speeches.",
+"tip": "とともに = along with; together with.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-022": {
+"notes": "にともなって means 'accompanying (a change)': 人口の増加にともなって 'as the population grows'. It links two related changes.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-023": {
+"notes": "に際して means 'on the occasion of': 開会に際して. It's typical of formal speeches: 一言ごあいさつ申し上げます. 申し上げる is the humble form of 言う.",
+"tip": "に際して = on the occasion of.",
+"compare": "",
+"register": "Formal; speeches"
+},
+"JP-N2-05-024": {
+"notes": "をはじめ means 'starting with, including': 東京をはじめ 'Tokyo and others'. It names the leading example of a group.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-025": {
+"notes": "をもとに means 'using X as a basis': データをもとに. The material is used to build something new. グラフ = graph, chart. 集めた (collected) describes データ.",
+"tip": "をもとに = built from (material).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-026": {
+"notes": "祖母の話をもとに 'based on my grandmother's stories'. It fits creative work: a novel, a film, a song. The stories are raw material, retold in a new form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-027": {
+"notes": "をこめて means 'with (feeling)': 心をこめて 'from the heart'. It's common in letters and gift messages. 心 (heart) is the most common object of をこめて.",
+"tip": "をこめて = with (feeling put into it).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-05-028": {
+"notes": "感謝をこめて 'with gratitude'. It often closes a letter or card. 贈る is a formal 'give (a present)', more formal than あげる. The phrase 感謝をこめて often ends speeches as well.",
+"tip": "",
+"compare": "",
+"register": "Neutral; cards"
+},
+"JP-N2-05-029": {
+"notes": "にこたえて means 'in response to': ファンの声にこたえて. It suits requests and expectations. 追加公演 = an extra performance. The decision answers public demand.",
+"tip": "にこたえて = in response to.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-030": {
+"notes": "期待にこたえて 'living up to expectations'. The result meets what people hoped for. 優勝する = win (a championship). The pattern frames success as answering others' hopes.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-031": {
+"notes": "のもとで means 'under (guidance)': 先生のもとで習う. It describes learning or working under someone. ピアノを習う = take piano lessons. もと (下) means 'under'.",
+"tip": "のもとで = under (guidance, conditions).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-05-032": {
+"notes": "条件のもとで 'under conditions'. It's typical of scientific and legal writing. 厳しい条件 = strict conditions. 実験が行われる = an experiment is carried out. It suggests controlled circumstances.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"JP-N2-06-001": {
+"notes": "ほど…はない means 'nothing is as … as': 母の料理ほどおいしいものはない. It's a strong superlative. The thing compared comes first with ほど. The sentence always ends in a negative (ない / ありません).",
+"tip": "Nほど…ものはない = nothing is as … as N.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-06-002": {
+"notes": "健康ほど大切なものはありません 'nothing is as important as health'. A common maxim. Any noun can fill the slot; the adjective sits before もの. It's a favourite of proverbs and speeches about values.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-06-003": {
+"notes": "くらいなら means 'rather than': やめるくらいなら. The speaker would prefer a different course. 途中でやめる = give up halfway. The preferred option comes after, often with ほうがいい.",
+"tip": "くらいなら = rather than (I'd prefer…).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-06-004": {
+"notes": "結婚するくらいなら 'rather than marry'. The second clause states the preferred alternative. 一生 = all one's life. The first option is presented as worse than anything. It's emphatic and slightly dramatic.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-06-005": {
+"notes": "どころか means 'far from': よくなるどころか 'far from improving'. ばかりか means 'not only' and adds more of the same.",
+"tip": "どころか = far from; ばかりか = not only.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-06-006": {
+"notes": "旅行どころか 'far from travelling, not even…'. The lesser thing (resting at weekends) is also denied. The weekend is the minimum; travel is out of the question.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-06-007": {
+"notes": "はもちろん means 'not to mention': 味はもちろん. The first item is obvious; the second is added. サービス here means service quality, not something free. The first item is the obvious strength.",
+"tip": "はもちろん = of course … and also.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-06-008": {
+"notes": "はもとより is a more formal はもちろん: 子どもはもとより 'never mind children'. The obvious group comes first, the surprising one second.",
+"tip": "",
+"compare": "",
+"register": "Formal",
+"text": "子ども{{c1::はもとより::not to mention (formal)}}、大人も楽しめる映画です。",
+"tr": "It's a film adults can enjoy, never mind children.",
+"flag": "dup: replaced 彼は日本語はもとより、英語も中国語も話せます (near-identical to N3-06-009)"
+},
+"JP-N2-06-009": {
+"notes": "だけ after a verb or adjective means 'as much as': 好きなだけ 'as much as you like'. な-adjectives take な. The listener decides the amount.",
+"tip": "好きなだけ = as much as you like.",
+"compare": "",
+"register": "Polite request"
+},
+"JP-N2-06-010": {
+"notes": "できるだけ means 'as much as possible': できるだけ自分で作る 'cook myself as much as I can'. It's a fixed phrase. 自分で = by oneself.",
+"tip": "できるだけ = as much as possible.",
+"compare": "",
+"register": "Polite (ます)",
+"text": "できる{{c1::だけ::as much as (possible)}}自分で料理を作ります。",
+"tr": "I cook for myself as much as I can.",
+"flag": "dup: replaced できるだけ早く来てください (near-identical to N5-06-005)"
+},
+"JP-N2-06-011": {
+"notes": "に過ぎない means 'no more than': うわさに過ぎない 'just a rumour'. It plays something down. The noun うわさ (rumour) goes straight before it. It's common in denials: それは推測に過ぎない (it's mere speculation).",
+"tip": "に過ぎない = merely.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-06-012": {
+"notes": "社員の一人に過ぎません 'just one of the staff'. It's a modest way of declining responsibility. It's also used to say a role is limited: 私は案内役に過ぎません.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-06-013": {
+"notes": "までもなく means 'it goes without saying': 言うまでもなく. It introduces an obvious point. The obvious point here is that health comes first. It's common at the start of speeches and essays.",
+"tip": "言うまでもなく = it goes without saying.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-06-014": {
+"notes": "までもない means 'no need (it's obvious)': 行くまでもありません. It stresses obviousness, not reassurance. この程度 = this degree, this level. The injury is so minor that a visit is plainly unnecessary.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-06-015": {
+"notes": "ことか means 'how (very)…!': どんなにうれしかったことか. It's an emotional exclamation in writing. 知らせ = news, notification. The past うれしかった is inside the exclamation.",
+"tip": "どんなに…ことか = how…!",
+"compare": "",
+"register": "Emotional; written"
+},
+"JP-N2-06-016": {
+"notes": "何度注意したことか 'how many times have I told you!'. It's an exasperated parent's line. 何度 (how many times) + past + ことか. The speaker isn't asking; it's a complaint. Spoken: 何度言ったらわかるの.",
+"tip": "",
+"compare": "",
+"register": "Emotional"
+},
+"JP-N2-06-017": {
+"notes": "うえに means 'on top of': 安いうえに 'on top of being cheap'. It adds a second point in the same direction. The second point is also positive.",
+"tip": "うえに = on top of (adding a point).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-07-001": {
+"notes": "に決まっている means 'certainly, bound to': うそに決まっている 'obviously a lie'. It's a confident, subjective judgement.",
+"tip": "に決まっている = it's obvious.",
+"compare": "",
+"register": "Conversational"
+},
+"JP-N2-07-002": {
+"notes": "勝つに決まっています 'bound to win'. It's confident, even boastful. んだから gives the grounds: 'we've practised this much, so…'. The conclusion is presented as beyond doubt, which suits pep talks and boasts.",
+"tip": "",
+"compare": "",
+"register": "Conversational"
+},
+"JP-N2-07-003": {
+"notes": "ものか means 'no way, never': 二度と行くものか. It's a strong, emotional refusal; もんか is more casual. 二度と + negative = never again.",
+"tip": "ものか = never (strong refusal).",
+"compare": "",
+"register": "Casual; emotional"
+},
+"JP-N2-07-004": {
+"notes": "負けるものか 'no way will I lose'. A typical line from sports manga. あんな人 (someone like that) is dismissive. The pattern is spoken with determination, often to oneself before a contest.",
+"tip": "",
+"compare": "",
+"register": "Casual; emotional"
+},
+"JP-N2-07-005": {
+"notes": "ずにはいられない means 'can't help doing': 泣かずにはいられない. ざるを得ない means 'have no choice but to': 中止せざるを得ない. する becomes せず / せざる.",
+"tip": "ずにはいられない = can't help; ざるを得ない = have no choice.",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N2-07-006": {
+"notes": "てしかたがない means 'unbearably': 気になってしかたがない 'can't stop worrying'. It's colloquial and often shortened to しょうがない.",
+"tip": "てしかたがない / てたまらない = unbearably.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-07-007": {
+"notes": "てたまらない also means 'unbearably', with physical sensations: のどがかわいてたまらない 'terribly thirsty'. のどがかわく = be thirsty. てならない is the written equivalent.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-07-008": {
+"notes": "おそれがある means 'there's a risk of (something bad)': 上陸するおそれ. It's standard in weather warnings. 上陸する = make landfall.",
+"tip": "おそれがある = there's a risk (in warnings).",
+"compare": "",
+"register": "Formal; news"
+},
+"JP-N2-07-009": {
+"notes": "眠くなるおそれがあります 'may cause drowsiness'. It's printed on medicine labels. It warns politely without certainty. The noun form is 眠気 (drowsiness), and labels add 車の運転はしないでください.",
+"tip": "",
+"compare": "",
+"register": "Formal; labels"
+},
+"JP-N2-07-010": {
+"notes": "かねる means 'can't (politely)': お答えしかねます. かねない means 'might well (something bad)': 病気になりかねない. かねない has a negative form but a positive meaning.",
+"tip": "かねる = can't; かねない = might well.",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N2-07-011": {
+"notes": "っこない means 'no way': わかりっこない. It's casual and emphatic. こんな難しい問題 puts the reason first. The speaker gives up before trying. It's spoken among friends only.",
+"tip": "っこない = no way (casual).",
+"compare": "",
+"register": "Casual"
+},
+"JP-N2-07-012": {
+"notes": "間に合いっこない 'no way we'll make it'. The verb stem + っこない. 今から行っても = even if we go now. The tone is resigned or dismissive. A more neutral version is 間に合わないだろう.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-N2-07-013": {
+"notes": "得る means 'can happen': あり得る 'possible'. あり得る can be read ありうる or ありえる. 十分 (fully) strengthens it. The formal register suits discussion and debate.",
+"tip": "あり得る = possible; あり得ない = impossible.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-07-014": {
+"notes": "あり得ない means 'impossible': 犯人だなんて、あり得ません. It's also a slangy exclamation: ありえない! なんて shows the speaker's disbelief.",
+"tip": "",
+"compare": "",
+"register": "Formal; also slang",
+"text": "彼が犯人だなんて、{{c1::あり得ません::ある · impossible}}。",
+"tr": "Him, the culprit? That's impossible.",
+"flag": "dup: replaced そんなことはあり得ません (near-identical to N3-07-013)"
+},
+"JP-N2-07-015": {
+"notes": "まい means 'will never': うそはつくまい 'never lie again'. It's a written resolve. する takes するまい or すまい. 二度と + まい is a common pairing for a strong resolve.",
+"tip": "まい = will never (a resolve).",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-07-016": {
+"notes": "まい can also mean 'probably not': 来るまい. It's a written guess. もう here means 'by now': it's too late for him to come. The colloquial equivalent is もう来ないだろう.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-07-017": {
+"notes": "しかない means 'no choice but': 歩いて帰るしかない. It's resigned. The trains have stopped, so walking is the only option left. しかない replaces a longer ことしかできない. Polite: しかありません.",
+"tip": "しかない = no choice but.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-07-018": {
+"notes": "ほかない is a more formal しかない: やるほかありません. ほか (other) + ない: there is no other way. It's typical of written resolve: 自分でやるほかない. The reason is given first, often with なら.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-07-019": {
+"notes": "ことだ means 'you should': 練習することです. It's advice from someone in a position to give it. The ば clause gives the goal.",
+"tip": "ことだ = you should (advice).",
+"compare": "",
+"register": "Neutral; advice"
+},
+"JP-N2-07-020": {
+"notes": "ものではない means 'one shouldn't (a social norm)': 夜遅くに騒ぐものではない. It states what decent people don't do. 騒ぐ = make a noise.",
+"tip": "",
+"compare": "",
+"register": "Neutral; admonishing",
+"text": "夜遅くに大きな声で騒ぐ{{c1::ものではありません::one shouldn't (norm)}}。",
+"tr": "One shouldn't make a racket late at night.",
+"flag": "dup: replaced 人の悪口を言うものではありません (near-identical to N3-07-006)"
+},
+"JP-N2-07-021": {
+"notes": "ことに after an emotion word puts the feeling first: 残念なことに 'sadly'. It's written and formal. Other emotions fit too: 驚いたことに.",
+"tip": "Emotion + ことに = (feeling) to say.",
+"compare": "",
+"register": "Formal; written"
+},
+"JP-N2-08-001": {
+"notes": "きる after a verb stem means 'do completely': 読みきる 'read to the end'. かける means 'half-done': 読みかけの本 'a half-read book'.",
+"tip": "きる = to the end; かける = half-done.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-08-002": {
+"notes": "言いかけて 'started to say'. The action is begun and abandoned. The て-form links it to the next action, やめました. The noun form is 言いかけの言葉. It's common in narrative: 何か言いかけた.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-08-003": {
+"notes": "走りきる 'run all the way'. It stresses completion of something demanding. The whole distance was covered without stopping. It's common in sport: 完走 (finishing a race) is the noun equivalent.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-08-004": {
+"notes": "っぱなし means 'leave (carelessly) on': 出しっぱなし 'left running'. It implies blame. 水を出す = turn on the tap. にする (leave it in that state) follows the noun-like っぱなし.",
+"tip": "っぱなし = left on (carelessly).",
+"compare": "",
+"register": "Casual to neutral"
+},
+"JP-N2-08-005": {
+"notes": "立ちっぱなし 'standing all the time'. っぱなし can describe a continuous, tiring state. 一日中 = all day long. で gives the reason: my feet hurt because of it.",
+"tip": "",
+"compare": "",
+"register": "Casual to neutral"
+},
+"JP-N2-08-006": {
+"notes": "ぬく means 'through to the end (despite hardship)': がんばりぬく. It stresses effort. 最後まで reinforces the idea of seeing it through. ぬく is written 抜く in kanji.",
+"tip": "ぬく = to the end, despite hardship.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-08-007": {
+"notes": "考えぬく 'think through thoroughly'. た結果 (as a result of) follows. The decision came only after long deliberation. よく (thoroughly) adds emphasis. The noun form, 考えぬいた末, is also common.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-08-008": {
+"notes": "がたい means 'hard to (emotionally)': 信じがたい. It's formal. It's close to にくい but suggests emotional resistance: you can't bring yourself to believe it. It's common in writing and formal speech.",
+"tip": "がたい = hard to (emotionally); づらい = awkward to.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-08-009": {
+"notes": "許しがたい 'unforgivable'. It's a strong moral judgement. 行為 = act, deed. Courts and news reports use the phrase for serious wrongdoing. The noun form is 許しがたさ.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N2-08-010": {
+"notes": "づらい means 'hard to (uncomfortable)': 歩きづらい. It's spoken. It's about physical discomfort: the shoes pinch. にくい would be more neutral. 靴 is often written in kana: くつ.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"JP-N2-08-011": {
+"notes": "言いづらい 'awkward to say'. 先輩 is a senior at school or work. It's about social awkwardness rather than difficulty. The listener is senior, which makes it uncomfortable.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"JP-N2-08-012": {
+"notes": "気味 means 'a touch of': かぜ気味. It's usually negative. It's a mild way to report illness. 最近 sets the time frame. Other examples: 太り気味 (a bit overweight), 遅れ気味 (running late).",
+"tip": "気味 = a touch of (something bad).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-08-013": {
+"notes": "疲れ気味 'a bit tired'. 気味 follows a verb stem. 疲れる → 疲れ気味. The cause comes first with て: 仕事が忙しくて. It suggests a mild, ongoing state rather than exhaustion.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-08-014": {
+"notes": "げ after an adjective stem means 'seeming': さびしげ. It's written. な links it to a noun: さびしげな顔. It describes how someone appears from outside. Similar: 不安げ (anxious-looking).",
+"tip": "げ = seeming (written).",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-08-015": {
+"notes": "楽しげに 'happily, as if enjoying it'. げ is a な-adjective: 楽しげな顔. に makes an adverb: 楽しげに遊ぶ. The speaker observes from outside. In speech, 楽しそうに is more common.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-08-016": {
+"notes": "向け means 'made for': 子ども向け. 向き means 'suited to': 好きな人向き. 向け is about the target audience, chosen by the maker; 向き is about natural suitability. 番組 = a TV or radio programme.",
+"tip": "向け = aimed at; 向き = suited to.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-001": {
+"notes": "とおりに means 'exactly as': 説明書のとおりに. Nouns take の. 説明書 = instruction manual. 組み立てる = assemble. Verbs go straight before とおり: 言ったとおり. The meaning is exact conformity.",
+"tip": "Nのとおり = N どおり.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-002": {
+"notes": "どおり after a noun, without の: 予定どおり 'as planned'. The と becomes ど. The meeting began at the planned time. Other set phrases: 期待どおり (as expected), 文字どおり (literally).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-003": {
+"notes": "言ったとおり 'just as I said'. でしょう asks for agreement. Past tense before とおり, since the saying came first. になる = turn out. The speaker is pleased to have been right.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-004": {
+"notes": "ぶり after a time means 'for the first time in': 十年ぶり. It stresses the long gap. The particle に follows: 十年ぶりに. 久しぶり (it's been a while) is the everyday greeting built on it.",
+"tip": "Time + ぶり = for the first time in.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-005": {
+"notes": "ぶり after a noun means 'manner': 仕事ぶり 'the way he works'. It often praises. Other examples: 話しぶり (way of talking), 暮らしぶり (way of life).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-006": {
+"notes": "からすると means 'judging from': 話し方からすると. A guess follows: でしょう. 話し方 = way of speaking. 関西 is the Osaka–Kyoto region, known for its accent. The conclusion is a guess, so でしょう ends it.",
+"tip": "からすると = judging from.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-007": {
+"notes": "から見ると 'from the viewpoint of': 親から見ると. It frames a perspective. 親 = parents. The viewpoint of parents frames the general truth. いつまでも = for ever, no matter how long.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-008": {
+"notes": "にしたら means 'from X's point of view': 彼にしたら. It imagines feelings. 迷惑な話 = a nuisance (for him). The speaker imagines his feelings. かもしれません keeps it tentative.",
+"tip": "にしたら = imagining their feelings.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-009": {
+"notes": "子どもにしたら 'for the children'. It voices sympathy. 引っ越し = moving house. つらい = hard, painful. The speaker sympathises with the children's view. でしょう marks the guess.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-010": {
+"notes": "につき means 'because of' in notices: 定休日につき. 定休日 = regular closing day. 休ませていただきます is a humble 'we will be closed'. Such signs hang on shop doors.",
+"tip": "につき = because (on signs); per.",
+"compare": "",
+"register": "Formal; notices"
+},
+"JP-N2-09-011": {
+"notes": "につき can mean 'per': 一人につき 'per person'. 三枚まで = up to three (tickets, sheets). It's typical of shop and ticket notices. The meaning 'per' needs a number after it.",
+"tip": "",
+"compare": "",
+"register": "Formal; notices"
+},
+"JP-N2-09-012": {
+"notes": "さ after an adjective stem makes a noun of degree: 高さ 'height'. It gives a measurable quantity, here 3,000 metres. Other examples: 長さ (length), 重さ (weight), 深さ (depth).",
+"tip": "さ = measurable degree; み = felt quality.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-09-013": {
+"notes": "暑さ 'the heat'. Any い-adjective can take さ. 慣れる = get used to. に marks what you get used to. Only some adjectives take み (楽しみ, 痛み); 暑い takes さ.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N2-10-001": {
+"notes": "というものだ makes a firm judgement: 失礼というものです 'that's just rude'. 勝手に = without permission. The sentence states a general principle about manners. It's firm and slightly preachy.",
+"tip": "というものだ = that's what it is.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-10-002": {
+"notes": "というものではない means 'it doesn't follow': 幸せというものではない. The ば clause states a common belief, which is then denied. It's typical of essays: 'it's not the case that…'.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N2-10-003": {
+"notes": "とのことです passes on a message: 遅れるとのことです 'he says he'll be late'. 電話があって = there was a call. The speaker relays the content neutrally. It's standard in offices when passing on messages.",
+"tip": "とのことです = passing on a message.",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N2-10-004": {
+"notes": "お休みとのことです 'I'm told he's off'. Nouns go straight before it. お休み is the polite word for a day off. The source is someone else, perhaps the manager's own message. It's typical office language.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N2-10-005": {
+"notes": "ものがある means 'there's something (moving)': 心を動かすものがある. 人の心を動かす = move people's hearts. The speaker praises a quality hard to pin down. It's typical of reviews and criticism.",
+"tip": "ものがある = there's something about it.",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-10-006": {
+"notes": "心に残るものがある 'there's something memorable'. 心に残る = memorable (literally, stays in the heart). 何か (something) adds vagueness. It's typical of film and book reviews.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-10-007": {
+"notes": "かのように means 'as if (not really)': 知らないかのように. 黙る = keep quiet. The comparison is known to be false: he does know something. It's typical of narrative writing.",
+"tip": "かのように = as if (but it isn't).",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-10-008": {
+"notes": "かのようです 'it's as if'. まるで strengthens it. まるで (just like) often precedes かのよう. The feeling is unreal, dreamlike. It's typical of literary descriptions.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N2-10-009": {
+"notes": "じゃないか expresses surprise: 田中さんじゃないか 'oh, it's Tanaka!'. なんだ adds surprise or relief. The tone is casual and slightly masculine. It's often said on meeting someone unexpectedly.",
+"tip": "じゃないか = surprise; ではないか = let us (speeches).",
+"compare": "",
+"register": "Casual"
+},
+"JP-N2-10-010": {
+"notes": "ようではありませんか means 'let us' in speeches: 協力しようではありませんか. The volitional 協力しよう + ではありませんか rallies an audience. It's rhetorical and old-fashioned, heard in political speeches.",
+"tip": "",
+"compare": "",
+"register": "Formal; speeches"
+}
+}

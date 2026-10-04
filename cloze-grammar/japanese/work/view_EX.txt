@@ -1,0 +1,218 @@
+JP-EX-01-001 ドアが{{c1::あきました::あく or あける? (past)}}。<br>私がドアを{{c1::あけました::あく or あける? (past)}}。 ‖ The door opened. / I opened the door.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-002 授業が九時に{{c1::始まります::始まる or 始める?}}。<br>先生が授業を{{c2::始めます::始まる or 始める?}}。 ‖ Class starts at nine. / The teacher starts the class.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-003 電気が{{c1::つきました::つく or つける? (past)}}。<br>電気を{{c2::つけてください::つく or つける? (please)}}。 ‖ The light came on. / Please turn on the light.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-004 コップが{{c1::落ちました::落ちる or 落とす? (past)}}。<br>コップを{{c2::落としました::落ちる or 落とす? (past)}}。 ‖ The glass fell. / I dropped the glass.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-005 パソコンが{{c1::こわれました::こわれる or こわす? (past)}}。<br>弟がパソコンを{{c2::こわしました::こわれる or こわす? (past)}}。 ‖ The computer broke. / My brother broke the computer.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-006 子どもが{{c1::起きました::起きる or 起こす? (past)}}。<br>母が子どもを{{c2::起こしました::起きる or 起こす? (past)}}。 ‖ The child woke up. / The mother woke the child.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-007 車が{{c1::止まりました::止まる or 止める? (past)}}。<br>警察が車を{{c2::止めました::止まる or 止める? (past)}}。 ‖ The car stopped. / The police stopped the car.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-008 お湯が{{c1::わきました::わく or わかす? (past)}}。<br>お湯を{{c2::わかしました::わく or わかす? (past)}}。 ‖ The water has boiled. / I boiled some water.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. | T:  | R: Neutral | C: 
+JP-EX-01-009 (It's just shut) 窓が{{c1::しまっています::しまる or しめる? (state)}}。<br>(Someone shut it on purpose) 窓が{{c2::しめてあります::しまる or しめる? (てある)}}。 ‖ The window is shut. / The window has been shut (on purpose).
+   N: Intransitive + ている: the state (no one implied). Transitive + てある: someone did it on purpose and the result remains. | T:  | R: Neutral | C: 
+JP-EX-01-010 毎朝八時に家を{{c1::出ます::出る or 出す?}}。<br>毎朝ごみを{{c2::出します::出る or 出す?}}。 ‖ I leave home at eight every morning. / I put the rubbish out every morning.
+   N: Intransitive verb + が: it happens (by itself). Transitive verb + を: someone does it to something. Exception: with motion verbs like 出る, を marks the place you leave, not an object. | T:  | R: Neutral | C: 
+JP-EX-02-001 姉は{{c1::結婚しています::結婚する · state (is married)}}。 ‖ My older sister is married.
+   N: With change-of-state verbs (結婚する, 来る, 行く, 勤める, 知る), ている means the resulting state, not 'is doing'. 知る: 知っています, but the negative is 知りません. | T: vs action verbs (食べている): in progress. | R: Neutral | C: 
+JP-EX-02-002 田中さんはもう{{c1::来ています::来る · state (is here)}}。 ‖ Mr Tanaka is already here.
+   N: With change-of-state verbs (結婚する, 来る, 行く, 勤める, 知る), ている means the resulting state, not 'is doing'. 知る: 知っています, but the negative is 知りません. | T: vs action verbs (食べている): in progress. | R: Neutral | C: 
+JP-EX-02-003 父は銀行に{{c1::勤めています::勤める · state (works at)}}。 ‖ My father works at a bank.
+   N: With change-of-state verbs (結婚する, 来る, 行く, 勤める, 知る), ている means the resulting state, not 'is doing'. 知る: 知っています, but the negative is 知りません. | T: vs action verbs (食べている): in progress. | R: Neutral | C: 
+JP-EX-02-004 「田中さんを知っていますか。」「いいえ、{{c1::知りません::知る · negative}}。」 ‖ 'Do you know Mr Tanaka?' 'No, I don't.'
+   N: With change-of-state verbs (結婚する, 来る, 行く, 勤める, 知る), ている means the resulting state, not 'is doing'. 知る: 知っています, but the negative is 知りません. | T: vs action verbs (食べている): in progress. | R: Neutral | C: 
+JP-EX-02-005 子どもたちが遊んでいる{{c1::の::の or こと?}}が見えます。<br>私の趣味は写真をとる{{c2::こと::の or こと?}}です。 ‖ I can see the children playing. / My hobby is taking photos.
+   N: の: something perceived or experienced directly (見る, 聞こえる, 手伝う, 待つ). こと: an abstract fact; required before です (趣味は〜ことです) and in ことができる / ことにする. | T:  | R: Neutral | C: 
+JP-EX-02-006 田中さんが走っている{{c1::の::の or こと?}}を見ました。 ‖ I saw Mr Tanaka running.
+   N: の: something perceived or experienced directly (見る, 聞こえる, 手伝う, 待つ). こと: an abstract fact; required before です (趣味は〜ことです) and in ことができる / ことにする. | T:  | R: Neutral | C: 
+JP-EX-02-007 日本語を話す{{c1::こと::の or こと?}}ができます。 ‖ I can speak Japanese.
+   N: の: something perceived or experienced directly (見る, 聞こえる, 手伝う, 待つ). こと: an abstract fact; required before です (趣味は〜ことです) and in ことができる / ことにする. | T:  | R: Neutral | C: 
+JP-EX-02-008 お酒は飲みますが、たばこ{{c1::は::を or は?}}すいません。 ‖ I drink, but I don't smoke.
+   N: は after a noun (replacing を / が) or after another particle (には, では) marks contrast: 'X, at least / but not Y'. | T:  | R: Neutral | C: 
+JP-EX-02-009 東京{{c1::には::に + contrast}}行きましたが、大阪には行きませんでした。 ‖ I went to Tokyo, but not to Osaka.
+   N: は after a noun (replacing を / が) or after another particle (には, では) marks contrast: 'X, at least / but not Y'. | T:  | R: Neutral | C: 
+JP-EX-02-010 私{{c1::が::は or が?}}作ったケーキを食べてください。 ‖ Please eat the cake I made.
+   N: Inside a clause that modifies a noun or another clause (とき, から), the subject takes が, not は. は marks the topic of the whole sentence. | T:  | R: Neutral | C: 
+JP-EX-02-011 母{{c1::が::は or が?}}帰ってきたとき、私は寝ていました。 ‖ When my mother came home, I was asleep.
+   N: Inside a clause that modifies a noun or another clause (とき, から), the subject takes が, not は. は marks the topic of the whole sentence. | T:  | R: Neutral | C: 
+JP-EX-02-012 (You both went there) 去年行った{{c1::あの::その or あの?}}店、また行きたいね。<br>(Telling someone new) 駅の前に新しい店があって、{{c2::その::その or あの?}}店がとてもおいしいんです。 ‖ I want to go back to that place we went last year. / There's a new place by the station, and it's really good.
+   N: あの / あれ: something both speaker and listener know (shared memory). その / それ: something just mentioned that the listener doesn't know. | T:  | R: Neutral | C: 
+JP-EX-02-013 毎朝、花に水を{{c1::やります::give (to plants)}}。 ‖ I water the flowers every morning.
+   N: やる: give (to plants, animals, or people below you). あげる is increasingly used for pets and plants too. | T:  | R: Casual; やる to people sounds rough | C: 
+JP-EX-02-014 犬にえさを{{c1::やりました::give (to animals)}}。 ‖ I fed the dog.
+   N: やる: give (to plants, animals, or people below you). あげる is increasingly used for pets and plants too. | T:  | R: Casual; やる to people sounds rough | C: 
+JP-EX-02-015 道{{c1::を::particle: across (motion)}}渡るときは、気をつけてください。 ‖ Be careful when you cross the road.
+   N: With motion verbs, を marks the route (渡る, 歩く, 通る) or the place you leave (出る, 降りる). This is not an object. | T: vs で: where an action happens. | R: Neutral | C: 
+JP-EX-02-016 次の駅で電車{{c1::を::particle: out of (getting off)}}降ります。 ‖ I'm getting off the train at the next station.
+   N: With motion verbs, を marks the route (渡る, 歩く, 通る) or the place you leave (出る, 降りる). This is not an object. | T: vs で: where an action happens. | R: Neutral | C: 
+JP-EX-02-017 毎朝、八時に家{{c1::を::particle: out of (leaving)}}出ます。 ‖ I leave home at eight every morning.
+   N: With motion verbs, を marks the route (渡る, 歩く, 通る) or the place you leave (出る, 降りる). This is not an object. | T: vs で: where an action happens. | R: Neutral | C: 
+JP-EX-03-001 (To a friend) 今、何{{c1::してる::する · ている (casual)}}? ‖ What are you doing?
+   N: In casual speech ている shortens to てる (ていた → てた). | T:  | R: Casual | C: 
+JP-EX-03-002 (To a friend) それ、もう{{c1::知ってる::知る · ている (casual)}}よ。 ‖ I already know that.
+   N: In casual speech ている shortens to てる (ていた → てた). | T:  | R: Casual | C: 
+JP-EX-03-003 (To a friend) 飲み物、{{c1::買っとく::買う · ておく (casual)}}ね。 ‖ I'll get drinks in.
+   N: ておく shortens to とく (でおく → どく). | T:  | R: Casual | C: 
+JP-EX-03-004 (To a friend) この本、ここに{{c1::置いとく::置く · ておく (casual)}}よ。 ‖ I'll leave this book here.
+   N: ておく shortens to とく (でおく → どく). | T:  | R: Casual | C: 
+JP-EX-03-005 (To a friend) ジュース、全部{{c1::飲んじゃった::飲む · てしまう (casual, past)}}。 ‖ I drank all the juice.
+   N: てしまう → ちゃう; でしまう → じゃう (past: ちゃった / じゃった). | T:  | R: Casual | C: 
+JP-EX-03-006 (To a friend) 電車、もう{{c1::行っちゃった::行く · てしまう (casual, past)}}。 ‖ The train's already gone.
+   N: てしまう → ちゃう; でしまう → じゃう (past: ちゃった / じゃった). | T:  | R: Casual | C: 
+JP-EX-03-007 (To a child) ここで{{c1::泳いじゃ::泳ぐ · ては (casual)}}だめだよ。 ‖ You mustn't swim here.
+   N: ては → ちゃ; では → じゃ. Most often in ちゃだめ / ちゃいけない (mustn't). | T:  | R: Casual | C: 
+JP-EX-03-008 (To a friend) {{c1::見ちゃ::見る · ては (casual)}}だめ! ‖ Don't look!
+   N: ては → ちゃ; では → じゃ. Most often in ちゃだめ / ちゃいけない (mustn't). | T:  | R: Casual | C: 
+JP-EX-03-009 (To a friend) 宿題、{{c1::やらなくちゃ::やる · must (なくちゃ)}}。 ‖ I've got to do my homework.
+   N: なくては(いけない) → なくちゃ; なければ(ならない) → なきゃ. The ending is often dropped. | T:  | R: Casual | C: 
+JP-EX-03-010 (To a friend) もう{{c1::行かなきゃ::行く · must (なきゃ)}}。 ‖ I have to go now.
+   N: なくては(いけない) → なくちゃ; なければ(ならない) → なきゃ. The ending is often dropped. | T:  | R: Casual | C: 
+JP-EX-03-011 (To a friend) 何言ってるか{{c1::わかんない::わかる · negative (casual ん)}}。 ‖ I don't get what you're saying.
+   N: In casual speech, ら / る / れ before な or の often becomes ん: わからない → わかんない; つまらない → つまんない; するの → すんの. | T:  | R: Very casual | C: 
+JP-EX-03-012 (To a friend) この映画、{{c1::つまんない::つまらない · casual (ん)}}。 ‖ This film's boring.
+   N: In casual speech, ら / る / れ before な or の often becomes ん: わからない → わかんない; つまらない → つまんない; するの → すんの. | T:  | R: Very casual | C: 
+JP-EX-03-013 (To a friend) いい{{c1::じゃん::isn't it! (casual)}}! ‖ That's great!
+   N: Sentence-final じゃん: isn't it / you know (casual assertion; originally Kanto). | T:  | R: Very casual | C: 
+JP-EX-03-014 (To a friend) だから言った{{c1::じゃん::I told you (casual)}}。 ‖ I told you so.
+   N: Sentence-final じゃん: isn't it / you know (casual assertion; originally Kanto). | T:  | R: Very casual | C: 
+JP-EX-03-015 (To a friend) 会議は何時だった{{c1::っけ::was it? (trying to remember)}}? ‖ What time was the meeting again?
+   N: Plain form (often past) + っけ: was it…? (trying to remember). Polite: でしたっけ. | T:  | R: Casual | C: 
+JP-EX-03-016 (To a friend) あの人、名前なんだ{{c1::っけ::was it? (trying to remember)}}? ‖ What was that person's name again?
+   N: Plain form (often past) + っけ: was it…? (trying to remember). Polite: でしたっけ. | T:  | R: Casual | C: 
+JP-EX-03-017 (To a friend) 田中さん、結婚する{{c1::んだって::I heard (casual)}}。 ‖ I heard Tanaka's getting married.
+   N: Plain form + んだって: I heard; apparently (casual hearsay). | T:  | R: Casual | C: 
+JP-EX-03-018 (To a friend) あの店、来月閉まる{{c1::んだって::I heard (casual)}}。 ‖ Apparently that shop's closing next month.
+   N: Plain form + んだって: I heard; apparently (casual hearsay). | T:  | R: Casual | C: 
+JP-EX-03-019 (Junior to senior) {{c1::そうっす::そうです · casual polite (っす)}}ね。 ‖ Yeah, that's right.
+   N: っす: a casual です, used mainly by younger men to seniors (sports, part-time jobs). | T:  | R: Casual-polite; avoid in formal settings | C: 
+JP-EX-03-020 (Junior to senior) {{c1::いいっす::いいです · casual polite (っす)}}よ。 ‖ Sure, no problem.
+   N: っす: a casual です, used mainly by younger men to seniors (sports, part-time jobs). | T:  | R: Casual-polite; avoid in formal settings | C: 
+JP-EX-03-021 (To a friend) どこに{{c1::行くの::行く · question (casual)}}? ‖ Where are you going?
+   N: Plain form + の? (rising): a casual question, softer than plain form alone. Noun / な-adj + なの? | T:  | R: Casual | C: 
+JP-EX-03-022 (To a friend) それ、{{c1::本当なの::本当 · question (casual)}}? ‖ Is that true?
+   N: Plain form + の? (rising): a casual question, softer than plain form alone. Noun / な-adj + なの? | T:  | R: Casual | C: 
+JP-EX-04-001 (Thinking aloud) 明日は晴れる{{c1::かな::I wonder (casual)}}。 ‖ I wonder if it'll be sunny tomorrow.
+   N: かな: I wonder (thinking aloud; neutral). かしら: the same, but feminine and rather old-fashioned. | T:  | R: Casual | C: 
+JP-EX-04-002 (Older woman, thinking aloud) 田中さん、来る{{c1::かしら::I wonder (feminine, older)}}。 ‖ I wonder whether Mr Tanaka is coming.
+   N: かな: I wonder (thinking aloud; neutral). かしら: the same, but feminine and rather old-fashioned. | T:  | R: Casual | C: 
+JP-EX-04-003 (Warning) 危ない{{c1::ぞ::warning (masculine)}}! ‖ Look out!
+   N: ぞ: strong assertion or warning (masculine). ぜ: casual 'come on' / assertion (masculine, a bit dated). | T:  | R: Masculine; very casual | C: 
+JP-EX-04-004 (To a mate) 行こう{{c1::ぜ::let's (masculine, casual)}}! ‖ Let's go!
+   N: ぞ: strong assertion or warning (masculine). ぜ: casual 'come on' / assertion (masculine, a bit dated). | T:  | R: Masculine; very casual | C: 
+JP-EX-04-005 明日は休みです{{c1::よね::right? (checking)}}。 ‖ Tomorrow's a day off, right?
+   N: よね: right? (checking something you think is true). | T: vs ね: seeks agreement; よね checks your own belief. | R: Neutral | C: 
+JP-EX-04-006 (To a friend) これ、田中さんの{{c1::だよね::is, right? (casual check)}}。 ‖ This is Tanaka's, isn't it?
+   N: よね: right? (checking something you think is true). | T: vs ね: seeks agreement; よね checks your own belief. | R: Neutral | C: 
+JP-EX-04-007 (Child) だって、まだ眠い{{c1::もん::because (childish excuse)}}。 ‖ But I'm still sleepy!
+   N: Plain form + もん (もの): because (a childish or sulky excuse). | T:  | R: Childish; casual | C: 
+JP-EX-04-008 (Sulking) 知らなかったんだ{{c1::もん::because (sulky excuse)}}。 ‖ Well, I didn't know!
+   N: Plain form + もん (もの): because (a childish or sulky excuse). | T:  | R: Childish; casual | C: 
+JP-EX-04-009 (Man, casual) いい天気だ{{c1::な::isn't it (masculine)}}。 ‖ Nice weather, isn't it?
+   N: Sentence-final な: a masculine or self-directed ね (isn't it; I think). | T:  | R: Casual; masculine or talking to yourself | C: 
+JP-EX-04-010 (To yourself) 今日は疲れた{{c1::な::(to yourself)}}。 ‖ I'm tired today.
+   N: Sentence-final な: a masculine or self-directed ね (isn't it; I think). | T:  | R: Casual; masculine or talking to yourself | C: 
+JP-EX-04-011 (Feminine, older Tokyo style) まあ、すてきだ{{c1::わ::feminine softener}}。 ‖ Oh, how lovely.
+   N: わ: (a) Tokyo: a feminine softener (now mostly older speech or fiction). (b) Kansai: a neutral assertion used by everyone. | T:  | R: Depends on region | C: 
+JP-EX-04-012 (Kansai, anyone) もう帰る{{c1::わ::assertion (Kansai)}}。 ‖ I'm off home.
+   N: わ: (a) Tokyo: a feminine softener (now mostly older speech or fiction). (b) Kansai: a neutral assertion used by everyone. | T:  | R: Depends on region | C: 
+JP-EX-04-013 (To a friend) だから{{c1::さ::filler / emphasis}}、もう一回やろうよ。 ‖ So, like, let's try again.
+   N: さ: casual emphasis or filler, at the end or in the middle of a sentence (masculine-leaning). | T:  | R: Very casual | C: 
+JP-EX-04-014 (To a friend) 大丈夫だ{{c1::さ::reassuring emphasis}}。 ‖ It'll be fine.
+   N: さ: casual emphasis or filler, at the end or in the middle of a sentence (masculine-leaning). | T:  | R: Very casual | C: 
+JP-EX-05-001 (Shop staff) トイレは二階{{c1::でございます::です · very polite}}。 ‖ The toilets are on the second floor.
+   N: ある → ございます; です → でございます (very polite, staff to customers). | T:  | R: Very polite; customer service | C: 
+JP-EX-05-002 (Shop staff) こちらにメニューが{{c1::ございます::ある · very polite}}。 ‖ The menu is here.
+   N: ある → ございます; です → でございます (very polite, staff to customers). | T:  | R: Very polite; customer service | C: 
+JP-EX-05-003 明日、御社に{{c1::伺います::行く · humble (business)}}。 ‖ I'll visit your company tomorrow.
+   N: 伺う (行く / 聞く), 拝見する (見る), 存じる (知る / 思う), 申し上げる (言う, to a superior), いただく (もらう / 食べる). | T: vs N4 humble: まいる, いたす, もうす. | R: Business | C: 
+JP-EX-05-004 資料を{{c1::拝見しました::見る · humble}}。 ‖ I've looked at the materials.
+   N: 伺う (行く / 聞く), 拝見する (見る), 存じる (知る / 思う), 申し上げる (言う, to a superior), いただく (もらう / 食べる). | T: vs N4 humble: まいる, いたす, もうす. | R: Business | C: 
+JP-EX-05-005 その件は{{c1::存じております::知る · humble (ongoing)}}。 ‖ I'm aware of that matter.
+   N: 伺う (行く / 聞く), 拝見する (見る), 存じる (知る / 思う), 申し上げる (言う, to a superior), いただく (もらう / 食べる). | T: vs N4 humble: まいる, いたす, もうす. | R: Business | C: 
+JP-EX-05-006 社長に{{c1::申し上げます::言う · humble (to a superior)}}。 ‖ I'll tell the president.
+   N: 伺う (行く / 聞く), 拝見する (見る), 存じる (知る / 思う), 申し上げる (言う, to a superior), いただく (もらう / 食べる). | T: vs N4 humble: まいる, いたす, もうす. | R: Business | C: 
+JP-EX-05-007 社長は今、電話で{{c1::話していらっしゃいます::話す · ている (honorific)}}。 ‖ The president is on the phone right now.
+   N: ている for a superior: ていらっしゃる (or the slightly weaker ておられる). | T:  | R: Business | C: 
+JP-EX-05-008 先生は東京に{{c1::住んでいらっしゃいます::住む · ている (honorific)}}。 ‖ The teacher lives in Tokyo.
+   N: ている for a superior: ていらっしゃる (or the slightly weaker ておられる). | T:  | R: Business | C: 
+JP-EX-05-009 少々{{c1::お待ちください::待つ · please (honorific)}}。 ‖ Please wait a moment.
+   N: お + stem + ください (ご + kanji noun + ください): please (honorific request). ご〜いただく: humble 'receive the favour of'. | T:  | R: Business; notices | C: 
+JP-EX-05-010 こちらに{{c1::ご記入ください::記入する · please (honorific)}}。 ‖ Please fill this in.
+   N: お + stem + ください (ご + kanji noun + ください): please (honorific request). ご〜いただく: humble 'receive the favour of'. | T:  | R: Business; notices | C: 
+JP-EX-05-011 {{c1::ご利用いただき::利用する · humble (receiving)}}、ありがとうございます。 ‖ Thank you for using our services.
+   N: お + stem + ください (ご + kanji noun + ください): please (honorific request). ご〜いただく: humble 'receive the favour of'. | T:  | R: Business; notices | C: 
+JP-EX-05-012 (To a client, about your boss Tanaka) {{c1::田中::田中 or 田中さん?}}はただいま席を{{c2::外しております::外す · humble or honorific?}}。 ‖ Tanaka is away from his desk at the moment.
+   N: To someone outside your company, your own colleagues and boss are 'inside': no さん or title, and humble verbs (おる, いたす), even for your boss. | T:  | R: Business | C: 
+JP-EX-05-013 社長が{{c1::おっしゃいました::おっしゃいました or おっしゃられました?}}。 ‖ The president said so.
+   N: Don't stack two honorific forms: おっしゃる is already honorific, so おっしゃられる is double. Common in speech but considered incorrect. | T:  | R: Business | C: 
+JP-EX-05-014 部長はもう{{c1::お帰りになりました::お帰りになりました or お帰りになられました?}}。 ‖ The manager has already gone home.
+   N: Don't stack two honorific forms: おっしゃる is already honorific, so おっしゃられる is double. Common in speech but considered incorrect. | T:  | R: Business | C: 
+JP-EX-06-001 (Essay) 日本は島国{{c1::である::copula (essay style)}}。 ‖ Japan is an island nation.
+   N: In essays and reports, だ → である; ではない; であった. です / ます are not used. | T:  | R: Essays, reports, academic | C: 
+JP-EX-06-002 (Essay) これは簡単な問題{{c1::ではない::copula negative (essay style)}}。 ‖ This is not a simple problem.
+   N: In essays and reports, だ → である; ではない; であった. です / ます are not used. | T:  | R: Essays, reports, academic | C: 
+JP-EX-06-003 (Essay) この結果は重要{{c1::であった::copula past (essay style)}}。 ‖ This result was important.
+   N: In essays and reports, だ → である; ではない; であった. です / ます are not used. | T:  | R: Essays, reports, academic | C: 
+JP-EX-06-004 (Written) 駅まで{{c1::歩き::歩く · and (written, stem)}}、電車に乗った。 ‖ I walked to the station and got on a train.
+   N: In writing, a verb stem (起き), い-adj in く (広く), or negative ず (言わず) links clauses instead of て-forms. | T:  | R: Written | C: 
+JP-EX-06-005 (Written) 彼は何も{{c1::言わず::言う · without (written ず)}}、部屋を出た。 ‖ He left the room without a word.
+   N: In writing, a verb stem (起き), い-adj in く (広く), or negative ず (言わず) links clauses instead of て-forms. | T:  | R: Written | C: 
+JP-EX-06-006 (Written) 部屋は{{c1::広く::広い · and (written)}}、明るい。 ‖ The room is spacious and bright.
+   N: In writing, a verb stem (起き), い-adj in く (広く), or negative ず (言わず) links clauses instead of て-forms. | T:  | R: Written | C: 
+JP-EX-06-007 (Essay) 問題はここにある{{c1::のである::explanatory (essay style)}}。 ‖ This is where the problem lies.
+   N: Plain form + のである: the written version of のです (explaining; stressing a conclusion). | T:  | R: Essays | C: 
+JP-EX-06-008 (Report) この薬には効果がある{{c1::とされている::is said / held (report)}}。 ‖ This drug is said to be effective.
+   N: Plain form + とされている: is said / held to be. と考えられる: is thought (impersonal, reports). | T:  | R: Reports, academic | C: 
+JP-EX-06-009 (Report) 原因は気温の上昇だ{{c1::と考えられる::is thought (report)}}。 ‖ The cause is thought to be the rise in temperature.
+   N: Plain form + とされている: is said / held to be. と考えられる: is thought (impersonal, reports). | T:  | R: Reports, academic | C: 
+JP-EX-06-010 (Essay) 彼は医者{{c1::であり::is … and (written)}}、作家でもある。 ‖ He is a doctor and also a writer.
+   N: Noun + であり: written 'is … and' (links two descriptions). | T:  | R: Written | C: 
+JP-EX-07-001 (Written) {{c1::見知らぬ::見知る · negative (classical ぬ)}}人に話しかけられた。 ‖ A stranger spoke to me.
+   N: ぬ: classical negative (= ない), surviving before nouns and in proverbs and set phrases (見知らぬ, 知らぬが仏). | T:  | R: Literary; set phrases | C: 
+JP-EX-07-002 (Proverb) 知ら{{c1::ぬ::negative (classical)}}が仏。 ‖ Ignorance is bliss.
+   N: ぬ: classical negative (= ない), surviving before nouns and in proverbs and set phrases (見知らぬ, 知らぬが仏). | T:  | R: Literary; set phrases | C: 
+JP-EX-07-003 {{c1::思わず::思う · without meaning to (ず)}}笑ってしまいました。 ‖ I couldn't help laughing.
+   N: ず: classical negative, alive in everyday fixed phrases: 思わず (without meaning to), 相変わらず (as ever), 少なからず (not a little). | T:  | R: Everyday set phrases | C: 
+JP-EX-07-004 彼は{{c1::相変わらず::as ever (fixed ず form)}}元気です。 ‖ He's as energetic as ever.
+   N: ず: classical negative, alive in everyday fixed phrases: 思わず (without meaning to), 相変わらず (as ever), 少なからず (not a little). | T:  | R: Everyday set phrases | C: 
+JP-EX-07-005 (Written) これは{{c1::知られざる::知られる · negative + noun (ざる)}}名作です。 ‖ This is a little-known masterpiece.
+   N: ざる: classical negative before a noun (知られざる = unknown). | T:  | R: Literary; titles | C: 
+JP-EX-07-006 (A maxim) 学生は勉強す{{c1::べし::must (classical)}}。 ‖ Students must study.
+   N: べし: must; should (classical root of べき; maxims, rules). ごとし: is like (classical root of ごとく). | T:  | R: Maxims, proverbs | C: 
+JP-EX-07-007 (Proverb) 過ぎたるは猶及ばざるが{{c1::ごとし::is like (classical)}}。 ‖ Too much is as bad as too little.
+   N: べし: must; should (classical root of べき; maxims, rules). ごとし: is like (classical root of ごとく). | T:  | R: Maxims, proverbs | C: 
+JP-EX-07-008 彼は{{c1::堂々と::堂々 · adverb (と)}}意見を述べました。 ‖ He stated his opinion confidently.
+   N: A small set of Chinese-origin words (堂々, 確固, 漠然) take たる before nouns and と as adverbs. | T:  | R: Written | C: 
+JP-EX-07-009 それは{{c1::堂々たる::堂々 · before a noun (たる)}}演技でした。 ‖ It was a commanding performance.
+   N: A small set of Chinese-origin words (堂々, 確固, 漠然) take たる before nouns and と as adverbs. | T:  | R: Written | C: 
+JP-EX-07-010 (Motto) 失敗を恐れる{{c1::なかれ::do not (literary)}}。 ‖ Do not fear failure.
+   N: Dictionary form + なかれ: do not (literary command; mottos). | T:  | R: Literary; mottos | C: 
+JP-EX-07-011 これは{{c1::若かりし::若い · past, before noun (classical)}}頃の写真です。 ‖ This is a photo from my younger days.
+   N: い-adj + かりし + noun: classical past (若かりし頃 = in my younger days). | T:  | R: Literary; nostalgic | C: 
+JP-EX-08-001 (Kansai) 今日は{{c1::行かへん::行く · negative (Kansai)}}。 ‖ I'm not going today.
+   N: Kansai negative: ない → へん (行かない → 行かへん; 食べない → 食べへん). ん (行かん) is also common. | T:  | R: Kansai; casual | C: 
+JP-EX-08-002 (Kansai) そんなん{{c1::知らへん::知る · negative (Kansai)}}。 ‖ I don't know about that.
+   N: Kansai negative: ない → へん (行かない → 行かへん; 食べない → 食べへん). ん (行かん) is also common. | T:  | R: Kansai; casual | C: 
+JP-EX-08-003 (Kansai) それ、ほんま{{c1::や::copula だ (Kansai)}}。 ‖ That's true.
+   N: Kansai copula: だ → や (やで, やな, やろ). | T:  | R: Kansai; casual | C: 
+JP-EX-08-004 (Kansai) 明日は雨{{c1::やで::copula + 'you know' (Kansai)}}。 ‖ It's going to rain tomorrow, you know.
+   N: Kansai copula: だ → や (やで, やな, やろ). | T:  | R: Kansai; casual | C: 
+JP-EX-08-005 (Kansai) 今から帰る{{c1::ねん::explanatory んだ (Kansai)}}。 ‖ I'm heading home now, see.
+   N: Kansai explanatory ねん = んだ / のだ (noun / な-adj + やねん; past + ん + ねん → てん). | T:  | R: Kansai; casual | C: 
+JP-EX-08-006 (Kansai) あの店、めっちゃ好き{{c1::やねん::copula + explanatory (Kansai)}}。 ‖ I really love that place.
+   N: Kansai explanatory ねん = んだ / のだ (noun / な-adj + やねん; past + ん + ねん → てん). | T:  | R: Kansai; casual | C: 
+JP-EX-08-007 (Kansai) 先生、もう{{c1::帰らはった::帰る · light honorific, past (Kansai)}}。 ‖ The teacher has already gone home.
+   N: Kansai light honorific: verb stem (a-row for う-verbs) + はる. Used for respected people, and even for strangers. | T:  | R: Kansai; friendly respect | C: 
+JP-EX-08-008 (Kansai) あの人、何て{{c1::言わはった::言う · light honorific, past (Kansai)}}? ‖ What did that person say?
+   N: Kansai light honorific: verb stem (a-row for う-verbs) + はる. Used for respected people, and even for strangers. | T:  | R: Kansai; friendly respect | C: 
+JP-EX-08-009 (Kansai) そんなことしたら{{c1::あかん::no good / mustn't (Kansai)}}。 ‖ You mustn't do that.
+   N: あかん = だめ (no good; mustn't). なあかん = なければならない (must). | T:  | R: Kansai; casual | C: 
+JP-EX-08-010 (Kansai) もう{{c1::行かなあかん::行く · must (Kansai)}}。 ‖ I've got to go.
+   N: あかん = だめ (no good; mustn't). なあかん = なければならない (must). | T:  | R: Kansai; casual | C: 
+JP-EX-08-011 (Kansai) 雨{{c1::やから::because (だから, Kansai)}}、家におるわ。 ‖ It's raining, so I'll stay home.
+   N: Kansai だから → やから. | T:  | R: Kansai; casual | C: 

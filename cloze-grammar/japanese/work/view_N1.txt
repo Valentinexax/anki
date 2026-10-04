@@ -1,0 +1,372 @@
+JP-N1-01-001 (Written) 子どもは家に{{c1::帰るが早いか::帰る · the instant (が早いか)}}、外へ遊びに行った。 ‖ The instant the child got home, he went out to play.
+   N: Dictionary form / past + が早いか: the instant A happened, B (almost at the same moment). Narrative; not about your own will. | T: や否や and なり are close in meaning. なり often has an unexpected B. | R: Written; narrative | C: 
+JP-N1-01-002 (Written) ベルが{{c1::鳴るが早いか::鳴る · the instant (が早いか)}}、学生たちは教室を飛び出した。 ‖ The instant the bell rang, the students dashed out of the classroom.
+   N: Dictionary form / past + が早いか: the instant A happened, B (almost at the same moment). Narrative; not about your own will. | T: や否や and なり are close in meaning. なり often has an unexpected B. | R: Written; narrative | C: 
+JP-N1-01-003 (Written) 彼はそのニュースを{{c1::聞くや否や::聞く · as soon as (や否や)}}、部屋を出ていった。 ‖ As soon as he heard the news, he left the room.
+   N: Dictionary form + や否や (or just や): as soon as (B follows immediately). | T:  | R: Written | C: 
+JP-N1-01-004 (Written) 新商品は{{c1::発売されるや否や::発売される · as soon as (や否や)}}、売り切れた。 ‖ The new product sold out as soon as it was released.
+   N: Dictionary form + や否や (or just や): as soon as (B follows immediately). | T:  | R: Written | C: 
+JP-N1-01-005 (Written) 彼女は私の顔を{{c1::見るなり::見る · as soon as (なり)}}、泣き出した。 ‖ As soon as she saw my face, she burst into tears.
+   N: Dictionary form + なり: as soon as (and then something unexpected). Only about other people, not yourself. | T: vs が早いか: なり stresses that B was surprising. | R: Written; narrative | C: 
+JP-N1-01-006 (Written) 父は{{c1::帰ってくるなり::帰ってくる · as soon as (なり)}}、寝てしまった。 ‖ My father went straight to bed the moment he got home.
+   N: Dictionary form + なり: as soon as (and then something unexpected). Only about other people, not yourself. | T: vs が早いか: なり stresses that B was surprising. | R: Written; narrative | C: 
+JP-N1-01-007 単語を{{c1::覚えるそばから::覚える · no sooner … than (repeatedly)}}、忘れてしまいます。 ‖ No sooner do I learn a word than I forget it.
+   N: Dictionary form / past + そばから: no sooner … than (it keeps happening, over and over). | T:  | R: Neutral | C: 
+JP-N1-01-008 片付ける{{c1::そばから::no sooner … than (repeatedly)}}、子どもが散らかします。 ‖ As soon as I tidy up, the kids make a mess again.
+   N: Dictionary form / past + そばから: no sooner … than (it keeps happening, over and over). | T:  | R: Neutral | C: 
+JP-N1-01-009 子どもが{{c1::生まれてからというもの::生まれる · ever since (big change)}}、生活がすっかり変わりました。 ‖ Ever since our child was born, our life has completely changed.
+   N: て-form + からというもの: ever since (a big change, and it has continued). | T: vs て以来: てからというもの stresses how big the change is. | R: Neutral to written | C: 
+JP-N1-01-010 彼女に{{c1::出会ってからというもの::出会う · ever since (big change)}}、毎日が楽しいです。 ‖ Ever since I met her, every day has been fun.
+   N: て-form + からというもの: ever since (a big change, and it has continued). | T: vs て以来: てからというもの stresses how big the change is. | R: Neutral to written | C: 
+JP-N1-01-011 今日{{c1::を限りに::as of (last time)}}、たばこをやめます。 ‖ As of today, I'm quitting smoking.
+   N: Time noun + を限りに: as of (this is the last time). | T:  | R: Formal | C: 
+JP-N1-01-012 本日{{c1::を限りに::as of (last time)}}、閉店いたします。 ‖ We are closing for good as of today.
+   N: Time noun + を限りに: as of (this is the last time). | T:  | R: Formal | C: 
+JP-N1-01-013 東京公演{{c1::を皮切りに::starting with}}、全国ツアーが始まります。 ‖ The national tour begins with a show in Tokyo.
+   N: Noun + を皮切りに: starting with (the first of a series). | T:  | R: Formal | C: 
+JP-N1-01-014 彼の発言{{c1::を皮切りに::starting with}}、次々と反対意見が出ました。 ‖ Starting with his remark, one objection followed another.
+   N: Noun + を皮切りに: starting with (the first of a series). | T:  | R: Formal | C: 
+JP-N1-01-015 彼は会社に{{c1::勤めるかたわら::勤める · while also (main + side)}}、小説を書いています。 ‖ Alongside his office job, he writes novels.
+   N: Dictionary form / noun + の + かたわら: while also (a side activity alongside your main work, over a long period). | T: vs ながら: ながら is two actions at the same moment. | R: Written | C: 
+JP-N1-01-016 彼女は子育ての{{c1::かたわら::while also}}、大学で勉強しています。 ‖ While raising children, she's also studying at university.
+   N: Dictionary form / noun + の + かたわら: while also (a side activity alongside your main work, over a long period). | T: vs ながら: ながら is two actions at the same moment. | R: Written | C: 
+JP-N1-01-017 散歩{{c1::がてら::while (on the way)}}、パンを買いに行きます。 ‖ I'll get some bread while I'm out for a walk.
+   N: Verb stem / noun + がてら: while (doing A, also do B; on the way). | T:  | R: Neutral | C: 
+JP-N1-01-018 駅まで客を{{c1::送りがてら::送る · while (on the way)}}、買い物をしてきました。 ‖ I did some shopping while seeing a guest off at the station.
+   N: Verb stem / noun + がてら: while (doing A, also do B; on the way). | T:  | R: Neutral | C: 
+JP-N1-01-019 大学生{{c1::ともなれば::once one becomes}}、自分のことは自分でするべきです。 ‖ Once you're a university student, you should look after yourself.
+   N: Noun / dictionary form + ともなると / ともなれば: once it comes to (a higher level, where things are naturally different). | T:  | R: Neutral | C: 
+JP-N1-01-020 十二月{{c1::ともなると::once it gets to}}、街はにぎやかになります。 ‖ Once it's December, the streets get lively.
+   N: Noun / dictionary form + ともなると / ともなれば: once it comes to (a higher level, where things are naturally different). | T:  | R: Neutral | C: 
+JP-N1-02-001 (Written) 貧しさ{{c1::ゆえに::because of (formal)}}、彼は学校に行けなかった。 ‖ Because of poverty, he couldn't go to school.
+   N: Noun / plain form + ゆえ(に) (ゆえの + noun): because of (formal, written). | T:  | R: Written; formal | C: 
+JP-N1-02-002 (Written) 若さ{{c1::ゆえの::because of (+ noun)}}失敗だった。 ‖ It was a mistake born of youth.
+   N: Noun / plain form + ゆえ(に) (ゆえの + noun): because of (formal, written). | T:  | R: Written; formal | C: 
+JP-N1-02-003 連休{{c1::とあって::because (special occasion)}}、道路はどこも込んでいます。 ‖ Because it's a long weekend, the roads are busy everywhere.
+   N: Noun / plain form + とあって: because (a special situation, so naturally…). | T:  | R: Written; news | C: 
+JP-N1-02-004 人気歌手が来る{{c1::とあって::because (special occasion)}}、会場は若者でいっぱいでした。 ‖ With a popular singer coming, the venue was packed with young people.
+   N: Noun / plain form + とあって: because (a special situation, so naturally…). | T:  | R: Written; news | C: 
+JP-N1-02-005 子どもを{{c1::愛していればこそ::愛している · precisely because}}、厳しくするのです。 ‖ It's precisely because I love my child that I'm strict.
+   N: ば-form + こそ: precisely because (positive reason, emphasised). | T: vs からこそ: same meaning; ばこそ is more literary. | R: Written | C: 
+JP-N1-02-006 健康で{{c1::あればこそ::ある · precisely because}}、仕事ができるのです。 ‖ It's only because you're healthy that you can work.
+   N: ば-form + こそ: precisely because (positive reason, emphasised). | T: vs からこそ: same meaning; ばこそ is more literary. | R: Written | C: 
+JP-N1-02-007 子どもの{{c1::手前::in front of (saving face)}}、泣くわけにはいきません。 ‖ I can't cry in front of the children.
+   N: Noun + の / plain form + 手前: since (in front of others; to save face, I can't…). | T:  | R: Neutral | C: 
+JP-N1-02-008 行くと{{c1::言った手前::言う · having said (saving face)}}、今さら断れません。 ‖ Having said I'd go, I can't back out now.
+   N: Noun + の / plain form + 手前: since (in front of others; to save face, I can't…). | T:  | R: Neutral | C: 
+JP-N1-02-009 (Formal) 慣れぬ{{c1::こととて::because (formal excuse)}}、ご迷惑をおかけしました。 ‖ Being unused to it, I'm afraid I caused you trouble.
+   N: Plain form + こととて: because (a formal excuse or apology). | T:  | R: Very formal; old-fashioned | C: 
+JP-N1-02-010 (Formal) 子どものした{{c1::こととて::because (formal excuse)}}、どうかお許しください。 ‖ As it was done by a child, please forgive it.
+   N: Plain form + こととて: because (a formal excuse or apology). | T:  | R: Very formal; old-fashioned | C: 
+JP-N1-02-011 仕事{{c1::にかこつけて::using … as an excuse}}、飲み会を断りました。 ‖ I used work as an excuse to get out of the drinks.
+   N: Noun + にかこつけて: using X as an excuse (or pretext). | T:  | R: Neutral | C: 
+JP-N1-02-012 出張{{c1::にかこつけて::using … as an excuse}}、観光を楽しみました。 ‖ I used the business trip as an excuse to do some sightseeing.
+   N: Noun + にかこつけて: using X as an excuse (or pretext). | T:  | R: Neutral | C: 
+JP-N1-02-013 本日{{c1::をもって::as of (formal)}}、受付を終了いたします。 ‖ Applications close as of today.
+   N: Noun + をもって: (a) as of (a formal time); (b) by means of (formal). | T:  | R: Very formal; notices | C: 
+JP-N1-02-014 結果は書面{{c1::をもって::by means of (formal)}}、ご連絡いたします。 ‖ We will inform you of the results in writing.
+   N: Noun + をもって: (a) as of (a formal time); (b) by means of (formal). | T:  | R: Very formal; notices | C: 
+JP-N1-02-015 子どものため{{c1::とあれば::if it's for}}、どんなことでもします。 ‖ If it's for my children, I'll do anything.
+   N: Noun / plain form + とあれば: if it's (for X, I'll do whatever it takes). | T:  | R: Neutral to formal | C: 
+JP-N1-02-016 社長の命令{{c1::とあれば::if it's}}、従うしかありません。 ‖ If it's the president's order, I have no choice but to obey.
+   N: Noun / plain form + とあれば: if it's (for X, I'll do whatever it takes). | T:  | R: Neutral to formal | C: 
+JP-N1-02-017 仕事{{c1::にかまけて::too wrapped up in}}、家族のことを忘れていました。 ‖ I was so wrapped up in work that I neglected my family.
+   N: Noun + にかまけて: being too wrapped up in X (and neglecting something else). | T:  | R: Neutral to written | C: 
+JP-N1-02-018 先生がいないの{{c1::をいいことに::taking advantage of}}、学生たちは騒いでいました。 ‖ Taking advantage of the teacher's absence, the students were making a racket.
+   N: Noun / plain form + の + をいいことに: taking (unfair) advantage of. | T:  | R: Critical | C: 
+JP-N1-03-001 今から{{c1::急いだところで::急ぐ · even if (futile)}}、間に合いません。 ‖ Even if we hurry now, we won't make it.
+   N: Past た + ところで: even if (it would be pointless). | T: vs ても: たところで stresses that it's futile. | R: Neutral | C: 
+JP-N1-03-002 いくら{{c1::説明したところで::説明する · even if (futile)}}、彼にはわからないでしょう。 ‖ However much you explain, he won't understand.
+   N: Past た + ところで: even if (it would be pointless). | T: vs ても: たところで stresses that it's futile. | R: Neutral | C: 
+JP-N1-03-003 子ども{{c1::といえども::even (a …)}}、ルールは守らなければなりません。 ‖ Even children have to follow the rules.
+   N: Noun + といえども: even (a …); though one may be. | T:  | R: Written; formal | C: 
+JP-N1-03-004 専門家{{c1::といえども::even (a …)}}、間違えることはあります。 ‖ Even experts sometimes get things wrong.
+   N: Noun + といえども: even (a …); though one may be. | T:  | R: Written; formal | C: 
+JP-N1-03-005 春{{c1::とはいえ::although (that said)}}、まだ寒い日が続いています。 ‖ It may be spring, but the cold days continue.
+   N: Noun / plain form + とはいえ: although; that said. | T:  | R: Neutral to written | C: 
+JP-N1-03-006 仕事が忙しい{{c1::とはいえ::although}}、連絡くらいはできるはずです。 ‖ Busy as you are, you should at least be able to get in touch.
+   N: Noun / plain form + とはいえ: although; that said. | T:  | R: Neutral to written | C: 
+JP-N1-03-007 誰{{c1::であれ::no matter who}}、規則は守らなければなりません。 ‖ Whoever you are, you must follow the rules.
+   N: Question word / noun + であれ / であろうと: no matter (who / what); whatever it is. | T:  | R: Formal | C: 
+JP-N1-03-008 理由が何{{c1::であろうと::no matter what}}、暴力は許されません。 ‖ Whatever the reason, violence is not acceptable.
+   N: Question word / noun + であれ / であろうと: no matter (who / what); whatever it is. | T:  | R: Formal | C: 
+JP-N1-03-009 雨が{{c1::降ろうが降るまいが::降る · whether or not}}、試合は行います。 ‖ Rain or no rain, the match will go ahead.
+   N: Volitional + が + dictionary form + まいが: whether or not. Volitional + と: no matter (how / what). | T:  | R: Neutral to formal | C: 
+JP-N1-03-010 人に何と{{c1::言われようと::言われる · no matter (what)}}、自分の道を進みます。 ‖ Whatever people say, I'll go my own way.
+   N: Volitional + が + dictionary form + まいが: whether or not. Volitional + と: no matter (how / what). | T:  | R: Neutral to formal | C: 
+JP-N1-03-011 早く{{c1::言えばいいものを::言う · if only (regret)}}、どうして黙っていたんですか。 ‖ You should have just said so; why did you keep quiet?
+   N: Plain form + ものを: if only (regret, or criticism of what someone failed to do). | T:  | R: Emotional; written | C: 
+JP-N1-03-012 (Written) 薬を飲めば治る{{c1::ものを::if only (criticism)}}、彼は飲もうとしない。 ‖ He'd get better if he just took the medicine, but he won't.
+   N: Plain form + ものを: if only (regret, or criticism of what someone failed to do). | T:  | R: Emotional; written | C: 
+JP-N1-03-013 子ども{{c1::ならいざしらず::would be one thing, but}}、大人がそんなことをするなんて。 ‖ From a child it'd be one thing, but for an adult to do that…
+   N: Noun + ならいざしらず: X would be one thing, but (this case is unacceptable). | T:  | R: Neutral to written | C: 
+JP-N1-03-014 初めて{{c1::ならいざしらず::would be one thing, but}}、三回目なのにまだ間違えるんですか。 ‖ If it were your first time, fine, but you're still getting it wrong on the third try?
+   N: Noun + ならいざしらず: X would be one thing, but (this case is unacceptable). | T:  | R: Neutral to written | C: 
+JP-N1-03-015 兄{{c1::にひきかえ::in contrast to}}、弟はよく勉強します。 ‖ Unlike his older brother, the younger one studies hard.
+   N: Noun + にひきかえ: in contrast to (with a judgement: one is better, the other worse). | T: vs に比べて: neutral comparison. | R: Written | C: 
+JP-N1-03-016 去年の暑さ{{c1::にひきかえ::in contrast to}}、今年の夏は涼しいです。 ‖ Compared with last year's heat, this summer is cool.
+   N: Noun + にひきかえ: in contrast to (with a judgement: one is better, the other worse). | T: vs に比べて: neutral comparison. | R: Written | C: 
+JP-N1-03-017 周囲の反対{{c1::をよそに::disregarding}}、彼は会社を辞めました。 ‖ Ignoring everyone's objections, he quit the company.
+   N: Noun + をよそに: disregarding (others' concern, expectations or opposition); carrying on regardless. | T: vs にもかかわらず: a neutral 'despite', without the sense of deliberately ignoring. | R: Written; news | C: 
+JP-N1-03-018 親の心配{{c1::をよそに::disregarding}}、息子は毎晩遊び歩いています。 ‖ Ignoring his parents' worries, the son goes out every night.
+   N: Noun + をよそに: disregarding (others' concern, expectations or opposition); carrying on regardless. | T: vs にもかかわらず: a neutral 'despite', without the sense of deliberately ignoring. | R: Written; news | C: 
+JP-N1-03-019 彼は大けが{{c1::をものともせずに::undaunted by}}、試合に出場しました。 ‖ Undaunted by a serious injury, he played in the match.
+   N: Noun + をものともせずに: undaunted by; in defiance of (hardship). Used about others' bravery. | T:  | R: Written; admiring | C: 
+JP-N1-03-020 嵐{{c1::をものともせずに::undaunted by}}、船は港を出ました。 ‖ Undaunted by the storm, the ship left port.
+   N: Noun + をものともせずに: undaunted by; in defiance of (hardship). Used about others' bravery. | T:  | R: Written; admiring | C: 
+JP-N1-03-021 彼は病気{{c1::をおして::pushing through (despite)}}、会議に出席しました。 ‖ Despite being ill, he attended the meeting.
+   N: Noun + をおして: pushing through (illness, opposition); despite. | T:  | R: Written | C: 
+JP-N1-03-022 一回{{c1::ならまだしも::would be acceptable, but}}、何度も遅刻するのは困ります。 ‖ Once would be fine, but being late again and again is a problem.
+   N: Noun + ならまだしも: X would be acceptable, but (this isn't). | T: Close to ならいざしらず. | R: Neutral | C: 
+JP-N1-03-023 (Written) 簡単だ{{c1::と思いきや::I thought …, but (actually)}}、とても難しかった。 ‖ I thought it would be easy, but it was really hard.
+   N: Plain form + と思いきや: I thought…, but in fact (the opposite). | T:  | R: Written; narrative | C: 
+JP-N1-03-024 (Written) 雨がやんだ{{c1::と思いきや::I thought …, but (actually)}}、また降り出した。 ‖ Just when I thought the rain had stopped, it started again.
+   N: Plain form + と思いきや: I thought…, but in fact (the opposite). | T:  | R: Written; narrative | C: 
+JP-N1-03-025 努力した{{c1::かいもなく::in vain, despite}}、試験に落ちてしまいました。 ‖ Despite all my efforts, I failed the exam.
+   N: Past た / noun + の + かいもなく: despite (the effort), in vain. | T:  | R: Written | C: 
+JP-N1-03-026 看病の{{c1::かいもなく::in vain, despite}}、祖父は亡くなりました。 ‖ Despite our care, my grandfather passed away.
+   N: Past た / noun + の + かいもなく: despite (the effort), in vain. | T:  | R: Written | C: 
+JP-N1-03-027 最新の技術{{c1::をもってしても::even with}}、この病気は治せません。 ‖ Even with the latest technology, this disease can't be cured.
+   N: Noun + をもってしても: even with (the best means), still not. | T:  | R: Written | C: 
+JP-N1-04-001 京都{{c1::ならでは::ならでは or だけあって?}}の味を楽しみました。<br>プロ{{c2::だけあって::ならでは or だけあって?}}、さすがに上手です。 ‖ We enjoyed a flavour only Kyoto can offer. / As you'd expect from a professional, it's really good.
+   N: Noun + ならでは(の): something only N can offer (always praise). だけあって: as you'd expect, given (a reputation or effort). | T:  | R: Written; reviews, adverts | C: 
+JP-N1-04-002 これは手作り{{c1::ならでは::ならでは or だけあって?}}の温かさです。 ‖ This is a warmth only handmade things have.
+   N: Noun + ならでは(の): something only N can offer (always praise). だけあって: as you'd expect, given (a reputation or effort). | T:  | R: Written; reviews, adverts | C: 
+JP-N1-04-003 この仕事を任せられるのは、彼{{c1::をおいて::apart from (no one else)}}ほかにいません。 ‖ There's no one but him I can trust with this job.
+   N: Noun + をおいて + ほかにない: apart from X (there's no one / nothing else). | T:  | R: Formal | C: 
+JP-N1-04-004 次のリーダーは、あなた{{c1::をおいて::apart from (no one else)}}考えられません。 ‖ I can't imagine anyone but you as the next leader.
+   N: Noun + をおいて + ほかにない: apart from X (there's no one / nothing else). | T:  | R: Formal | C: 
+JP-N1-04-005 疲れたときは、寝る{{c1::に限ります::is the best (thing)}}。 ‖ When you're tired, sleep is the best thing.
+   N: Noun / dictionary form + に限る: X is the best (thing to do). | T:  | R: Conversational | C: 
+JP-N1-04-006 夏はビール{{c1::に限ります::is the best}}ね。 ‖ In summer, nothing beats beer.
+   N: Noun / dictionary form + に限る: X is the best (thing to do). | T:  | R: Conversational | C: 
+JP-N1-04-007 毎日とは{{c1::言わないまでも::言う · even if not (at least)}}、週に一回は運動したほうがいいです。 ‖ Not necessarily every day, but you should exercise at least once a week.
+   N: ない form + までも: even if not (as far as X), at least Y. | T:  | R: Neutral | C: 
+JP-N1-04-008 優勝は{{c1::できないまでも::できる · even if not (at least)}}、決勝には進みたいです。 ‖ Even if we can't win, I want to at least reach the final.
+   N: ない form + までも: even if not (as far as X), at least Y. | T:  | R: Neutral | C: 
+JP-N1-04-009 努力{{c1::なくして::without (formal)}}、成功はありません。 ‖ There's no success without effort.
+   N: Noun + なくして(は) + negative: without X (Y is impossible; formal). | T: vs なしに: なしに is just 'without doing'; なくして stresses X is essential. | R: Formal; speeches | C: 
+JP-N1-04-010 皆様のご協力{{c1::なくしては::without (formal)}}、この計画は実現できませんでした。 ‖ This project could not have happened without your cooperation.
+   N: Noun + なくして(は) + negative: without X (Y is impossible; formal). | T: vs なしに: なしに is just 'without doing'; なくして stresses X is essential. | R: Formal; speeches | C: 
+JP-N1-04-011 彼は断り{{c1::なしに::without}}、私の部屋に入ってきました。 ‖ He came into my room without asking.
+   N: Noun + なしに / dictionary form + ことなしに: without (doing). | T:  | R: Neutral to formal | C: 
+JP-N1-04-012 努力する{{c1::ことなしに::without doing}}、夢はかなえられません。 ‖ You can't achieve your dreams without making an effort.
+   N: Noun + なしに / dictionary form + ことなしに: without (doing). | T:  | R: Neutral to formal | C: 
+JP-N1-04-013 彼にお金を{{c1::貸したが最後::貸す · once (and it's over)}}、絶対に返ってきません。 ‖ Once you lend him money, you'll never see it again.
+   N: Past た + が最後: once you do X, that's it (a bad result you can't undo). | T:  | R: Neutral | C: 
+JP-N1-04-014 この本は{{c1::読み始めたが最後::読み始める · once (and it's over)}}、やめられなくなります。 ‖ Once you start this book, you won't be able to put it down.
+   N: Past た + が最後: once you do X, that's it (a bad result you can't undo). | T:  | R: Neutral | C: 
+JP-N1-04-015 そんなことは{{c1::言わずとも::言う · even without}}わかっています。 ‖ I know that without you having to say it.
+   N: ない form without ない + ずとも: even without (doing). | T: vs なくても: the same meaning; ずとも is literary. | R: Written | C: 
+JP-N1-04-016 {{c1::急がずとも::急ぐ · even without}}、間に合います。 ‖ We'll make it even without hurrying.
+   N: ない form without ない + ずとも: even without (doing). | T: vs なくても: the same meaning; ずとも is literary. | R: Written | C: 
+JP-N1-04-017 友達がみんな帰ってしまって、{{c1::さびしい限りです::さびしい · I feel so …}}。 ‖ All my friends have gone home; I feel so lonely.
+   N: い-adj / な-adj + な + 限りだ: I feel so …; extremely (the speaker's own emotion). | T:  | R: Formal; speeches, letters | C: 
+JP-N1-04-018 こんな賞をいただけて、{{c1::うれしい限りです::うれしい · I feel so …}}。 ‖ I'm absolutely delighted to receive this award.
+   N: い-adj / な-adj + な + 限りだ: I feel so …; extremely (the speaker's own emotion). | T:  | R: Formal; speeches, letters | C: 
+JP-N1-04-019 子どもからお年寄り{{c1::に至るまで::right through to}}、この歌を知らない人はいません。 ‖ Everyone from children right through to the elderly knows this song.
+   NEW
+JP-N1-05-001 彼の態度は{{c1::失礼極まりない::失礼 · extremely (formal)}}です。 ‖ His attitude is extremely rude.
+   N: な-adj / noun + 極まりない (or 極まる): extremely (formal, usually negative). | T:  | R: Formal | C: 
+JP-N1-05-002 こんな夜中に電話するなんて、{{c1::迷惑極まりない::迷惑 · extremely (formal)}}話です。 ‖ Calling in the middle of the night is incredibly inconsiderate.
+   N: な-adj / noun + 極まりない (or 極まる): extremely (formal, usually negative). | T:  | R: Formal | C: 
+JP-N1-05-003 このような賞をいただき、{{c1::光栄の至りです::光栄 · the height of}}。 ‖ It is a great honour to receive such an award.
+   N: Noun + の至り: the height of (fixed phrases: 光栄の至り, 若気の至り). | T:  | R: Very formal; set phrases | C: 
+JP-N1-05-004 あれは{{c1::若気の至り::若気 · the height of}}でした。 ‖ That was the folly of youth.
+   N: Noun + の至り: the height of (fixed phrases: 光栄の至り, 若気の至り). | T:  | R: Very formal; set phrases | C: 
+JP-N1-05-005 一人で夜道を歩いたときの怖さ{{c1::といったらありませんでした::indescribable (past)}}。 ‖ Walking home alone at night was indescribably scary.
+   N: Noun + といったらない / といったらありません: indescribably; beyond words. | T:  | R: Emotional | C: 
+JP-N1-05-006 試合に勝ったときのうれしさ{{c1::といったらありません::indescribable}}。 ‖ The joy of winning the match was beyond words.
+   N: Noun + といったらない / といったらありません: indescribably; beyond words. | T:  | R: Emotional | C: 
+JP-N1-05-007 その番組はひどくて、{{c1::見るにたえない::見る · can't bear to}}内容でした。 ‖ The programme was terrible; it was unwatchable.
+   N: (a) 見る / 聞く + にたえない: too awful to see / hear. (b) 感謝 / 同情 + にたえない: I can't express how deeply I feel (formal). | T:  | R: Formal | C: 
+JP-N1-05-008 皆様のご支援には{{c1::感謝にたえません::感謝 · deeply (formal)}}。 ‖ I am deeply grateful for your support.
+   N: (a) 見る / 聞く + にたえない: too awful to see / hear. (b) 感謝 / 同情 + にたえない: I can't express how deeply I feel (formal). | T:  | R: Formal | C: 
+JP-N1-05-009 今年は去年{{c1::にもまして::even more than}}暑いです。 ‖ This year is even hotter than last year.
+   N: Noun + にもまして: even more than. 何にもまして: more than anything. | T:  | R: Written | C: 
+JP-N1-05-010 何{{c1::にもまして::more than anything}}、健康が大切です。 ‖ More than anything, health matters.
+   N: Noun + にもまして: even more than. 何にもまして: more than anything. | T:  | R: Written | C: 
+JP-N1-05-011 彼は百キロ{{c1::からある::as much as (large amount)}}荷物を一人で運びました。 ‖ He carried a load weighing a good hundred kilos by himself.
+   N: Number + からある / からの: as much as; as many as (stressing a large amount). | T:  | R: Written | C: 
+JP-N1-05-012 一万人{{c1::からの::as many as (+ noun)}}人が集まりました。 ‖ As many as ten thousand people gathered.
+   N: Number + からある / からの: as much as; as many as (stressing a large amount). | T:  | R: Written | C: 
+JP-N1-05-013 一円{{c1::たりとも::not even (one)}}無駄にできません。 ‖ I can't waste even a single yen.
+   N: One + counter + たりとも + negative: not even one. | T:  | R: Formal; emphatic | C: 
+JP-N1-05-014 一日{{c1::たりとも::not even (one)}}練習を休んだことはありません。 ‖ I've never missed practice, not even once.
+   N: One + counter + たりとも + negative: not even one. | T:  | R: Formal; emphatic | C: 
+JP-N1-05-015 彼は自分の名前{{c1::すら::even}}書けません。 ‖ He can't even write his own name.
+   N: Noun + すら: even (a basic thing). だに is literary, mainly in 想像するだに / 考えるだに (just thinking about it…). | T: vs さえ: すら is the more written equivalent. | R: Written | C: 
+JP-N1-05-016 地震のことは、{{c1::想像するだに::想像する · even (just)}}恐ろしいです。 ‖ Just imagining an earthquake is terrifying.
+   N: Noun + すら: even (a basic thing). だに is literary, mainly in 想像するだに / 考えるだに (just thinking about it…). | T: vs さえ: すら is the more written equivalent. | R: Written | C: 
+JP-N1-05-017 彼は四十歳{{c1::にして::at (only then)}}、初めて結婚しました。 ‖ He married for the first time at forty.
+   N: Noun + にして: (a) only at (that level) did; (b) even (someone that capable). | T:  | R: Written | C: 
+JP-N1-05-018 この問題は、専門家{{c1::にして::even (an expert)}}解けないそうです。 ‖ Apparently even experts can't solve this problem.
+   N: Noun + にして: (a) only at (that level) did; (b) even (someone that capable). | T:  | R: Written | C: 
+JP-N1-05-019 電車がないなら、歩いて帰る{{c1::までです::I'll just (have to)}}。 ‖ If there are no trains, I'll just walk home.
+   N: Dictionary form + までだ: I'll just (have to) do it (no other option). Past + までのことだ: I merely did it (nothing more to it). | T:  | R: Neutral | C: 
+JP-N1-05-020 聞かれたから答えた{{c1::までのことです::merely (that's all)}}。 ‖ I only answered because I was asked.
+   N: Dictionary form + までだ: I'll just (have to) do it (no other option). Past + までのことだ: I merely did it (nothing more to it). | T:  | R: Neutral | C: 
+JP-N1-05-021 いくらお金があっても、{{c1::死んでしまえばそれまでです::死んでしまう · that's the end}}。 ‖ However much money you have, once you're dead, that's it.
+   N: ば-form + それまでだ: once X happens, that's the end of it (it's all pointless). | T:  | R: Neutral | C: 
+JP-N1-05-022 高いカメラも、{{c1::使わなければそれまでです::使う · it's pointless if not}}。 ‖ Even an expensive camera is pointless if you don't use it.
+   N: ば-form + それまでだ: once X happens, that's the end of it (it's all pointless). | T:  | R: Neutral | C: 
+JP-N1-05-023 借金を{{c1::してまで::する · go so far as to}}、車を買いたくはありません。 ‖ I don't want to buy a car if it means going into debt.
+   N: て-form + まで: go so far as to (do something extreme). | T:  | R: Neutral | C: 
+JP-N1-05-024 私{{c1::とて::even (literary)}}、悲しくないわけではありません。 ‖ Even I am not without sadness.
+   N: Noun + とて: even (X, like everyone else; literary). | T: vs でも / だって: the everyday forms. | R: Literary | C: 
+JP-N1-06-001 (Written, effect on the audience) 彼の演技は観客を感動させ{{c1::ずにはおかない::ずにはおかない or ずにはいられない?}}。<br>(Your own reaction) その話を聞いて、感動せ{{c2::ずにはいられませんでした::ずにはおかない or ずにはいられない?}}。 ‖ His performance can't fail to move the audience. / Hearing that story, I couldn't help being moved.
+   N: ずにはおかない: (a thing or event) inevitably makes others feel or do something; or a strong resolve. ずにはいられない: I can't help (my own urge). | T:  | R: ずにはおかない written | C: 
+JP-N1-06-002 (Written) この映画は見る人を考えさせ{{c1::ずにはおかない::ずにはおかない or ずにはいられない?}}。 ‖ This film can't fail to make its viewers think.
+   N: ずにはおかない: (a thing or event) inevitably makes others feel or do something; or a strong resolve. ずにはいられない: I can't help (my own urge). | T:  | R: ずにはおかない written | C: 
+JP-N1-06-003 人の物を壊したのだから、{{c1::弁償せずにはすまない::弁償する · can't get away without}}でしょう。 ‖ You broke someone's property, so you'll have to pay for it.
+   N: ない form without ない + ずにはすまない (する → せずには): can't get away without (the situation demands it). | T: vs ずにはいられない: an inner urge; ずにはすまない: a social obligation. | R: Formal | C: 
+JP-N1-06-004 こんなミスをしたら、部長に{{c1::報告せずにはすみません::報告する · can't get away without}}。 ‖ With a mistake like this, I can't get away without reporting it to the manager.
+   N: ない form without ない + ずにはすまない (する → せずには): can't get away without (the situation demands it). | T: vs ずにはいられない: an inner urge; ずにはすまない: a social obligation. | R: Formal | C: 
+JP-N1-06-005 被害者の話には、同情{{c1::を禁じ得ません::can't help (feeling, formal)}}。 ‖ I can't help feeling sympathy for the victims.
+   N: Noun (feeling) + を禁じ得ない: can't help feeling (formal; 同情, 怒り, 驚き). | T:  | R: Very formal; written | C: 
+JP-N1-06-006 その判決には、怒り{{c1::を禁じ得ません::can't help (feeling, formal)}}。 ‖ I can't help feeling angry at that verdict.
+   N: Noun (feeling) + を禁じ得ない: can't help feeling (formal; 同情, 怒り, 驚き). | T:  | R: Very formal; written | C: 
+JP-N1-06-007 台風のため、試合は中止{{c1::を余儀なくされました::was forced (by circumstances)}}。 ‖ The match had to be cancelled because of the typhoon.
+   N: Noun + を余儀なくされる: be forced to (by circumstances beyond your control). | T:  | R: Written; news | C: 
+JP-N1-06-008 彼は病気で、入院{{c1::を余儀なくされました::was forced (by circumstances)}}。 ‖ His illness forced him into hospital.
+   N: Noun + を余儀なくされる: be forced to (by circumstances beyond your control). | T:  | R: Written; news | C: 
+JP-N1-06-009 夢を{{c1::実現するべく::実現する · べく / べからず / べくもない}}、毎日努力しています。 ‖ I work hard every day to make my dream come true.
+   N: べく: in order to (written). べからず: must not (signs, rules). べくもない: there's no way to (can't even hope). | T: する → すべく / すべからず also common. | R: Written | C: 
+JP-N1-06-010 (A sign) 芝生に{{c1::入るべからず::入る · べく / べからず / べくもない}}。 ‖ Keep off the grass.
+   N: べく: in order to (written). べからず: must not (signs, rules). べくもない: there's no way to (can't even hope). | T: する → すべく / すべからず also common. | R: Written | C: 
+JP-N1-06-011 彼の実力には、私など{{c1::及ぶべくもありません::及ぶ · べく / べからず / べくもない}}。 ‖ I couldn't hope to match his ability.
+   N: べく: in order to (written). べからず: must not (signs, rules). べくもない: there's no way to (can't even hope). | T: する → すべく / すべからず also common. | R: Written | C: 
+JP-N1-06-012 彼女の悲しみは{{c1::想像にかたくありません::想像 · not hard to}}。 ‖ It's not hard to imagine her sorrow.
+   N: 想像 / 察する + にかたくない: it isn't hard to (imagine / understand). | T:  | R: Written; formal | C: 
+JP-N1-06-013 親の苦労は{{c1::察するにかたくありません::察する · not hard to}}。 ‖ It's easy to understand what the parents went through.
+   N: 想像 / 察する + にかたくない: it isn't hard to (imagine / understand). | T:  | R: Written; formal | C: 
+JP-N1-06-014 彼は{{c1::信頼に足る::信頼 · worthy of}}人物です。 ‖ He is a person worthy of trust.
+   N: Noun / dictionary form + に足る: worthy of. 取るに足りない: not worth bothering about. | T:  | R: Formal | C: 
+JP-N1-06-015 それは{{c1::取るに足りない::取る · not worth}}問題です。 ‖ That's a trivial issue.
+   N: Noun / dictionary form + に足る: worthy of. 取るに足りない: not worth bothering about. | T:  | R: Formal | C: 
+JP-N1-06-016 皆様のご健康を{{c1::願ってやみません::願う · never cease to (formal)}}。 ‖ I sincerely wish you all good health.
+   N: て-form + やまない: never cease to (wish, love, hope; formal, about deep feelings). | T:  | R: Very formal; speeches, letters | C: 
+JP-N1-06-017 ここは彼が{{c1::愛してやまない::愛する · never cease to}}故郷です。 ‖ This is the hometown he never stopped loving.
+   N: て-form + やまない: never cease to (wish, love, hope; formal, about deep feelings). | T:  | R: Very formal; speeches, letters | C: 
+JP-N1-06-018 彼は物事を大げさに{{c1::言うきらいがあります::言う · tend to (bad habit)}}。 ‖ He has a tendency to exaggerate.
+   N: Dictionary form / noun + の + きらいがある: tend to (an undesirable tendency). | T: vs がち: がち is about frequency; きらいがある is about character. | R: Written; critical | C: 
+JP-N1-06-019 この会社は、新しいことを避ける{{c1::きらいがあります::tend to (bad habit)}}。 ‖ This company tends to avoid anything new.
+   N: Dictionary form / noun + の + きらいがある: tend to (an undesirable tendency). | T: vs がち: がち is about frequency; きらいがある is about character. | R: Written; critical | C: 
+JP-N1-06-020 彼は遅刻ばかりして、ついには会社を{{c1::クビになるしまつです::クビになる · ended up (bad)}}。 ‖ He was always late, and in the end he got fired.
+   N: Dictionary form + しまつだ: end up (after a series of bad things, finally this). | T:  | R: Critical | C: 
+JP-N1-06-021 弟は勉強もせず、とうとう{{c1::留年するしまつです::留年する · ended up (bad)}}。 ‖ My brother never studied and has ended up having to repeat a year.
+   N: Dictionary form + しまつだ: end up (after a series of bad things, finally this). | T:  | R: Critical | C: 
+JP-N1-06-022 あの二人が結婚する{{c1::とは::to think that}}、思いもしませんでした。 ‖ I never imagined those two would get married.
+   N: Plain form + とは: to think that… (surprise or shock). | T: vs なんて (N3): more casual. | R: Written; emotional | C: 
+JP-N1-06-023 こんな所で会う{{c1::とは::to think that}}、驚きました。 ‖ Fancy meeting you here!
+   N: Plain form + とは: to think that… (surprise or shock). | T: vs なんて (N3): more casual. | R: Written; emotional | C: 
+JP-N1-06-024 彼女は今にも{{c1::泣き出さんばかり::泣き出す · んばかり or とばかりに?}}の顔をしていました。<br>「待ってました」{{c2::とばかりに::んばかり or とばかりに?}}、子どもたちが走ってきました。 ‖ She looked as if she were about to burst into tears. / The children came running, as if to say 'We've been waiting!'
+   N: ない form without ない + んばかり: almost (as if about to). Quote + とばかりに: as if to say '…'. | T:  | R: Written; narrative | C: 
+JP-N1-06-025 それは教師に{{c1::あるまじき::ある · unbecoming of}}行為です。 ‖ That's conduct unbecoming of a teacher.
+   N: Noun に + あるまじき + noun: unbecoming of; unacceptable for (someone in that role). Verb + べからざる + noun: that must not / cannot (欠くべからざる = indispensable). | T:  | R: Very formal; written | C: 
+JP-N1-06-026 水は生活に{{c1::欠くべからざる::欠く · indispensable (cannot lack)}}ものです。 ‖ Water is indispensable to life.
+   N: Noun に + あるまじき + noun: unbecoming of; unacceptable for (someone in that role). Verb + べからざる + noun: that must not / cannot (欠くべからざる = indispensable). | T:  | R: Very formal; written | C: 
+JP-N1-06-027 うちの息子{{c1::ときたら::when it comes to (complaint)}}、毎日ゲームばかりしています。 ‖ As for my son, all he does is play games.
+   N: Noun + ときたら: when it comes to X (complaining). | T: vs にかけては: praise; ときたら: complaint. | R: Spoken; critical | C: 
+JP-N1-06-028 (Written) 夢を{{c1::実現せんがため::実現する · in order to (literary)}}、彼は全てを捨てた。 ‖ To realise his dream, he gave up everything.
+   N: ない form without ない + んがため(に) (する → せんがため): in order to (literary, strong resolve). | T: vs ために: the everyday form. | R: Literary | C: 
+JP-N1-06-029 この事故は{{c1::起こるべくして::起こる · bound to (inevitably)}}起こったものです。 ‖ This accident was bound to happen.
+   N: Verb + べくして + same verb: as was bound to happen (inevitably). | T:  | R: Written | C: 
+JP-N1-06-030 (Written) 彼は自分が天才だと{{c1::言ってはばからない::言う · not hesitate to}}。 ‖ He openly claims to be a genius.
+   N: て-form + はばからない: not hesitate to (say openly, often brazenly). | T:  | R: Written | C: 
+JP-N1-06-031 味{{c1::といい::both … and (evaluating)}}、値段{{c1::といい::both … and (evaluating)}}、文句のない店です。 ‖ In both taste and price, the restaurant can't be faulted.
+   NEW
+JP-N1-07-001 厳しい状況{{c1::にあって::in (a situation)}}、彼はよくがんばりました。 ‖ In a tough situation, he did well.
+   N: Noun + にあって: in (a particular situation or position). | T: vs において: において is a neutral 'in / at'. | R: Written; formal | C: 
+JP-N1-07-002 社長という立場{{c1::にあって::in (a position)}}、そんな発言は許されません。 ‖ In the position of president, such a remark is unacceptable.
+   N: Noun + にあって: in (a particular situation or position). | T: vs において: において is a neutral 'in / at'. | R: Written; formal | C: 
+JP-N1-07-003 事実{{c1::に即して::in accordance with}}、報告書を書いてください。 ‖ Please write the report based strictly on the facts.
+   N: Noun + に即して: in accordance with (facts, rules, the actual situation). | T:  | R: Formal | C: 
+JP-N1-07-004 法律{{c1::に即して::in accordance with}}、判断します。 ‖ We will decide in accordance with the law.
+   N: Noun + に即して: in accordance with (facts, rules, the actual situation). | T:  | R: Formal | C: 
+JP-N1-07-005 結果{{c1::いかんで::depending on}}、次の計画を決めます。 ‖ We'll decide the next plan depending on the results.
+   N: Noun + (の) いかんで: depending on. Noun + の + いかんによらず / いかんにかかわらず: regardless of. | T:  | R: Very formal | C: 
+JP-N1-07-006 理由の{{c1::いかんによらず::regardless of}}、遅刻は認めません。 ‖ Lateness will not be accepted, whatever the reason.
+   N: Noun + (の) いかんで: depending on. Noun + の + いかんによらず / いかんにかかわらず: regardless of. | T:  | R: Very formal | C: 
+JP-N1-07-007 前回の反省{{c1::をふまえて::taking into account}}、計画を立て直しました。 ‖ Taking last time's lessons into account, we redrew the plan.
+   N: Noun + をふまえて: taking into account; building on. | T:  | R: Formal; business | C: 
+JP-N1-07-008 調査の結果{{c1::をふまえて::taking into account}}、対策を考えます。 ‖ We'll consider measures based on the survey results.
+   N: Noun + をふまえて: taking into account; building on. | T:  | R: Formal; business | C: 
+JP-N1-07-009 彼は漢字{{c1::はおろか::let alone}}、ひらがなも書けません。 ‖ He can't write hiragana, let alone kanji.
+   N: Noun + はおろか + (even more basic thing) + も / さえ + negative: let alone; not to mention. | T: vs どころか: どころか also covers 'the opposite is true'. | R: Written | C: 
+JP-N1-07-010 旅行{{c1::はおろか::let alone}}、近所に出かける時間もありません。 ‖ I don't even have time to pop out locally, let alone travel.
+   N: Noun + はおろか + (even more basic thing) + も / さえ + negative: let alone; not to mention. | T: vs どころか: どころか also covers 'the opposite is true'. | R: Written | C: 
+JP-N1-07-011 {{c1::見るともなく::見る · without really meaning to}}テレビを見ていました。 ‖ I was watching TV without really paying attention.
+   N: Dictionary form + ともなく: without really meaning to; idly. Question word + (から / に) + ともなく: from somewhere / someone (vaguely). | T:  | R: Written | C: 
+JP-N1-07-012 どこから{{c1::ともなく::(from) somewhere, vaguely}}、いい香りがしてきました。 ‖ A lovely smell drifted in from somewhere.
+   N: Dictionary form + ともなく: without really meaning to; idly. Question word + (から / に) + ともなく: from somewhere / someone (vaguely). | T:  | R: Written | C: 
+JP-N1-07-013 法律{{c1::に照らして::in light of}}判断すると、彼は無罪です。 ‖ Judged against the law, he is not guilty.
+   N: Noun + に照らして: in light of; measured against (rules, precedent). | T:  | R: Formal | C: 
+JP-N1-07-014 過去の例{{c1::に照らして::in light of}}考えると、この方法は危険です。 ‖ In light of past cases, this method is risky.
+   N: Noun + に照らして: in light of; measured against (rules, precedent). | T:  | R: Formal | C: 
+JP-N1-07-015 これは命{{c1::にかかわる::affecting (serious)}}問題です。 ‖ This is a matter of life and death.
+   N: Noun + にかかわる: affecting; involving (something serious: life, reputation). | T:  | R: Formal | C: 
+JP-N1-07-016 会社の信用{{c1::にかかわる::affecting (serious)}}ことなので、慎重に対応してください。 ‖ It affects the company's reputation, so please handle it carefully.
+   N: Noun + にかかわる: affecting; involving (something serious: life, reputation). | T:  | R: Formal | C: 
+JP-N1-07-017 好天{{c1::と相まって::combined with}}、会場は多くの人でにぎわいました。 ‖ Helped by the good weather, the venue was crowded.
+   N: Noun + と相まって: combined with (two factors reinforcing each other). | T:  | R: Written | C: 
+JP-N1-07-018 美しい音楽{{c1::と相まって::combined with}}、映画はさらに感動的になりました。 ‖ Combined with the beautiful music, the film became even more moving.
+   N: Noun + と相まって: combined with (two factors reinforcing each other). | T:  | R: Written | C: 
+JP-N1-08-001 この子は{{c1::生まれながらに::生まれる · from birth}}、音楽の才能がありました。 ‖ This child had a gift for music from birth.
+   N: Noun / verb stem + ながらに(して): while still; (just) as one is (生まれながらに = from birth; 涙ながらに = in tears). | T:  | R: Written | C: 
+JP-N1-08-002 インターネットを使えば、家に{{c1::いながらにして::いる · while still (staying)}}世界中の人と話せます。 ‖ With the internet, you can talk to people all over the world without leaving home.
+   N: Noun / verb stem + ながらに(して): while still; (just) as one is (生まれながらに = from birth; 涙ながらに = in tears). | T:  | R: Written | C: 
+JP-N1-08-003 この作文は{{c1::まちがいだらけ::まちがい · だらけ / まみれ / ずくめ}}です。<br>彼は{{c2::汗まみれ::汗 · だらけ / まみれ / ずくめ}}になって働きました。<br>今年は{{c3::いいことずくめ::いいこと · だらけ / まみれ / ずくめ}}の一年でした。 ‖ This essay is full of mistakes. / He worked until he was drenched in sweat. / This year was nothing but good things.
+   N: だらけ: full of (many unpleasant things). まみれ: covered in (a liquid or powder, on the surface). ずくめ: entirely (all one colour; nothing but good things). | T:  | R: Neutral | C: 
+JP-N1-08-004 彼はいつも{{c1::黒ずくめ::黒 · だらけ / まみれ / ずくめ}}の服を着ています。 ‖ He always dresses all in black.
+   N: だらけ: full of (many unpleasant things). まみれ: covered in (a liquid or powder, on the surface). ずくめ: entirely (all one colour; nothing but good things). | T:  | R: Neutral | C: 
+JP-N1-08-005 日差しが{{c1::春めいて::春 · showing signs of}}きました。 ‖ The sunshine is beginning to feel like spring.
+   N: Noun + めく (めいた + noun): showing signs of; -like. | T:  | R: Written | C: 
+JP-N1-08-006 彼の言い方には{{c1::皮肉めいた::皮肉 · tinged with}}ところがあります。 ‖ There's something a bit sarcastic in the way he talks.
+   N: Noun + めく (めいた + noun): showing signs of; -like. | T:  | R: Written | C: 
+JP-N1-08-007 (Written) 時間は矢の{{c1::ごとく::like (literary)}}過ぎていく。 ‖ Time flies like an arrow.
+   N: Noun + の + ごとく / ごとき + noun: like; as (literary version of ように / ような). | T:  | R: Literary | C: 
+JP-N1-08-008 (Written) 彼の{{c1::ごとき::like (+ noun, literary)}}人物は、めったにいない。 ‖ People like him are rare.
+   N: Noun + の + ごとく / ごとき + noun: like; as (literary version of ように / ような). | T:  | R: Literary | C: 
+JP-N1-08-009 教師{{c1::たる::as one who is}}者、生徒の手本にならなければなりません。 ‖ As a teacher, you must set an example for the students.
+   N: Noun + たる + noun (者 / もの): as one who is (and should behave accordingly). | T:  | R: Very formal; written | C: 
+JP-N1-08-010 政治家{{c1::たる::as one who is}}もの、約束は守るべきです。 ‖ A politician should keep their promises.
+   N: Noun + たる + noun (者 / もの): as one who is (and should behave accordingly). | T:  | R: Very formal; written | C: 
+JP-N1-08-011 私{{c1::なりに::in my own way}}、がんばってみました。 ‖ I did my best, in my own way.
+   N: Noun + なりに / なりの + noun: in one's own way (within one's limits). | T:  | R: Neutral | C: 
+JP-N1-08-012 子どもには子ども{{c1::なりの::in their own way (+ noun)}}考えがあります。 ‖ Children have their own way of thinking.
+   N: Noun + なりに / なりの + noun: in one's own way (within one's limits). | T:  | R: Neutral | C: 
+JP-N1-08-013 彼はいつも{{c1::偉ぶって::偉い · acting as if}}います。 ‖ He's always acting superior.
+   N: い-adj without い / noun + ぶる: put on airs; act as if (negative). | T: vs ふりをする: neutral 'pretend'. | R: Critical | C: 
+JP-N1-08-014 彼女は{{c1::上品ぶって::上品 · acting as if}}いますが、本当は違います。 ‖ She acts all refined, but she isn't really.
+   N: い-adj without い / noun + ぶる: put on airs; act as if (negative). | T: vs ふりをする: neutral 'pretend'. | R: Critical | C: 
+JP-N1-08-015 大学教授{{c1::ともあろう::someone of (such standing)}}人が、こんなミスをするなんて。 ‖ For a university professor, of all people, to make such a mistake…
+   N: Noun + ともあろう + noun: someone of such standing (should know better). | T:  | R: Critical; written | C: 
+JP-N1-09-001 (Written) この計画には無理があるの{{c1::ではあるまいか::isn't it the case that (written)}}。 ‖ Isn't this plan unrealistic?
+   N: Plain form + のではあるまいか: isn't it the case that…? (formal speculation). | T: Spoken equivalent: のではないだろうか. | R: Written; essays | C: 
+JP-N1-09-002 (Written) 彼は本当のことを知っているの{{c1::ではあるまいか::isn't it the case that (written)}}。 ‖ Couldn't it be that he knows the truth?
+   N: Plain form + のではあるまいか: isn't it the case that…? (formal speculation). | T: Spoken equivalent: のではないだろうか. | R: Written; essays | C: 
+JP-N1-09-003 条件によっては、{{c1::引き受けないものでもありません::引き受ける · not impossible}}。 ‖ Depending on the terms, I might be willing to take it on.
+   N: ない form + ものでもない: it's not impossible; I could (if pushed). | T:  | R: Written; reluctant | C: 
+JP-N1-09-004 急げば、{{c1::間に合わないものでもありません::間に合う · not impossible}}。 ‖ If we hurry, we might just make it.
+   N: ない form + ものでもない: it's not impossible; I could (if pushed). | T:  | R: Written; reluctant | C: 
+JP-N1-09-005 彼の努力は{{c1::評価されてしかるべきです::評価される · ought to (proper)}}。 ‖ His efforts deserve recognition.
+   N: て-form + しかるべきだ: ought to; it would only be proper. | T:  | R: Formal | C: 
+JP-N1-09-006 会社から社員に説明が{{c1::あってしかるべきです::ある · ought to (proper)}}。 ‖ The company really ought to explain this to its staff.
+   N: て-form + しかるべきだ: ought to; it would only be proper. | T:  | R: Formal | C: 
+JP-N1-09-007 成功したのは、皆様のご協力{{c1::にほかなりません::nothing other than}}。 ‖ Our success is due to nothing other than your cooperation.
+   N: Noun + にほかならない: is nothing other than; is none other than. | T:  | R: Formal | C: 
+JP-N1-09-008 彼の厳しさは、愛情の表れ{{c1::にほかなりません::nothing other than}}。 ‖ His strictness is nothing but a sign of love.
+   N: Noun + にほかならない: is nothing other than; is none other than. | T:  | R: Formal | C: 
+JP-N1-09-009 参加者は五十人{{c1::といったところです::about (at most)}}。 ‖ There were around fifty participants at most.
+   N: Noun / plain form + といったところだ: about; at most (not a lot). | T:  | R: Neutral | C: 
+JP-N1-09-010 私の英語は、日常会話ができる{{c1::といったところです::about (at most)}}。 ‖ My English is about good enough for everyday conversation.
+   N: Noun / plain form + といったところだ: about; at most (not a lot). | T:  | R: Neutral | C: 
+JP-N1-09-011 結局、彼女には{{c1::会えずじまい::会える · ended up never}}でした。 ‖ In the end I never got to see her.
+   N: ない form without ない + ずじまい: ended up never doing (and the chance has passed). | T:  | R: Neutral | C: 
+JP-N1-09-012 買った本を{{c1::読まずじまい::読む · ended up never}}になっています。 ‖ I bought the book and never got round to reading it.
+   N: ない form without ない + ずじまい: ended up never doing (and the chance has passed). | T:  | R: Neutral | C: 
+JP-N1-09-013 事故の原因は、運転手の不注意による{{c1::ものと思われます::it is thought (formal)}}。 ‖ The accident is thought to have been caused by driver carelessness.
+   N: Plain form + ものと思われる: it is thought; it seems likely (impersonal, formal). | T:  | R: Formal; news, reports | C: 
+JP-N1-09-014 台風は明日の朝、九州に上陸する{{c1::ものと思われます::it is thought (formal)}}。 ‖ The typhoon is expected to make landfall in Kyushu tomorrow morning.
+   N: Plain form + ものと思われる: it is thought; it seems likely (impersonal, formal). | T:  | R: Formal; news, reports | C: 

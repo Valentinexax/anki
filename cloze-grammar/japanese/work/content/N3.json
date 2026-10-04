@@ -1,0 +1,881 @@
+{
+"JP-N3-01-001": {
+"notes": "させられる is the causative-passive: 'be made to do'. する becomes させられる: 練習させられました 'was made to practise'. It implies the speaker didn't want to.",
+"tip": "Causative-passive = made to do, against your will.",
+"compare": "",
+"register": "Polite (ます)",
+"text": "子どものころ、毎日ピアノを{{c1::練習させられました::練習する · was made to}}。",
+"tr": "As a child, I was made to practise the piano every day.",
+"flag": "dup: replaced 子どものとき、母に野菜を食べさせられました (near-identical to N4-08-005); answer 食べさせられました → 練習させられました"
+},
+"JP-N3-01-002": {
+"notes": "う-verbs usually shorten せられる to される: 飲ませられる → 飲まされる. The person who made you do it takes に: 部長に. Being made to drink by a boss is a classic office complaint.",
+"tip": "Short form: 飲まされる, 書かされる, 待たされる.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-01-003": {
+"notes": "書く → 書かされる 'be made to write'. The short form is standard in speech. 百回 (a hundred times) shows the burden of the task.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-01-004": {
+"notes": "待たされる 'be kept waiting': the causative-passive of 待つ. も after 一時間 stresses the length: a whole hour.",
+"tip": "も after a number stresses how much: 一時間も.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-01-005": {
+"notes": "させてもらえませんか asks permission politely: 'could I be allowed to…?'. 帰らせて is the causative て-form of 帰る. It's softer than 帰ってもいいですか.",
+"tip": "Asking permission politely: させてもらえませんか.",
+"compare": "",
+"register": "Polite request"
+},
+"JP-N3-01-006": {
+"notes": "させてください means 'let me': 考えさせてください 'let me think about it'. In business it's also a polite way of postponing an answer.",
+"tip": "",
+"compare": "",
+"register": "Polite request"
+},
+"JP-N3-01-007": {
+"notes": "させていただきます is a humble way of announcing your own action: 始めさせていただきます 'I'll now begin'. It's heard constantly in speeches and shops; overuse is sometimes mocked.",
+"tip": "させていただきます = humble 'I will'.",
+"compare": "",
+"register": "Formal; humble"
+},
+"JP-N3-01-008": {
+"notes": "てもらえませんか asks a favour: 'could you…?'. It's politer than てください because it asks whether you can receive the favour.",
+"tip": "Request politeness: てください < てくれませんか < てもらえませんか < ていただけませんか.",
+"compare": "",
+"register": "Polite request"
+},
+"JP-N3-01-009": {
+"notes": "ていただけませんか is the politest common request: 見ていただけませんか 'would you mind looking at…?'. It suits a superior or a stranger.",
+"tip": "",
+"compare": "",
+"register": "Very polite request"
+},
+"JP-N3-02-001": {
+"notes": "に違いない means 'must be, I'm sure': based on evidence (the lights are on) the speaker is convinced. The polite form is に違いありません.",
+"tip": "に違いない = I'm convinced; はず = reasoning says so.",
+"compare": "",
+"register": "Formal speech; written"
+},
+"JP-N3-02-002": {
+"notes": "Nouns take に違いない directly: 犯人に違いありません 'must be the culprit'. It's typical of detective stories and news commentary.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"JP-N3-02-003": {
+"notes": "はずがない means 'there's no way': うそをつくはずがありません. It denies a possibility on the basis of what you know about the person.",
+"tip": "はずがない = it can't be; わけがない is a near-synonym.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-02-004": {
+"notes": "いるはずがありません 'can't be (there)': he's in Tokyo, so he can't be in Osaka. The reasoning is stated in the context.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-02-005": {
+"notes": "とは限らない means 'not necessarily': いいとは限りません. It often pairs with いつも, みんな or 必ずしも to deny a generalisation.",
+"tip": "とは限らない = not necessarily; often with 必ずしも.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-02-006": {
+"notes": "書けるとは限りません 'can't necessarily write'. The potential form 書ける sits inside: not every Japanese person can write every kanji.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-02-007": {
+"notes": "っぽい means '-ish', often negatively: 子どもっぽい 'childish'. Noun + らしい means a typical example of the noun: 子どもらしい 'just as a child should be'.",
+"tip": "っぽい = -ish (often negative); らしい = typical of.",
+"compare": "",
+"register": "っぽい casual; らしい neutral"
+},
+"JP-N3-02-008": {
+"notes": "っぽい after a verb stem means 'tend to': 忘れっぽい 'forgetful'. It conjugates like an い-adjective: 忘れっぽく + なる.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-02-009": {
+"notes": "安っぽい means 'cheap-looking, tacky', unlike 安い (inexpensive). っぽい turns a fact into an impression. Similarly 子どもっぽい (childish) and 水っぽい (watery).",
+"tip": "安い = inexpensive; 安っぽい = tacky.",
+"compare": "",
+"register": "Casual"
+},
+"JP-N3-02-010": {
+"notes": "わけです draws a conclusion: 'that's why, no wonder'. He lived in Japan for ten years, so of course his Japanese is good.",
+"tip": "わけです = no wonder; わけではない = it's not that.",
+"compare": "",
+"register": "Polite (です)",
+"text": "(He lived in Japan for ten years) 日本語が上手な{{c1::わけです::わけです / わけではありません / わけにはいきません / わけがありません?}}。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N3-02-011": {
+"notes": "わけではありません denies part of a statement: 'it's not that I dislike meat'. The reason for the behaviour lies elsewhere.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)",
+"text": "肉がきらいな{{c1::わけではありません::わけです / わけではありません / わけにはいきません / わけがありません?}}が、あまり食べません。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N3-02-012": {
+"notes": "わけにはいきません means 'can't', for social or moral reasons: you can't skip an important meeting. The ability is there; duty forbids it.",
+"tip": "わけにはいかない = can't (it wouldn't be right).",
+"compare": "",
+"register": "Polite (です)",
+"text": "明日は大事な会議があるので、休む{{c1::わけにはいきません::わけです / わけではありません / わけにはいきません / わけがありません?}}。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N3-02-013": {
+"notes": "わけがありません means 'there's no way': he's never studied, so he can't possibly understand. It's close to はずがない but more emphatic.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)",
+"text": "(He's never studied) 彼にこの問題がわかる{{c1::わけがありません::わけです / わけではありません / わけにはいきません / わけがありません?}}。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N3-03-001": {
+"notes": "うちに means 'while (a state lasts)', implying action before it changes: 若いうちに 'while I'm still young'. い-adjectives go straight before it.",
+"tip": "うちに = while it lasts (before it changes).",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-03-002": {
+"notes": "ないうちに means 'before something happens': ふらないうちに 'before it rains'. Literally 'while it hasn't yet rained'.",
+"tip": "",
+"compare": "",
+"register": "Polite suggestion"
+},
+"JP-N3-03-003": {
+"notes": "うちに can also mean 'in the course of', with a change happening unnoticed: 住んでいるうちに上手になった 'got better as I lived there'.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-004": {
+"notes": "あいだ means 'throughout the whole time'; あいだに means 'at some point during'. Being away all summer takes あいだ; cleaning once while mother slept takes あいだに.",
+"tip": "あいだ = all along; あいだに = at some point during.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-005": {
+"notes": "とたん after a past form means 'the moment': 立ち上がったとたん. What follows is unexpected; it can't be your own intention.",
+"tip": "とたん = the moment (and something unexpected happened).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-006": {
+"notes": "あけたとたん 'the moment I opened it': the cat dashing out was a surprise. に is optional after とたん. The main clause is past, describing what happened.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-007": {
+"notes": "最中に means 'right in the middle of': 会議の最中に. It's usually followed by an interruption. Nouns take の. 最中 is read さいちゅう.",
+"tip": "最中に = right in the middle of (then an interruption).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-008": {
+"notes": "ている + 最中に: 食事をしている最中に 'right in the middle of eating'. The earthquake interrupts the meal. ている is needed with verbs: ×食事する最中.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-009": {
+"notes": "ところ shows the stage of an action: dictionary form = about to; ている = in the middle of; past = just done. 今 often comes with it.",
+"tip": "Dictionary + ところ = about to; past + ところ = just did.",
+"compare": "",
+"register": "Polite (です)",
+"text": "(You haven't left yet) 今から{{c1::出かけるところです::出かける · about to / doing / just did?}}。<br>(Eating right now) 今、ごはんを{{c2::食べているところです::食べる · about to / doing / just did?}}。<br>(Got home a moment ago) 今、うちに{{c3::帰ったところです::帰る · about to / doing / just did?}}。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N3-03-010": {
+"notes": "たばかり means 'only recently': 来たばかり 'only just arrived'. Unlike たところ, it can stretch to weeks or months if it feels recent to the speaker.",
+"tip": "たばかり can be weeks ago; たところ is moments ago.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-03-011": {
+"notes": "たばかりなのに 'I only just bought it, and yet…'. ばかり is a noun here, so it takes な before のに. こわれる is the intransitive 'break'.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-012": {
+"notes": "たびに after a dictionary form means 'every time': 聞くたびに. It suggests the same feeling or result each time.",
+"tip": "たびに = every time (the same result each time).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-013": {
+"notes": "Nouns take の before たびに: 旅行のたびに 'every time I travel'. おみやげ are gifts brought back from a trip. The souvenirs are a social duty for colleagues and family.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-014": {
+"notes": "につれて means 'as (one thing changes, so does another)': 年をとるにつれて. Both sides describe gradual change. 年をとる = grow older.",
+"tip": "につれて: both sides change gradually.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-015": {
+"notes": "時間がたつにつれて 'as time went by'. The main clause usually has a change verb: 変わる, なる, 増える. The past tense of the main clause covers both halves.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-016": {
+"notes": "ついでに means 'while (you're at it)': 買い物のついでに 'while I was out shopping'. The second task piggybacks on the first.",
+"tip": "ついでに = while you're at it.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-017": {
+"notes": "行くついでに: going to the station anyway, I'll post a letter. 出してきます means 'go and post, and come back'. The past form 行ったついでに means 'having gone anyway'.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-03-018": {
+"notes": "にしたがって means 'as' in the sense of a gradual change, like につれて but slightly more formal: 上に行くにしたがって 'the higher you go'.",
+"tip": "にしたがって also means 'following (instructions)'.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N3-03-019": {
+"notes": "にしたがって after a noun can mean 'following': 指示にしたがって 'following the instructions'. につれて has no such meaning.",
+"tip": "",
+"compare": "",
+"register": "Formal; announcements"
+},
+"JP-N3-04-001": {
+"notes": "ても after the て-form means 'even if': ふっても行きます 'I'll go even if it rains'. It's the opposite of たら: the result holds despite the condition.",
+"tip": "ても = even if.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-002": {
+"notes": "たとえ adds emphasis to ても: たとえ高くても 'even if it's expensive'. い-adjectives use くても. Nouns and な-adjectives use でも: 雨でも, ひまでも.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-003": {
+"notes": "いくら + ても means 'no matter how much': いくら勉強しても. The result is usually disappointing. いくら here is 'however much', not 'how much money'.",
+"tip": "Question word + ても = no matter what / how.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-004": {
+"notes": "何を言っても 'whatever you say'. Any question word works: だれが来ても, どこへ行っても. The main clause states a result that doesn't change: he won't listen.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-005": {
+"notes": "としたら means 'supposing (that)': 当たったとしたら. It stresses that the situation is hypothetical. もし often comes with it.",
+"tip": "としたら = just suppose.",
+"compare": "",
+"register": "Polite question"
+},
+"JP-N3-04-006": {
+"notes": "生まれ変わるとしたら 'if you were reborn'. The condition is impossible to check, which suits としたら. 生まれ変わる = be reborn.",
+"tip": "",
+"compare": "",
+"register": "Polite question"
+},
+"JP-N3-04-007": {
+"notes": "ば…ほど means 'the more…, the more': 練習すればするほど. The same verb appears twice: ば form, then dictionary form.",
+"tip": "ば + same word + ほど = the more…",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-008": {
+"notes": "勉強すれば is the ば half of the pattern: 勉強すればするほど. With する-verbs, the second half is just するほど; the noun 勉強 isn't repeated.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-009": {
+"notes": "考えれば考えるほど 'the more I think about it'. The result can be negative: わからなくなる 'the less I understand'. The verb 考える appears in both halves.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-010": {
+"notes": "い-adjectives: 安ければ安いほど 'the cheaper the better'. いい at the end is often enough on its own. Nouns use なら: 近ければ近いほど, but 静かなら静かなほど.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-04-011": {
+"notes": "さえ + ば means 'as long as, if only': お金さえあれば. It implies that one thing is all that's needed. The ば form of ある, あれば, completes it.",
+"tip": "Noun + さえ…ば = as long as (that's all it takes).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-012": {
+"notes": "With verbs, the pattern is stem + さえすれば: 書きさえすれば 'as long as you just write'. Everything else is taken care of.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)",
+"text": "この書類に名前を{{c1::書きさえすれば::書く · as long as you just}}、手続きは終わります。",
+"tr": "As long as you write your name on this form, that's all the paperwork done.",
+"flag": "dup: replaced この薬を飲みさえすれば、すぐよくなります (near-identical to N4-03-006); answer 飲みさえすれば → 書きさえすれば"
+},
+"JP-N3-04-013": {
+"notes": "くせに means 'even though', with open criticism: 知っているくせに 'you know, and yet…'. It's stronger than のに and only used about others.",
+"tip": "くせに criticises others; not used about yourself.",
+"compare": "",
+"register": "Casual; critical"
+},
+"JP-N3-04-014": {
+"notes": "な-adjectives take な before くせに: 下手なくせに 'despite being bad at it'. 歌いたがる describes his wish from outside.",
+"tip": "",
+"compare": "",
+"register": "Casual; critical"
+},
+"JP-N3-04-015": {
+"notes": "わりに means 'considering, for': 値段のわりに 'considering the price'. The result is better or worse than expected.",
+"tip": "わりに = considering; にしては = for (a specific case).",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-04-016": {
+"notes": "年のわりに 'for his age': he looks younger than people that age usually do. Nouns take の. 若く見える = look young: adverb く + 見える.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-04-017": {
+"notes": "にしては means 'for (this case)': 初めてにしては 'for a first attempt'. It compares with a specific standard. The standard is 'a first try', which normally isn't good.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-04-018": {
+"notes": "日曜日にしては 'for a Sunday': you'd expect crowds. すいている means 'not crowded'. The speaker expected the place to be busy. にしては takes a noun or plain form directly, with no の.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-04-019": {
+"notes": "場合 means 'in the event of, in case': 雨の場合 'if it rains'. It's formal and common in rules and notices. Nouns take の; verbs go straight before it.",
+"tip": "場合 is for rules and notices, not one-off plans.",
+"compare": "",
+"register": "Formal; notices"
+},
+"JP-N3-05-001": {
+"notes": "について marks the topic: 'about'. に対して marks the target of an attitude: 'towards'. にとって marks whose viewpoint a judgement reflects: 'for'.",
+"tip": "について = about; に対して = towards; にとって = for (viewpoint).",
+"compare": "",
+"register": "Polite (ます)",
+"text": "日本の歴史{{c1::について::について / に対して / にとって?}}調べています。<br>先生は学生{{c2::に対して::について / に対して / にとって?}}とてもきびしいです。<br>私{{c3::にとって::について / に対して / にとって?}}、家族がいちばん大切です。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N3-05-002": {
+"notes": "によって can mean 'depending on': 国によって 'from country to country'. ちがう (differ) or さまざま often follows. The noun comes straight before によって.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-05-003": {
+"notes": "によって marks the creator in a passive: 作家によって書かれた 'written by an author'. For simple passives, に is used.",
+"tip": "",
+"compare": "",
+"register": "Neutral; written"
+},
+"JP-N3-05-004": {
+"notes": "による before a noun means 'caused by': 地震による被害 'damage caused by the earthquake'. It's common in news reports.",
+"tip": "",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N3-05-005": {
+"notes": "によると means 'according to': ニュースによると. The sentence usually ends with そうだ or らしい to mark hearsay. によれば is a slightly more formal variant.",
+"tip": "によると… is usually followed by そうだ.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-05-006": {
+"notes": "として means 'as, in the role of': 留学生として 'as an international student'. It labels a status or capacity.",
+"tip": "として = as (in the role of).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-05-007": {
+"notes": "趣味として 'as a hobby'. として can be strengthened with は for contrast: 趣味としては 'as a hobby, at least'. ピアノをひく = play the piano.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-05-008": {
+"notes": "に関して means 'regarding': a more formal について. It's common in meetings, emails and official documents. The noun form is に関する.",
+"tip": "に関して = formal について.",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N3-05-009": {
+"notes": "新しい計画に関して 'regarding the new plan'. Some speakers use it to sound businesslike even in ordinary talk.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N3-05-010": {
+"notes": "って is casual for と in quotes: 来られないって 'says he can't come'. The verb (言っていた) is often left out. Rising intonation turns it into a question: 来られないって?",
+"tip": "って = casual と (quotation).",
+"compare": "",
+"register": "Casual"
+},
+"JP-N3-05-011": {
+"notes": "って can mark a topic someone is asking about: 「すきやき」って何? 'what's sukiyaki?'. It's casual for というのは. The question marker か is dropped in casual speech.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-N3-05-012": {
+"notes": "って as a casual topic marker: 田中さんって、どんな人? 'what's Tanaka like?'. It suggests the speaker has heard of him but doesn't know him.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-N3-05-013": {
+"notes": "において means 'in, at' in formal language, a stiff version of で: 会議室において行われます. It's typical of announcements and documents.",
+"tip": "において = formal で.",
+"compare": "",
+"register": "Formal; written"
+},
+"JP-N3-05-014": {
+"notes": "における is the form before a noun: 日本における外国人 'foreigners in Japan'. において can't go straight before a noun.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"JP-N3-05-015": {
+"notes": "について becomes についての before a noun: 文化についての本 'a book about culture'. The の is needed to link the phrase to the noun.",
+"tip": "Before a noun: についての, に関する, に対する.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N3-05-016": {
+"notes": "に関して becomes に関する before a noun: 環境問題に関する会議 'a conference on environmental issues'. No の is used here.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N3-05-017": {
+"notes": "に対して becomes に対する before a noun: お客様に対する態度 'attitude towards customers'. お客様 is the respectful word for customers, used even when talking about them. 態度 = attitude, manner.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N3-05-018": {
+"notes": "かわりに after a verb can mean 'in exchange for': 教えるかわりに 'in return for teaching'. After a noun + の it means 'instead of': 母のかわりに.",
+"tip": "かわりに = instead of, or in exchange for.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-001": {
+"notes": "ほど + negative compares: 去年ほど暑くない 'not as hot as last year'. It only works with a negative; ×去年ほど暑い is wrong.",
+"tip": "ほど + negative = not as … as.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-06-002": {
+"notes": "ほど also shows degree: 死ぬほどつかれた 'so tired I could die'. It's a common exaggeration in speech. The verb before ほど is in the dictionary form.",
+"tip": "",
+"compare": "",
+"register": "Casual to neutral"
+},
+"JP-N3-06-003": {
+"notes": "涙が出るほど 'so much that tears came'. くらい can replace ほど in this degree sense. 涙が出る = tears come out. The degree phrase comes before the verb it describes.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-004": {
+"notes": "ばかり after a noun means 'nothing but', often critically: ゲームばかり. It suggests the speaker disapproves.",
+"tip": "ばかり = nothing but (often a complaint).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-005": {
+"notes": "文句ばかり言う 'do nothing but complain'. ばかり replaces を: ×文句をばかり. 文句を言う = complain. The ばかり phrase replaces the object particle, and the verb follows directly.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-006": {
+"notes": "てばかりいる means 'always doing': 泣いてばかりいます. ばかり goes between the て-form and いる. The tone is critical, even when sympathetic. 毎日 underlines the repetition.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-007": {
+"notes": "だらけ means 'covered in, full of' something unpleasant: どろだらけ 'covered in mud'. It's not used for good things.",
+"tip": "だらけ is only for unpleasant things.",
+"compare": "",
+"register": "Neutral to casual"
+},
+"JP-N3-06-008": {
+"notes": "まちがいだらけ 'full of mistakes'. Likewise ほこりだらけ (dusty), 傷だらけ (covered in scratches). 作文 = essay, composition. The opposite idea, full of good things, uses いっぱい instead.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-06-009": {
+"notes": "だけでなく means 'not only': 英語だけでなく、中国語も. The second item usually takes も. ばかりでなく is a slightly more formal synonym. The verb 話せる is the potential of 話す.",
+"tip": "AだけでなくBも = not only A but also B.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-010": {
+"notes": "な-adjectives take な before だけでなく: 便利なだけでなく 'not only convenient'. い-adjectives and verbs go straight before it.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)",
+"text": "この町は便利な{{c1::だけでなく::not only}}、自然も多いです。",
+"tr": "This town isn't just convenient; there's plenty of nature too.",
+"flag": "dup: replaced この店は安いだけでなく、おいしいです (near-identical to N5-08-005)"
+},
+"JP-N3-06-011": {
+"notes": "こそ singles something out with strong emphasis: 今年こそ 'this year (for sure)'. The implication is that previous attempts failed.",
+"tip": "こそ = this one, for sure.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-06-012": {
+"notes": "からこそ means 'precisely because': 好きだからこそ. It gives a reason that might seem surprising. The sentence often ends with のです, explaining the reason.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-06-013": {
+"notes": "こちらこそ is the set reply to thanks or an apology: 'no, it's me who should thank you'. It mirrors the other person's words.",
+"tip": "",
+"compare": "",
+"register": "Polite; set phrase"
+},
+"JP-N3-06-014": {
+"notes": "さえ means 'even', a surprising minimum: 食べる時間さえない 'not even time to eat'. Everything else is implied to be impossible too.",
+"tip": "さえ = even (the bare minimum).",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-015": {
+"notes": "でさえ after a noun: 子どもでさえ 'even a child'. It's close to でも but more emphatic and slightly more formal.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-06-016": {
+"notes": "まで means 'even', adding an extreme item to a list: 家族まで 'even my family'. It suggests the list went further than expected.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-07-001": {
+"notes": "ようとする means 'try to', often failing: ねようとしました 'I tried to sleep'. It's an effortful attempt, unlike てみる (try out).",
+"tip": "ようとする = attempt; てみる = try out.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-07-002": {
+"notes": "ようとした can mean 'was about to': 出ようとしたとき 'just as I was about to leave'. Something then interrupts. The とき clause sets the moment of interruption.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-07-003": {
+"notes": "ようとしない means 'won't, refuses to': 食べようとしません. It describes someone else's stubbornness. ようとしない implies the speaker's frustration.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-07-004": {
+"notes": "ことにしている is a rule you set yourself; ことになっている is a rule set by others. Jogging is a personal habit; ties are company policy.",
+"tip": "ことにしている = my rule; ことになっている = the rule.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-07-005": {
+"notes": "べき means 'should, ought to', a moral duty: 守るべきです. する can be するべき or すべき. The negative is べきではない. It sounds preachy towards superiors, so ほうがいい is safer.",
+"tip": "べき is strong; ほうがいい is softer advice.",
+"compare": "",
+"register": "Polite (です); strong"
+},
+"JP-N3-07-006": {
+"notes": "べきではない means 'shouldn't': 言うべきではありません. It's a firm moral statement, not friendly advice. 悪口を言う = speak ill of someone.",
+"tip": "",
+"compare": "",
+"register": "Polite (です); strong"
+},
+"JP-N3-07-007": {
+"notes": "ずに means 'without doing', a written version of ないで: 食べずに. The ない form drops ない and adds ずに. The ない form 食べない gives the stem 食べ.",
+"tip": "ずに = without (formal ないで).",
+"compare": "",
+"register": "Written; formal speech"
+},
+"JP-N3-07-008": {
+"notes": "言う → 言わずに 'without saying'. Because ずに counts as a negative, 何も can go with it: 何も言わずに 'without saying anything'.",
+"tip": "",
+"compare": "",
+"register": "Written; formal speech"
+},
+"JP-N3-07-009": {
+"notes": "する becomes せずに: 勉強せずに 'without studying'. ×しずに is a common error. 来る becomes 来ずに (こずに). The meaning is the same as 勉強しないで, but ずに suits writing.",
+"tip": "する → せずに, not ×しずに.",
+"compare": "",
+"register": "Written; formal speech"
+},
+"JP-N3-07-010": {
+"notes": "ないで means 'without doing' (the manner of the next action); なくて gives a reason (something didn't happen, so…).",
+"tip": "ないで = without; なくて = because not.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-07-011": {
+"notes": "ないことはない means 'it's not that I can't': 食べられないことはない. It admits possibility but shows reluctance. The けど clause gives the real feeling.",
+"tip": "ないことはない = it's possible, but…",
+"compare": "",
+"register": "Casual"
+},
+"JP-N3-07-012": {
+"notes": "行けないことはありません 'I could go, but…'. The unfinished が… signals reluctance politely. 行ける is the potential of 行く. The unfinished sentence lets the listener infer the problem.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-07-013": {
+"notes": "ことはない after a dictionary form means 'there's no need to': 心配することはありません. It reassures the listener. そんなに means 'so much'.",
+"tip": "Dictionary form + ことはない = no need to.",
+"compare": "",
+"register": "Polite (です); reassuring"
+},
+"JP-N3-07-014": {
+"notes": "わざわざ means 'going to the trouble of': わざわざ来ることはない 'no need to come all this way'. It's a kind refusal of a favour.",
+"tip": "",
+"compare": "",
+"register": "Casual; reassuring"
+},
+"JP-N3-08-001": {
+"notes": "ということです reports formal hearsay: 上がるということです 'I'm told they'll go up'. It's common on the news and in official notices.",
+"tip": "ということです = formal 'I'm told'.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N3-08-002": {
+"notes": "来られないということです 'I'm told he can't come'. It passes on a message neutrally, without the speaker's judgement.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N3-08-003": {
+"notes": "とか at the end means 'I heard something like': vague, half-remembered hearsay. 閉まる (close) is the intransitive of 閉める.",
+"tip": "Sentence-final とか = I heard something about.",
+"compare": "",
+"register": "Casual to neutral",
+"text": "あの店、来月閉まる{{c1::とか::I heard something like}}。",
+"tr": "I heard something about that shop closing next month.",
+"flag": "dup: replaced 田中さんは来月結婚するとか (near-identical to N4-07-005)"
+},
+"JP-N3-08-004": {
+"notes": "雪がふるとか 'I heard it might snow'. The speaker isn't sure of the source or the details. The tone is casual, as between friends or colleagues. The source isn't given.",
+"tip": "",
+"compare": "",
+"register": "Casual to neutral"
+},
+"JP-N3-08-005": {
+"notes": "ように言う reports a command: 出すように言いました 'told them to hand it in'. The command itself would be 出してください. ないように言う reports a negative command.",
+"tip": "Reported command: dictionary form + ように言う.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-08-006": {
+"notes": "ように言われました 'was told to': the passive of 言う. 母に marks who did the telling. The passive puts the speaker as subject. The original command would have been 早く帰りなさい.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-08-007": {
+"notes": "ないように注意する means 'warn not to': 飲まないように注意されました 'was warned not to drink'. 注意する also means 'tell off'.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-08-008": {
+"notes": "ますように expresses a wish or prayer: 合格しますように 'may I pass'. It's written on shrine prayer plaques (絵馬).",
+"tip": "ますように = a wish or prayer.",
+"compare": "",
+"register": "Neutral; prayers, cards"
+},
+"JP-N3-08-009": {
+"notes": "早く元気になりますように 'I hope you get well soon', a standard line in get-well cards. The verb is in the ます form even though it's a wish. It's also used for the New Year: いい年になりますように.",
+"tip": "",
+"compare": "",
+"register": "Neutral; cards"
+},
+"JP-N3-09-001": {
+"notes": "おかげで means 'thanks to' (a good result); せいで means 'because of' (a bad result, with blame). The main clause states the result.",
+"tip": "おかげで = thanks to; せいで = the fault of.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-09-002": {
+"notes": "おかげで after a past form: 薬を飲んだおかげで 'thanks to taking the medicine'. It shows gratitude even towards things.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-09-003": {
+"notes": "せいで blames a cause: 弟のせいで 'because of my brother (it's his fault)'. Nouns take の. しかられる is the passive of しかる (scold). The blame is explicit.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)",
+"text": "弟の{{c1::せいで::おかげで or せいで?}}、母にしかられました。",
+"tr": "I got told off by my mother because of my little brother.",
+"flag": "dup: replaced 寝不足のせいで、頭がいたいです (near-identical to N2-02-009)"
+},
+"JP-N3-09-004": {
+"notes": "ため means 'due to' in formal language: 事故のため 'due to an accident'. It's standard in train announcements.",
+"tip": "ため after a cause = due to; after a goal = in order to.",
+"compare": "",
+"register": "Formal; announcements"
+},
+"JP-N3-09-005": {
+"notes": "台風のため 'due to the typhoon'. 欠航 means a cancelled flight or sailing; for trains, 運休. The noun 台風 takes の before ため.",
+"tip": "",
+"compare": "",
+"register": "Formal; announcements"
+},
+"JP-N3-09-006": {
+"notes": "たものだ after a past form means 'used to', with nostalgia: 泳いだものです. よく (often) is common with it. 子どものころ = in my childhood.",
+"tip": "Past + ものだ = used to (nostalgic).",
+"compare": "",
+"register": "Polite (です); nostalgic"
+},
+"JP-N3-09-007": {
+"notes": "ものだ after a dictionary form states what one should do: 聞くものです 'one should listen'. It sounds like a general rule.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-10-001": {
+"notes": "たまま means 'with (a state left as it is)': くつをはいたまま 'with your shoes on'. In Japan, shoes come off at the entrance.",
+"tip": "たまま = leaving it as it was.",
+"compare": "",
+"register": "Polite request"
+},
+"JP-N3-10-002": {
+"notes": "つけたまま寝てしまいました 'fell asleep with the light on'. てしまう adds regret. 電気をつける = switch on the light. The state continued all night.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-10-003": {
+"notes": "あけたまま 'with the window open'. The state should normally have changed, but didn't. あける is the transitive 'open'. The open window could be a worry: rain or burglars.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-10-004": {
+"notes": "ふりをする means 'pretend': 寝ているふり 'pretend to be asleep'. Verbs keep their plain form before ふり. ふり is a noun meaning 'appearance, pretence'.",
+"tip": "ふりをする = pretend.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-10-005": {
+"notes": "知らないふりをする 'pretend not to know'. Nouns take の: 学生のふり; な-adjectives take な: 元気なふり. The negative 知らない goes straight before ふり. ふりをする is always deliberate.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-10-006": {
+"notes": "がち after a verb stem means 'tend to (often, and it's not good)': かぜをひきがち. It's only for unwanted tendencies.",
+"tip": "がち = tends to (an unwanted tendency).",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-10-007": {
+"notes": "休みがち 'tends to be absent'. It's a typical phrase in school reports. 授業を休む = miss a class. がち conjugates like a な-adjective: 休みがちな学生.",
+"tip": "",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-10-008": {
+"notes": "がち after a noun: くもりがち 'mostly cloudy'. It's common in weather forecasts. がちの + noun links it: くもりがちの天気. The opposite, mostly sunny, is 晴れがち or simply 晴れの日が多い.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます); forecasts"
+},
+"JP-N3-10-009": {
+"notes": "おきに means 'at intervals of', skipping some: 一日おきに 'every other day'. ごとに means 'each, every one': 駅ごとに.",
+"tip": "一日おき = every other day; 一日ごと = every day.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-10-010": {
+"notes": "ずつ after a quantity means 'at a time': 少しずつ 'a little at a time'. It shows steady, even distribution.",
+"tip": "ずつ = each, at a time.",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-10-011": {
+"notes": "ずつ after a number: 二つずつ 'two each'. 一人 (per person) comes before the number. 取る = take. ずつ means each person gets the same amount.",
+"tip": "",
+"compare": "",
+"register": "Polite request"
+},
+"JP-N3-10-012": {
+"notes": "のような before a noun means 'like, such as': すしのような日本料理. It gives a typical example. The example is part of a larger group.",
+"tip": "のような + noun; のように + verb or adjective.",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-10-013": {
+"notes": "ように after a clause means 'as, in the way that': 先生が言ったように 'as the teacher said'. The past 言った shows the instructions came earlier. Casual: 先生が言ったみたいに.",
+"tip": "",
+"compare": "",
+"register": "Polite (ます)"
+},
+"JP-N3-10-014": {
+"notes": "なんか is casual for など, 'or something': お茶なんかどう? 'how about some tea or something?'. It softens the offer.",
+"tip": "なんか = casual など.",
+"compare": "",
+"register": "Casual"
+},
+"JP-N3-10-015": {
+"notes": "なんて after a noun dismisses it: 宿題なんて 'stupid homework'. The tone shows contempt or reluctance. やりたくない completes the refusal.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"JP-N3-10-016": {
+"notes": "なんて after a clause expresses surprise: 結婚するなんて 'to think he's getting married'. It's often followed by a reaction such as 知らなかった.",
+"tip": "",
+"compare": "",
+"register": "Casual to neutral"
+},
+"JP-N3-10-017": {
+"notes": "たて after a verb stem means 'freshly': 焼きたてのパン 'freshly baked bread'. It describes something just made and still at its best.",
+"tip": "Stem + たて = freshly (done).",
+"compare": "",
+"register": "Polite (です)"
+},
+"JP-N3-10-018": {
+"notes": "できたて 'just made': できる + たて. Restaurants use it to promise freshness. The phrase できたての料理 is often seen on menus. できる here means 'be made, be ready'.",
+"tip": "",
+"compare": "",
+"register": "Polite; shops"
+}
+}

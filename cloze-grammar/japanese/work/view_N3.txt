@@ -1,0 +1,284 @@
+JP-N3-01-001 子どものとき、母に野菜を{{c1::食べさせられました::食べる · was made to}}。 ‖ When I was a child, my mother made me eat vegetables.
+   N: Causative + passive: be made to do (against your will). る-verb: させられる. う-verb: a-row + せられる, usually shortened to a-row + される (飲まされる). する → させられる. 来る → 来させられる. Verbs ending in す can't use the short form (話させられる). | T: vs passive: something is done to you; causative-passive: you are made to do it. | R: Neutral | C: 
+JP-N3-01-002 部長にお酒を{{c1::飲まされました::飲む · was made to (short form)}}。 ‖ My boss made me drink.
+   N: Causative + passive: be made to do (against your will). る-verb: させられる. う-verb: a-row + せられる, usually shortened to a-row + される (飲まされる). する → させられる. 来る → 来させられる. Verbs ending in す can't use the short form (話させられる). | T: vs passive: something is done to you; causative-passive: you are made to do it. | R: Neutral | C: 
+JP-N3-01-003 毎日、漢字を百回{{c1::書かされました::書く · was made to (short form)}}。 ‖ Every day I was made to write kanji a hundred times.
+   N: Causative + passive: be made to do (against your will). る-verb: させられる. う-verb: a-row + せられる, usually shortened to a-row + される (飲まされる). する → させられる. 来る → 来させられる. Verbs ending in す can't use the short form (話させられる). | T: vs passive: something is done to you; causative-passive: you are made to do it. | R: Neutral | C: 
+JP-N3-01-004 一時間も{{c1::待たされました::待つ · was made to (short form)}}。 ‖ I was kept waiting for a whole hour.
+   N: Causative + passive: be made to do (against your will). る-verb: させられる. う-verb: a-row + せられる, usually shortened to a-row + される (飲まされる). する → させられる. 来る → 来させられる. Verbs ending in す can't use the short form (話させられる). | T: vs passive: something is done to you; causative-passive: you are made to do it. | R: Neutral | C: 
+JP-N3-01-005 今日は早く{{c1::帰らせてもらえませんか::帰る · could I be allowed to?}}。 ‖ Could I possibly go home early today?
+   N: Causative て-form + もらう / いただく: be allowed to do. Used to ask permission politely, or as a humble way of saying 'I will'. | T: vs 〜させてください: a direct request for permission. | R: Polite; いただく is formal | C: 
+JP-N3-01-006 少し{{c1::考えさせてください::考える · let me}}。 ‖ Let me think about it a little.
+   N: Causative て-form + もらう / いただく: be allowed to do. Used to ask permission politely, or as a humble way of saying 'I will'. | T: vs 〜させてください: a direct request for permission. | R: Polite; いただく is formal | C: 
+JP-N3-01-007 では、発表を{{c1::始めさせていただきます::始める · humble 'I will'}}。 ‖ I will now begin my presentation.
+   N: Causative て-form + もらう / いただく: be allowed to do. Used to ask permission politely, or as a humble way of saying 'I will'. | T: vs 〜させてください: a direct request for permission. | R: Polite; いただく is formal | C: 
+JP-N3-01-008 (To a colleague) ちょっと{{c1::手伝ってもらえませんか::手伝う · could you? (polite)}}。 ‖ Could you give me a hand?
+   N: て-form + もらえませんか / いただけませんか: could you (please)? More polite than 〜てください; いただけませんか is the most polite. | T: 〜てくれませんか is slightly less polite than もらえませんか. | R: Polite to very polite | C: 
+JP-N3-01-009 (To your boss) この書類を{{c1::見ていただけませんか::見る · could you? (very polite)}}。 ‖ Would you mind looking at this document?
+   N: て-form + もらえませんか / いただけませんか: could you (please)? More polite than 〜てください; いただけませんか is the most polite. | T: 〜てくれませんか is slightly less polite than もらえませんか. | R: Polite to very polite | C: 
+JP-N3-02-001 (The lights are on) 田中さんはまだ会社に{{c1::いるに違いありません::いる · must be (I'm sure)}}。 ‖ Mr Tanaka must still be at the office.
+   N: Plain form + に違いない (nouns and な-adj drop だ): must be; I'm sure (strong conviction). | T: vs はず: はず is based on reasoning or plans; に違いない is a personal conviction. | R: Written; formal speech | C: 
+JP-N3-02-002 あの人が{{c1::犯人に違いありません::犯人 · must be}}。 ‖ That person must be the culprit.
+   N: Plain form + に違いない (nouns and な-adj drop だ): must be; I'm sure (strong conviction). | T: vs はず: はず is based on reasoning or plans; に違いない is a personal conviction. | R: Written; formal speech | C: 
+JP-N3-02-003 あんなにやさしい人がうそを{{c1::つくはずがありません::つく · there's no way}}。 ‖ There's no way someone that kind would lie.
+   N: Plain form + はずがない: there's no way; it can't be (based on reasons). | T: Same meaning as わけがない. | R: Neutral | C: 
+JP-N3-02-004 (He's in Tokyo today) 田中さんが大阪に{{c1::いるはずがありません::いる · can't be}}。 ‖ Mr Tanaka can't be in Osaka.
+   N: Plain form + はずがない: there's no way; it can't be (based on reasons). | T: Same meaning as わけがない. | R: Neutral | C: 
+JP-N3-02-005 高い物がいつも{{c1::いいとは限りません::いい · not necessarily}}。 ‖ Expensive things aren't necessarily good.
+   N: Plain form + とは限らない: not necessarily; not always. Often used with いつも, みんな or 必ずしも. | T:  | R: Neutral | C: 
+JP-N3-02-006 日本人がみんな漢字を{{c1::書けるとは限りません::書く · can, not necessarily}}。 ‖ Not all Japanese people can write kanji.
+   N: Plain form + とは限らない: not necessarily; not always. Often used with いつも, みんな or 必ずしも. | T:  | R: Neutral | C: 
+JP-N3-02-007 (He's an adult) 彼は大人なのに、{{c1::子どもっぽい::っぽい or らしい?}}です。<br>(She's a child, in a good way) あの子はとても{{c2::子どもらしい::っぽい or らしい?}}です。 ‖ He's an adult, but he's childish. / That kid is a real kid.
+   N: っぽい: -ish; seems like (often negative or vague); after a verb stem, 'tends to' (忘れっぽい). Noun + らしい: a typical, proper example of that noun. | T: N + みたい: looks like N but isn't. | R: っぽい casual | C: 
+JP-N3-02-008 最近、{{c1::忘れっぽく::忘れる · tends to (っぽい)}}なりました。 ‖ I've become forgetful lately.
+   N: っぽい: -ish; seems like (often negative or vague); after a verb stem, 'tends to' (忘れっぽい). Noun + らしい: a typical, proper example of that noun. | T: N + みたい: looks like N but isn't. | R: っぽい casual | C: 
+JP-N3-02-009 (To a friend) このシャツ、ちょっと{{c1::安っぽい::安い · cheap-looking (っぽい)}}ね。 ‖ This shirt looks a bit cheap.
+   N: っぽい: -ish; seems like (often negative or vague); after a verb stem, 'tends to' (忘れっぽい). Noun + らしい: a typical, proper example of that noun. | T: N + みたい: looks like N but isn't. | R: っぽい casual | C: 
+JP-N3-02-010 (He lived in Japan for ten years) 日本語が上手な{{c1::わけです::わけです / わけではありません / わけにはいきません / わけがありません}}。 ‖ No wonder his Japanese is good.
+   N: わけです: that's why; no wonder (a logical conclusion). わけではありません: it's not that… (partial denial). わけにはいきません: can't (for social or moral reasons). わけがありません: there's no way. | T:  | R: Neutral | C: 
+JP-N3-02-011 肉がきらいな{{c1::わけではありません::わけです / わけではありません / わけにはいきません / わけがありません}}が、あまり食べません。 ‖ It's not that I dislike meat, but I don't eat it much.
+   N: わけです: that's why; no wonder (a logical conclusion). わけではありません: it's not that… (partial denial). わけにはいきません: can't (for social or moral reasons). わけがありません: there's no way. | T:  | R: Neutral | C: 
+JP-N3-02-012 明日は大事な会議があるので、休む{{c1::わけにはいきません::わけです / わけではありません / わけにはいきません / わけがありません}}。 ‖ I've got an important meeting tomorrow, so I can't take the day off.
+   N: わけです: that's why; no wonder (a logical conclusion). わけではありません: it's not that… (partial denial). わけにはいきません: can't (for social or moral reasons). わけがありません: there's no way. | T:  | R: Neutral | C: 
+JP-N3-02-013 (He's never studied) 彼にこの問題がわかる{{c1::わけがありません::わけです / わけではありません / わけにはいきません / わけがありません}}。 ‖ There's no way he can understand this question.
+   N: わけです: that's why; no wonder (a logical conclusion). わけではありません: it's not that… (partial denial). わけにはいきません: can't (for social or moral reasons). わけがありません: there's no way. | T:  | R: Neutral | C: 
+JP-N3-03-001 {{c1::若いうちに::若い · while (before it changes)}}、いろいろな国へ行きたいです。 ‖ I want to go to lots of countries while I'm young.
+   N: うちに: while (a state lasts), do it before it changes. ないうちに: before something happens. Also 'while doing (without noticing, a change happened)'. | T: vs あいだに: neutral 'during'; うちに implies 'before it's too late'. | R: Neutral | C: 
+JP-N3-03-002 雨が{{c1::ふらないうちに::ふる · before (it happens)}}、帰りましょう。 ‖ Let's go home before it rains.
+   N: うちに: while (a state lasts), do it before it changes. ないうちに: before something happens. Also 'while doing (without noticing, a change happened)'. | T: vs あいだに: neutral 'during'; うちに implies 'before it's too late'. | R: Neutral | C: 
+JP-N3-03-003 日本に住んでいる{{c1::うちに::while (gradually)}}、日本語が上手になりました。 ‖ While living in Japan, my Japanese got better.
+   N: うちに: while (a state lasts), do it before it changes. ないうちに: before something happens. Also 'while doing (without noticing, a change happened)'. | T: vs あいだに: neutral 'during'; うちに implies 'before it's too late'. | R: Neutral | C: 
+JP-N3-03-004 夏休みの{{c1::あいだ::あいだ or あいだに?}}、ずっと国に帰っていました。<br>母がねている{{c2::あいだに::あいだ or あいだに?}}、そうじをしました。 ‖ I was back home for the whole summer holidays. / I cleaned while my mother was asleep.
+   N: あいだ: throughout the whole time (a continuous action). あいだに: at some point during that time. | T:  | R: Neutral | C: 
+JP-N3-03-005 {{c1::立ち上がったとたん::立ち上がる · the moment}}、めまいがしました。 ‖ The moment I stood up, I felt dizzy.
+   N: Past た + とたん(に): the moment A happened, B (unexpected). B can't be a request or your own intention. | T:  | R: Neutral | C: 
+JP-N3-03-006 ドアを{{c1::あけたとたん::あける · the moment}}、ねこが外に飛び出しました。 ‖ The moment I opened the door, the cat ran outside.
+   N: Past た + とたん(に): the moment A happened, B (unexpected). B can't be a request or your own intention. | T:  | R: Neutral | C: 
+JP-N3-03-007 会議の{{c1::最中に::right in the middle of}}、電話が鳴りました。 ‖ The phone rang right in the middle of the meeting.
+   N: Noun + の / ている + 最中に: right in the middle of (and then something interrupts). | T:  | R: Neutral | C: 
+JP-N3-03-008 食事を{{c1::している最中に::する · in the middle of}}、地震がありました。 ‖ There was an earthquake right in the middle of our meal.
+   N: Noun + の / ている + 最中に: right in the middle of (and then something interrupts). | T:  | R: Neutral | C: 
+JP-N3-03-009 (You haven't left yet) 今から{{c1::出かけるところです::出かける · about to / doing / just did}}。<br>(Eating right now) 今、ごはんを{{c2::食べているところです::食べる · about to / doing / just did}}。<br>(Got home a moment ago) 今、うちに{{c3::帰ったところです::帰る · about to / doing / just did}}。 ‖ I'm just about to go out. / I'm in the middle of eating. / I've just got home.
+   N: Dictionary form + ところ: about to. ているところ: in the middle of. たところ: just did. | T: vs たばかり: たばかり feels recent but can be days or months ago. | R: Neutral | C: 
+JP-N3-03-010 先月、日本に{{c1::来たばかりです::来る · only recently}}。 ‖ I only came to Japan last month.
+   N: Past た + ばかり: just did; only recently (it feels recent to the speaker, even weeks or months ago). | T: vs たところ: たところ is only for the moment right after. | R: Neutral | C: 
+JP-N3-03-011 {{c1::買ったばかり::買う · only just}}なのに、もうこわれました。 ‖ I only just bought it, and it's already broken.
+   N: Past た + ばかり: just did; only recently (it feels recent to the speaker, even weeks or months ago). | T: vs たところ: たところ is only for the moment right after. | R: Neutral | C: 
+JP-N3-03-012 この歌を{{c1::聞くたびに::聞く · every time}}、国を思い出します。 ‖ Every time I hear this song, I think of home.
+   N: Dictionary form / noun + の + たびに: every time. | T:  | R: Neutral | C: 
+JP-N3-03-013 旅行の{{c1::たびに::every time}}、おみやげを買います。 ‖ I buy souvenirs every time I travel.
+   N: Dictionary form / noun + の + たびに: every time. | T:  | R: Neutral | C: 
+JP-N3-03-014 年を{{c1::とるにつれて::とる · as (gradually)}}、体が弱くなります。 ‖ As you get older, your body gets weaker.
+   N: Dictionary form / noun + につれて: as A changes, B changes too (gradual, in step). | T: にしたがって means the same and is slightly more formal. | R: Neutral | C: 
+JP-N3-03-015 時間がたつ{{c1::につれて::as (gradually)}}、町は変わっていきました。 ‖ As time went by, the town changed.
+   N: Dictionary form / noun + につれて: as A changes, B changes too (gradual, in step). | T: にしたがって means the same and is slightly more formal. | R: Neutral | C: 
+JP-N3-03-016 買い物の{{c1::ついでに::while (at it)}}、銀行に行きました。 ‖ While I was out shopping, I went to the bank.
+   N: Dictionary form / past / noun + の + ついでに: while you're at it; taking the opportunity. | T:  | R: Neutral | C: 
+JP-N3-03-017 駅へ{{c1::行くついでに::行く · while (at it)}}、手紙を出してきます。 ‖ While I'm going to the station, I'll post a letter.
+   N: Dictionary form / past / noun + の + ついでに: while you're at it; taking the opportunity. | T:  | R: Neutral | C: 
+JP-N3-03-018 上に{{c1::行くにしたがって::行く · as (gradually)}}、気温が下がります。 ‖ The higher you go, the lower the temperature.
+   N: Dictionary form / noun + にしたがって: (a) as (gradually; slightly formal); (b) following (instructions). | T: vs につれて: (a) means the same; only にしたがって has meaning (b). | R: Neutral to formal | C: 
+JP-N3-03-019 係員の指示{{c1::にしたがって::following (instructions)}}、避難してください。 ‖ Please evacuate following the staff's instructions.
+   N: Dictionary form / noun + にしたがって: (a) as (gradually; slightly formal); (b) following (instructions). | T: vs につれて: (a) means the same; only にしたがって has meaning (b). | R: Neutral to formal | C: 
+JP-N3-04-001 雨が{{c1::ふっても::ふる · even if}}、行きます。 ‖ Even if it rains, I'll go.
+   N: て-form + も (noun / な-adj + でも): even if. たとえ adds emphasis. Question word + ても: no matter what / how. | T: vs のに: のに is about something that has actually happened. | R: Neutral | C: 
+JP-N3-04-002 たとえ{{c1::高くても::高い · even if}}、買います。 ‖ Even if it's expensive, I'll buy it.
+   N: て-form + も (noun / な-adj + でも): even if. たとえ adds emphasis. Question word + ても: no matter what / how. | T: vs のに: のに is about something that has actually happened. | R: Neutral | C: 
+JP-N3-04-003 いくら{{c1::勉強しても::勉強する · no matter how much}}、覚えられません。 ‖ No matter how much I study, I can't remember it.
+   N: て-form + も (noun / な-adj + でも): even if. たとえ adds emphasis. Question word + ても: no matter what / how. | T: vs のに: のに is about something that has actually happened. | R: Neutral | C: 
+JP-N3-04-004 何を{{c1::言っても::言う · no matter what}}、彼は聞きません。 ‖ Whatever you say, he won't listen.
+   N: て-form + も (noun / な-adj + でも): even if. たとえ adds emphasis. Question word + ても: no matter what / how. | T: vs のに: のに is about something that has actually happened. | R: Neutral | C: 
+JP-N3-04-005 もし宝くじが{{c1::当たったとしたら::当たる · supposing}}、何をしますか。 ‖ Supposing you won the lottery, what would you do?
+   N: Plain form + としたら / とすれば: supposing that; if (purely hypothetical). | T: vs たら: たら can be a real future event; としたら stresses 'just suppose'. | R: Neutral | C: 
+JP-N3-04-006 もし生まれ変わる{{c1::としたら::supposing}}、何になりたいですか。 ‖ If you were reborn, what would you want to be?
+   N: Plain form + としたら / とすれば: supposing that; if (purely hypothetical). | T: vs たら: たら can be a real future event; としたら stresses 'just suppose'. | R: Neutral | C: 
+JP-N3-04-007 練習すれば{{c1::するほど::する · the more}}、上手になります。 ‖ The more you practise, the better you get.
+   N: ば-form + the same word in dictionary form + ほど: the more A, the more B. | T:  | R: Neutral | C: 
+JP-N3-04-008 日本語は{{c1::勉強すれば::勉強する · the more (ば)}}するほど、おもしろくなります。 ‖ The more you study Japanese, the more interesting it gets.
+   N: ば-form + the same word in dictionary form + ほど: the more A, the more B. | T:  | R: Neutral | C: 
+JP-N3-04-009 考えれば{{c1::考えるほど::考える · the more}}、わからなくなります。 ‖ The more I think about it, the less I understand.
+   N: ば-form + the same word in dictionary form + ほど: the more A, the more B. | T:  | R: Neutral | C: 
+JP-N3-04-010 安ければ{{c1::安いほど::安い · the more}}いいです。 ‖ The cheaper the better.
+   N: ば-form + the same word in dictionary form + ほど: the more A, the more B. | T:  | R: Neutral | C: 
+JP-N3-04-011 お金{{c1::さえ::as long as (only)}}あれば、何でも買えます。 ‖ As long as you have money, you can buy anything.
+   N: Noun + さえ + ば-form: if only; as long as (that's all it takes). With verbs: stem + さえすれば. | T:  | R: Neutral | C: 
+JP-N3-04-012 この薬を{{c1::飲みさえすれば::飲む · as long as you just}}、すぐよくなります。 ‖ As long as you take this medicine, you'll soon get better.
+   N: Noun + さえ + ば-form: if only; as long as (that's all it takes). With verbs: stem + さえすれば. | T:  | R: Neutral | C: 
+JP-N3-04-013 (To a friend) 知っている{{c1::くせに::even though (criticising)}}、教えてくれない。 ‖ You know, but you won't tell me.
+   N: Plain form + くせに (noun + の, な-adj + な): even though (criticising someone). Stronger than のに; not used about yourself. | T: vs のに: のに shows disappointment but can be neutral or about yourself. | R: Casual; critical | C: 
+JP-N3-04-014 (To a friend) 彼は{{c1::下手なくせに::下手 · even though (criticising)}}、いつも歌いたがる。 ‖ He's bad at it, but he always wants to sing.
+   N: Plain form + くせに (noun + の, な-adj + な): even though (criticising someone). Stronger than のに; not used about yourself. | T: vs のに: のに shows disappointment but can be neutral or about yourself. | R: Casual; critical | C: 
+JP-N3-04-015 この店は値段の{{c1::わりに::considering}}おいしいです。 ‖ Considering the price, the food here is good.
+   N: Plain form / noun + の + わりに: considering (the result is better or worse than you'd expect). Noun + にしては: for (a specific case; unexpectedly). | T: わりに works with words of degree (値段, 年); にしては with a specific standard (初めて, 日曜日). | R: Neutral | C: 
+JP-N3-04-016 彼は{{c1::年のわりに::年 · considering}}若く見えます。 ‖ He looks young for his age.
+   N: Plain form / noun + の + わりに: considering (the result is better or worse than you'd expect). Noun + にしては: for (a specific case; unexpectedly). | T: わりに works with words of degree (値段, 年); にしては with a specific standard (初めて, 日曜日). | R: Neutral | C: 
+JP-N3-04-017 初めて{{c1::にしては::for (a specific case)}}、上手ですね。 ‖ That's good for a first try.
+   N: Plain form / noun + の + わりに: considering (the result is better or worse than you'd expect). Noun + にしては: for (a specific case; unexpectedly). | T: わりに works with words of degree (値段, 年); にしては with a specific standard (初めて, 日曜日). | R: Neutral | C: 
+JP-N3-04-018 日曜日{{c1::にしては::for (a specific case)}}、すいていますね。 ‖ It's quiet for a Sunday.
+   N: Plain form / noun + の + わりに: considering (the result is better or worse than you'd expect). Noun + にしては: for (a specific case; unexpectedly). | T: わりに works with words of degree (値段, 年); にしては with a specific standard (初めて, 日曜日). | R: Neutral | C: 
+JP-N3-04-019 雨の{{c1::場合::in the event of (formal)}}、試合は中止です。 ‖ In the event of rain, the match will be cancelled.
+   NEW
+JP-N3-05-001 日本の歴史{{c1::について::について / に対して / にとって}}調べています。<br>先生は学生{{c2::に対して::について / に対して / にとって}}とてもきびしいです。<br>私{{c3::にとって::について / に対して / にとって}}、家族がいちばん大切です。 ‖ I'm researching Japanese history. / The teacher is very strict with the students. / For me, family is the most important thing.
+   N: について: about (a topic). に対して: towards, against (the target of an attitude or action); also 'in contrast to'. にとって: for; from the point of view of (followed by a judgement). | T:  | R: Neutral | C: 
+JP-N3-05-002 国{{c1::によって::depending on}}、習慣がちがいます。 ‖ Customs differ from country to country.
+   N: Noun + によって: (a) depending on; (b) by (the creator, in passive sentences); (c) by means of. による + noun. によると: according to. | T:  | R: Neutral; written | C: 
+JP-N3-05-003 この本は有名な作家{{c1::によって::by (creator)}}書かれました。 ‖ This book was written by a famous author.
+   N: Noun + によって: (a) depending on; (b) by (the creator, in passive sentences); (c) by means of. による + noun. によると: according to. | T:  | R: Neutral; written | C: 
+JP-N3-05-004 地震{{c1::による::caused by (before a noun)}}被害は大きかったです。 ‖ The damage caused by the earthquake was severe.
+   N: Noun + によって: (a) depending on; (b) by (the creator, in passive sentences); (c) by means of. による + noun. によると: according to. | T:  | R: Neutral; written | C: 
+JP-N3-05-005 ニュース{{c1::によると::according to}}、明日は雪だそうです。 ‖ According to the news, it will snow tomorrow.
+   N: Noun + によって: (a) depending on; (b) by (the creator, in passive sentences); (c) by means of. による + noun. によると: according to. | T:  | R: Neutral; written | C: 
+JP-N3-05-006 留学生{{c1::として::as (role)}}日本に来ました。 ‖ I came to Japan as an international student.
+   N: Noun + として: as (in the role or capacity of). | T:  | R: Neutral | C: 
+JP-N3-05-007 趣味{{c1::として::as}}ピアノをひいています。 ‖ I play the piano as a hobby.
+   N: Noun + として: as (in the role or capacity of). | T:  | R: Neutral | C: 
+JP-N3-05-008 この問題{{c1::に関して::about (formal)}}、何か質問はありますか。 ‖ Are there any questions regarding this issue?
+   N: Noun + に関して: about; regarding. A more formal version of について. | T:  | R: Formal, business | C: 
+JP-N3-05-009 新しい計画{{c1::に関して::about (formal)}}、説明します。 ‖ I'll explain the new plan.
+   N: Noun + に関して: about; regarding. A more formal version of について. | T:  | R: Formal, business | C: 
+JP-N3-05-010 (To a friend) 田中さん、明日来られない{{c1::って::casual quote ('says that')}}。 ‖ Tanaka says he can't come tomorrow.
+   N: って is casual for: (a) と (quoting, 'says that'); (b) は / というのは ('what is…?' / topic); (c) そうだ ('I hear'). | T:  | R: Casual | C: 
+JP-N3-05-011 (To a friend) 「すきやき」{{c1::って::casual 'what is…?'}}何? ‖ What's sukiyaki?
+   N: って is casual for: (a) と (quoting, 'says that'); (b) は / というのは ('what is…?' / topic); (c) そうだ ('I hear'). | T:  | R: Casual | C: 
+JP-N3-05-012 (To a friend) 田中さん{{c1::って::casual topic}}、どんな人? ‖ What's Tanaka like?
+   N: って is casual for: (a) と (quoting, 'says that'); (b) は / というのは ('what is…?' / topic); (c) そうだ ('I hear'). | T:  | R: Casual | C: 
+JP-N3-05-013 会議は第一会議室{{c1::において::in / at (formal)}}行われます。 ‖ The meeting will be held in Conference Room 1.
+   N: Noun + において: in; at (formal 'で', for places, times, fields). における + noun. | T:  | R: Formal; written | C: 
+JP-N3-05-014 日本{{c1::における::in (+ noun, formal)}}外国人の数は増えています。 ‖ The number of foreign residents in Japan is rising.
+   N: Noun + において: in; at (formal 'で', for places, times, fields). における + noun. | T:  | R: Formal; written | C: 
+JP-N3-05-015 日本の文化{{c1::についての::about (+ noun)}}本を読みました。 ‖ I read a book about Japanese culture.
+   N: Before a noun: について → についての, に関して → に関する, に対して → に対する. | T:  | R: Neutral to formal | C: 
+JP-N3-05-016 環境問題{{c1::に関する::about (+ noun, formal)}}会議が開かれました。 ‖ A conference on environmental issues was held.
+   N: Before a noun: について → についての, に関して → に関する, に対して → に対する. | T:  | R: Neutral to formal | C: 
+JP-N3-05-017 お客様{{c1::に対する::towards (+ noun)}}態度が悪いです。 ‖ Their attitude towards customers is bad.
+   N: Before a noun: について → についての, に関して → に関する, に対して → に対する. | T:  | R: Neutral to formal | C: 
+JP-N3-05-018 英語を教える{{c1::かわりに::in exchange for}}、日本語を教えてもらっています。 ‖ In exchange for teaching English, I'm being taught Japanese.
+   NEW
+JP-N3-06-001 今年の夏は去年{{c1::ほど::not as … as}}暑くないです。 ‖ This summer isn't as hot as last year.
+   N: (a) A は B ほど〜ない: A is not as … as B. (b) Degree: so … that (死ぬほど = so … I could die). | T: くらい can replace ほど for degree; only ほど works in 'not as … as'. | R: Neutral | C: 
+JP-N3-06-002 死ぬ{{c1::ほど::so (much) that}}つかれました。 ‖ I'm so tired I could die.
+   N: (a) A は B ほど〜ない: A is not as … as B. (b) Degree: so … that (死ぬほど = so … I could die). | T: くらい can replace ほど for degree; only ほど works in 'not as … as'. | R: Neutral | C: 
+JP-N3-06-003 涙が出る{{c1::ほど::so (much) that}}笑いました。 ‖ I laughed so much I cried.
+   N: (a) A は B ほど〜ない: A is not as … as B. (b) Degree: so … that (死ぬほど = so … I could die). | T: くらい can replace ほど for degree; only ほど works in 'not as … as'. | R: Neutral | C: 
+JP-N3-06-004 弟はゲーム{{c1::ばかり::nothing but (critical)}}しています。 ‖ My little brother does nothing but play games.
+   N: (a) Noun + ばかり: nothing but (often critical). (b) て-form + ばかりいる: always doing (critical). | T: vs だけ: だけ is a neutral 'only'. | R: Neutral; critical | C: 
+JP-N3-06-005 彼は{{c1::文句ばかり::文句 · nothing but}}言っています。 ‖ He does nothing but complain.
+   N: (a) Noun + ばかり: nothing but (often critical). (b) て-form + ばかりいる: always doing (critical). | T: vs だけ: だけ is a neutral 'only'. | R: Neutral; critical | C: 
+JP-N3-06-006 彼女は毎日{{c1::泣いてばかりいます::泣く · always doing (critical)}}。 ‖ She's always crying, every day.
+   N: (a) Noun + ばかり: nothing but (often critical). (b) て-form + ばかりいる: always doing (critical). | T: vs だけ: だけ is a neutral 'only'. | R: Neutral; critical | C: 
+JP-N3-06-007 子どもたちは{{c1::どろだらけ::どろ · covered in}}になりました。 ‖ The children got covered in mud.
+   N: Noun + だらけ: covered in; full of (something unpleasant). | T:  | R: Neutral to casual | C: 
+JP-N3-06-008 この作文は{{c1::まちがいだらけ::まちがい · full of}}です。 ‖ This essay is full of mistakes.
+   N: Noun + だらけ: covered in; full of (something unpleasant). | T:  | R: Neutral to casual | C: 
+JP-N3-06-009 彼は英語{{c1::だけでなく::not only}}、中国語も話せます。 ‖ He can speak not only English but Chinese too.
+   N: A だけでなく B も: not only A but also B. ばかりでなく is the same, slightly more formal. | T:  | R: Neutral | C: 
+JP-N3-06-010 この店は安い{{c1::だけでなく::not only}}、おいしいです。 ‖ This place isn't just cheap; the food's good too.
+   N: A だけでなく B も: not only A but also B. ばかりでなく is the same, slightly more formal. | T:  | R: Neutral | C: 
+JP-N3-06-011 (You lost last year) 今年{{c1::こそ::this time for sure}}、勝ちたいです。 ‖ This year, I really want to win.
+   N: Noun + こそ: precisely; this one (strong emphasis). から + こそ: precisely because. | T:  | R: Neutral | C: 
+JP-N3-06-012 好きだから{{c1::こそ::precisely (because)}}、きびしく言うのです。 ‖ It's precisely because I care that I'm strict.
+   N: Noun + こそ: precisely; this one (strong emphasis). から + こそ: precisely because. | T:  | R: Neutral | C: 
+JP-N3-06-013 (Replying to 'Thank you') こちら{{c1::こそ::likewise (emphasis)}}。 ‖ No, thank you.
+   N: Noun + こそ: precisely; this one (strong emphasis). から + こそ: precisely because. | T:  | R: Neutral | C: 
+JP-N3-06-014 忙しくて、ごはんを食べる時間{{c1::さえ::even (minimum)}}ありません。 ‖ I'm so busy I don't even have time to eat.
+   N: さえ / でさえ: even (a surprising minimum: even this, so of course everything else). まで: even (extending to an extreme item on a list). | T:  | R: Neutral | C: 
+JP-N3-06-015 こんなことは子ども{{c1::でさえ::even}}知っています。 ‖ Even a child knows this.
+   N: さえ / でさえ: even (a surprising minimum: even this, so of course everything else). まで: even (extending to an extreme item on a list). | T:  | R: Neutral | C: 
+JP-N3-06-016 (Friends AND family) 友だちだけでなく、家族{{c1::まで::even (adding to the list)}}反対しました。 ‖ Not just my friends: even my family was against it.
+   N: さえ / でさえ: even (a surprising minimum: even this, so of course everything else). まで: even (extending to an extreme item on a list). | T:  | R: Neutral | C: 
+JP-N3-07-001 {{c1::ねようとしました::ねる · tried to}}が、ねられませんでした。 ‖ I tried to sleep, but couldn't.
+   N: Volitional + とする: try to; attempt (with effort, often failing); be about to. ようとしない: won't (refuses). | T: vs てみる: てみる = try something out to see what it's like. | R: Neutral | C: 
+JP-N3-07-002 家を{{c1::出ようとした::出る · was about to}}とき、電話が鳴りました。 ‖ Just as I was about to leave the house, the phone rang.
+   N: Volitional + とする: try to; attempt (with effort, often failing); be about to. ようとしない: won't (refuses). | T: vs てみる: てみる = try something out to see what it's like. | R: Neutral | C: 
+JP-N3-07-003 子どもは野菜を{{c1::食べようとしません::食べる · won't (refuses)}}。 ‖ The child won't eat vegetables.
+   N: Volitional + とする: try to; attempt (with effort, often failing); be about to. ようとしない: won't (refuses). | T: vs てみる: てみる = try something out to see what it's like. | R: Neutral | C: 
+JP-N3-07-004 (Your own habit) 毎朝ジョギングする{{c1::ことにしています::ことにしている or ことになっている?}}。<br>(Company rule) この会社では、ネクタイをする{{c2::ことになっています::ことにしている or ことになっている?}}。 ‖ I make a point of jogging every morning. / At this company, you're supposed to wear a tie.
+   N: ことにしている: my own rule or habit. ことになっている: a rule or arrangement set by others. | T:  | R: Neutral | C: 
+JP-N3-07-005 約束は{{c1::守るべきです::守る · ought to}}。 ‖ You should keep your promises.
+   N: Dictionary form + べきだ (する → するべき or すべき): should; ought to (a moral duty or strong advice). べきではない: shouldn't. | T: vs ほうがいい: softer advice. vs はず: an expectation, not a duty. | R: Strong; careful with superiors | C: 
+JP-N3-07-006 人の悪口を{{c1::言うべきではありません::言う · ought not}}。 ‖ You shouldn't speak badly of people.
+   N: Dictionary form + べきだ (する → するべき or すべき): should; ought to (a moral duty or strong advice). べきではない: shouldn't. | T: vs ほうがいい: softer advice. vs はず: an expectation, not a duty. | R: Strong; careful with superiors | C: 
+JP-N3-07-007 朝ごはんを{{c1::食べずに::食べる · without (ずに)}}学校へ行きました。 ‖ I went to school without eating breakfast.
+   N: ない form without ない + ずに (する → せずに): without doing. Means the same as ないで, but is more written. | T:  | R: Written; formal speech | C: 
+JP-N3-07-008 何も{{c1::言わずに::言う · without (ずに)}}帰りました。 ‖ I went home without saying anything.
+   N: ない form without ない + ずに (する → せずに): without doing. Means the same as ないで, but is more written. | T:  | R: Written; formal speech | C: 
+JP-N3-07-009 {{c1::勉強せずに::勉強する · without (ずに)}}テストを受けました。 ‖ I took the test without studying.
+   N: ない form without ない + ずに (する → せずに): without doing. Means the same as ないで, but is more written. | T:  | R: Written; formal speech | C: 
+JP-N3-07-010 かさを{{c1::持たないで::持つ · ないで or なくて?}}出かけました。<br>バスが{{c2::来なくて::来る · ないで or なくて?}}、遅刻しました。 ‖ I went out without an umbrella. / The bus didn't come, so I was late.
+   N: ないで: without doing; instead of doing (how the next action is done). なくて: because something didn't happen (a reason). | T:  | R: Neutral | C: 
+JP-N3-07-011 (To a friend) さしみは{{c1::食べられないことはない::食べられる · it's not that I can't}}けど、あまり好きじゃない。 ‖ It's not that I can't eat sashimi, but I don't really like it.
+   N: ない form + ことはない: it's not that I can't / don't (it's possible, but reluctantly). | T: vs dictionary form + ことはない: there's no need to. | R: Neutral | C: 
+JP-N3-07-012 (Asked 'Can you go?') {{c1::行けないことはありません::行ける · it's not that I can't}}が…。 ‖ It's not that I can't go, but…
+   N: ない form + ことはない: it's not that I can't / don't (it's possible, but reluctantly). | T: vs dictionary form + ことはない: there's no need to. | R: Neutral | C: 
+JP-N3-07-013 そんなに{{c1::心配することはありません::心配する · no need to}}。 ‖ There's no need to worry so much.
+   N: Dictionary form + ことはない: there's no need to. | T: vs ない form + ことはない: it's not that I can't. | R: Neutral; reassuring | C: 
+JP-N3-07-014 (To a friend) わざわざ{{c1::来ることはない::来る · no need to}}よ。 ‖ You don't need to go to the trouble of coming.
+   N: Dictionary form + ことはない: there's no need to. | T: vs ない form + ことはない: it's not that I can't. | R: Neutral; reassuring | C: 
+JP-N3-08-001 新聞によると、来年から税金が{{c1::上がるということです::上がる · I hear (formal)}}。 ‖ According to the newspaper, taxes are going up from next year.
+   N: Plain form + ということです: I'm told; I hear (formal hearsay, from news or official sources). | T: vs そうだ: そうだ is more everyday. | R: Formal | C: 
+JP-N3-08-002 部長は今日は来られない{{c1::ということです::I'm told (formal)}}。 ‖ I'm told the manager can't come today.
+   N: Plain form + ということです: I'm told; I hear (formal hearsay, from news or official sources). | T: vs そうだ: そうだ is more everyday. | R: Formal | C: 
+JP-N3-08-003 田中さんは来月結婚する{{c1::とか::I heard something like}}。 ‖ I heard something about Mr Tanaka getting married next month.
+   N: Plain form + とか: I heard something like (vague, half-remembered hearsay). | T:  | R: Casual to neutral | C: 
+JP-N3-08-004 明日は雪がふる{{c1::とか::I heard something like}}。 ‖ I heard it might snow tomorrow.
+   N: Plain form + とか: I heard something like (vague, half-remembered hearsay). | T:  | R: Casual to neutral | C: 
+JP-N3-08-005 先生は学生に、宿題を{{c1::出すように言いました::出す · told (someone) to}}。 ‖ The teacher told the students to hand in their homework.
+   N: Dictionary / ない form + ように言う / 頼む / 注意する: tell / ask / warn someone to do (or not to do). This is how commands are reported. | T:  | R: Neutral | C: 
+JP-N3-08-006 母に、早く{{c1::帰るように言われました::帰る · was told to}}。 ‖ My mother told me to come home early.
+   N: Dictionary / ない form + ように言う / 頼む / 注意する: tell / ask / warn someone to do (or not to do). This is how commands are reported. | T:  | R: Neutral | C: 
+JP-N3-08-007 医者に、お酒を{{c1::飲まないように注意されました::飲む · was warned not to}}。 ‖ The doctor warned me not to drink.
+   N: Dictionary / ない form + ように言う / 頼む / 注意する: tell / ask / warn someone to do (or not to do). This is how commands are reported. | T:  | R: Neutral | C: 
+JP-N3-08-008 試験に{{c1::合格しますように::合格する · I hope (a wish)}}。 ‖ I hope I pass the exam.
+   N: ます-form + ように: I hope; may… (a wish or prayer). | T:  | R: Neutral; prayers, cards | C: 
+JP-N3-08-009 早く元気に{{c1::なりますように::なる · I hope (a wish)}}。 ‖ I hope you get well soon.
+   N: ます-form + ように: I hope; may… (a wish or prayer). | T:  | R: Neutral; prayers, cards | C: 
+JP-N3-09-001 先生の{{c1::おかげで::おかげで or せいで?}}、試験に合格しました。<br>雨の{{c2::せいで::おかげで or せいで?}}、試合が中止になりました。 ‖ Thanks to my teacher, I passed the exam. / The match was cancelled because of the rain.
+   N: おかげで: thanks to (a good result). せいで: because of (a bad result; blaming). | T:  | R: Neutral | C: 
+JP-N3-09-002 薬を飲んだ{{c1::おかげで::おかげで or せいで?}}、熱が下がりました。 ‖ My fever went down thanks to the medicine.
+   N: おかげで: thanks to (a good result). せいで: because of (a bad result; blaming). | T:  | R: Neutral | C: 
+JP-N3-09-003 寝不足の{{c1::せいで::おかげで or せいで?}}、頭がいたいです。 ‖ I have a headache because I didn't sleep enough.
+   N: おかげで: thanks to (a good result). せいで: because of (a bad result; blaming). | T:  | R: Neutral | C: 
+JP-N3-09-004 事故の{{c1::ため::because of (formal)}}、電車がおくれています。 ‖ The trains are delayed due to an accident.
+   N: Plain form / noun + の + ため(に): because of; due to (formal, written; used in announcements). | T: vs ために (N4): purpose. The difference is what comes before: a cause or a goal. | R: Formal | C: 
+JP-N3-09-005 台風の{{c1::ため::because of (formal)}}、飛行機が欠航になりました。 ‖ The flight was cancelled due to the typhoon.
+   N: Plain form / noun + の + ため(に): because of; due to (formal, written; used in announcements). | T: vs ために (N4): purpose. The difference is what comes before: a cause or a goal. | R: Formal | C: 
+JP-N3-09-006 子どものころ、よくこの川で{{c1::泳いだものです::泳ぐ · used to (nostalgic)}}。 ‖ When I was a child, I often used to swim in this river.
+   N: (a) Past た + ものだ: used to (nostalgic). (b) Dictionary form + ものだ: that's what one does; that's how things are. | T:  | R: Neutral | C: 
+JP-N3-09-007 人の話は最後まで{{c1::聞くものです::聞く · that's what one should do}}。 ‖ You should listen to people until they finish.
+   N: (a) Past た + ものだ: used to (nostalgic). (b) Dictionary form + ものだ: that's what one does; that's how things are. | T:  | R: Neutral | C: 
+JP-N3-10-001 くつを{{c1::はいたまま::はく · still wearing}}、家に入らないでください。 ‖ Please don't come inside with your shoes on.
+   N: Past た + まま: with something left as it is (the state unchanged). | T:  | R: Neutral | C: 
+JP-N3-10-002 電気を{{c1::つけたまま::つける · left on}}寝てしまいました。 ‖ I fell asleep with the light on.
+   N: Past た + まま: with something left as it is (the state unchanged). | T:  | R: Neutral | C: 
+JP-N3-10-003 まどを{{c1::あけたまま::あける · left open}}出かけました。 ‖ I went out with the window open.
+   N: Past た + まま: with something left as it is (the state unchanged). | T:  | R: Neutral | C: 
+JP-N3-10-004 彼は{{c1::寝ているふりをしました::寝る · pretended (to be doing)}}。 ‖ He pretended to be asleep.
+   N: Plain form + ふりをする (noun + の, な-adj + な): pretend to. | T:  | R: Neutral | C: 
+JP-N3-10-005 知らない{{c1::ふりをしました::pretended}}。 ‖ I pretended not to know.
+   N: Plain form + ふりをする (noun + の, な-adj + な): pretend to. | T:  | R: Neutral | C: 
+JP-N3-10-006 冬はかぜを{{c1::ひきがちです::ひく · tend to}}。 ‖ I tend to catch colds in winter.
+   N: Verb stem / noun + がち: tend to (something negative or unwanted, happening often). | T: vs っぽい: っぽい is about character or appearance; がち is about frequency. | R: Neutral | C: 
+JP-N3-10-007 彼は授業を{{c1::休みがちです::休む · tend to}}。 ‖ He tends to miss classes.
+   N: Verb stem / noun + がち: tend to (something negative or unwanted, happening often). | T: vs っぽい: っぽい is about character or appearance; がち is about frequency. | R: Neutral | C: 
+JP-N3-10-008 くもり{{c1::がち::mostly (tends to)}}の天気が続いています。 ‖ The weather has been mostly cloudy.
+   N: Verb stem / noun + がち: tend to (something negative or unwanted, happening often). | T: vs っぽい: っぽい is about character or appearance; がち is about frequency. | R: Neutral | C: 
+JP-N3-10-009 (Mon, Wed, Fri…) 一日{{c1::おきに::おきに or ごとに?}}ジムに行きます。<br>(At each one) 駅{{c2::ごとに::おきに or ごとに?}}電車が止まります。 ‖ I go to the gym every other day. / The train stops at every station.
+   N: おきに: at intervals of (leaving a gap: 一日おき = every other day). ごとに: every (each one). With hours, 二時間おきに and 二時間ごとに mean much the same. | T:  | R: Neutral | C: 
+JP-N3-10-010 毎日少し{{c1::ずつ::a little at a time}}練習しています。 ‖ I practise a little every day.
+   N: Quantity + ずつ: each; at a time. | T:  | R: Neutral | C: 
+JP-N3-10-011 一人二つ{{c1::ずつ::each}}取ってください。 ‖ Please take two each.
+   N: Quantity + ずつ: each; at a time. | T:  | R: Neutral | C: 
+JP-N3-10-012 すしの{{c1::ような::like / such as (+ noun)}}日本料理が好きです。 ‖ I like Japanese food such as sushi.
+   N: Noun + のような + noun: like; such as (an example). Clause + ように: as; in the way that. | T:  | R: Neutral | C: 
+JP-N3-10-013 先生が言った{{c1::ように::as (in the way that)}}、やってみました。 ‖ I tried it the way the teacher said.
+   N: Noun + のような + noun: like; such as (an example). Clause + ように: as; in the way that. | T:  | R: Neutral | C: 
+JP-N3-10-014 (To a friend) お茶{{c1::なんか::or something (casual)}}どう? ‖ How about some tea or something?
+   N: Noun + なんか: (a) …or something (casual など); (b) dismissive ('the likes of'). Noun + なんて: dismissive. Plain form + なんて: surprise ('to think that…'). | T:  | R: Casual | C: 
+JP-N3-10-015 (To a friend) 宿題{{c1::なんて::dismissive}}、やりたくない。 ‖ I don't want to do stupid homework.
+   N: Noun + なんか: (a) …or something (casual など); (b) dismissive ('the likes of'). Noun + なんて: dismissive. Plain form + なんて: surprise ('to think that…'). | T:  | R: Casual | C: 
+JP-N3-10-016 彼が結婚する{{c1::なんて::to think that (surprise)}}、知りませんでした。 ‖ I had no idea he was getting married!
+   N: Noun + なんか: (a) …or something (casual など); (b) dismissive ('the likes of'). Noun + なんて: dismissive. Plain form + なんて: surprise ('to think that…'). | T:  | R: Casual | C: 
+JP-N3-10-017 {{c1::焼きたて::焼く · freshly}}のパンはおいしいです。 ‖ Freshly baked bread is delicious.
+   N: Verb stem + たて: freshly (just made / just done). | T:  | R: Neutral | C: 
+JP-N3-10-018 {{c1::できたて::できる · freshly}}の料理をどうぞ。 ‖ Please enjoy the food while it's fresh.
+   N: Verb stem + たて: freshly (just made / just done). | T:  | R: Neutral | C: 

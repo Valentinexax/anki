@@ -1,0 +1,342 @@
+JP-N5-01-001 私{{c1::は::particle: topic}}学生です。 ‖ I am a student.
+   N: は marks the topic (read 'wa'); です is the polite copula ('is / am / are'). | T: vs が: は = topic already in play; が = new info or the answer to who/what (unit 04). | R: Polite, neutral | C: 
+JP-N5-01-002 田中さん{{c1::は::particle: topic}}先生です。 ‖ Mr Tanaka is a teacher.
+   N: は marks the topic (read 'wa'); です is the polite copula ('is / am / are'). | T: vs が: は = topic already in play; が = new info or the answer to who/what (unit 04). | R: Polite, neutral | C: 
+JP-N5-01-003 私は学生{{c1::です::copula: is (polite)}}。 ‖ I am a student.
+   N: は marks the topic (read 'wa'); です is the polite copula ('is / am / are'). | T: vs が: は = topic already in play; が = new info or the answer to who/what (unit 04). | R: Polite, neutral | C: 
+JP-N5-01-004 今日{{c1::は::particle: topic}}休みです。 ‖ Today is a day off.
+   N: は marks the topic (read 'wa'); です is the polite copula ('is / am / are'). | T: vs が: は = topic already in play; が = new info or the answer to who/what (unit 04). | R: Polite, neutral | C: 
+JP-N5-01-005 私は先生{{c1::じゃありません::polite negative · spoken}}。 ‖ I'm not a teacher.
+   N: Noun + じゃありません (neg), でした (past), じゃありませんでした (past neg). | T: じゃ = spoken, neutral; では = formal, written, speeches. | R: Polite; では = formal | C: 
+JP-N5-01-006 昨日は休み{{c1::でした::polite past}}。 ‖ Yesterday was a day off.
+   N: Noun + じゃありません (neg), でした (past), じゃありませんでした (past neg). | T: じゃ = spoken, neutral; では = formal, written, speeches. | R: Polite; では = formal | C: 
+JP-N5-01-007 あの人は日本人{{c1::じゃありませんでした::polite past negative · spoken}}。 ‖ That person wasn't Japanese.
+   N: Noun + じゃありません (neg), でした (past), じゃありませんでした (past neg). | T: じゃ = spoken, neutral; では = formal, written, speeches. | R: Polite; では = formal | C: 
+JP-N5-01-008 私は学生{{c1::ではありません::formal negative}}。 ‖ I am not a student. (formal / written)
+   N: Noun + じゃありません (neg), でした (past), じゃありませんでした (past neg). | T: じゃ = spoken, neutral; では = formal, written, speeches. | R: Polite; では = formal | C: 
+JP-N5-01-009 あなたは学生です{{c1::か::particle: question}}。 ‖ Are you a student?
+   N: Sentence-final か turns a statement into a question. Word order does not change. | T:  | R: Polite, neutral | C: 
+JP-N5-01-010 これは何です{{c1::か::particle: question}}。 ‖ What is this?
+   N: Sentence-final か turns a statement into a question. Word order does not change. | T:  | R: Polite, neutral | C: 
+JP-N5-01-011 水を飲みます{{c1::か::particle: question}}。 ‖ Do you drink water?
+   N: Sentence-final か turns a statement into a question. Word order does not change. | T:  | R: Polite, neutral | C: 
+JP-N5-01-012 私{{c1::も::particle: also}}学生です。 ‖ I'm a student too.
+   N: も replaces は/が/を and means 'also'. Don't keep the old particle (×はも, ×をも). | T: vs は: は introduces or contrasts a topic; も adds to an existing one. | R: Neutral | C: 
+JP-N5-01-013 田中さんは先生です。山田さん{{c1::も::particle: also}}先生です。 ‖ Mr Tanaka is a teacher. Ms Yamada is a teacher too.
+   N: も replaces は/が/を and means 'also'. Don't keep the old particle (×はも, ×をも). | T: vs は: は introduces or contrasts a topic; も adds to an existing one. | R: Neutral | C: 
+JP-N5-01-014 私はコーヒー{{c1::も::particle: also}}飲みます。 ‖ I drink coffee too.
+   N: も replaces は/が/を and means 'also'. Don't keep the old particle (×はも, ×をも). | T: vs は: は introduces or contrasts a topic; も adds to an existing one. | R: Neutral | C: 
+JP-N5-01-015 これは私{{c1::の::particle: 's}}本です。 ‖ This is my book.
+   N: A の B: A owns or describes B. At the end, の can stand for the noun (私のです = it's mine). | T:  | R: Neutral | C: 
+JP-N5-01-016 田中さんは日本語{{c1::の::particle: links two nouns}}先生です。 ‖ Mr Tanaka is a Japanese teacher.
+   N: A の B: A owns or describes B. At the end, の can stand for the noun (私のです = it's mine). | T:  | R: Neutral | C: 
+JP-N5-01-017 あれは先生{{c1::の::particle: 's}}かばんです。 ‖ That is the teacher's bag.
+   N: A の B: A owns or describes B. At the end, の can stand for the noun (私のです = it's mine). | T:  | R: Neutral | C: 
+JP-N5-01-018 この本は私{{c1::の::particle: 's (= mine)}}です。 ‖ This book is mine.
+   N: A の B: A owns or describes B. At the end, の can stand for the noun (私のです = it's mine). | T:  | R: Neutral | C: 
+JP-N5-02-001 (Holding it) {{c1::これ::これ / それ / あれ}}はペンです。<br>(You hold it) {{c2::それ::これ / それ / あれ}}はペンですか。<br>(Far from both) {{c3::あれ::これ / それ / あれ}}はペンです。 ‖ This is a pen. / Is that a pen? / That over there is a pen.
+   N: こ = near speaker, そ = near listener, あ = far from both, ど = which (3+ options). These stand alone. | T: vs この/その/あの: those must be followed by a noun. | R: Neutral | C: 
+JP-N5-02-002 (Pointing at a pile of books) {{c1::どれ::which one}}があなたの本ですか。 ‖ Which one is your book?
+   N: こ = near speaker, そ = near listener, あ = far from both, ど = which (3+ options). These stand alone. | T: vs この/その/あの: those must be followed by a noun. | R: Neutral | C: 
+JP-N5-02-003 (Near me) {{c1::この::この / その / あの}}かばんは高いです。 ‖ This bag is expensive.
+   N: Same こ/そ/あ/ど logic, but 'this/that + NOUN'. A noun must follow. | T: vs これ/それ/あれ: those stand alone. | R: Neutral | C: 
+JP-N5-02-004 (Near you) {{c1::その::この / その / あの}}かばんはいくらですか。 ‖ How much is that bag?
+   N: Same こ/そ/あ/ど logic, but 'this/that + NOUN'. A noun must follow. | T: vs これ/それ/あれ: those stand alone. | R: Neutral | C: 
+JP-N5-02-005 (Far from both) {{c1::あの::この / その / あの}}人は先生です。 ‖ That person over there is a teacher.
+   N: Same こ/そ/あ/ど logic, but 'this/that + NOUN'. A noun must follow. | T: vs これ/それ/あれ: those stand alone. | R: Neutral | C: 
+JP-N5-02-006 {{c1::どの::which}}人が田中さんですか。 ‖ Which person is Mr Tanaka?
+   N: Same こ/そ/あ/ど logic, but 'this/that + NOUN'. A noun must follow. | T: vs これ/それ/あれ: those stand alone. | R: Neutral | C: 
+JP-N5-02-007 {{c1::これ::これ or この?}}は私の本です。<br>{{c2::この::これ or この?}}本は私のです。 ‖ This is my book. / This book is mine.
+   N: Same こ/そ/あ/ど logic, but 'this/that + NOUN'. A noun must follow. | T: vs これ/それ/あれ: those stand alone. | R: Neutral | C: 
+JP-N5-02-008 (Where I am) {{c1::ここ::ここ / そこ / あそこ}}は学校です。 ‖ This is a school.
+   N: Place words: ここ here (near me), そこ there (near you), あそこ over there, どこ where. | T: こちら/そちら/あちら/どちら are the polite equivalents. | R: Neutral | C: 
+JP-N5-02-009 (Where you are) {{c1::そこ::ここ / そこ / あそこ}}は学校ですか。 ‖ Is it a school where you are?
+   N: Place words: ここ here (near me), そこ there (near you), あそこ over there, どこ where. | T: こちら/そちら/あちら/どちら are the polite equivalents. | R: Neutral | C: 
+JP-N5-02-010 (Pointing across the room) {{c1::あそこ::ここ / そこ / あそこ}}はトイレです。 ‖ Over there is the toilet.
+   N: Place words: ここ here (near me), そこ there (near you), あそこ over there, どこ where. | T: こちら/そちら/あちら/どちら are the polite equivalents. | R: Neutral | C: 
+JP-N5-02-011 トイレは{{c1::どこ::where}}ですか。 ‖ Where is the toilet?
+   N: Place words: ここ here (near me), そこ there (near you), あそこ over there, どこ where. | T: こちら/そちら/あちら/どちら are the polite equivalents. | R: Neutral | C: 
+JP-N5-02-012 あの人は{{c1::だれ::who}}ですか。 ‖ Who is that person?
+   N: Put the question word where the answer would go. No word-order change; add か. | T:  | R: Neutral | C: 
+JP-N5-02-013 テストは{{c1::いつ::when}}ですか。 ‖ When is the test?
+   N: Put the question word where the answer would go. No word-order change; add か. | T:  | R: Neutral | C: 
+JP-N5-02-014 このりんごは{{c1::いくら::how much}}ですか。 ‖ How much is this apple?
+   N: Put the question word where the answer would go. No word-order change; add か. | T:  | R: Neutral | C: 
+JP-N5-02-015 それは{{c1::何::what}}の本ですか。 ‖ What kind of book is that?
+   N: Put the question word where the answer would go. No word-order change; add か. | T:  | R: Neutral | C: 
+JP-N5-03-001 毎日水を{{c1::飲みます::飲む · polite}}。 ‖ I drink water every day.
+   N: Verb stem + ます: polite non-past (habits and the future). | T: vs dictionary form (unit 07): casual. | R: Polite, neutral | C: 
+JP-N5-03-002 私は朝ごはんを{{c1::食べます::食べる · polite}}。 ‖ I eat breakfast.
+   N: Verb stem + ます: polite non-past (habits and the future). | T: vs dictionary form (unit 07): casual. | R: Polite, neutral | C: 
+JP-N5-03-003 友だちは学校へ{{c1::行きます::行く · polite}}。 ‖ My friend goes to school.
+   N: Verb stem + ます: polite non-past (habits and the future). | T: vs dictionary form (unit 07): casual. | R: Polite, neutral | C: 
+JP-N5-03-004 先生は日本語を{{c1::話します::話す · polite}}。 ‖ The teacher speaks Japanese.
+   N: Verb stem + ます: polite non-past (habits and the future). | T: vs dictionary form (unit 07): casual. | R: Polite, neutral | C: 
+JP-N5-03-005 田中さんは明日{{c1::来ます::来る · polite}}。 ‖ Mr Tanaka will come tomorrow.
+   N: Verb stem + ます: polite non-past (habits and the future). | T: vs dictionary form (unit 07): casual. | R: Polite, neutral | C: 
+JP-N5-03-006 毎日日本語をべんきょう{{c1::します::する · polite}}。 ‖ I study Japanese every day.
+   N: Verb stem + ます: polite non-past (habits and the future). | T: vs dictionary form (unit 07): casual. | R: Polite, neutral | C: 
+JP-N5-03-007 私はコーヒーを{{c1::飲みません::飲む · polite negative}}。 ‖ I don't drink coffee.
+   N: Stem + ません: polite negative. | T:  | R: Polite, neutral | C: 
+JP-N5-03-008 田中さんは学校へ{{c1::来ません::来る · polite negative}}。 ‖ Mr Tanaka doesn't come to school.
+   N: Stem + ません: polite negative. | T:  | R: Polite, neutral | C: 
+JP-N5-03-009 朝ごはんを{{c1::食べません::食べる · polite negative}}。 ‖ I don't eat breakfast.
+   N: Stem + ません: polite negative. | T:  | R: Polite, neutral | C: 
+JP-N5-03-010 昨日、友だちに{{c1::会いました::会う · polite past}}。 ‖ I met a friend yesterday.
+   N: Stem + ました (past) / ませんでした (past negative). | T:  | R: Polite, neutral | C: 
+JP-N5-03-011 先週、本を{{c1::読みました::読む · polite past}}。 ‖ I read a book last week.
+   N: Stem + ました (past) / ませんでした (past negative). | T:  | R: Polite, neutral | C: 
+JP-N5-03-012 今朝は朝ごはんを{{c1::食べませんでした::食べる · polite past negative}}。 ‖ I didn't eat breakfast this morning.
+   N: Stem + ました (past) / ませんでした (past negative). | T:  | R: Polite, neutral | C: 
+JP-N5-03-013 昨日は学校へ{{c1::行きませんでした::行く · polite past negative}}。 ‖ I didn't go to school yesterday.
+   N: Stem + ました (past) / ませんでした (past negative). | T:  | R: Polite, neutral | C: 
+JP-N5-03-014 いっしょにごはんを{{c1::食べませんか::食べる · won't you…?}}。<br>さあ、{{c2::食べましょう::食べる · let's}}。 ‖ Won't you eat with me? / Right, let's eat.
+   N: 〜ませんか invites softly ('won't you…?') and waits for an answer; 〜ましょう proposes ('let's') and assumes agreement. | T: ませんか = softer, asks; ましょう = more direct, decides. | R: Polite | C: 
+JP-N5-03-015 {{c1::行きましょう::行く · let's}}。 ‖ Let's go.
+   N: 〜ませんか invites softly ('won't you…?') and waits for an answer; 〜ましょう proposes ('let's') and assumes agreement. | T: ませんか = softer, asks; ましょう = more direct, decides. | R: Polite | C: 
+JP-N5-03-016 いっしょにテレビを{{c1::見ませんか::見る · won't you…?}}。 ‖ Won't you watch TV with me?
+   N: 〜ませんか invites softly ('won't you…?') and waits for an answer; 〜ましょう proposes ('let's') and assumes agreement. | T: ませんか = softer, asks; ましょう = more direct, decides. | R: Polite | C: 
+JP-N5-03-017 かばんを{{c1::持ちましょうか::持つ · shall I?}}。 ‖ Shall I carry your bag?
+   N: Stem + ましょうか: an offer ('shall I…?') or a suggestion ('shall we…?'). | T: vs ましょう: ましょう states; ましょうか asks. | R: Polite | C: 
+JP-N5-03-018 まどを{{c1::あけましょうか::あける · shall I?}}。 ‖ Shall I open the window?
+   N: Stem + ましょうか: an offer ('shall I…?') or a suggestion ('shall we…?'). | T: vs ましょう: ましょう states; ましょうか asks. | R: Polite | C: 
+JP-N5-03-019 私は日本に{{c1::行きたいです::行く · want to}}。 ‖ I want to go to Japan.
+   N: Stem + たい: 'want to do'. Inflects like an い-adjective (たくない, たかった). Use for yourself, or in questions to the listener. | T: vs ほしい: ほしい = want a noun. For a third person you need 〜たがる (N4). | R: Don't state a third person's wants directly | C: 
+JP-N5-03-020 水が{{c1::飲みたいです::飲む · want to}}。 ‖ I want to drink water.
+   N: Stem + たい: 'want to do'. Inflects like an い-adjective (たくない, たかった). Use for yourself, or in questions to the listener. | T: vs ほしい: ほしい = want a noun. For a third person you need 〜たがる (N4). | R: Don't state a third person's wants directly | C: 
+JP-N5-03-021 今日は何も{{c1::食べたくないです::食べる · don't want to}}。 ‖ I don't want to eat anything today.
+   N: Stem + たい: 'want to do'. Inflects like an い-adjective (たくない, たかった). Use for yourself, or in questions to the listener. | T: vs ほしい: ほしい = want a noun. For a third person you need 〜たがる (N4). | R: Don't state a third person's wants directly | C: 
+JP-N5-03-022 あなたは何を{{c1::食べたいですか::食べる · want to? (question)}}。 ‖ What do you want to eat?
+   N: Stem + たい: 'want to do'. Inflects like an い-adjective (たくない, たかった). Use for yourself, or in questions to the listener. | T: vs ほしい: ほしい = want a noun. For a third person you need 〜たがる (N4). | R: Don't state a third person's wants directly | C: 
+JP-N5-03-023 私は新しい車が{{c1::ほしいです::want}}。 ‖ I want a new car.
+   N: Noun が ほしい: want a thing. Stem + たい: want to do an action. | T: ほしい = noun; たい = verb. | R: Neutral | C: 
+JP-N5-03-024 私は犬が{{c1::ほしいです::want}}。 ‖ I want a dog.
+   N: Noun が ほしい: want a thing. Stem + たい: want to do an action. | T: ほしい = noun; たい = verb. | R: Neutral | C: 
+JP-N5-03-025 車が{{c1::ほしい::want}}です。<br>日本に{{c2::行きたい::行く · want to}}です。 ‖ I want a car. / I want to go to Japan.
+   N: Noun が ほしい: want a thing. Stem + たい: want to do an action. | T: ほしい = noun; たい = verb. | R: Neutral | C: 
+JP-N5-04-001 毎日水{{c1::を::particle: object}}飲みます。 ‖ I drink water every day.
+   N: を marks the direct object (read 'o'). | T: vs が: を with action verbs; が with すき/ほしい/じょうず etc. (unit 05). | R: Neutral | C: 
+JP-N5-04-002 私は本{{c1::を::particle: object}}読みます。 ‖ I read a book.
+   N: を marks the direct object (read 'o'). | T: vs が: を with action verbs; が with すき/ほしい/じょうず etc. (unit 05). | R: Neutral | C: 
+JP-N5-04-003 朝ごはん{{c1::を::particle: object}}食べます。 ‖ I eat breakfast.
+   N: を marks the direct object (read 'o'). | T: vs が: を with action verbs; が with すき/ほしい/じょうず etc. (unit 05). | R: Neutral | C: 
+JP-N5-04-004 友だち{{c1::を::particle: object}}待ちます。 ‖ I wait for my friend.
+   N: を marks the direct object (read 'o'). | T: vs が: を with action verbs; が with すき/ほしい/じょうず etc. (unit 05). | R: Neutral | C: 
+JP-N5-04-005 学校{{c1::で::で or に?}}日本語を話します。 ‖ I speak Japanese at school.
+   N: で marks where an action happens. | T: vs に: に = where something exists, or where you go. | R: Neutral | C: 
+JP-N5-04-006 うち{{c1::で::で or に?}}ごはんを食べます。 ‖ I eat at home.
+   N: で marks where an action happens. | T: vs に: に = where something exists, or where you go. | R: Neutral | C: 
+JP-N5-04-007 デパート{{c1::で::で or に?}}くつを買います。 ‖ I buy shoes at the department store.
+   N: で marks where an action happens. | T: vs に: に = where something exists, or where you go. | R: Neutral | C: 
+JP-N5-04-008 はし{{c1::で::で or と?}}食べます。 ‖ I eat with chopsticks.
+   N: で marks the means: tool, transport, language. | T: vs と: と = together with a person. | R: Neutral | C: 
+JP-N5-04-009 バス{{c1::で::で or と?}}学校へ行きます。 ‖ I go to school by bus.
+   N: で marks the means: tool, transport, language. | T: vs と: と = together with a person. | R: Neutral | C: 
+JP-N5-04-010 日本語{{c1::で::で or と?}}手紙を書きます。 ‖ I write letters in Japanese.
+   N: で marks the means: tool, transport, language. | T: vs と: と = together with a person. | R: Neutral | C: 
+JP-N5-04-011 七時{{c1::に::particle: at (time)}}起きます。 ‖ I get up at seven.
+   N: に marks a specific point in time: clock times, days of the week, dates, months. | T: No に after relative time words: 今日, 明日, 昨日, 毎日, 今. | R: Neutral | C: 
+JP-N5-04-012 日曜日{{c1::に::particle: on (day)}}友だちに会います。 ‖ I meet a friend on Sunday.
+   N: に marks a specific point in time: clock times, days of the week, dates, months. | T: No に after relative time words: 今日, 明日, 昨日, 毎日, 今. | R: Neutral | C: 
+JP-N5-04-013 十月{{c1::に::particle: in (month)}}日本へ行きます。 ‖ I'm going to Japan in October.
+   N: に marks a specific point in time: clock times, days of the week, dates, months. | T: No に after relative time words: 今日, 明日, 昨日, 毎日, 今. | R: Neutral | C: 
+JP-N5-04-014 友だちは学校{{c1::に::に or で?}}行きます。<br>私は学校{{c2::で::に or で?}}日本語を話します。<br>ねこは学校{{c3::に::に or で?}}います。 ‖ My friend goes to school. / I speak Japanese at school. / There's a cat at the school.
+   N: に/へ mark the destination (へ is read 'e'). に also marks the person you meet (友だちに会う) and where something exists. | T: vs で: で = place where an action happens. | R: Neutral | C: 
+JP-N5-04-015 日本{{c1::へ::particle: towards (not に)}}行きます。 ‖ I go to Japan.
+   N: に/へ mark the destination (へ is read 'e'). に also marks the person you meet (友だちに会う) and where something exists. | T: vs で: で = place where an action happens. | R: Neutral | C: 
+JP-N5-04-016 毎日友だち{{c1::に::に or を?}}会います。 ‖ I meet my friend every day.
+   N: に/へ mark the destination (へ is read 'e'). に also marks the person you meet (友だちに会う) and where something exists. | T: vs で: で = place where an action happens. | R: Neutral | C: 
+JP-N5-04-017 九時{{c1::から::from}}五時{{c2::まで::until}}学校にいます。 ‖ I'm at school from nine until five.
+   N: から = from (time or place); まで = until / as far as. | T: This から (from) differs from clause + から (because, unit 08). | R: Neutral | C: 
+JP-N5-04-018 東京{{c1::から::from (place)}}来ました。 ‖ I came from Tokyo.
+   N: から = from (time or place); まで = until / as far as. | T: This から (from) differs from clause + から (because, unit 08). | R: Neutral | C: 
+JP-N5-04-019 うちから学校{{c1::まで::to / as far as}}十分です。 ‖ It's ten minutes from home to school.
+   N: から = from (time or place); まで = until / as far as. | T: This から (from) differs from clause + から (because, unit 08). | R: Neutral | C: 
+JP-N5-04-020 友だち{{c1::と::と or で?}}ごはんを食べます。 ‖ I eat with a friend.
+   N: Person + と: together with. | T: vs で: で = means/tool, never a companion. | R: Neutral | C: 
+JP-N5-04-021 田中さん{{c1::と::と or で?}}日本へ行きました。 ‖ I went to Japan with Mr Tanaka.
+   N: Person + と: together with. | T: vs で: で = means/tool, never a companion. | R: Neutral | C: 
+JP-N5-04-022 (Only those two) つくえの上に本{{c1::と::と or や?}}ペンがあります。<br>(Among other things) つくえの上に本{{c2::や::と or や?}}ペンがあります。 ‖ There's a book and a pen on the desk (nothing else). / There are a book, a pen and other things on the desk.
+   N: と lists everything ('A and B'); や lists examples ('A, B and so on'). | T: と = complete list; や = non-exhaustive. | R: Neutral | C: 
+JP-N5-04-023 (Answering 'Who came?') 田中さん{{c1::が::は or が?}}来ました。 ‖ Mr Tanaka came.
+   N: は = topic already in the conversation; が = new information, or the answer to a question word. | T: A question word as subject takes が (だれが来ましたか), and so does its answer. | R: Neutral | C: 
+JP-N5-04-024 (Asked 'What about Tanaka?') 田中さん{{c1::は::は or が?}}来ました。 ‖ Tanaka? He came.
+   N: は = topic already in the conversation; が = new information, or the answer to a question word. | T: A question word as subject takes が (だれが来ましたか), and so does its answer. | R: Neutral | C: 
+JP-N5-04-025 (Spotting it suddenly) あ、ねこ{{c1::が::は or が?}}います。 ‖ Oh, there's a cat.
+   N: は = topic already in the conversation; が = new information, or the answer to a question word. | T: A question word as subject takes が (だれが来ましたか), and so does its answer. | R: Neutral | C: 
+JP-N5-04-026 つくえの上に本が{{c1::あります::あります or います?}}。<br>へやに犬が{{c2::います::あります or います?}}。<br>学校の前に木が{{c3::あります::あります or います?}}。 ‖ There's a book on the desk. / There's a dog in the room. / There's a tree in front of the school.
+   N: あります: things, plants, events. います: people and animals. Pattern: Place に Subject が あります/います. | T: ある/いる are the plain forms. | R: Neutral | C: 
+JP-N5-04-027 私は友だちが二人{{c1::います::あります or います?}}。 ‖ I have two friends.
+   N: あります: things, plants, events. います: people and animals. Pattern: Place に Subject が あります/います. | T: ある/いる are the plain forms. | R: Neutral | C: 
+JP-N5-04-028 へやにだれも{{c1::いません::いる · polite negative}}。 ‖ There's nobody in the room.
+   N: あります: things, plants, events. います: people and animals. Pattern: Place に Subject が あります/います. | T: ある/いる are the plain forms. | R: Neutral | C: 
+JP-N5-05-001 この本は{{c1::高くないです::高い · negative}}。 ‖ This book isn't expensive.
+   N: い-adj: drop い, add くないです. Exception: いい → よくない. | T:  | R: Polite | C: 
+JP-N5-05-002 今日は{{c1::いそがしくないです::いそがしい · negative}}。 ‖ I'm not busy today.
+   N: い-adj: drop い, add くないです. Exception: いい → よくない. | T:  | R: Polite | C: 
+JP-N5-05-003 このへやは{{c1::大きくないです::大きい · negative}}。 ‖ This room isn't big.
+   N: い-adj: drop い, add くないです. Exception: いい → よくない. | T:  | R: Polite | C: 
+JP-N5-05-004 てんきは{{c1::よくないです::いい · negative (irregular)}}。 ‖ The weather isn't good.
+   N: い-adj: drop い, add くないです. Exception: いい → よくない. | T:  | R: Polite | C: 
+JP-N5-05-005 その店は{{c1::安かったです::安い · past}}。 ‖ That shop was cheap.
+   N: い-adj: drop い, add かったです (past) / くなかったです (past negative). いい → よかった. | T:  | R: Polite | C: 
+JP-N5-05-006 この本は{{c1::おもしろかったです::おもしろい · past}}。 ‖ This book was interesting.
+   N: い-adj: drop い, add かったです (past) / くなかったです (past negative). いい → よかった. | T:  | R: Polite | C: 
+JP-N5-05-007 昨日のてんきは{{c1::よくなかったです::いい · past negative}}。 ‖ Yesterday's weather wasn't good.
+   N: い-adj: drop い, add かったです (past) / くなかったです (past negative). いい → よかった. | T:  | R: Polite | C: 
+JP-N5-05-008 ごはんは{{c1::おいしくなかったです::おいしい · past negative}}。 ‖ The meal wasn't tasty.
+   N: い-adj: drop い, add かったです (past) / くなかったです (past negative). いい → よかった. | T:  | R: Polite | C: 
+JP-N5-05-009 {{c1::きれいな::きれい · before a noun}}花です。 ‖ It's a pretty flower.
+   N: な-adj + な + noun. As a predicate it behaves like a noun: です, じゃありません, でした (no な). | T: vs い-adj: い-adj go straight before nouns and conjugate themselves. | R: Polite | C: 
+JP-N5-05-010 ここは{{c1::しずかな::しずか · before noun}}ところです。 ‖ This is a quiet place.
+   N: な-adj + な + noun. As a predicate it behaves like a noun: です, じゃありません, でした (no な). | T: vs い-adj: い-adj go straight before nouns and conjugate themselves. | R: Polite | C: 
+JP-N5-05-011 私のへやは{{c1::きれいじゃありません::きれい · polite negative}}。 ‖ My room isn't clean.
+   N: な-adj + な + noun. As a predicate it behaves like a noun: です, じゃありません, でした (no な). | T: vs い-adj: い-adj go straight before nouns and conjugate themselves. | R: Polite | C: 
+JP-N5-05-012 先生は{{c1::元気でした::元気 · polite past}}。 ‖ The teacher was well.
+   N: な-adj + な + noun. As a predicate it behaves like a noun: です, じゃありません, でした (no な). | T: vs い-adj: い-adj go straight before nouns and conjugate themselves. | R: Polite | C: 
+JP-N5-05-013 この店は{{c1::安くて::安い · て-form}}、おいしいです。 ‖ This place is cheap and the food is good.
+   N: い-adj: drop い + くて. な-adj / noun: + で. Links two descriptions ('and'). | T:  | R: Neutral | C: 
+JP-N5-05-014 田中さんは{{c1::しんせつで::しんせつ · て-form}}、おもしろい人です。 ‖ Mr Tanaka is kind and fun.
+   N: い-adj: drop い + くて. な-adj / noun: + で. Links two descriptions ('and'). | T:  | R: Neutral | C: 
+JP-N5-05-015 このへやは{{c1::広くて::広い · て-form}}、明るいです。 ‖ This room is spacious and bright.
+   N: い-adj: drop い + くて. な-adj / noun: + で. Links two descriptions ('and'). | T:  | R: Neutral | C: 
+JP-N5-05-016 私は日本語{{c1::が::が or を?}}好きです。 ‖ I like Japanese.
+   N: These are な-adjectives. The thing liked or the skill takes が, not を. | T: vs を: を is for action verbs. | R: Neutral | C: 
+JP-N5-05-017 おとうとはさかな{{c1::が::が or を?}}きらいです。 ‖ My younger brother dislikes fish.
+   N: These are な-adjectives. The thing liked or the skill takes が, not を. | T: vs を: を is for action verbs. | R: Neutral | C: 
+JP-N5-05-018 田中さんは日本語{{c1::が::が or を?}}じょうずです。 ‖ Mr Tanaka is good at Japanese.
+   N: These are な-adjectives. The thing liked or the skill takes が, not を. | T: vs を: を is for action verbs. | R: Neutral | C: 
+JP-N5-05-019 私はうた{{c1::が::が or を?}}へたです。 ‖ I'm bad at singing.
+   N: These are な-adjectives. The thing liked or the skill takes が, not を. | T: vs を: を is for action verbs. | R: Neutral | C: 
+JP-N5-05-020 もうすぐ{{c1::春になります::春 · become}}。 ‖ It will soon be spring.
+   N: い-adj: drop い + くなる. な-adj and noun: + になる. 'Become'. | T:  | R: Neutral | C: 
+JP-N5-05-021 ふゆは{{c1::さむくなります::さむい · become}}。 ‖ It gets cold in winter.
+   N: い-adj: drop い + くなる. な-adj and noun: + になる. 'Become'. | T:  | R: Neutral | C: 
+JP-N5-05-022 日本語が{{c1::じょうずになりました::じょうず · became}}。 ‖ My Japanese has got better.
+   N: い-adj: drop い + くなる. な-adj and noun: + になる. 'Become'. | T:  | R: Neutral | C: 
+JP-N5-06-001 ちょっと{{c1::待って::待つ · て-form}}ください。 ‖ Please wait a moment.
+   N: て-form: る-verb drop る+て (食べて); う/つ/る → って; む/ぶ/ぬ → んで; く → いて (行く → 行って is irregular); ぐ → いで; す → して; 来る → 来て; する → して. 〜てください = polite request. | T: vs 〜ないでください: please don't. | R: Polite | C: 
+JP-N5-06-002 ここに名前を{{c1::書いて::書く · て-form}}ください。 ‖ Please write your name here.
+   N: て-form: る-verb drop る+て (食べて); う/つ/る → って; む/ぶ/ぬ → んで; く → いて (行く → 行って is irregular); ぐ → いで; す → して; 来る → 来て; する → して. 〜てください = polite request. | T: vs 〜ないでください: please don't. | R: Polite | C: 
+JP-N5-06-003 水を{{c1::飲んで::飲む · て-form}}ください。 ‖ Please drink some water.
+   N: て-form: る-verb drop る+て (食べて); う/つ/る → って; む/ぶ/ぬ → んで; く → いて (行く → 行って is irregular); ぐ → いで; す → して; 来る → 来て; する → して. 〜てください = polite request. | T: vs 〜ないでください: please don't. | R: Polite | C: 
+JP-N5-06-004 もう一度{{c1::言って::言う · て-form}}ください。 ‖ Please say that once more.
+   N: て-form: る-verb drop る+て (食べて); う/つ/る → って; む/ぶ/ぬ → んで; く → いて (行く → 行って is irregular); ぐ → いで; す → して; 来る → 来て; する → して. 〜てください = polite request. | T: vs 〜ないでください: please don't. | R: Polite | C: 
+JP-N5-06-005 明日、早く{{c1::来て::来る · て-form}}ください。 ‖ Please come early tomorrow.
+   N: て-form: る-verb drop る+て (食べて); う/つ/る → って; む/ぶ/ぬ → んで; く → いて (行く → 行って is irregular); ぐ → いで; す → して; 来る → 来て; する → して. 〜てください = polite request. | T: vs 〜ないでください: please don't. | R: Polite | C: 
+JP-N5-06-006 ここで{{c1::食べないで::食べる · please don't}}ください。 ‖ Please don't eat here.
+   N: Plain negative (ない) + で + ください: 'please don't'. | T:  | R: Polite | C: 
+JP-N5-06-007 しゃしんを{{c1::とらないで::とる · please don't}}ください。 ‖ Please don't take photos.
+   N: Plain negative (ない) + で + ください: 'please don't'. | T:  | R: Polite | C: 
+JP-N5-06-008 {{c1::行かないで::行く · please don't}}ください。 ‖ Please don't go.
+   N: Plain negative (ない) + で + ください: 'please don't'. | T:  | R: Polite | C: 
+JP-N5-06-009 今、本を{{c1::読んでいます::読む · doing now}}。 ‖ I'm reading a book now.
+   N: て-form + います: an ongoing action, or a resulting state (すんでいます = live in). | T:  | R: Neutral | C: 
+JP-N5-06-010 田中さんは今、ごはんを{{c1::食べています::食べる · doing now}}。 ‖ Mr Tanaka is eating now.
+   N: て-form + います: an ongoing action, or a resulting state (すんでいます = live in). | T:  | R: Neutral | C: 
+JP-N5-06-011 私は東京に{{c1::すんでいます::すむ · live (ongoing state)}}。 ‖ I live in Tokyo.
+   N: て-form + います: an ongoing action, or a resulting state (すんでいます = live in). | T:  | R: Neutral | C: 
+JP-N5-06-012 ごはんを{{c1::食べてから::食べる · after doing}}、べんきょうします。 ‖ After I eat, I study.
+   N: て-form + から: after doing V. The first action is finished before the second starts. | T: vs 〜前に: before (unit 07). | R: Neutral | C: 
+JP-N5-06-013 うちに{{c1::帰ってから::帰る · after doing}}、シャワーをあびます。 ‖ After I get home, I take a shower.
+   N: て-form + から: after doing V. The first action is finished before the second starts. | T: vs 〜前に: before (unit 07). | R: Neutral | C: 
+JP-N5-06-014 毎日、朝ごはんを食べて{{c1::から::after}}、学校へ行きます。 ‖ Every day I go to school after eating breakfast.
+   N: て-form + から: after doing V. The first action is finished before the second starts. | T: vs 〜前に: before (unit 07). | R: Neutral | C: 
+JP-N5-06-015 朝{{c1::起きて::起きる · て-form}}、かおをあらいます。 ‖ I get up in the morning and wash my face.
+   N: て-form links actions in order: 'do A, and then B'. | T:  | R: Neutral | C: 
+JP-N5-06-016 デパートへ{{c1::行って::行く · て-form}}、くつを買いました。 ‖ I went to the department store and bought shoes.
+   N: て-form links actions in order: 'do A, and then B'. | T:  | R: Neutral | C: 
+JP-N5-06-017 ここでしゃしんを{{c1::とってもいいですか::とる · may I?}}。 ‖ May I take photos here?
+   N: 〜てもいいです: permission. 〜てはいけません: prohibition. | T:  | R: Polite | C: 
+JP-N5-06-018 ここでたばこを{{c1::すってはいけません::すう · must not}}。 ‖ You must not smoke here.
+   N: 〜てもいいです: permission. 〜てはいけません: prohibition. | T:  | R: Polite | C: 
+JP-N5-06-019 ここに{{c1::すわってもいいです::すわる · may}}よ。 ‖ You can sit here.
+   N: 〜てもいいです: permission. 〜てはいけません: prohibition. | T:  | R: Polite | C: 
+JP-N5-07-001 私は肉を{{c1::食べない::食べる · plain negative}}。 ‖ I don't eat meat.
+   N: う-verb: change the final u to a + ない (買う→買わない). る-verb: drop る + ない. 来る→来ない; する→しない; ある→ない. | T:  | R: Plain / casual | C: 
+JP-N5-07-002 明日は学校へ{{c1::行かない::行く · plain negative}}。 ‖ I'm not going to school tomorrow.
+   N: う-verb: change the final u to a + ない (買う→買わない). る-verb: drop る + ない. 来る→来ない; する→しない; ある→ない. | T:  | R: Plain / casual | C: 
+JP-N5-07-003 田中さんは{{c1::来ない::来る · plain negative}}。 ‖ Mr Tanaka isn't coming.
+   N: う-verb: change the final u to a + ない (買う→買わない). る-verb: drop る + ない. 来る→来ない; する→しない; ある→ない. | T:  | R: Plain / casual | C: 
+JP-N5-07-004 今日は何も{{c1::しない::する · plain negative}}。 ‖ I'm not doing anything today.
+   N: う-verb: change the final u to a + ない (買う→買わない). る-verb: drop る + ない. 来る→来ない; する→しない; ある→ない. | T:  | R: Plain / casual | C: 
+JP-N5-07-005 昨日、友だちに{{c1::会った::会う · plain past}}。 ‖ I met a friend yesterday.
+   N: Same sound changes as the て-form, with た/だ: 会った, 食べた, 読んだ, 行った (irregular). | T:  | R: Plain / casual | C: 
+JP-N5-07-006 朝ごはんを{{c1::食べた::食べる · plain past}}。 ‖ I ate breakfast.
+   N: Same sound changes as the て-form, with た/だ: 会った, 食べた, 読んだ, 行った (irregular). | T:  | R: Plain / casual | C: 
+JP-N5-07-007 本を{{c1::読んだ::読む · plain past}}。 ‖ I read a book.
+   N: Same sound changes as the て-form, with た/だ: 会った, 食べた, 読んだ, 行った (irregular). | T:  | R: Plain / casual | C: 
+JP-N5-07-008 学校に{{c1::行った::行く · plain past (irregular)}}。 ‖ I went to school.
+   N: Same sound changes as the て-form, with た/だ: 会った, 食べた, 読んだ, 行った (irregular). | T:  | R: Plain / casual | C: 
+JP-N5-07-009 ねる{{c1::前に::before}}、はをみがきます。 ‖ I brush my teeth before bed.
+   N: Dictionary-form verb + 前に, or noun + の前に: 'before'. | T: vs 〜てから: after. | R: Neutral | C: 
+JP-N5-07-010 ごはんの{{c1::前に::before}}、手をあらいます。 ‖ I wash my hands before meals.
+   N: Dictionary-form verb + 前に, or noun + の前に: 'before'. | T: vs 〜てから: after. | R: Neutral | C: 
+JP-N5-07-011 日本へ{{c1::行く前に::行く · before}}、日本語をべんきょうします。 ‖ Before I go to Japan, I'll study Japanese.
+   N: Dictionary-form verb + 前に, or noun + の前に: 'before'. | T: vs 〜てから: after. | R: Neutral | C: 
+JP-N5-07-012 デパートへ買い物{{c1::に::particle: in order to}}行きます。 ‖ I'm going to the department store to shop.
+   N: Verb stem (or action noun) + に + 行く/来る: go/come in order to. | T:  | R: Neutral | C: 
+JP-N5-07-013 としょかんへ本を{{c1::読みに::読む · in order to}}行きました。 ‖ I went to the library to read.
+   N: Verb stem (or action noun) + に + 行く/来る: go/come in order to. | T:  | R: Neutral | C: 
+JP-N5-07-014 日本へ日本語を{{c1::べんきょうしに::べんきょうする · in order to}}来ました。 ‖ I came to Japan to study Japanese.
+   N: Verb stem (or action noun) + に + 行く/来る: go/come in order to. | T:  | R: Neutral | C: 
+JP-N5-08-001 いそがしい{{c1::から::because}}、行きません。 ‖ I'm busy, so I won't go.
+   N: Clause + から: 'because / so'. どうして asks why. | T: vs から (from): that one follows a time or place noun. | R: Neutral | C: 
+JP-N5-08-002 (Asked 'Why did you take time off?') かぜ{{c1::ですから::because (polite)}}。 ‖ Because I had a cold.
+   N: Clause + から: 'because / so'. どうして asks why. | T: vs から (from): that one follows a time or place noun. | R: Neutral | C: 
+JP-N5-08-003 {{c1::どうして::why}}休みましたか。 ‖ Why did you take time off?
+   N: Clause + から: 'because / so'. どうして asks why. | T: vs から (from): that one follows a time or place noun. | R: Neutral | C: 
+JP-N5-08-004 日本語はむずかしいです{{c1::が::but}}、おもしろいです。 ‖ Japanese is difficult, but interesting.
+   N: Clause + が: 'but' (mild contrast). | T: vs subject が (unit 04): this が follows a full clause. | R: Neutral | C: 
+JP-N5-08-005 この店は高いです{{c1::が::but}}、おいしいです。 ‖ This place is expensive, but the food is good.
+   N: Clause + が: 'but' (mild contrast). | T: vs subject が (unit 04): this が follows a full clause. | R: Neutral | C: 
+JP-N5-08-006 この店は安いです。{{c1::そして::そして or それから?}}、おいしいです。 ‖ This place is cheap. And the food is good.
+   N: そして = and (also); それから = and then (next in time). | T: Both start a new sentence; て-form links within one sentence. | R: Neutral | C: 
+JP-N5-08-007 ごはんを食べました。{{c1::それから::そして or それから?}}、テレビを見ました。 ‖ I ate. Then I watched TV.
+   N: そして = and (also); それから = and then (next in time). | T: Both start a new sentence; て-form links within one sentence. | R: Neutral | C: 
+JP-N5-08-008 電車はバス{{c1::より::than}}はやいです。 ‖ The train is faster than the bus.
+   N: A は B より ~ = A is more ~ than B. A と B と どちらが? = which of two. A のほうが ~ = A is more ~. いちばん = most. | T: どちら (two options) vs どれ (three or more). | R: Neutral | C: 
+JP-N5-08-009 バスと電車と、{{c1::どちら::which}}が好きですか。 ‖ Which do you like better, buses or trains?
+   N: A は B より ~ = A is more ~ than B. A と B と どちらが? = which of two. A のほうが ~ = A is more ~. いちばん = most. | T: どちら (two options) vs どれ (three or more). | R: Neutral | C: 
+JP-N5-08-010 電車の{{c1::ほうが::more (of the two)}}はやいです。 ‖ The train is faster.
+   N: A は B より ~ = A is more ~ than B. A と B と どちらが? = which of two. A のほうが ~ = A is more ~. いちばん = most. | T: どちら (two options) vs どれ (three or more). | R: Neutral | C: 
+JP-N5-08-011 日本語が{{c1::いちばん::most}}好きです。 ‖ I like Japanese the most.
+   N: A は B より ~ = A is more ~ than B. A と B と どちらが? = which of two. A のほうが ~ = A is more ~. いちばん = most. | T: どちら (two options) vs どれ (three or more). | R: Neutral | C: 
+JP-N5-08-012 七時{{c1::ごろ::ごろ or ぐらい?}}起きます。 ‖ I get up around seven.
+   N: ごろ = around a point in time (clock time, date). ぐらい = about an amount or duration. | T: ごろ = 'at about'; ぐらい = 'about how much / long'. | R: Neutral | C: 
+JP-N5-08-013 毎日一時間{{c1::ぐらい::ごろ or ぐらい?}}べんきょうします。 ‖ I study for about an hour every day.
+   N: ごろ = around a point in time (clock time, date). ぐらい = about an amount or duration. | T: ごろ = 'at about'; ぐらい = 'about how much / long'. | R: Neutral | C: 
+JP-N5-08-014 水{{c1::だけ::only}}飲みます。 ‖ I only drink water.
+   N: Noun + だけ: only, just. | T:  | R: Neutral | C: 
+JP-N5-08-015 学生は一人{{c1::だけ::only}}です。 ‖ There is only one student.
+   N: Noun + だけ: only, just. | T:  | R: Neutral | C: 
+JP-N5-08-016 明日は雨{{c1::でしょう::probably (polite)}}。 ‖ It will probably rain tomorrow.
+   N: Plain form + でしょう: probably (prediction). With rising tone: 'right?' | T:  | R: Polite | C: 
+JP-N5-08-017 田中さんは来る{{c1::でしょう::probably (polite)}}。 ‖ Mr Tanaka will probably come.
+   N: Plain form + でしょう: probably (prediction). With rising tone: 'right?' | T:  | R: Polite | C: 
+JP-N5-08-018 (New info) 明日は休みです{{c1::よ::よ or ね?}}。<br>(Seeking agreement) いいてんきです{{c2::ね::よ or ね?}}。 ‖ Tomorrow's a day off, you know. / Nice weather, isn't it?
+   N: よ: telling the listener something they may not know. ね: seeking agreement ('isn't it?'). | T:  | R: Casual to neutral | C: 
+JP-N5-08-019 (Both of you eating) このごはん、おいしいです{{c1::ね::よ or ね?}}。 ‖ This food is tasty, isn't it?
+   N: よ: telling the listener something they may not know. ね: seeking agreement ('isn't it?'). | T:  | R: Casual to neutral | C: 
+JP-N5-08-020 (Telling a newcomer) あの人は先生です{{c1::よ::よ or ね?}}。 ‖ That person is a teacher, you know.
+   N: よ: telling the listener something they may not know. ね: seeking agreement ('isn't it?'). | T:  | R: Casual to neutral | C: 
+JP-N5-08-021 私は{{c1::あまり::not much}}おさけを飲みません。 ‖ I don't drink alcohol much.
+   N: あまり and ぜんぜん need a negative verb. よく and ときどき go with positive verbs. | T:  | R: Neutral | C: 
+JP-N5-08-022 田中さんは{{c1::ぜんぜん::not at all}}日本語を話しません。 ‖ Mr Tanaka doesn't speak Japanese at all.
+   N: あまり and ぜんぜん need a negative verb. よく and ときどき go with positive verbs. | T:  | R: Neutral | C: 
+JP-N5-08-023 友だちと{{c1::よく::often}}ごはんを食べます。 ‖ I often eat with friends.
+   N: あまり and ぜんぜん need a negative verb. よく and ときどき go with positive verbs. | T:  | R: Neutral | C: 
+JP-N5-08-024 {{c1::ときどき::sometimes}}テレビを見ます。 ‖ I sometimes watch TV.
+   N: あまり and ぜんぜん need a negative verb. よく and ときどき go with positive verbs. | T:  | R: Neutral | C: 
+JP-N5-08-025 (Asked 'Have you had lunch yet?') はい、{{c1::もう::already}}食べました。 ‖ Yes, I've already eaten.
+   N: もう + affirmative past = already. まだ + 〜ていません = not yet. | T:  | R: Neutral | C: 
+JP-N5-08-026 (Asked 'Have you had lunch yet?') いいえ、{{c1::まだ::not yet}}食べていません。 ‖ No, I haven't eaten yet.
+   N: もう + affirmative past = already. まだ + 〜ていません = not yet. | T:  | R: Neutral | C: 
+JP-N5-08-027 りんごを{{c1::ひとつ::1 + counter}}ください。 ‖ One apple, please.
+   N: つ-series for general items (ひとつ…とお). 人 for people (ひとり, ふたり are irregular). 冊 for bound items. 枚 for flat items. | T:  | R: Neutral | C: 
+JP-N5-08-028 学生が{{c1::三人::3 + counter}}います。 ‖ There are three students.
+   N: つ-series for general items (ひとつ…とお). 人 for people (ひとり, ふたり are irregular). 冊 for bound items. 枚 for flat items. | T:  | R: Neutral | C: 
+JP-N5-08-029 本を{{c1::二冊::2 + counter}}買いました。 ‖ I bought two books.
+   N: つ-series for general items (ひとつ…とお). 人 for people (ひとり, ふたり are irregular). 冊 for bound items. 枚 for flat items. | T:  | R: Neutral | C: 
+JP-N5-08-030 紙を{{c1::三枚::3 + counter}}ください。 ‖ Three sheets of paper, please.
+   N: つ-series for general items (ひとつ…とお). 人 for people (ひとり, ふたり are irregular). 冊 for bound items. 枚 for flat items. | T:  | R: Neutral | C: 

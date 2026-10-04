@@ -1,0 +1,1136 @@
+{
+"JP-N1-01-001": {
+"notes": "が早いか means 'the instant': 帰るが早いか 'the instant (the child) got home'. It's narrative and describes someone else's sudden action; the dictionary form is used even for past events.",
+"tip": "が早いか, や否や, なり: all 'the instant', all narrative.",
+"compare": "",
+"register": "Written; narrative",
+"tr": "The instant the child got home, they went out to play.",
+"flag": "tr: 子ども doesn't specify a boy; 'he' replaced with 'they'"
+},
+"JP-N1-01-002": {
+"notes": "鳴るが早いか 'the instant the bell rang': the students dash out at once. 飛び出す = rush out. The pattern suits lively descriptions of crowds or children.",
+"tip": "",
+"compare": "",
+"register": "Written; narrative"
+},
+"JP-N1-01-003": {
+"notes": "や否や means 'as soon as': 聞くや否や. It's literary; the shorter や alone is also used (聞くや). The second action follows immediately.",
+"tip": "や否や = as soon as (literary).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-01-004": {
+"notes": "発売されるや否や 'as soon as it was released'. The passive verb takes や否や in its dictionary form. 売り切れる = sell out.",
+"tip": "",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N1-01-005": {
+"notes": "なり means 'as soon as (and then something unexpected)': 見るなり泣き出した. It describes someone else; the speaker's own actions don't take なり.",
+"tip": "なり: about others, with a surprising result.",
+"compare": "",
+"register": "Written; narrative"
+},
+"JP-N1-01-006": {
+"notes": "帰ってくるなり寝てしまった 'went straight to bed the moment he got home'. てしまう adds that this was unexpected or mildly regrettable.",
+"tip": "",
+"compare": "",
+"register": "Written; narrative"
+},
+"JP-N1-01-007": {
+"notes": "そばから means 'no sooner … than', for something that keeps happening: 覚えるそばから忘れる. The repeated frustration is the point.",
+"tip": "そばから = no sooner…, again and again.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-01-008": {
+"notes": "片付けるそばから散らかす 'no sooner do I tidy than they mess it up'. It's a classic parent's complaint. 散らかす = make a mess.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-01-009": {
+"notes": "てからというもの means 'ever since', stressing a big change: 生まれてからというもの. The change has continued up to now.",
+"tip": "てからというもの = ever since (a big change).",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N1-01-010": {
+"notes": "出会ってからというもの 'ever since I met her'. The main clause describes the new, lasting state: 毎日が楽しい. 出会う = meet (by chance or fate).",
+"tip": "",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N1-01-011": {
+"notes": "を限りに means 'as of (and never again)': 今日を限りに 'from today, for good'. It marks the last time something happens.",
+"tip": "を限りに = as of (the last time).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-01-012": {
+"notes": "本日を限りに閉店いたします 'we close for good as of today'. It's a typical notice when a shop shuts down; いたす is humble.",
+"tip": "",
+"compare": "",
+"register": "Formal; notices"
+},
+"JP-N1-01-013": {
+"notes": "を皮切りに means 'starting with (the first of a series)': 東京公演を皮切りに. 皮切り literally means the first cut or moxa burn.",
+"tip": "を皮切りに = beginning with (the first of many).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-01-014": {
+"notes": "発言を皮切りに 'starting with his remark'. 次々と (one after another) shows the series that followed. 反対意見 = opposing views. It's typical of reports on meetings.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"JP-N1-01-015": {
+"notes": "かたわら means 'while also (alongside main work)': 勤めるかたわら小説を書く. It describes a long-term side activity.",
+"tip": "かたわら = alongside (a main occupation).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-01-016": {
+"notes": "子育てのかたわら 'while raising children'. Nouns take の. Unlike ながら, it isn't about two actions at the same moment.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-01-017": {
+"notes": "がてら means 'while (also), on the way': 散歩がてら. The first activity is the main one; the second is fitted in.",
+"tip": "がてら = combining (the trip with a second task).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-01-018": {
+"notes": "送りがてら 'while seeing (a guest) off'. Verb stems and nouns take がてら. 送る here means accompanying someone.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-01-019": {
+"notes": "ともなれば means 'once it comes to (a higher level)': 大学生ともなれば. Natural expectations change at that level.",
+"tip": "ともなると / ともなれば = once it gets to (that level).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-01-020": {
+"notes": "十二月ともなると 'once it's December'. The main clause describes what naturally happens then. にぎやか = lively, bustling. The approach of the year's end changes the mood of the streets.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-02-001": {
+"notes": "ゆえに means 'because of' in formal writing: 貧しさゆえに. It's old-fashioned and found in essays and literature.",
+"tip": "ゆえ(に) = because (formal, written).",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-02-002": {
+"notes": "ゆえの before a noun: 若さゆえの失敗 'a mistake born of youth'. The noun names the result of the cause. 失敗 = failure, mistake.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-02-003": {
+"notes": "とあって means 'because (of this special situation)': 連休とあって. It's typical of news reports about crowds and events.",
+"tip": "とあって = since it's (a special occasion).",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N1-02-004": {
+"notes": "人気歌手が来るとあって 'with a popular singer coming'. The main clause describes the natural result: the venue was packed.",
+"tip": "",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N1-02-005": {
+"notes": "ばこそ means 'precisely because': 愛していればこそ. It's a literary からこそ and introduces a reason that may seem surprising.",
+"tip": "ばこそ = literary からこそ.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-02-006": {
+"notes": "あればこそ 'precisely because (you are)': 健康であればこそ. The main clause often ends with のだ. 健康 here takes である: 健康であれば. The pattern praises a basic condition.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-02-007": {
+"notes": "手前 means 'in front of (to save face)': 子どもの手前 'in front of the children'. The speaker can't act freely because others are watching.",
+"tip": "手前 = because others are watching.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-02-008": {
+"notes": "言った手前 'having said so'. Having committed in public, backing out would mean losing face. 今さら = now, at this late stage.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-02-009": {
+"notes": "こととて means 'because' in a formal apology: 慣れぬこととて. 慣れぬ is the old negative of 慣れる. It's very old-fashioned.",
+"tip": "こととて = humble excuse (old-fashioned).",
+"compare": "",
+"register": "Very formal; old-fashioned"
+},
+"JP-N1-02-010": {
+"notes": "子どものしたこととて 'as it was a child's doing'. The excuse asks for forgiveness: どうかお許しください. Both こととて and the request are humble: the speaker is asking for leniency.",
+"tip": "",
+"compare": "",
+"register": "Very formal; old-fashioned"
+},
+"JP-N1-02-011": {
+"notes": "にかこつけて means 'using X as an excuse': 仕事にかこつけて. The reason given isn't the real one. 飲み会 = a drinking party, often with colleagues. 断る = decline.",
+"tip": "にかこつけて = on the pretext of.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-02-012": {
+"notes": "出張にかこつけて 'using a business trip as an excuse'. The real aim, sightseeing, follows. 観光 = sightseeing. The excuse is presented with a wink rather than guilt.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-02-013": {
+"notes": "をもって means 'as of' in formal notices: 本日をもって 'as of today'. 受付 is reception or the application desk.",
+"tip": "をもって = as of; by means of (formal).",
+"compare": "",
+"register": "Very formal; notices"
+},
+"JP-N1-02-014": {
+"notes": "をもって can also mean 'by means of': 書面をもって 'in writing'. It's typical of official letters. 書面 = in writing, a document.",
+"tip": "",
+"compare": "",
+"register": "Very formal; letters"
+},
+"JP-N1-02-015": {
+"notes": "とあれば means 'if it's (for X)': 子どものためとあれば. The speaker would do anything for that reason. どんなことでも = anything at all. The noun ため (sake) goes before とあれば.",
+"tip": "とあれば = if it's for (X), then anything.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N1-02-016": {
+"notes": "命令とあれば 'if it's an order'. The speaker accepts reluctantly: 従うしかない. 命令 = order. 従う = obey. The speaker doesn't like it but sees no alternative, which suits the reluctant tone.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N1-02-017": {
+"notes": "にかまけて means 'too wrapped up in X (neglecting something else)': 仕事にかまけて. The neglected thing comes next.",
+"tip": "にかまけて = too absorbed in (X) to…",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N1-02-018": {
+"notes": "をいいことに means 'taking (unfair) advantage of': 先生がいないのをいいことに. It criticises the behaviour that follows.",
+"tip": "をいいことに = taking advantage of (critical).",
+"compare": "",
+"register": "Critical"
+},
+"JP-N1-03-001": {
+"notes": "たところで means 'even if (it would be pointless)': 急いだところで間に合わない. The past form is used even for hypothetical futures.",
+"tip": "たところで = even if (it's no use).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-03-002": {
+"notes": "いくら説明したところで 'however much you explain'. The main clause is a negative or a pessimistic guess. The pessimism is the speaker's own judgement.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-03-003": {
+"notes": "といえども means 'even (a…)': 子どもといえども. It concedes a status but insists the rule still applies. The rule applies to everyone, children included.",
+"tip": "といえども = even though (one is) a…",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-03-004": {
+"notes": "専門家といえども 'even experts'. It's a formal concession, typical of essays and speeches. 間違える = make a mistake. ことはある means 'it does happen (sometimes)'.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-03-005": {
+"notes": "とはいえ means 'although, that said': 春とはいえ. It admits a fact, then qualifies it. 寒い日が続く = cold days continue. The season promises warmth, but the reality lags behind.",
+"tip": "とはいえ = that said.",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N1-03-006": {
+"notes": "忙しいとはいえ 'busy as you are'. The second clause pushes back: you could at least get in touch. 連絡くらい = at least a message. はず shows what the speaker reasonably expects.",
+"tip": "",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N1-03-007": {
+"notes": "であれ means 'no matter (who / what)': 誰であれ. It's formal; であろうと is a variant. 規則 = rules. The phrase is common in notices: どなたであれ (whoever you may be). であっても is the everyday form.",
+"tip": "Question word + であれ = no matter who / what.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-03-008": {
+"notes": "何であろうと 'whatever (the reason)'. The main clause states an unconditional rule. 暴力 = violence. 許されない = not acceptable. It suits official statements and principles.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-03-009": {
+"notes": "ようが…まいが means 'whether or not': 降ろうが降るまいが. The volitional form and まい frame the two options. 試合は行います: the match will go ahead. It's common in event announcements.",
+"tip": "ようが…まいが = whether or not.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N1-03-010": {
+"notes": "ようと means 'no matter (what)': 何と言われようと 'whatever people say'. The passive volitional 言われよう is used. 自分の道 = one's own path.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N1-03-011": {
+"notes": "ものを means 'if only (regret or criticism)': 言えばいいものを. The speaker blames someone for not acting. どうして reinforces the complaint.",
+"tip": "ものを = if only (you had…).",
+"compare": "",
+"register": "Emotional; written"
+},
+"JP-N1-03-012": {
+"notes": "治るものを 'would get better (if only)'. The second clause shows the frustrating reality: he won't take it.",
+"tip": "",
+"compare": "",
+"register": "Emotional; written"
+},
+"JP-N1-03-013": {
+"notes": "ならいざしらず means 'X would be one thing, but': 子どもならいざしらず. The real case is less forgivable. なんて ends the sentence with shock; the conclusion is left unsaid.",
+"tip": "ならいざしらず = (that) would be one thing, but…",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N1-03-014": {
+"notes": "初めてならいざしらず 'if it were the first time, fine'. The complaint follows: still wrong on the third try. 三回目 = the third time.",
+"tip": "",
+"compare": "",
+"register": "Neutral to written"
+},
+"JP-N1-03-015": {
+"notes": "にひきかえ means 'in contrast to', with a judgement: 兄にひきかえ. One side is better than the other. 兄 and 弟 are compared, with clear approval of the younger.",
+"tip": "にひきかえ = in (unfavourable) contrast to.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-03-016": {
+"notes": "去年の暑さにひきかえ 'compared with last year's heat'. It contrasts two situations strongly. 涼しい = cool (pleasant). This summer is the favoured side of the contrast.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-03-017": {
+"notes": "をよそに means 'disregarding (others' concern)': 周囲の反対をよそに. The person carries on regardless. 周囲 = the people around him. 会社を辞める = quit a job.",
+"tip": "をよそに = ignoring (others' worry).",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N1-03-018": {
+"notes": "親の心配をよそに 'ignoring his parents' worries'. 遊び歩く = go out enjoying oneself. 毎晩 = every night. The son's behaviour is presented as worrying his parents. It's typical of social commentary.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-03-019": {
+"notes": "をものともせずに means 'undaunted by': 大けがをものともせず. It admires someone's courage. 出場する = take part (in a match or competition). It's common in sports reporting, praising an athlete's grit.",
+"tip": "をものともせず = undaunted by.",
+"compare": "",
+"register": "Written; admiring"
+},
+"JP-N1-03-020": {
+"notes": "嵐をものともせず 'undaunted by the storm'. It can describe things as well as people. 港を出る = leave port. The ship is personified as brave. It's typical of narrative writing.",
+"tip": "",
+"compare": "",
+"register": "Written; admiring"
+},
+"JP-N1-03-021": {
+"notes": "をおして means 'pushing through (illness, opposition)': 病気をおして. It shows determination. 出席する = attend. It's common in reports praising dedication: someone came in despite being unwell.",
+"tip": "をおして = in spite of (and pushing on).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-03-022": {
+"notes": "ならまだしも means 'X would be acceptable, but': 一回ならまだしも. The real situation goes too far. 何度も = again and again. 困る = be a problem.",
+"tip": "ならまだしも = (that) would be one thing.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-03-023": {
+"notes": "と思いきや means 'I thought…, but actually': 簡単だと思いきや. The result is the opposite of the expectation. The past とても難しかった shows the actual outcome.",
+"tip": "と思いきや = I expected…, but no.",
+"compare": "",
+"register": "Written; narrative"
+},
+"JP-N1-03-024": {
+"notes": "と思いきや after a past form: 合格したと思いきや 'I thought I'd passed'. The surprise follows: my name wasn't there.",
+"tip": "",
+"compare": "",
+"register": "Written; narrative",
+"text": "(Written) 合格した{{c1::と思いきや::I thought …, but (actually)}}、名前がなかった。",
+"tr": "I thought I'd passed, but my name wasn't on the list.",
+"flag": "dup: replaced 雨がやんだと思いきや、また降り出した (near-identical to N2-01-008)"
+},
+"JP-N1-03-025": {
+"notes": "かいもなく means 'in vain, despite': 努力したかいもなく. かい (甲斐) is the reward an effort deserves. 試験に落ちる = fail an exam. The effort was real but brought nothing.",
+"tip": "かいもなく = all for nothing.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-03-026": {
+"notes": "看病のかいもなく 'despite our care'. It's typical of obituaries and sad news. 亡くなる = pass away. 看病 = nursing (a sick person). 祖父 = grandfather.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-03-027": {
+"notes": "をもってしても means 'even with (the best means)': 最新の技術をもってしても. The result is still negative. 最新の技術 = the latest technology. 治せない = cannot cure.",
+"tip": "をもってしても = even with (it still fails).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-04-001": {
+"notes": "ならでは means 'only N can offer': 京都ならではの味. It's always praise. だけあって means 'as you'd expect, given': プロだけあって.",
+"tip": "ならでは = unique to; だけあって = as expected from.",
+"compare": "",
+"register": "Written; reviews, adverts"
+},
+"JP-N1-04-002": {
+"notes": "手作りならではの温かさ 'a warmth only handmade things have'. It's common in advertising copy. 手作り = handmade. 温かさ = warmth (of feeling).",
+"tip": "",
+"compare": "",
+"register": "Written; adverts"
+},
+"JP-N1-04-003": {
+"notes": "をおいて means 'apart from (no one else)': 彼をおいてほかにいない. It strongly singles out one choice. 任せる = entrust. ほかにいない = there's no one else. It's a strong endorsement in formal speech.",
+"tip": "をおいて…ない = no one but.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-04-004": {
+"notes": "あなたをおいて考えられない 'can't imagine anyone but you'. It's a strong compliment. 考えられない = unthinkable. 次のリーダー = the next leader. It's flattering and persuasive.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-04-005": {
+"notes": "に限る means 'X is the best (thing to do)': 寝るに限る. It's a personal recommendation. 疲れたとき = when you're tired. It's said with conviction, from experience.",
+"tip": "に限る = nothing beats…",
+"compare": "",
+"register": "Conversational"
+},
+"JP-N1-04-006": {
+"notes": "ビールに限ります 'nothing beats beer'. ね invites agreement. Nouns go straight before に限る. It's often said with a satisfied sigh on a hot day. The meaning is 'the best, and nothing else'.",
+"tip": "",
+"compare": "",
+"register": "Conversational"
+},
+"JP-N1-04-007": {
+"notes": "ないまでも means 'even if not (as far as X), at least Y': 毎日とは言わないまでも. The second part is a modest demand.",
+"tip": "ないまでも = not X, but at least Y.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-04-008": {
+"notes": "できないまでも 'even if we can't (win)'. The lesser goal, reaching the final, is still wanted. 優勝 = winning the championship; 決勝 = the final.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-04-009": {
+"notes": "なくして means 'without (X, Y is impossible)': 努力なくして成功はない. It's formal and typical of speeches. It's a stock phrase in motivational speeches.",
+"tip": "なくして(は) + negative = without (X, never).",
+"compare": "",
+"register": "Formal; speeches"
+},
+"JP-N1-04-010": {
+"notes": "ご協力なくしては 'without your cooperation'. The main clause is a negative of what was achieved. 実現 = realisation, making it happen.",
+"tip": "",
+"compare": "",
+"register": "Formal; speeches"
+},
+"JP-N1-04-011": {
+"notes": "なしに means 'without': 断りなしに 'without asking'. It's a neutral 'without'. 断り = notice, permission. 入ってくる = come in. It's critical of rude behaviour.",
+"tip": "なしに = without.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"JP-N1-04-012": {
+"notes": "ことなしに after a verb: 努力することなしに. It's more formal than ないで. 夢をかなえる = make a dream come true. ことなしに is formal, typical of speeches and essays about effort.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-04-013": {
+"notes": "が最後 means 'once you do X, that's it': 貸したが最後. The bad result can't be undone. 返ってくる = come back. 絶対に + negative = never.",
+"tip": "たが最後 = once you…, it's over.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-04-014": {
+"notes": "読み始めたが最後 'once you start'. It can be humorous: you won't be able to stop. やめられなくなる = become unable to stop. It's also used as a recommendation for gripping books.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-04-015": {
+"notes": "ずとも means 'even without': 言わずとも 'without (you) having to say'. It's literary for なくても. わかっている = I already know.",
+"tip": "ずとも = literary なくても.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-04-016": {
+"notes": "急がずとも 'even without hurrying'. する becomes せずとも. 間に合う = be in time. The literary ずとも sounds calm and reassuring. Everyday speech: 急がなくても間に合う.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-04-017": {
+"notes": "限りだ after a feeling adjective means 'I feel so…': さびしい限りです. It's the speaker's own emotion. 帰ってしまう = go home (and leave me). The feeling is personal.",
+"tip": "Feeling + 限りだ = I feel so…",
+"compare": "",
+"register": "Formal; speeches, letters"
+},
+"JP-N1-04-018": {
+"notes": "うれしい限りです 'absolutely delighted'. It's a stock phrase in acceptance speeches. 賞 = award. いただけて is the humble potential of もらう.",
+"tip": "",
+"compare": "",
+"register": "Formal; speeches"
+},
+"JP-N1-04-019": {
+"notes": "に至るまで means 'right through to': 子どもからお年寄りに至るまで. It stresses the full extent, often with から. お年寄り = the elderly.",
+"tip": "から…に至るまで = from … right through to.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-05-001": {
+"notes": "極まりない means 'extremely' (usually negative): 失礼極まりない. Despite the ない, it's an intensifier, not a negative.",
+"tip": "極まりない = extremely (not a negative).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-05-002": {
+"notes": "迷惑極まりない 'incredibly inconsiderate'. 極まる (without ない) means the same. 夜中 = the middle of the night. The noun 迷惑 (nuisance) goes before 極まりない. The tone is indignant.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-05-003": {
+"notes": "の至り means 'the height of': 光栄の至り 'a great honour'. It's a fixed phrase in speeches. このような = such (formal).",
+"tip": "光栄の至り = a great honour.",
+"compare": "",
+"register": "Very formal; set phrase"
+},
+"JP-N1-05-004": {
+"notes": "若気の至り 'the folly of youth'. It excuses past behaviour. 若気 (わかげ) = youthful impetuousness. The phrase is fixed; other nouns rarely take の至り except 光栄 and 感激.",
+"tip": "",
+"compare": "",
+"register": "Set phrase"
+},
+"JP-N1-05-005": {
+"notes": "といったらない means 'indescribably': 怖さといったらなかった. The noun names the feeling. 夜道 = a road at night. The past ありませんでした describes a past experience.",
+"tip": "Noun + といったらない = beyond words.",
+"compare": "",
+"register": "Emotional"
+},
+"JP-N1-05-006": {
+"notes": "うれしさといったらありません 'joy beyond words'. The polite form ends in ありません. うれしさ is the noun of うれしい. Other emotion nouns fit too: 悔しさ, 寒さ. The tone is lively and spoken.",
+"tip": "",
+"compare": "",
+"register": "Emotional"
+},
+"JP-N1-05-007": {
+"notes": "にたえない after 見る / 聞く means 'too awful to watch / hear': 見るにたえない. 番組 = TV programme. 内容 = content. The meaning is 'too awful to look at', not 'unbearable to wait for'.",
+"tip": "見るにたえない = unwatchable.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-05-008": {
+"notes": "感謝にたえない means 'deeply grateful': the feeling can't be contained. It's very formal. 支援 = support. It's said at award ceremonies.",
+"tip": "",
+"compare": "",
+"register": "Very formal"
+},
+"JP-N1-05-009": {
+"notes": "にもまして means 'even more than': 去年にもまして暑い. The noun goes straight before にもまして. 暑い is the quality that has increased. It's common in weather reports and essays.",
+"tip": "何にもまして = more than anything.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-05-010": {
+"notes": "何にもまして 'more than anything'. It introduces the top priority. 健康が大切 = health matters. The phrase sets a clear priority over everything else.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-05-011": {
+"notes": "からある after a number means 'as much as (a lot)': 百キロからある荷物. 荷物 = luggage, load. 一人で = alone. The number is presented as remarkably large for one person to carry.",
+"tip": "Number + から(ある) = a good (number).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-05-012": {
+"notes": "からの before a noun: 一万人からの人 'as many as 10,000 people'. 集まる = gather. The number of people impresses the speaker. It's typical of news reports about rallies and festivals.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-05-013": {
+"notes": "たりとも means 'not even (one)': 一円たりとも. It takes a negative. 無駄にする = waste. The emphasis shows strict economy. It's typical of budgets and determined speech.",
+"tip": "一 + counter + たりとも + negative.",
+"compare": "",
+"register": "Formal; emphatic"
+},
+"JP-N1-05-014": {
+"notes": "一日たりとも 'not even a single day'. The verb is negative: 休んだことはない. 練習を休む = miss practice. The past ことはない means 'have never'. It shows great dedication.",
+"tip": "",
+"compare": "",
+"register": "Formal; emphatic"
+},
+"JP-N1-05-015": {
+"notes": "すら means 'even (a basic thing)': 名前すら書けない. It's a written さえ. 自分の名前 = one's own name. The basic thing is singled out to show how little he can do.",
+"tip": "すら = written さえ.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-05-016": {
+"notes": "だに means 'even (just)': 想像するだに恐ろしい. It's literary and survives in a few phrases. 恐ろしい = terrifying. It's mostly with 想像する, 考える.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"JP-N1-05-017": {
+"notes": "にして means 'only at (that point) did': 四十歳にして初めて. It stresses how late or high the point is. 初めて = for the first time.",
+"tip": "にして = only at; even (someone like).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-05-018": {
+"notes": "にして can mean 'even (an expert)': 専門家にして解けない. 解けない = can't solve. The expert's failure shows how hard the problem is. そうです marks hearsay. It's written in tone.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-05-019": {
+"notes": "までだ means 'I'll just (have to) do it': 歩いて帰るまでです. It's calm resignation. The condition (no trains) is stated first with なら.",
+"tip": "までだ = I'll simply…",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-05-020": {
+"notes": "までのことだ after a past form: 答えたまでのことです 'I merely answered'. It plays down an action. 聞かれた = was asked. The speaker denies any further motive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-05-021": {
+"notes": "ばそれまでだ means 'once X, that's the end': 死んでしまえばそれまで. いくら…ても = however much. The proverb-like idea is that money can't be taken with you.",
+"tip": "ばそれまでだ = once that happens, it's all over.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-05-022": {
+"notes": "使わなければそれまで 'pointless if you don't use it'. 高い = expensive. Owning isn't enough; use gives value. The ば form 使わなければ is the negative condition.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-05-023": {
+"notes": "てまで means 'go so far as to': 借金をしてまで. The action is too extreme. 借金 = debt. The speaker refuses to go to such lengths. It's common in moral judgements: うそをついてまで.",
+"tip": "てまで = going as far as (doing something extreme).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-05-024": {
+"notes": "とて means 'even (X, like everyone)': 私とて. It's literary for でも / だって. 悲しくないわけではない = it's not that I'm not sad. The double negative expresses quiet emotion.",
+"tip": "とて = literary だって.",
+"compare": "",
+"register": "Literary"
+},
+"JP-N1-06-001": {
+"notes": "ずにはおかない says a thing inevitably makes others feel or do something: 観客を感動させずにはおかない. ずにはいられない is your own urge: 感動せずにはいられなかった.",
+"tip": "ずにはおかない = bound to make (others)…; ずにはいられない = I can't help.",
+"compare": "",
+"register": "ずにはおかない written"
+},
+"JP-N1-06-002": {
+"notes": "考えさせずにはおかない 'can't fail to make (them) think'. The subject is the film, acting on its viewers. It's typical of reviews.",
+"tip": "",
+"compare": "",
+"register": "Written; reviews"
+},
+"JP-N1-06-003": {
+"notes": "ずにはすまない means 'can't get away without (doing)': 弁償せずにはすまない. The situation, not an inner urge, demands it. する becomes せずに.",
+"tip": "ずにはすまない = it can't be left without…",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-06-004": {
+"notes": "報告せずにはすみません 'can't avoid reporting it'. It's a social or professional obligation that can't be dodged.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N1-06-005": {
+"notes": "を禁じ得ない means 'can't help feeling': 同情を禁じ得ない. It's very formal and goes with feeling nouns: 同情, 怒り, 驚き, 涙.",
+"tip": "を禁じ得ない = can't suppress (a feeling).",
+"compare": "",
+"register": "Very formal; written"
+},
+"JP-N1-06-006": {
+"notes": "怒りを禁じ得ません 'can't help feeling angry'. 判決 is a court verdict. The phrase suits editorials and statements.",
+"tip": "",
+"compare": "",
+"register": "Very formal; written"
+},
+"JP-N1-06-007": {
+"notes": "を余儀なくされる means 'be forced to (by circumstances)': 中止を余儀なくされた. The subject had no choice. It's standard in news.",
+"tip": "を余儀なくされる = be forced (by circumstances).",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N1-06-008": {
+"notes": "入院を余儀なくされました 'was forced into hospital'. The cause comes first: 病気で. The phrase removes any sense of choice.",
+"tip": "",
+"compare": "",
+"register": "Written; news"
+},
+"JP-N1-06-009": {
+"notes": "べく means 'in order to' in writing: 実現するべく努力する. する becomes するべく or すべく. It shows strong purpose. 夢を実現する = make a dream come true.",
+"tip": "べく = in order to; べからず = must not.",
+"compare": "",
+"register": "Written",
+"text": "夢を{{c1::実現するべく::実現する · べく / べからず / べくもない?}}、毎日努力しています。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N1-06-010": {
+"notes": "べからず means 'must not', on signs and in rules: 芝生に入るべからず 'keep off the grass'. It's old-fashioned and stern.",
+"tip": "",
+"compare": "",
+"register": "Signs; old-fashioned",
+"text": "(A sign) 芝生に{{c1::入るべからず::入る · べく / べからず / べくもない?}}。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N1-06-011": {
+"notes": "べくもない means 'there's no way to (can't even hope)': 及ぶべくもない 'can't hope to match'. 私など is modest: someone like me.",
+"tip": "",
+"compare": "",
+"register": "Written",
+"text": "彼の実力には、私など{{c1::及ぶべくもありません::及ぶ · べく / べからず / べくもない?}}。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N1-06-012": {
+"notes": "にかたくない means 'it isn't hard to': 想像にかたくない 'easy to imagine'. かたい here means 'difficult', not 'hard (solid)'.",
+"tip": "想像にかたくない = easy to imagine.",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-06-013": {
+"notes": "察するにかたくない 'easy to understand (someone's feelings)'. 察する = sense, sympathise with. The pattern goes with only a few verbs.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-06-014": {
+"notes": "に足る means 'worthy of': 信頼に足る人物 'a trustworthy person'. It's formal and goes before a noun. 人物 = a person (of character).",
+"tip": "に足る = worthy of; 取るに足りない = trivial.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-06-015": {
+"notes": "取るに足りない means 'trivial, not worth bothering about'. It's a fixed negative phrase built on 足る. 問題 = issue.",
+"tip": "",
+"compare": "",
+"register": "Formal; set phrase"
+},
+"JP-N1-06-016": {
+"notes": "てやまない means 'never cease to (wish, hope)': 願ってやみません. It's the stock ending of formal speeches and letters.",
+"tip": "てやまない = never cease to (formal).",
+"compare": "",
+"register": "Very formal; speeches"
+},
+"JP-N1-06-017": {
+"notes": "愛してやまない 'never stopped loving'. It describes deep, lasting feelings, and is common in biographies and tributes.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-06-018": {
+"notes": "きらいがある means 'tend to (an undesirable habit)': 大げさに言うきらいがある. It's a polite but critical observation.",
+"tip": "きらいがある = has a (bad) tendency to.",
+"compare": "",
+"register": "Written; critical"
+},
+"JP-N1-06-019": {
+"notes": "避けるきらいがあります 'tends to avoid'. The subject can be an organisation as well as a person. 新しいこと = anything new.",
+"tip": "",
+"compare": "",
+"register": "Written; critical"
+},
+"JP-N1-06-020": {
+"notes": "しまつだ means 'end up (after a series of bad things)': クビになるしまつ. It's critical; ついには (finally) often precedes it.",
+"tip": "しまつだ = it came to this (bad end).",
+"compare": "",
+"register": "Critical"
+},
+"JP-N1-06-021": {
+"notes": "留年するしまつです 'has ended up repeating a year'. とうとう (at last) marks the culmination of neglect. 留年 = repeating a school year.",
+"tip": "",
+"compare": "",
+"register": "Critical"
+},
+"JP-N1-06-022": {
+"notes": "とは at the end of a clause expresses surprise: 結婚するとは 'to think they'd marry'. The reaction verb (思いもしなかった) often follows.",
+"tip": "とは = to think that! (surprise)",
+"compare": "",
+"register": "Written; emotional"
+},
+"JP-N1-06-023": {
+"notes": "会うとは 'to think we'd meet'. The English equivalent is 'Fancy meeting you here!'. The main verb can be dropped.",
+"tip": "",
+"compare": "",
+"register": "Written; emotional"
+},
+"JP-N1-06-024": {
+"notes": "んばかり means 'as if about to': 泣き出さんばかり. とばかりに after a quote means 'as if to say': 「待ってました」とばかりに. 泣き出す → 泣き出さ + んばかり.",
+"tip": "んばかり = almost; とばかりに = as if to say.",
+"compare": "",
+"register": "Written; narrative"
+},
+"JP-N1-06-025": {
+"notes": "あるまじき means 'unbecoming of': 教師にあるまじき行為. It condemns behaviour unfit for a role. 行為 = act, conduct. It's typical of news reports on scandals involving teachers, police or politicians.",
+"tip": "にあるまじき = unbecoming of.",
+"compare": "",
+"register": "Very formal; written"
+},
+"JP-N1-06-026": {
+"notes": "欠くべからざる means 'indispensable': 生活に欠くべからざるもの. べからざる is the attributive of べからず. 生活 = life, daily living. 欠く = lack. It's a formal, essay-like expression.",
+"tip": "",
+"compare": "",
+"register": "Very formal; written"
+},
+"JP-N1-06-027": {
+"notes": "ときたら means 'when it comes to (complaint)': うちの息子ときたら. The speaker is exasperated. ばかり + する = do nothing but. うちの息子 = my son (humble).",
+"tip": "ときたら = complaint; にかけては = praise.",
+"compare": "",
+"register": "Spoken; critical"
+},
+"JP-N1-06-028": {
+"notes": "んがため means 'in order to' with strong resolve: 実現せんがため. する becomes せん. It's literary. 全てを捨てる = give up everything. It's dramatic and literary.",
+"tip": "んがため = literary ために.",
+"compare": "",
+"register": "Literary"
+},
+"JP-N1-06-029": {
+"notes": "べくして means 'as was bound to happen': 起こるべくして起こった. The same verb repeats. 起こる = happen. The phrase suggests negligence made the event inevitable. It's common in commentary after disasters.",
+"tip": "V べくして V = bound to (and did).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-06-030": {
+"notes": "てはばからない means 'not hesitate to (say openly)': 天才だと言ってはばからない. It's usually critical. 天才 = genius. The tone mocks his self-assurance.",
+"tip": "てはばからない = shamelessly (says).",
+"compare": "",
+"register": "Written; critical"
+},
+"JP-N1-06-031": {
+"notes": "AといいBといい means 'both A and B' in an evaluation: 味といい、値段といい. It typically leads to praise or criticism.",
+"tip": "AといいBといい = in both A and B (evaluating).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-07-001": {
+"notes": "にあって means 'in (a particular situation)': 厳しい状況にあって. It stresses how the situation shapes behaviour. It's more literary than において.",
+"tip": "にあって = in (a situation), given that.",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-07-002": {
+"notes": "立場にあって 'in the position of'. The role brings responsibilities: such a remark is unacceptable for someone in it.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"JP-N1-07-003": {
+"notes": "に即して means 'in accordance with (facts, rules)': 事実に即して. It demands close conformity to reality. 報告書 = report.",
+"tip": "に即して = strictly in line with.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-07-004": {
+"notes": "法律に即して 'in accordance with the law'. It's typical of official decisions and legal commentary. 判断する = judge, decide.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-07-005": {
+"notes": "いかんで means 'depending on': 結果いかんで. It's very formal; 次第で is the everyday equivalent. 次の計画 = the next plan. The noun 結果 goes straight before いかん.",
+"tip": "いかんで = formal 次第で.",
+"compare": "",
+"register": "Very formal"
+},
+"JP-N1-07-006": {
+"notes": "いかんによらず means 'regardless of': 理由のいかんによらず 'whatever the reason'. It's common in rules and terms of service.",
+"tip": "",
+"compare": "",
+"register": "Very formal; rules"
+},
+"JP-N1-07-007": {
+"notes": "をふまえて means 'taking into account, building on': 反省をふまえて. 反省 here means lessons learnt from reflection.",
+"tip": "をふまえて = building on (lessons, findings).",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N1-07-008": {
+"notes": "結果をふまえて 'based on the results'. 対策 = countermeasures. It's a staple of business reports. 調査 = survey, investigation.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N1-07-009": {
+"notes": "はおろか means 'let alone': 漢字はおろか、ひらがなも書けない. The more basic item comes second, with も or さえ. The basic item is ひらがな, which is easier than kanji.",
+"tip": "AはおろかBも = not even B, let alone A.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-07-010": {
+"notes": "旅行はおろか 'let alone travel'. Even the simpler activity is impossible. 近所に出かける = pop out locally. The negative is on the simpler activity: 時間もない. It's typical of complaints about busy lives.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-07-011": {
+"notes": "ともなく means 'without really meaning to': 見るともなく見る 'watch idly'. The same verb is often repeated. テレビを見る is the repeated verb.",
+"tip": "見るともなく見る = watch without paying attention.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-07-012": {
+"notes": "どこからともなく 'from somewhere or other'. A question word + ともなく makes the source vague. 香り = scent. してくる = start to come (towards me).",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-07-013": {
+"notes": "に照らして means 'in light of, measured against': 法律に照らして. It suits judgements against a standard. 無罪 = not guilty.",
+"tip": "に照らして = measured against.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-07-014": {
+"notes": "過去の例に照らして 'in light of past cases'. 考えると completes the reasoning. 例 = example, precedent. 危険 = dangerous. It's typical of risk assessments and expert opinions.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-07-015": {
+"notes": "にかかわる means 'affecting (something serious)': 命にかかわる問題 'a matter of life and death'. 命 = life. The phrase is fixed and common.",
+"tip": "にかかわる = affecting (life, reputation).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-07-016": {
+"notes": "信用にかかわる 'affecting (the company's) reputation'. 慎重に対応する = handle carefully. 信用 = trust, credibility. The noun goes straight before にかかわる. It's a warning in business contexts.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"JP-N1-07-017": {
+"notes": "と相まって means 'combined with (and reinforcing)': 好天と相まって. Two factors together produce the result. にぎわう = be bustling.",
+"tip": "と相まって = combined with.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-07-018": {
+"notes": "音楽と相まって 'combined with the music'. さらに (even more) shows the reinforcement. 感動的 = moving. Both factors push in the same direction. It's typical of reviews and essays.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-08-001": {
+"notes": "ながらに means 'from, while still': 生まれながらに 'from birth'. 涙ながらに (in tears) is another fixed use. 才能 = talent.",
+"tip": "生まれながら = from birth.",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-08-002": {
+"notes": "いながらにして 'while staying (at home)'. It's typical of praise for technology. いる + ながらにして = while staying put. 世界中の人 = people around the world. It emphasises convenience.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-08-003": {
+"notes": "だらけ: full of unpleasant things. まみれ: covered in a liquid or powder. ずくめ: entirely, often all good or all one colour.",
+"tip": "だらけ = full of; まみれ = smeared with; ずくめ = all.",
+"compare": "",
+"register": "Neutral",
+"text": "この作文は{{c1::まちがいだらけ::まちがい · だらけ / まみれ / ずくめ?}}です。<br>彼は{{c2::汗まみれ::汗 · だらけ / まみれ / ずくめ?}}になって働きました。<br>今年は{{c3::いいことずくめ::いいこと · だらけ / まみれ / ずくめ?}}の一年でした。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N1-08-004": {
+"notes": "黒ずくめ 'all in black'. ずくめ suits colours and good fortune. 服を着る = wear clothes. ずくめ also gives いいことずくめ (nothing but good things). It describes something complete and uniform.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "彼はいつも{{c1::黒ずくめ::黒 · だらけ / まみれ / ずくめ?}}の服を着ています。",
+"flag": "hint: added '?' to the option list so the card counts as Choice"
+},
+"JP-N1-08-005": {
+"notes": "めく means 'show signs of': 春めく 'feel like spring'. It conjugates as a う-verb: 春めいてきた. 日差し = sunshine.",
+"tip": "Noun + めく = take on (a quality).",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-08-006": {
+"notes": "めいた before a noun: 皮肉めいた 'tinged with sarcasm'. It describes a hint, not the full thing. 言い方 = way of speaking.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-08-007": {
+"notes": "ごとく means 'like': 矢のごとく 'like an arrow'. It's literary for のように. 過ぎていく = pass by. The proverb 光陰矢のごとし (time flies like an arrow) uses the classical form ごとし.",
+"tip": "ごとく / ごとき = literary ように / ような.",
+"compare": "",
+"register": "Literary"
+},
+"JP-N1-08-008": {
+"notes": "ごとき before a noun: 彼のごとき人物. It can also be dismissive: 私ごとき 'someone like me'. めったにいない = rarely found. It can be admiring here.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"JP-N1-08-009": {
+"notes": "たる means 'as one who is': 教師たる者. It implies the duties of the role. 手本 = model, example. The duty follows with なければならない. It sounds lofty and formal.",
+"tip": "Nたる者 = anyone who is an N (should…).",
+"compare": "",
+"register": "Very formal; written"
+},
+"JP-N1-08-010": {
+"notes": "たるもの means 'anyone who is (an N) must…': 医者たるもの. It's followed by a duty, often with なければならない or べきだ. It sounds lofty and moralising.",
+"tip": "",
+"compare": "",
+"register": "Very formal; written",
+"text": "医者{{c1::たる::as one who is}}もの、患者の秘密を守らなければならない。",
+"tr": "A doctor must keep patients' secrets.",
+"flag": "dup: replaced 政治家たるもの、約束は守るべきです (near-identical to N3-07-005)"
+},
+"JP-N1-08-011": {
+"notes": "なりに means 'in one's own way (within one's limits)': 私なりに. It's modest. がんばってみる = try one's best. The modesty suggests the result may not be perfect. It's common in self-introductions.",
+"tip": "なりに = in my own (limited) way.",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-08-012": {
+"notes": "なりの before a noun: 子どもなりの考え 'a child's own way of thinking'. It respects the limited view. 考え = thoughts.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-08-013": {
+"notes": "ぶる means 'put on airs, act as if': 偉ぶる 'act superior'. It's critical. 偉い = important, great. It conjugates like a う-verb: 偉ぶっている. The tone is disapproving.",
+"tip": "ぶる = put on airs (critical).",
+"compare": "",
+"register": "Critical"
+},
+"JP-N1-08-014": {
+"notes": "上品ぶる 'act refined'. な-adjectives and nouns take ぶる directly. 上品 = refined, elegant. The second clause reveals the truth: 本当は違う. It's catty in tone.",
+"tip": "",
+"compare": "",
+"register": "Critical"
+},
+"JP-N1-08-015": {
+"notes": "ともあろう means 'someone of such standing': 教授ともあろう人. The criticism follows: they should know better. ミス = mistake.",
+"tip": "ともあろう人が = someone of (such status) should know better.",
+"compare": "",
+"register": "Critical; written"
+},
+"JP-N1-09-001": {
+"notes": "ではあるまいか means 'isn't it the case that?' in formal writing: 無理があるのではあるまいか. It's a cautious suggestion.",
+"tip": "のではあるまいか = written のではないだろうか.",
+"compare": "",
+"register": "Written; essays"
+},
+"JP-N1-09-002": {
+"notes": "知っているのではあるまいか 'couldn't it be that he knows?'. The speaker suspects but doesn't assert. 本当のこと = the truth.",
+"tip": "",
+"compare": "",
+"register": "Written; essays"
+},
+"JP-N1-09-003": {
+"notes": "ないものでもない means 'it's not impossible': 引き受けないものでもない. It's reluctant agreement. 条件によっては = depending on the conditions. 引き受ける = take on (a job). It's a cautious, negotiating answer.",
+"tip": "ないものでもない = I could, if pushed.",
+"compare": "",
+"register": "Written; reluctant"
+},
+"JP-N1-09-004": {
+"notes": "間に合わないものでもない 'we might just make it'. A slim possibility exists. 急げば = if we hurry. The double negative leaves a small hope. It's more formal than 間に合うかもしれない.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"JP-N1-09-005": {
+"notes": "てしかるべきだ means 'ought to, would only be proper': 評価されてしかるべき 'deserves recognition'. 評価される = be recognised.",
+"tip": "てしかるべき = ought to (it's only proper).",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-09-006": {
+"notes": "あってしかるべき 'there really ought to be'. It's a firm, formal demand. 説明 = explanation. 社員 = staff. It's a firm demand, typical of criticism of companies or governments.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-09-007": {
+"notes": "にほかならない means 'is nothing other than': ご協力にほかなりません. It's emphatic and formal. 皆様 = everyone (formal).",
+"tip": "にほかならない = is none other than.",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-09-008": {
+"notes": "愛情の表れにほかなりません 'nothing but a sign of love'. 表れ = expression, manifestation. 厳しさ = strictness. The pattern reinterprets something negative as positive. It's typical of essays.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"JP-N1-09-009": {
+"notes": "といったところだ means 'about, at most': 五十人といったところ. It suggests a modest number. 参加者 = participants. The number is presented as modest, even disappointing. It's spoken in tone.",
+"tip": "といったところ = about (and not more).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-09-010": {
+"notes": "日常会話ができるといったところ 'just about good enough for everyday chat'. It's modest self-assessment. 日常会話 = everyday conversation.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-09-011": {
+"notes": "ずじまい means 'ended up never (doing)': 会えずじまい. The chance has passed. 会える → 会え + ずじまい. 結局 (in the end) is common with it. It carries regret.",
+"tip": "ずじまい = never got round to (and now it's too late).",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-09-012": {
+"notes": "読まずじまい 'never got round to reading'. になる (become) shows the state now. The book is still unread. 買った本 = the book I bought. It's a common confession of book lovers.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"JP-N1-09-013": {
+"notes": "ものと思われる means 'it is thought': impersonal and formal, typical of news reports. The speaker avoids personal responsibility.",
+"tip": "ものと思われる = it is thought (impersonal).",
+"compare": "",
+"register": "Formal; news, reports"
+},
+"JP-N1-09-014": {
+"notes": "上陸するものと思われます 'is expected to make landfall'. 九州 is Japan's southernmost main island. 台風 = typhoon. It's a forecast phrase.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+}
+}

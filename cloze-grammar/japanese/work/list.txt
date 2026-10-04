@@ -1,0 +1,549 @@
+
+## Cloze Grammar::Japanese::N1::01 Time and sequence
+N1-01-01 [2] gahayaika | (Written) 子どもは家に{{c1::帰るが早いか::帰る · the instant (が早いか)}}、外へ遊びに行った。
+N1-01-02 [2] yainaya | (Written) 彼はそのニュースを{{c1::聞くや否や::聞く · as soon as (や否や)}}、部屋を出ていった。
+N1-01-03 [2] nari | (Written) 彼女は私の顔を{{c1::見るなり::見る · as soon as (なり)}}、泣き出した。
+N1-01-04 [2] sobakara | 単語を{{c1::覚えるそばから::覚える · no sooner … than (repeatedly)}}、忘れてしまいます。
+N1-01-05 [2] tekaratoiumono | 子どもが{{c1::生まれてからというもの::生まれる · ever since (big change)}}、生活がすっかり変わりました。
+N1-01-06 [2] wokagiri | 今日{{c1::を限りに::as of (last time)}}、たばこをやめます。
+N1-01-07 [2] kawakiri | 東京公演{{c1::を皮切りに::starting with}}、全国ツアーが始まります。
+N1-01-08 [2] katawara | 彼は会社に{{c1::勤めるかたわら::勤める · while also (main + side)}}、小説を書いています。
+N1-01-09 [2] gatera | 散歩{{c1::がてら::while (on the way)}}、パンを買いに行きます。
+N1-01-10 [2] tomonaruto | 大学生{{c1::ともなれば::once one becomes}}、自分のことは自分でするべきです。
+
+## Cloze Grammar::Japanese::N1::02 Cause, reason and basis
+N1-02-11 [2] yue | (Written) 貧しさ{{c1::ゆえに::because of (formal)}}、彼は学校に行けなかった。
+N1-02-12 [2] toatte | 連休{{c1::とあって::because (special occasion)}}、道路はどこも込んでいます。
+N1-02-13 [2] bakoso | 子どもを{{c1::愛していればこそ::愛している · precisely because}}、厳しくするのです。
+N1-02-14 [2] temae | 子どもの{{c1::手前::in front of (saving face)}}、泣くわけにはいきません。
+N1-02-15 [2] kototote | (Formal) 慣れぬ{{c1::こととて::because (formal excuse)}}、ご迷惑をおかけしました。
+N1-02-16 [2] kakotsukete | 仕事{{c1::にかこつけて::using … as an excuse}}、飲み会を断りました。
+N1-02-17 [2] womotte | 本日{{c1::をもって::as of (formal)}}、受付を終了いたします。
+N1-02-18 [2] toareba | 子どものため{{c1::とあれば::if it's for}}、どんなことでもします。
+
+## Cloze Grammar::Japanese::N1::03 Concession and contrast
+N1-03-19 [2] tatokorode | 今から{{c1::急いだところで::急ぐ · even if (futile)}}、間に合いません。
+N1-03-20 [2] toiedomo | 子ども{{c1::といえども::even (a …)}}、ルールは守らなければなりません。
+N1-03-21 [2] towaie | 春{{c1::とはいえ::although (that said)}}、まだ寒い日が続いています。
+N1-03-22 [2] deare | 誰{{c1::であれ::no matter who}}、規則は守らなければなりません。
+N1-03-23 [2] yougamaiga | 雨が{{c1::降ろうが降るまいが::降る · whether or not}}、試合は行います。
+N1-03-24 [2] monowo | 早く{{c1::言えばいいものを::言う · if only (regret)}}、どうして黙っていたんですか。
+N1-03-25 [2] izashirazu | 子ども{{c1::ならいざしらず::would be one thing, but}}、大人がそんなことをするなんて。
+N1-03-26 [2] hikikae | 兄{{c1::にひきかえ::in contrast to}}、弟はよく勉強します。
+N1-03-27 [2] yoso | 周囲の反対{{c1::をよそに::disregarding}}、彼は会社を辞めました。
+N1-03-28 [2] monotomo | 彼は大けが{{c1::をものともせずに::undaunted by}}、試合に出場しました。
+
+## Cloze Grammar::Japanese::N1::04 Exclusivity, conditions and limits
+N1-04-29 [2] naradewa | 京都{{c1::ならでは::ならでは or だけあって?}}の味を楽しみました。<br>プロ{{c2::だけあって::ならでは or だけあ
+N1-04-30 [2] woite | この仕事を任せられるのは、彼{{c1::をおいて::apart from (no one else)}}ほかにいません。
+N1-04-31 [2] nikagiru | 疲れたときは、寝る{{c1::に限ります::is the best (thing)}}。
+N1-04-32 [2] naimademo | 毎日とは{{c1::言わないまでも::言う · even if not (at least)}}、週に一回は運動したほうがいいです。
+N1-04-33 [2] nakushite | 努力{{c1::なくして::without (formal)}}、成功はありません。
+N1-04-34 [2] nashini | 彼は断り{{c1::なしに::without}}、私の部屋に入ってきました。
+N1-04-35 [2] tagasaigo | 彼にお金を{{c1::貸したが最後::貸す · once (and it's over)}}、絶対に返ってきません。
+N1-04-36 [2] zutomo | そんなことは{{c1::言わずとも::言う · even without}}わかっています。
+N1-04-37 [2] kagirida | 友達がみんな帰ってしまって、{{c1::さびしい限りです::さびしい · I feel so …}}。
+
+## Cloze Grammar::Japanese::N1::05 Degree and emphasis
+N1-05-38 [2] kiwamarinai | 彼の態度は{{c1::失礼極まりない::失礼 · extremely (formal)}}です。
+N1-05-39 [2] noitari | このような賞をいただき、{{c1::光栄の至りです::光栄 · the height of}}。
+N1-05-40 [2] toittaranai | 一人で夜道を歩いたときの怖さ{{c1::といったらありませんでした::indescribable (past)}}。
+N1-05-41 [2] nitaenai | その番組はひどくて、{{c1::見るにたえない::見る · can't bear to}}内容でした。
+N1-05-42 [2] nimomashite | 今年は去年{{c1::にもまして::even more than}}暑いです。
+N1-05-43 [2] karaaru | 彼は百キロ{{c1::からある::as much as (large amount)}}荷物を一人で運びました。
+N1-05-44 [2] taritomo | 一円{{c1::たりとも::not even (one)}}無駄にできません。
+N1-05-45 [2] sura-dani | 彼は自分の名前{{c1::すら::even}}書けません。
+N1-05-46 [2] nishite | 彼は四十歳{{c1::にして::at (only then)}}、初めて結婚しました。
+N1-05-47 [2] madeda | 電車がないなら、歩いて帰る{{c1::までです::I'll just (have to)}}。
+N1-05-48 [2] basoremade | いくらお金があっても、{{c1::死んでしまえばそれまでです::死んでしまう · that's the end}}。
+
+## Cloze Grammar::Japanese::N1::06 Judgement and feeling
+N1-06-49 [2] zuniwaokanai | (Written, effect on the audience) 彼の演技は観客を感動させ{{c1::ずにはおかない::ずにはおかない o
+N1-06-50 [2] zuniwasumanai | 人の物を壊したのだから、{{c1::弁償せずにはすまない::弁償する · can't get away without}}でしょう。
+N1-06-51 [2] kinjienai | 被害者の話には、同情{{c1::を禁じ得ません::can't help (feeling, formal)}}。
+N1-06-52 [2] yoginaku | 台風のため、試合は中止{{c1::を余儀なくされました::was forced (by circumstances)}}。
+N1-06-53 [3] beku | 夢を{{c1::実現するべく::実現する · べく / べからず / べくもない}}、毎日努力しています。
+N1-06-54 [2] nikatakunai | 彼女の悲しみは{{c1::想像にかたくありません::想像 · not hard to}}。
+N1-06-55 [2] nitaru | 彼は{{c1::信頼に足る::信頼 · worthy of}}人物です。
+N1-06-56 [2] teyamanai | 皆様のご健康を{{c1::願ってやみません::願う · never cease to (formal)}}。
+N1-06-57 [2] kirai | 彼は物事を大げさに{{c1::言うきらいがあります::言う · tend to (bad habit)}}。
+N1-06-58 [2] shimatsu | 彼は遅刻ばかりして、ついには会社を{{c1::クビになるしまつです::クビになる · ended up (bad)}}。
+N1-06-59 [2] toha | あの二人が結婚する{{c1::とは::to think that}}、思いもしませんでした。
+N1-06-60 [1] nbakari | 彼女は今にも{{c1::泣き出さんばかり::泣き出す · んばかり or とばかりに?}}の顔をしていました。<br>「待ってました」{{c
+
+## Cloze Grammar::Japanese::N1::07 Formal relational expressions
+N1-07-61 [2] niatte | 厳しい状況{{c1::にあって::in (a situation)}}、彼はよくがんばりました。
+N1-07-62 [2] sokushite | 事実{{c1::に即して::in accordance with}}、報告書を書いてください。
+N1-07-63 [2] ikan | 結果{{c1::いかんで::depending on}}、次の計画を決めます。
+N1-07-64 [2] fumaete | 前回の反省{{c1::をふまえて::taking into account}}、計画を立て直しました。
+N1-07-65 [2] haoroka | 彼は漢字{{c1::はおろか::let alone}}、ひらがなも書けません。
+N1-07-66 [2] tomonaku | {{c1::見るともなく::見る · without really meaning to}}テレビを見ていました。
+N1-07-67 [2] terashite | 法律{{c1::に照らして::in light of}}判断すると、彼は無罪です。
+N1-07-68 [2] kakawaru | これは命{{c1::にかかわる::affecting (serious)}}問題です。
+N1-07-69 [2] aimatte | 好天{{c1::と相まって::combined with}}、会場は多くの人でにぎわいました。
+
+## Cloze Grammar::Japanese::N1::08 Manner, appearance and state
+N1-08-70 [2] nagarani | この子は{{c1::生まれながらに::生まれる · from birth}}、音楽の才能がありました。
+N1-08-71 [2] mamire | この作文は{{c1::まちがいだらけ::まちがい · だらけ / まみれ / ずくめ}}です。<br>彼は{{c2::汗まみれ::汗 · だ
+N1-08-72 [2] meku | 日差しが{{c1::春めいて::春 · showing signs of}}きました。
+N1-08-73 [2] gotoku | (Written) 時間は矢の{{c1::ごとく::like (literary)}}過ぎていく。
+N1-08-74 [2] taru | 教師{{c1::たる::as one who is}}者、生徒の手本にならなければなりません。
+N1-08-75 [2] narini | 私{{c1::なりに::in my own way}}、がんばってみました。
+N1-08-76 [2] buru | 彼はいつも{{c1::偉ぶって::偉い · acting as if}}います。
+
+## Cloze Grammar::Japanese::N1::09 Sentence endings and set phrases
+N1-09-77 [2] arumaika | (Written) この計画には無理があるの{{c1::ではあるまいか::isn't it the case that (written)}
+N1-09-78 [2] naimonodemo | 条件によっては、{{c1::引き受けないものでもありません::引き受ける · not impossible}}。
+N1-09-79 [2] shikarubeki | 彼の努力は{{c1::評価されてしかるべきです::評価される · ought to (proper)}}。
+N1-09-80 [2] hokanaranai | 成功したのは、皆様のご協力{{c1::にほかなりません::nothing other than}}。
+N1-09-81 [2] toittatokoro | 参加者は五十人{{c1::といったところです::about (at most)}}。
+N1-09-82 [2] zujimai | 結局、彼女には{{c1::会えずじまい::会える · ended up never}}でした。
+N1-09-83 [2] omowareru | 事故の原因は、運転手の不注意による{{c1::ものと思われます::it is thought (formal)}}。
+
+## Cloze Grammar::Japanese::N2::01 Time, sequence and change
+N2-01-01 [2] te-irai | 日本に{{c1::来て以来::来る · ever since}}、ずっと東京に住んでいます。
+N2-01-02 [2] tekara-denai | 社長に{{c1::相談してからでないと::相談する · not until after}}、決められません。
+N2-01-03 [3] shidai | (As soon as) 結果が{{c1::わかり次第::わかる · as soon as or depends on?}}、ご連絡します。
+N2-01-04 [2] kato-omou | 雨が{{c1::やんだかと思うと::やむ · no sooner … than}}、また降り出しました。
+N2-01-05 [2] kikkake | 留学{{c1::をきっかけに::with … as the trigger}}、料理を始めました。
+N2-01-06 [2] sai | 会議室を{{c1::使用する際は::使用する · when (formal)}}、受付に申し出てください。
+N2-01-07 [2] ue-de | よく{{c1::考えた上で::考える · after (carefully) doing}}、決めてください。
+N2-01-08 [2] sakidatte | 工事{{c1::に先立って::prior to}}、説明会が行われました。
+N2-01-09 [2] tsutsu-aru | 地球の気温は{{c1::上がりつつあります::上がる · in the process of}}。
+N2-01-10 [2] ippou-da | 物価は{{c1::上がる一方です::上がる · keeps on (only)}}。
+
+## Cloze Grammar::Japanese::N2::02 Cause, reason and basis
+N2-02-11 [2] karaniwa | 約束した{{c1::からには::now that (so must)}}、守らなければなりません。
+N2-02-12 [2] koto-kara | 富士山が見える{{c1::ことから::from the fact that}}、この町は「富士見町」と呼ばれています。
+N2-02-13 [2] amari | {{c1::心配のあまり::心配 · out of too much}}、夜も眠れませんでした。
+N2-02-14 [2] bakarini | 一言{{c1::言ったばかりに::言う · just because (regret)}}、彼女を怒らせてしまいました。
+N2-02-15 [2] seika | 寝不足の{{c1::せいか::perhaps because}}、頭が重いです。
+N2-02-16 [2] dakeni | 期待していた{{c1::だけに::all the more because}}、がっかりしました。
+N2-02-17 [2] monodakara | 電車が{{c1::遅れたものですから::遅れる · because (excuse)}}、遅刻してしまいました。
+
+## Cloze Grammar::Japanese::N2::03 Concession and contrast
+N2-03-18 [2] monono | 大学を{{c1::卒業したものの::卒業する · although}}、仕事が見つかりません。
+N2-03-19 [2] kakawarazu | 雨{{c1::にもかかわらず::despite}}、たくさんの人が集まりました。
+N2-03-20 [2] karatoitte | 高い{{c1::からといって::just because}}、いい物だとは限りません。
+N2-03-21 [2] toittemo | 料理ができる{{c1::といっても::although I say}}、簡単なものだけです。
+N2-03-22 [2] nishitemo | 冗談{{c1::にしても::even if}}、言っていいことと悪いことがあります。
+N2-03-23 [2] hanmen | この仕事は給料がいい{{c1::反面::on the other hand}}、休みが少ないです。
+N2-03-24 [2] nagaramo | {{c1::狭いながらも::狭い · although}}、楽しい我が家です。
+N2-03-25 [2] tsutsumo | 体に悪いと{{c1::知りつつ::知る · while knowing (although)}}、たばこをやめられません。
+N2-03-26 [2] hanshite | 予想{{c1::に反して::contrary to}}、試合は負けてしまいました。
+
+## Cloze Grammar::Japanese::N2::04 Conditions and limits
+N2-04-27 [2] naikotoniwa | 実際に{{c1::見ないことには::見る · unless}}、何とも言えません。
+N2-04-28 [2] mononara | {{c1::できるものなら::できる · if I could (unlikely)}}、もう一度学生に戻りたいです。
+N2-04-29 [3] kagiri | 私が{{c1::知っている限り::知る · as far as}}、彼はうそをつく人ではありません。
+N2-04-30 [2] toshitemo | たとえ失敗した{{c1::としても::even if (hypothetical)}}、後悔しません。
+N2-04-31 [1] kagitte | 急いでいる時{{c1::に限って::に限って or に限らず?}}、電車が遅れます。<br>この店は若い人{{c2::に限らず::に限って 
+N2-04-32 [2] tehajimete | 病気に{{c1::なってはじめて::なる · only after}}、健康の大切さがわかりました。
+N2-04-33 [2] nuki | この問題は、彼の協力{{c1::をぬきにしては::without}}解決できません。
+
+## Cloze Grammar::Japanese::N2::05 Relational expressions
+N2-05-34 [2] megutte | 遺産{{c1::をめぐって::over (dispute)}}、兄弟が争っています。
+N2-05-35 [2] nikaketewa | 料理{{c1::にかけては::when it comes to}}、彼女の右に出る人はいません。
+N2-05-36 [2] sotte | 川{{c1::に沿って::along}}、桜の木が並んでいます。
+N2-05-37 [2] motozuite | この映画は事実{{c1::に基づいて::based on}}作られました。
+N2-05-38 [2] chuushin | 駅{{c1::を中心に::centred on}}、町が広がっています。
+N2-05-39 [2] tsuujite | 友人{{c1::を通じて::through (via)}}、彼女と知り合いました。
+N2-05-40 [2] watatte | 会議は三時間{{c1::にわたって::over (a span of)}}続きました。
+N2-05-41 [2] kawatte | 社長{{c1::にかわって::on behalf of}}、私がごあいさつします。
+N2-05-42 [2] oujite | 予算{{c1::に応じて::according to}}、メニューを選べます。
+N2-05-43 [2] kurabete | 去年{{c1::に比べて::compared with}}、今年は雪が多いです。
+N2-05-44 [2] tomoni | 時代の変化{{c1::とともに::along with}}、言葉も変わります。
+N2-05-45 [2] saishite | 開会{{c1::に際して::on the occasion of}}、一言ごあいさつ申し上げます。
+
+## Cloze Grammar::Japanese::N2::06 Emphasis and degree
+N2-06-46 [2] hodo-wa-nai | 母の料理{{c1::ほど::nothing is as … as}}おいしいものはありません。
+N2-06-47 [2] kurai-nara | 途中でやめる{{c1::くらいなら::rather than}}、最初からやらないほうがいいです。
+N2-06-48 [2] dokoroka | (The opposite happened) 薬を飲んだが、よくなる{{c1::どころか::どころか or ばかりか?}}、悪くなりました
+N2-06-49 [2] mochiron | この店は、味{{c1::はもちろん::not to mention}}、サービスもいいです。
+N2-06-50 [2] dake-extent | 好きな{{c1::だけ::as much as}}食べてください。
+N2-06-51 [2] suginai | それはただのうわさ{{c1::に過ぎません::no more than}}。
+N2-06-52 [2] madenai | 言う{{c1::までもなく::it goes without saying}}、健康がいちばん大切です。
+N2-06-53 [2] kotoka | 合格の知らせを聞いて、どんなに{{c1::うれしかったことか::うれしい · how …! (past)}}。
+
+## Cloze Grammar::Japanese::N2::07 Judgement and feelings
+N2-07-54 [2] kimatte | (To a friend) そんなの、うそ{{c1::に決まっている::bound to be}}よ。
+N2-07-55 [2] monoka | (To a friend) あんな店、二度と{{c1::行くものか::行く · no way (never)}}。
+N2-07-56 [1] zuniwa-zaru | (An urge) その映画を見て、{{c1::泣かずにはいられませんでした::泣く · ずにはいられない or ざるを得ない?}}。<br
+N2-07-57 [2] shikataganai | 試験の結果が{{c1::気になってしかたがありません::気になる · unbearably}}。
+N2-07-58 [2] osore | 台風が上陸する{{c1::おそれがあります::there's a risk}}。
+N2-07-59 [1] kaneru | (Polite refusal) その質問にはお答え{{c1::しかねます::する · かねる or かねない?}}。<br>(A bad 
+N2-07-60 [2] kkonai | (To a friend) こんな難しい問題、{{c1::わかりっこない::わかる · no way (casual)}}よ。
+N2-07-61 [2] uru | それは十分{{c1::あり得る::ある · possible}}ことです。
+N2-07-62 [2] mai | もう二度とうそは{{c1::つくまい::つく · will never (resolve)}}と思いました。
+N2-07-63 [2] shikanai | 電車がないので、歩いて帰る{{c1::しかありません::no choice but}}。
+N2-07-64 [2] kotoda | 上手になりたければ、毎日練習する{{c1::ことです::you should (advice)}}。
+
+## Cloze Grammar::Japanese::N2::08 Verb compounds and suffixes
+N2-08-65 [3] kiru-kakeru | (Every last page) この本を一日で{{c1::読みきりました::読む · きる or かける?}}。<br>(Stopped
+N2-08-66 [2] ppanashi | 水を{{c1::出しっぱなし::出す · left running}}にしないでください。
+N2-08-67 [2] nuku | 最後まで{{c1::がんばりぬきました::がんばる · to the very end}}。
+N2-08-68 [4] gatai-zurai | 彼の話は{{c1::信じがたい::信じる · hard to (emotionally)}}です。
+N2-08-69 [4] gimi-ge | 最近、{{c1::かぜ気味::かぜ · a touch of}}です。
+N2-08-70 [1] muke-muki | (Made for them) これは子ども{{c1::向け::向け or 向き?}}の番組です。<br>(Suits them) この仕事
+
+## Cloze Grammar::Japanese::N2::09 Viewpoint, manner and basis
+N2-09-71 [3] toori | 説明書の{{c1::とおりに::exactly as}}、組み立ててください。
+N2-09-72 [2] buri | 十年{{c1::ぶり::for the first time in}}に、ふるさとに帰りました。
+N2-09-73 [2] karasuruto | あの話し方{{c1::からすると::judging from}}、関西の人でしょう。
+N2-09-74 [2] nishitara | 彼{{c1::にしたら::from his point of view}}、迷惑な話かもしれません。
+N2-09-75 [2] nitsuki | 本日は定休日{{c1::につき::because (notice)}}、休ませていただきます。
+N2-09-76 [2] sa | この山の{{c1::高さ::高い · noun (degree)}}は三千メートルです。
+
+## Cloze Grammar::Japanese::N2::10 Discourse and sentence endings
+N2-10-77 [2] toiumono | 人の物を勝手に使うのは、失礼{{c1::というものです::that's (just) what it is}}。
+N2-10-78 [2] tonokoto | 田中さんから電話があって、少し遅れる{{c1::とのことです::(passing on a message)}}。
+N2-10-79 [2] monogaaru | 彼の歌には人の心を動かす{{c1::ものがあります::there's something (that)}}。
+N2-10-80 [2] kanoyou | 彼は何も知らない{{c1::かのように::as if}}、黙っていました。
+N2-10-81 [2] janaika | (To a friend) なんだ、田中さん{{c1::じゃないか::isn't it! (surprise)}}。
+
+## Cloze Grammar::Japanese::N3::01 Voice and polite requests
+N3-01-01 [4] caus-pass | 子どものとき、母に野菜を{{c1::食べさせられました::食べる · was made to}}。
+N3-01-02 [3] sasete-morau | 今日は早く{{c1::帰らせてもらえませんか::帰る · could I be allowed to?}}。
+N3-01-03 [2] request | (To a colleague) ちょっと{{c1::手伝ってもらえませんか::手伝う · could you? (polite)}}。
+
+## Cloze Grammar::Japanese::N3::02 Judging and guessing
+N3-02-04 [2] ni-chigainai | (The lights are on) 田中さんはまだ会社に{{c1::いるに違いありません::いる · must be (I'm sure
+N3-02-05 [2] hazu-ga-nai | あんなにやさしい人がうそを{{c1::つくはずがありません::つく · there's no way}}。
+N3-02-06 [2] toha-kagiranai | 高い物がいつも{{c1::いいとは限りません::いい · not necessarily}}。
+N3-02-07 [3] ppoi | (He's an adult) 彼は大人なのに、{{c1::子どもっぽい::っぽい or らしい?}}です。<br>(She's a chi
+N3-02-08 [4] wake | (He lived in Japan for ten years) 日本語が上手な{{c1::わけです::わけです / わけではありません 
+
+## Cloze Grammar::Japanese::N3::03 Time and timing
+N3-03-09 [3] uchi-ni | {{c1::若いうちに::若い · while (before it changes)}}、いろいろな国へ行きたいです。
+N3-03-10 [1] aida | 夏休みの{{c1::あいだ::あいだ or あいだに?}}、ずっと国に帰っていました。<br>母がねている{{c2::あいだに::あいだ o
+N3-03-11 [2] totan | {{c1::立ち上がったとたん::立ち上がる · the moment}}、めまいがしました。
+N3-03-12 [2] saichuu | 会議の{{c1::最中に::right in the middle of}}、電話が鳴りました。
+N3-03-13 [1] tokoro | (You haven't left yet) 今から{{c1::出かけるところです::出かける · about to / doing / j
+N3-03-14 [2] tabakari | 先月、日本に{{c1::来たばかりです::来る · only recently}}。
+N3-03-15 [2] tabi-ni | この歌を{{c1::聞くたびに::聞く · every time}}、国を思い出します。
+N3-03-16 [2] ni-tsurete | 年を{{c1::とるにつれて::とる · as (gradually)}}、体が弱くなります。
+N3-03-17 [2] tsuideni | 買い物の{{c1::ついでに::while (at it)}}、銀行に行きました。
+
+## Cloze Grammar::Japanese::N3::04 Conditions and concession
+N3-04-18 [4] temo | 雨が{{c1::ふっても::ふる · even if}}、行きます。
+N3-04-19 [2] toshitara | もし宝くじが{{c1::当たったとしたら::当たる · supposing}}、何をしますか。
+N3-04-20 [4] ba-hodo | 練習すれば{{c1::するほど::する · the more}}、上手になります。
+N3-04-21 [2] sae-ba | お金{{c1::さえ::as long as (only)}}あれば、何でも買えます。
+N3-04-22 [2] kuse-ni | (To a friend) 知っている{{c1::くせに::even though (criticising)}}、教えてくれない。
+N3-04-23 [4] wari-ni | この店は値段の{{c1::わりに::considering}}おいしいです。
+
+## Cloze Grammar::Japanese::N3::05 Relational expressions
+N3-05-24 [1] tsuite-taishite-totte | 日本の歴史{{c1::について::について / に対して / にとって}}調べています。<br>先生は学生{{c2::に対して::について 
+N3-05-25 [4] ni-yotte | 国{{c1::によって::depending on}}、習慣がちがいます。
+N3-05-26 [2] toshite | 留学生{{c1::として::as (role)}}日本に来ました。
+N3-05-27 [2] ni-kanshite | この問題{{c1::に関して::about (formal)}}、何か質問はありますか。
+N3-05-28 [3] tte | (To a friend) 田中さん、明日来られない{{c1::って::casual quote ('says that')}}。
+
+## Cloze Grammar::Japanese::N3::06 Degree and emphasis
+N3-06-29 [3] hodo | 今年の夏は去年{{c1::ほど::not as … as}}暑くないです。
+N3-06-30 [3] bakari | 弟はゲーム{{c1::ばかり::nothing but (critical)}}しています。
+N3-06-31 [2] darake | 子どもたちは{{c1::どろだらけ::どろ · covered in}}になりました。
+N3-06-32 [2] dake-de-naku | 彼は英語{{c1::だけでなく::not only}}、中国語も話せます。
+N3-06-33 [3] koso | (You lost last year) 今年{{c1::こそ::this time for sure}}、勝ちたいです。
+N3-06-34 [3] sae-made | 忙しくて、ごはんを食べる時間{{c1::さえ::even (minimum)}}ありません。
+
+## Cloze Grammar::Japanese::N3::07 Intention, rules and obligation
+N3-07-35 [3] you-to-suru | {{c1::ねようとしました::ねる · tried to}}が、ねられませんでした。
+N3-07-36 [1] koto-ni-shiteiru | (Your own habit) 毎朝ジョギングする{{c1::ことにしています::ことにしている or ことになっている?}}。<br>(
+N3-07-37 [2] beki | 約束は{{c1::守るべきです::守る · ought to}}。
+N3-07-38 [3] zuni | 朝ごはんを{{c1::食べずに::食べる · without (ずに)}}学校へ行きました。
+N3-07-39 [1] naide-nakute | かさを{{c1::持たないで::持つ · ないで or なくて?}}出かけました。<br>バスが{{c2::来なくて::来る · ないで o
+N3-07-40 [2] nai-koto-wa-nai | (To a friend) さしみは{{c1::食べられないことはない::食べられる · it's not that I can't}}けど
+N3-07-41 [2] koto-wa-nai | そんなに{{c1::心配することはありません::心配する · no need to}}。
+
+## Cloze Grammar::Japanese::N3::08 Reported speech and wishes
+N3-08-42 [2] to-iu-koto-da | 新聞によると、来年から税金が{{c1::上がるということです::上がる · I hear (formal)}}。
+N3-08-43 [2] toka | 田中さんは来月結婚する{{c1::とか::I heard something like}}。
+N3-08-44 [3] you-ni-iu | 先生は学生に、宿題を{{c1::出すように言いました::出す · told (someone) to}}。
+N3-08-45 [2] you-ni-wish | 試験に{{c1::合格しますように::合格する · I hope (a wish)}}。
+
+## Cloze Grammar::Japanese::N3::09 Cause and result
+N3-09-46 [3] okage-sei | 先生の{{c1::おかげで::おかげで or せいで?}}、試験に合格しました。<br>雨の{{c2::せいで::おかげで or せいで?}
+N3-09-47 [2] tame-cause | 事故の{{c1::ため::because of (formal)}}、電車がおくれています。
+N3-09-48 [2] monoda | 子どものころ、よくこの川で{{c1::泳いだものです::泳ぐ · used to (nostalgic)}}。
+
+## Cloze Grammar::Japanese::N3::10 Manner, state and frequency
+N3-10-49 [3] tamama | くつを{{c1::はいたまま::はく · still wearing}}、家に入らないでください。
+N3-10-50 [2] furi | 彼は{{c1::寝ているふりをしました::寝る · pretended (to be doing)}}。
+N3-10-51 [3] gachi | 冬はかぜを{{c1::ひきがちです::ひく · tend to}}。
+N3-10-52 [1] oki-goto | (Mon, Wed, Fri…) 一日{{c1::おきに::おきに or ごとに?}}ジムに行きます。<br>(At each one) 駅
+N3-10-53 [2] zutsu | 毎日少し{{c1::ずつ::a little at a time}}練習しています。
+N3-10-54 [2] you-na | すしの{{c1::ような::like / such as (+ noun)}}日本料理が好きです。
+N3-10-55 [3] nanka | (To a friend) お茶{{c1::なんか::or something (casual)}}どう?
+
+## Cloze Grammar::Japanese::N4::01 Casual speech, quoting and explaining
+N4-01-01 [4] plain-casual | (To a friend) 昨日は{{c1::雨だった::雨 · casual past}}。
+N4-01-02 [3] n-desu | (Asked why you're late) 電車が{{c1::おくれたんです::おくれる · explaining (んです)}}。
+N4-01-03 [3] to-omou | 明日は{{c1::雨だと思います::雨 · I think}}。
+N4-01-04 [3] to-iu | 先生は「明日テストがあります」{{c1::と::particle: quote}}言いました。
+N4-01-05 [2] to-iu-n | 「さくら」{{c1::という::called}}店に行きました。
+N4-01-06 [1] darou | (TV weather forecast) 明日は雨{{c1::でしょう::でしょう or だろう?}}。<br>(In your diar
+
+## Cloze Grammar::Japanese::N4::02 Ability
+N4-02-07 [5] potential | 私は漢字が{{c1::読めます::読む · can}}。
+N4-02-08 [2] koto-ga-dekiru | ここでカードを{{c1::使うことができます::使う · can (ことができる)}}。
+N4-02-09 [2] mieru | (Out of the window) 山が{{c1::見えます::見えます or 見られます?}}。<br>(On a streaming
+
+## Cloze Grammar::Japanese::N4::03 Conditionals
+N4-03-10 [4] tara | 雨が{{c1::ふったら::ふる · たら}}、行きません。
+N4-03-11 [4] ba | 春に{{c1::なれば::なる · ば}}、あたたかくなります。
+N4-03-12 [3] to-cond | このボタンを{{c1::おすと::おす · と (whenever)}}、ドアがあきます。
+N4-03-13 [2] nara | (Friend: 'I'm going to Kyoto.') 京都へ{{c1::行くなら::行く · なら}}、新幹線が便利です。
+N4-03-14 [1] cond-contrast | (Call me after you arrive) 駅に{{c1::ついたら::つく · たら or なら?}}、電話してください。<br
+
+## Cloze Grammar::Japanese::N4::04 Intention, decisions and change
+N4-04-15 [3] volitional | (To a friend) いっしょに{{c1::帰ろう::帰る · let's (casual)}}。
+N4-04-16 [2] you-to-omou | 夏休みに日本へ{{c1::行こうと思っています::行く · I'm thinking of (ongoing)}}。
+N4-04-17 [2] tsumori | 来年、日本へ{{c1::行くつもりです::行く · intend to}}。
+N4-04-18 [2] yotei | 会議は三時に{{c1::始まる予定です::始まる · scheduled}}。
+N4-04-19 [2] koto-ni | (Your own choice) 毎朝走る{{c1::ことにしました::ことにする or ことになる? (past)}}。<br>(You
+N4-04-20 [2] you-ni-naru | 日本語が{{c1::話せるようになりました::話す · came to be able to}}。
+N4-04-21 [2] you-ni-suru | 毎日早く{{c1::ねるようにしています::ねる · make a point of}}。
+
+## Cloze Grammar::Japanese::N4::05 Te-form extensions
+N4-05-22 [3] te-shimau | 宿題をぜんぶ{{c1::やってしまいました::やる · completely (てしまう)}}。
+N4-05-23 [3] te-oku | パーティーの前に飲み物を{{c1::買っておきます::買う · in advance}}。
+N4-05-24 [3] te-miru | 一度すしを{{c1::食べてみたいです::食べる · want to try}}。
+N4-05-25 [3] te-aru | (Someone opened it on purpose) まどが{{c1::あけてあります::あけてあります or あいています?}}。
+N4-05-26 [2] te-iku-kuru | (From now on) これから寒くなって{{c1::いきます::いく or くる?}}。<br>(Up to now) 最近、日本語が
+N4-05-27 [2] nakutemo-ii | 明日は{{c1::来なくてもいいです::来る · don't have to}}。
+N4-05-28 [3] nakereba | 明日は早く{{c1::起きなければなりません::起きる · must}}。
+N4-05-29 [2] hou-ga-ii | 薬を{{c1::飲んだほうがいいです::飲む · you'd better}}。
+N4-05-30 [2] te-hoshii | 母に{{c1::来てほしいです::来る · want (someone) to}}。
+
+## Cloze Grammar::Japanese::N4::06 Giving and receiving
+N4-06-31 [4] ageru-kureru-morau | 私は友だちに本を{{c1::あげました::あげる / くれる / もらう}}。<br>友だちは私に本を{{c2::くれました::あげる / 
+N4-06-32 [3] te-ageru | 弟の宿題を{{c1::手伝ってあげました::手伝う · あげる / くれる / もらう}}。
+
+## Cloze Grammar::Japanese::N4::07 Appearance, hearsay and guesses
+N4-07-33 [3] sou-looks | このケーキは{{c1::おいしそうです::おいしい · looks}}。
+N4-07-34 [3] sou-hearsay | (Looking at the sky) 雨が{{c1::ふりそうです::ふる · looks like or I hear?}}。<br>
+N4-07-35 [4] you-mitai | (The lights are off) 田中さんはもう{{c1::帰ったようです::帰る · seems}}。
+N4-07-36 [2] rashii | (Read it online) あの店は来月{{c1::閉店するらしいです::閉店する · apparently}}。
+N4-07-37 [2] hazu | 田中さんは三時に{{c1::来るはずです::来る · should (expected)}}。
+N4-07-38 [3] kamoshirenai | 明日は雨が{{c1::ふるかもしれません::ふる · might}}。
+
+## Cloze Grammar::Japanese::N4::08 Passive and causative
+N4-08-39 [4] passive | 私は先生に{{c1::ほめられました::ほめる · passive}}。
+N4-08-40 [3] causative | 母は弟に野菜を{{c1::食べさせました::食べる · make (someone) do}}。
+N4-08-41 [1] pass-caus | (The teacher made them read) 先生は学生に本を{{c1::読ませました::読む · passive or cau
+
+## Cloze Grammar::Japanese::N4::09 Reasons, purpose and time
+N4-09-42 [3] toki | (Bought before you left) 日本へ{{c1::行くとき::行く · when}}、ロンドンの空港でカメラを買いました。
+N4-09-43 [3] node-kara | 明日は{{c1::休みなので::休み · because (soft)}}、ゆっくりねます。
+N4-09-44 [3] noni | たくさん勉強した{{c1::のに::even though (disappointed)}}、テストはだめでした。
+N4-09-45 [2] shi | この店は安い{{c1::し::and (listing reasons)}}、おいしいし、よく来ます。
+N4-09-46 [3] tame-you | 日本で働く{{c1::ために::ために or ように?}}、日本語を勉強しています。<br>日本語が話せる{{c2::ように::ために or
+N4-09-47 [2] made-madeni | 五時{{c1::まで::まで or までに?}}待ちます。<br>五時{{c2::までに::まで or までに?}}来てください。
+N4-09-48 [2] nagara | 音楽を{{c1::聞きながら::聞く · while}}勉強します。
+
+## Cloze Grammar::Japanese::N4::10 Experience, clauses and verb compounds
+N4-10-49 [2] tari | 週末は本を{{c1::読んだり::読む · things like}}、映画を{{c1::見たり::見る · things like}}しま
+N4-10-50 [3] ta-koto | 日本へ{{c1::行ったことがあります::行く · have done (experience)}}。
+N4-10-51 [4] relative | これは私が{{c1::作った::作る · made (past)}}ケーキです。
+N4-10-52 [1] kadouka | 田中さんが来る{{c1::かどうか::か or かどうか?}}わかりません。<br>会議が何時に始まる{{c2::か::か or かどうか?
+N4-10-53 [3] sugiru | 昨日は{{c1::飲みすぎました::飲む · too much}}。
+N4-10-54 [2] yasui-nikui | このペンは{{c1::書きやすいです::書く · easy to}}。
+N4-10-55 [2] kata | はしの{{c1::使い方::使う · how to}}を教えてください。
+N4-10-56 [3] hajimeru | 雨が{{c1::ふり始めました::ふる · started}}。
+N4-10-57 [2] shika | 私はひらがな{{c1::しか::だけ or しか?}}読めません。<br>私は水{{c2::だけ::だけ or しか?}}飲みます。
+N4-10-58 [3] demo | お茶{{c1::でも::or something}}飲みませんか。
+
+## Cloze Grammar::Japanese::N4::11 Keigo basics
+N4-11-59 [5] sonkeigo | 社長は明日、大阪へ{{c1::いらっしゃいます::行く · honorific}}。
+N4-11-60 [2] o-ni-naru | 先生はもう{{c1::お帰りになりました::帰る · honorific}}。
+N4-11-61 [4] kenjougo | 明日、私がそちらへ{{c1::まいります::行く · humble}}。
+N4-11-62 [2] o-suru | お荷物を{{c1::お持ちします::持つ · humble}}。
+N4-11-63 [1] keigo-contrast | (The customer will come) お客様は三時に{{c1::いらっしゃいます::来る · honorific or humb
+
+## Cloze Grammar::Japanese::N5::01 Copula and basic particles
+N5-01-01 [4] wa-desu | 私{{c1::は::particle: topic}}学生です。
+N5-01-02 [4] copula-neg-past | 私は先生{{c1::じゃありません::polite negative · spoken}}。
+N5-01-03 [3] ka | あなたは学生です{{c1::か::particle: question}}。
+N5-01-04 [3] mo | 私{{c1::も::particle: also}}学生です。
+N5-01-05 [4] no | これは私{{c1::の::particle: 's}}本です。
+
+## Cloze Grammar::Japanese::N5::02 Demonstratives and question words
+N5-02-06 [2] kore-sore-are | (Holding it) {{c1::これ::これ / それ / あれ}}はペンです。<br>(You hold it) {{c2::それ:
+N5-02-07 [5] kono-sono-ano | (Near me) {{c1::この::この / その / あの}}かばんは高いです。
+N5-02-08 [4] koko-soko-asoko | (Where I am) {{c1::ここ::ここ / そこ / あそこ}}は学校です。
+N5-02-09 [4] question-words | あの人は{{c1::だれ::who}}ですか。
+
+## Cloze Grammar::Japanese::N5::03 Polite verbs, wants and invitations
+N5-03-10 [6] masu | 毎日水を{{c1::飲みます::飲む · polite}}。
+N5-03-11 [3] masen | 私はコーヒーを{{c1::飲みません::飲む · polite negative}}。
+N5-03-12 [4] mashita | 昨日、友だちに{{c1::会いました::会う · polite past}}。
+N5-03-13 [3] masenka-mashou | いっしょにごはんを{{c1::食べませんか::食べる · won't you…?}}。<br>さあ、{{c2::食べましょう::食べる · 
+N5-03-14 [2] mashouka | かばんを{{c1::持ちましょうか::持つ · shall I?}}。
+N5-03-15 [4] tai | 私は日本に{{c1::行きたいです::行く · want to}}。
+N5-03-16 [3] hoshii | 私は新しい車が{{c1::ほしいです::want}}。
+
+## Cloze Grammar::Japanese::N5::04 Particles and existence
+N5-04-17 [4] wo | 毎日水{{c1::を::particle: object}}飲みます。
+N5-04-18 [3] de-place | 学校{{c1::で::で or に?}}日本語を話します。
+N5-04-19 [3] de-means | はし{{c1::で::で or と?}}食べます。
+N5-04-20 [3] ni-time | 七時{{c1::に::particle: at (time)}}起きます。
+N5-04-21 [3] ni-e | 友だちは学校{{c1::に::に or で?}}行きます。<br>私は学校{{c2::で::に or で?}}日本語を話します。<br>ねこ
+N5-04-22 [3] kara-made | 九時{{c1::から::from}}五時{{c2::まで::until}}学校にいます。
+N5-04-23 [2] to | 友だち{{c1::と::と or で?}}ごはんを食べます。
+N5-04-24 [1] to-ya | (Only those two) つくえの上に本{{c1::と::と or や?}}ペンがあります。<br>(Among other thi
+N5-04-25 [3] wa-ga | (Answering 'Who came?') 田中さん{{c1::が::は or が?}}来ました。
+N5-04-26 [3] aru-iru | つくえの上に本が{{c1::あります::あります or います?}}。<br>へやに犬が{{c2::います::あります or います?}}。
+
+## Cloze Grammar::Japanese::N5::05 Adjectives
+N5-05-27 [4] i-neg | この本は{{c1::高くないです::高い · negative}}。
+N5-05-28 [4] i-past | その店は{{c1::安かったです::安い · past}}。
+N5-05-29 [4] na-adj | {{c1::きれいな::きれい · before a noun}}花です。
+N5-05-30 [3] adj-te | この店は{{c1::安くて::安い · て-form}}、おいしいです。
+N5-05-31 [4] suki-ga | 私は日本語{{c1::が::が or を?}}好きです。
+N5-05-32 [3] naru | もうすぐ{{c1::春になります::春 · become}}。
+
+## Cloze Grammar::Japanese::N5::06 Te-form patterns
+N5-06-33 [5] te-kudasai | ちょっと{{c1::待って::待つ · て-form}}ください。
+N5-06-34 [3] naide-kudasai | ここで{{c1::食べないで::食べる · please don't}}ください。
+N5-06-35 [3] te-imasu | 今、本を{{c1::読んでいます::読む · doing now}}。
+N5-06-36 [3] te-kara | ごはんを{{c1::食べてから::食べる · after doing}}、べんきょうします。
+N5-06-37 [2] te-seq | 朝{{c1::起きて::起きる · て-form}}、かおをあらいます。
+N5-06-38 [3] te-mo-ii | ここでしゃしんを{{c1::とってもいいですか::とる · may I?}}。
+
+## Cloze Grammar::Japanese::N5::07 Plain forms and purpose
+N5-07-39 [4] nai | 私は肉を{{c1::食べない::食べる · plain negative}}。
+N5-07-40 [4] ta | 昨日、友だちに{{c1::会った::会う · plain past}}。
+N5-07-41 [3] mae-ni | ねる{{c1::前に::before}}、はをみがきます。
+N5-07-42 [3] ni-iku | デパートへ買い物{{c1::に::particle: in order to}}行きます。
+
+## Cloze Grammar::Japanese::N5::08 Connectors, comparison and extras
+N5-08-43 [3] kara-because | いそがしい{{c1::から::because}}、行きません。
+N5-08-44 [2] ga-but | 日本語はむずかしいです{{c1::が::but}}、おもしろいです。
+N5-08-45 [2] soshite | この店は安いです。{{c1::そして::そして or それから?}}、おいしいです。
+N5-08-46 [4] comparison | 電車はバス{{c1::より::than}}はやいです。
+N5-08-47 [2] goro-gurai | 七時{{c1::ごろ::ごろ or ぐらい?}}起きます。
+N5-08-48 [2] dake | 水{{c1::だけ::only}}飲みます。
+N5-08-49 [2] deshou | 明日は雨{{c1::でしょう::probably (polite)}}。
+N5-08-50 [3] yo-ne | (New info) 明日は休みです{{c1::よ::よ or ね?}}。<br>(Seeking agreement) いいてんきです{{
+N5-08-51 [4] adverbs | 私は{{c1::あまり::not much}}おさけを飲みません。
+N5-08-52 [2] mou-mada | (Asked 'Have you had lunch yet?') はい、{{c1::もう::already}}食べました。
+N5-08-53 [4] counters | りんごを{{c1::ひとつ::1 + counter}}ください。
+
+## Cloze Grammar::Japanese::N4::12 Supplement
+N4-12-01 [4] imperative | (Coach shouting) {{c1::走れ::走る · command (blunt)}}!
+N4-12-02 [2] nasai | (Mother to child) 早く{{c1::寝なさい::寝る · command (parent to child)}}。
+N4-12-03 [3] garu | 弟は新しいゲームを{{c1::ほしがっています::ほしい · (third person) wants}}。
+N4-12-04 [2] ni-suru | (Ordering) 私はコーヒー{{c1::にします::decide on / choose}}。
+N4-12-05 [3] ku-suru | (You turned it up) テレビの音を{{c1::大きくしました::大きい · する or なる?}}。<br>(It got 
+N4-12-06 [3] ba-yokatta | もっと早く{{c1::来ればよかったです::来る · should have (regret)}}。
+N4-12-07 [2] tara-dou | 少し{{c1::休んだらどうですか::休む · why don't you?}}。
+N4-12-08 [2] koto-ga-aru | (Sometimes) ときどき会社まで{{c1::歩くことがあります::歩く · sometimes or have done?}}。<b
+
+## Cloze Grammar::Japanese::N3::11 Supplement
+N3-11-01 [2] ni-oite | 会議は第一会議室{{c1::において::in / at (formal)}}行われます。
+N3-11-02 [3] adnominal | 日本の文化{{c1::についての::about (+ noun)}}本を読みました。
+N3-11-03 [2] shitagatte | 上に{{c1::行くにしたがって::行く · as (gradually)}}、気温が下がります。
+N3-11-04 [2] tate | {{c1::焼きたて::焼く · freshly}}のパンはおいしいです。
+
+## Cloze Grammar::Japanese::N2::11 Supplement
+N2-11-01 [2] nitsuke | この写真を{{c1::見るにつけ::見る · whenever (feelings arise)}}、昔を思い出します。
+N2-11-02 [2] womotoni | 集めたデータ{{c1::をもとに::using … as a basis}}、グラフを作りました。
+N2-11-03 [2] wokomete | 心{{c1::をこめて::with (feeling)}}、手紙を書きました。
+N2-11-04 [2] wotowazu | 年齢{{c1::を問わず::regardless of}}、だれでも参加できます。
+N2-11-05 [2] nikotaete | ファンの声{{c1::にこたえて::in response to}}、追加公演が決まりました。
+N2-11-06 [1] kanaika | ベルが{{c1::鳴るか鳴らないかのうちに::鳴る · just as / barely}}、彼は教室を出ました。
+N2-11-07 [2] nomotode | 有名な先生の{{c1::もとで::under (guidance)}}、ピアノを習いました。
+N2-11-08 [1] bakarida | 病状は悪くなる{{c1::ばかりです::keeps (getting worse)}}。
+
+## Cloze Grammar::Japanese::N1::10 Supplement
+N1-10-01 [1] wooshite | 彼は病気{{c1::をおして::pushing through (despite)}}、会議に出席しました。
+N1-10-02 [2] majiki | それは教師に{{c1::あるまじき::ある · unbecoming of}}行為です。
+N1-10-03 [1] kamakete | 仕事{{c1::にかまけて::too wrapped up in}}、家族のことを忘れていました。
+N1-10-04 [1] tomoarou | 大学教授{{c1::ともあろう::someone of (such standing)}}人が、こんなミスをするなんて。
+N1-10-05 [1] tokitara | うちの息子{{c1::ときたら::when it comes to (complaint)}}、毎日ゲームばかりしています。
+N1-10-06 [1] naramadashimo | 一回{{c1::ならまだしも::would be acceptable, but}}、何度も遅刻するのは困ります。
+N1-10-07 [2] omoikiya | (Written) 簡単だ{{c1::と思いきや::I thought …, but (actually)}}、とても難しかった。
+N1-10-08 [2] kaimonaku | 努力した{{c1::かいもなく::in vain, despite}}、試験に落ちてしまいました。
+N1-10-09 [1] ngatame | (Written) 夢を{{c1::実現せんがため::実現する · in order to (literary)}}、彼は全てを捨てた。
+N1-10-10 [1] iikotoni | 先生がいないの{{c1::をいいことに::taking advantage of}}、学生たちは騒いでいました。
+N1-10-11 [1] womottesitemo | 最新の技術{{c1::をもってしても::even with}}、この病気は治せません。
+N1-10-12 [1] bekushite | この事故は{{c1::起こるべくして::起こる · bound to (inevitably)}}起こったものです。
+N1-10-13 [1] habakaranai | (Written) 彼は自分が天才だと{{c1::言ってはばからない::言う · not hesitate to}}。
+N1-10-14 [1] temade | 借金を{{c1::してまで::する · go so far as to}}、車を買いたくはありません。
+N1-10-15 [1] tote | 私{{c1::とて::even (literary)}}、悲しくないわけではありません。
+
+## Cloze Grammar::Japanese::Beyond JLPT::01 Transitive and intransitive pairs
+BJ-01-01 [1] aku-akeru | ドアが{{c1::あきました::あく or あける? (past)}}。<br>私がドアを{{c1::あけました::あく or あける? (
+BJ-01-02 [1] hajimaru | 授業が九時に{{c1::始まります::始まる or 始める?}}。<br>先生が授業を{{c2::始めます::始まる or 始める?}}。
+BJ-01-03 [1] tsuku | 電気が{{c1::つきました::つく or つける? (past)}}。<br>電気を{{c2::つけてください::つく or つける? (
+BJ-01-04 [1] ochiru | コップが{{c1::落ちました::落ちる or 落とす? (past)}}。<br>コップを{{c2::落としました::落ちる or 落とす
+BJ-01-05 [1] kowareru | パソコンが{{c1::こわれました::こわれる or こわす? (past)}}。<br>弟がパソコンを{{c2::こわしました::こわれる
+BJ-01-06 [1] okiru | 子どもが{{c1::起きました::起きる or 起こす? (past)}}。<br>母が子どもを{{c2::起こしました::起きる or 起
+BJ-01-07 [1] tomaru | 車が{{c1::止まりました::止まる or 止める? (past)}}。<br>警察が車を{{c2::止めました::止まる or 止める?
+BJ-01-08 [1] waku | お湯が{{c1::わきました::わく or わかす? (past)}}。<br>お湯を{{c2::わかしました::わく or わかす? (p
+BJ-01-09 [1] shimaru | (It's just shut) 窓が{{c1::しまっています::しまる or しめる? (state)}}。<br>(Someone s
+BJ-01-10 [1] deru | 毎朝八時に家を{{c1::出ます::出る or 出す?}}。<br>毎朝ごみを{{c2::出します::出る or 出す?}}。
+
+## Cloze Grammar::Japanese::Beyond JLPT::02 Aspect, nominalisers and particles
+BJ-02-01 [4] teiru-result | 姉は{{c1::結婚しています::結婚する · state (is married)}}。
+BJ-02-02 [3] no-koto | 子どもたちが遊んでいる{{c1::の::の or こと?}}が見えます。<br>私の趣味は写真をとる{{c2::こと::の or こと?}}
+BJ-02-03 [2] wa-contrast | お酒は飲みますが、たばこ{{c1::は::を or は?}}すいません。
+BJ-02-04 [2] ga-clause | 私{{c1::が::は or が?}}作ったケーキを食べてください。
+BJ-02-05 [1] so-a | (You both went there) 去年行った{{c1::あの::その or あの?}}店、また行きたいね。<br>(Telling
+BJ-02-06 [2] yaru | 毎朝、花に水を{{c1::やります::give (to plants)}}。
+BJ-02-07 [3] wo-motion | 道{{c1::を::particle: across (motion)}}渡るときは、気をつけてください。
+
+## Cloze Grammar::Japanese::Beyond JLPT::03 Casual speech and contractions
+BJ-03-01 [2] teru | (To a friend) 今、何{{c1::してる::する · ている (casual)}}?
+BJ-03-02 [2] toku | (To a friend) 飲み物、{{c1::買っとく::買う · ておく (casual)}}ね。
+BJ-03-03 [2] jau | (To a friend) ジュース、全部{{c1::飲んじゃった::飲む · てしまう (casual, past)}}。
+BJ-03-04 [2] cha | (To a child) ここで{{c1::泳いじゃ::泳ぐ · ては (casual)}}だめだよ。
+BJ-03-05 [2] nakucha | (To a friend) 宿題、{{c1::やらなくちゃ::やる · must (なくちゃ)}}。
+BJ-03-06 [2] n-contraction | (To a friend) 何言ってるか{{c1::わかんない::わかる · negative (casual ん)}}。
+BJ-03-07 [2] jan | (To a friend) いい{{c1::じゃん::isn't it! (casual)}}!
+BJ-03-08 [2] kke | (To a friend) 会議は何時だった{{c1::っけ::was it? (trying to remember)}}?
+BJ-03-09 [2] ndatte | (To a friend) 田中さん、結婚する{{c1::んだって::I heard (casual)}}。
+BJ-03-10 [2] ssu | (Junior to senior) {{c1::そうっす::そうです · casual polite (っす)}}ね。
+BJ-03-11 [2] casual-no | (To a friend) どこに{{c1::行くの::行く · question (casual)}}?
+
+## Cloze Grammar::Japanese::Beyond JLPT::04 Sentence-final particles and speech style
+BJ-04-01 [2] kana | (Thinking aloud) 明日は晴れる{{c1::かな::I wonder (casual)}}。
+BJ-04-02 [2] zo-ze | (Warning) 危ない{{c1::ぞ::warning (masculine)}}!
+BJ-04-03 [2] yone | 明日は休みです{{c1::よね::right? (checking)}}。
+BJ-04-04 [2] mon | (Child) だって、まだ眠い{{c1::もん::because (childish excuse)}}。
+BJ-04-05 [2] na-masc | (Man, casual) いい天気だ{{c1::な::isn't it (masculine)}}。
+BJ-04-06 [2] wa | (Feminine, older Tokyo style) まあ、すてきだ{{c1::わ::feminine softener}}。
+BJ-04-07 [2] sa | (To a friend) だから{{c1::さ::filler / emphasis}}、もう一回やろうよ。
+
+## Cloze Grammar::Japanese::Beyond JLPT::05 Business keigo
+BJ-05-01 [2] gozaimasu | (Shop staff) トイレは二階{{c1::でございます::です · very polite}}。
+BJ-05-02 [4] humble-special | 明日、御社に{{c1::伺います::行く · humble (business)}}。
+BJ-05-03 [2] honorific-teiru | 社長は今、電話で{{c1::話していらっしゃいます::話す · ている (honorific)}}。
+BJ-05-04 [3] o-kudasai | 少々{{c1::お待ちください::待つ · please (honorific)}}。
+BJ-05-05 [1] uchi-soto | (To a client, about your boss Tanaka) {{c1::田中::田中 or 田中さん?}}はただいま席を{{
+BJ-05-06 [2] double-keigo | 社長が{{c1::おっしゃいました::おっしゃいました or おっしゃられました?}}。
+
+## Cloze Grammar::Japanese::Beyond JLPT::06 Written style
+BJ-06-01 [3] dearu | (Essay) 日本は島国{{c1::である::copula (essay style)}}。
+BJ-06-02 [3] renyou | (Written) 駅まで{{c1::歩き::歩く · and (written, stem)}}、電車に乗った。
+BJ-06-03 [1] nodearu | (Essay) 問題はここにある{{c1::のである::explanatory (essay style)}}。
+BJ-06-04 [2] tosareru | (Report) この薬には効果がある{{c1::とされている::is said / held (report)}}。
+BJ-06-05 [1] deari | (Essay) 彼は医者{{c1::であり::is … and (written)}}、作家でもある。
+
+## Cloze Grammar::Japanese::Beyond JLPT::07 Classical remnants
+BJ-07-01 [2] nu | (Written) {{c1::見知らぬ::見知る · negative (classical ぬ)}}人に話しかけられた。
+BJ-07-02 [2] zu | {{c1::思わず::思う · without meaning to (ず)}}笑ってしまいました。
+BJ-07-03 [1] zaru | (Written) これは{{c1::知られざる::知られる · negative + noun (ざる)}}名作です。
+BJ-07-04 [2] beshi | (A maxim) 学生は勉強す{{c1::べし::must (classical)}}。
+BJ-07-05 [2] taru-adj | 彼は{{c1::堂々と::堂々 · adverb (と)}}意見を述べました。
+BJ-07-06 [1] nakare | (Motto) 失敗を恐れる{{c1::なかれ::do not (literary)}}。
+BJ-07-07 [1] kariki | これは{{c1::若かりし::若い · past, before noun (classical)}}頃の写真です。
+
+## Cloze Grammar::Japanese::Beyond JLPT::08 Kansai dialect
+BJ-08-01 [2] hen | (Kansai) 今日は{{c1::行かへん::行く · negative (Kansai)}}。
+BJ-08-02 [2] ya | (Kansai) それ、ほんま{{c1::や::copula だ (Kansai)}}。
+BJ-08-03 [2] nen | (Kansai) 今から帰る{{c1::ねん::explanatory んだ (Kansai)}}。
+BJ-08-04 [2] haru | (Kansai) 先生、もう{{c1::帰らはった::帰る · light honorific, past (Kansai)}}。
+BJ-08-05 [2] akan | (Kansai) そんなことしたら{{c1::あかん::no good / mustn't (Kansai)}}。
+BJ-08-06 [1] yakara | (Kansai) 雨{{c1::やから::because (だから, Kansai)}}、家におるわ。
