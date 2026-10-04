@@ -1,0 +1,332 @@
+{
+"RU-C2-01-001": {
+"notes": "The truncated vocative drops the final -а of a familiar name or kinship term: мама → мам. It's used only in casual speech when calling someone.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-002": {
+"notes": "Familiar names in -а lose the ending when calling someone: Саша → Саш. Names in -я keep a soft sign: Таня → Тань.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-003": {
+"notes": "папа → пап in the new vocative. This form is never used for a formal address or in writing. The full vocative папа is used in all other contexts.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-004": {
+"notes": "как + perfective future describes a sudden past action in lively narration: как закричит! The tense is future in form but past in meaning.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-005": {
+"notes": "взял да и + perfective past means doing something suddenly and unexpectedly. взял doesn't mean 'take' here, and it agrees with the subject.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-006": {
+"notes": "-ка added to an imperative softens it or makes it more familiar: посмотри-ка. It's written with a hyphen.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-007": {
+"notes": "Verbal interjections like прыг, хлоп, бах replace a verb to describe a sudden action. They don't change for person or tense.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-008": {
+"notes": "The imperative can express an unwelcome obligation in narration: а я сиди дома (and I had to stay at home). It doesn't change for person.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-01-009": {
+"notes": "The infinitive with не expresses a prohibition on signs: Не курить! It's impersonal and categorical.",
+"tip": "",
+"compare": "",
+"register": "Official (signs)"
+},
+"RU-C2-01-010": {
+"notes": "A bare infinitive can be a sharp command: Молчать! It's typical of the military or very angry speech.",
+"tip": "",
+"compare": "",
+"register": "Rude / military"
+},
+"RU-C2-01-011": {
+"notes": "Быть + dative expresses something inevitable: быть грозе. It's literary or folk style. The infinitive быть stays unchanged.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"RU-C2-02-001": {
+"notes": "The imperative can replace если бы in literary style: Приди он вовремя = Если бы он пришёл вовремя. It doesn't agree with the subject.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"RU-C2-02-002": {
+"notes": "Знай я = если бы я знал. The imperative form stays singular, whoever the subject is. The main clause keeps бы: я бы помог.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"RU-C2-02-003": {
+"notes": "до сих пор (up to now, still) preserves the archaic demonstrative сей in the genitive plural: сих. сей also survives in сейчас (this hour) and сегодня (this day).",
+"tip": "",
+"compare": "",
+"register": "Neutral (set phrase)"
+},
+"RU-C2-02-004": {
+"notes": "сию минуту (this minute) preserves the accusative feminine of сей. It means 'right now'. сей also survives in the phrase по сей день (to this day).",
+"tip": "",
+"compare": "",
+"register": "Neutral (set phrase)"
+},
+"RU-C2-02-005": {
+"notes": "дабы (in order to) is archaic and now used for stylistic effect or irony. The neutral equivalent is чтобы.",
+"tip": "",
+"compare": "",
+"register": "Archaic / ironic"
+},
+"RU-C2-02-006": {
+"notes": "ибо (for, because) is bookish and biblical. In modern speech it sounds solemn or ironic. A comma always comes before ибо.",
+"tip": "",
+"compare": "",
+"register": "Literary / archaic"
+},
+"RU-C2-02-007": {
+"notes": "коли (if) is archaic or folk. Коли так means 'if that's the case'. The modern equivalent is если. Коли is often heard in folk tales and proverbs.",
+"tip": "",
+"compare": "",
+"register": "Archaic / folk"
+},
+"RU-C2-02-008": {
+"notes": "Да здравствует! (Long live!) uses the archaic verb здравствовать. да here is an optative particle, not 'yes'.",
+"tip": "",
+"compare": "",
+"register": "Rhetorical"
+},
+"RU-C2-02-009": {
+"notes": "Боже is the old vocative of Бог. It survives as an exclamation: Боже мой! Other old vocatives include Господи and Отче.",
+"tip": "",
+"compare": "",
+"register": "Neutral (exclamation)"
+},
+"RU-C2-02-010": {
+"notes": "играючи is an old verbal adverb now used as an adverb: effortlessly. Likewise крадучись (stealthily).",
+"tip": "",
+"compare": "",
+"register": "Neutral; slightly literary"
+},
+"RU-C2-03-001": {
+"notes": "-ик forms a diminutive of masculine nouns: дом → домик. It conveys smallness or affection. The feminine counterpart -ка gives книжка, ручка.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-C2-03-002": {
+"notes": "-очка forms an affectionate diminutive: мама → мамочка. It's strongly emotional. Other affectionate forms of мама include мамуля and мамулечка.",
+"tip": "",
+"compare": "",
+"register": "Affectionate"
+},
+"RU-C2-03-003": {
+"notes": "солнышко is the diminutive of солнце, with -ышко. It's also a term of endearment: солнышко моё. The neuter suffix -ышко also gives горлышко and пёрышко.",
+"tip": "",
+"compare": "",
+"register": "Affectionate"
+},
+"RU-C2-03-004": {
+"notes": "ложечка (teaspoon) is the diminutive of ложка. The accusative is ложечку. The suffix -ечка replaces -ка: ложка → ложечка.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-C2-03-005": {
+"notes": "сыночек is an affectionate diminutive of сын, with -очек. It can be used to address one's son. Other forms are сынок and сынуля.",
+"tip": "",
+"compare": "",
+"register": "Affectionate"
+},
+"RU-C2-03-006": {
+"notes": "минуточку (just a moment) is the diminutive of минута. Diminutives soften requests in shops and offices.",
+"tip": "",
+"compare": "",
+"register": "Polite (colloquial)"
+},
+"RU-C2-03-007": {
+"notes": "-енький forms an affectionate adjective: хороший → хорошенький (pretty). It's often used of girls and children.",
+"tip": "",
+"compare": "",
+"register": "Affectionate"
+},
+"RU-C2-03-008": {
+"notes": "-ище forms an augmentative: дом → домище (huge house). Masculine nouns in -ище keep their gender. The suffix -ище can be pejorative as well as augmentative.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-04-001": {
+"notes": "With a masculine profession noun referring to a woman, the verb can be feminine (пришла), but the adjective stays masculine (новый). This is acceptable in speech.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"RU-C2-04-002": {
+"notes": "большинство + genitive plural can take a singular (сдало) or plural verb (сдали). The singular is more formal.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"RU-C2-04-003": {
+"notes": "ряд (a number of) usually takes a singular verb: ряд стран подписал. The plural is used when the subjects act independently.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"RU-C2-04-004": {
+"notes": "A number + noun can take a singular neuter or plural verb. The neuter (пришло) presents the group as a quantity; the plural stresses individual action.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-C2-04-005": {
+"notes": "Collective numbers like двое are not used with feminine nouns in the standard language: две дочери, not двое дочерей. The collective form is widespread in speech, though.",
+"tip": "",
+"compare": "",
+"register": "Standard (prescriptive)"
+},
+"RU-C2-04-006": {
+"notes": "Plural-only nouns like сутки take collective numbers: двое суток. два суток is incorrect. The genitive is двух суток, the dative двум суткам.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-C2-05-001": {
+"notes": "Both parts of a compound hundred decline: двести → двумястами in the instrumental. Even native speakers often avoid it.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"RU-C2-05-002": {
+"notes": "пятьсот has the genitive пятисот. Both parts decline: пяти- + сот. The instrumental is пятьюстами. The verb after около + number can be singular or plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-C2-05-003": {
+"notes": "пятьдесят has the instrumental пятьюдесятью: both parts decline. обойтись + instrumental means 'manage with'.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"RU-C2-05-004": {
+"notes": "обе has the genitive обеих for feminine nouns. оба gives обоих. The noun is in the genitive plural. The instrumental is обеими сёстрами.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-C2-05-005": {
+"notes": "Russian surnames in -ин take -ым in the instrumental (Пушкиным), while town names take -ом (Пушкином). The difference marks the type of noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-C2-06-001": {
+"notes": "класть (put flat) has the present кладу. ложу is a common non-standard form. The perfective is положить: положу.",
+"tip": "ложу is non-standard; the present is кладу.",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-06-002": {
+"notes": "The imperative is положи (perfective) or клади (imperfective). Ложи is non-standard. Ложить has no standard forms at all.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-06-003": {
+"notes": "ехать has the standard imperative поезжай. Ехай and едь are non-standard. Поезжай comes from поехать; there's no standard imperative of ехать itself.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-06-004": {
+"notes": "хотеть switches to second conjugation in the plural: хотим. хочем is non-standard. The singular forms are first conjugation: хочу, хочешь.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-06-005": {
+"notes": "печь has к / ч alternation: пеку, печёшь, печёт, пекут. пекёт is non-standard. The same alternation is found in течь: течёт, текут.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-06-006": {
+"notes": "лечь has the imperative ляг, plural лягте. ляжь is non-standard. The imperfective ложиться gives the imperative ложись.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-06-007": {
+"notes": "ездить changes д → ж in the я form: езжу, with -зж- pronounced as a long ж. ездию is a common error. The past is regular: ездил.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-06-008": {
+"notes": "их (their) never declines. ихний is non-standard. Ихний is a common colloquial form in some regions.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-07-001": {
+"notes": "одеть (dress) takes a person; надеть (put on) takes clothing. Mixing them is one of the commonest errors.",
+"tip": "Одеть Надежду, надеть одежду.",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-07-002": {
+"notes": "оплатить takes a direct object (оплатить счёт); заплатить takes за + accusative (заплатить за обед). оплатить за is a common error.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-07-003": {
+"notes": "согласно takes the dative: согласно приказу. The genitive is a common error. The same applies to благодаря and вопреки.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"RU-C2-07-004": {
+"notes": "скучать по + dative is now standard with plural pronouns: по вам, по нам. по вас is an older form. With nouns there's no variation: по маме, по дому.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-07-005": {
+"notes": "лучше is already comparative, so более лучше is a double comparative and an error. The same applies to хуже: более хуже is wrong.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-07-006": {
+"notes": "лучше doesn't take более; более is only used with long adjectives. более хороший is possible but stylistically weak.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-C2-07-007": {
+"notes": "Извините is the standard apology. извиняюсь is widely used but considered impolite by purists. The phrase прошу прощения is more formal still.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+}
+}

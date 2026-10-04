@@ -1,0 +1,1137 @@
+## A1::01 Род, множественное число, притяжательные местоимения
+A1-01-001 A1-01-01-01 Это {{c1::мой::possessive: my · agreement}} брат. ‖ This is my brother.
+A1-01-002 A1-01-01-02 Это {{c1::моя::possessive: my · agreement}} сестра. ‖ This is my sister.
+A1-01-003 A1-01-01-03 Где {{c1::моё::possessive: my · agreement}} письмо? ‖ Where's my letter?
+A1-01-004 A1-01-01-04 Это {{c1::наша::possessive: our · agreement}} квартира. ‖ This is our flat.
+A1-01-005 A1-01-01-05 Где {{c1::ваш::possessive: your (вы) · agreement}} паспорт? ‖ Where's your passport?
+A1-01-006 A1-01-01-06 Где {{c1::мой::possessive: my · agreement}} словарь? ‖ Where's my dictionary?
+A1-01-007 A1-01-01-07 Это {{c1::твоя::possessive: your (ты) · agreement}} тетрадь? ‖ Is this your notebook?
+A1-01-008 A1-01-01-08 Это {{c1::его::possessive: his}} машина. ‖ This is his car.
+A1-01-009 A1-01-01-09 Это {{c1::её::possessive: her}} дом. ‖ This is her house.
+A1-01-010 A1-10b-03-01 {{c1::Мой::my · agreement (папа)}} папа уже {{c2::пришёл::прийти · past, agreement (папа)}}. ‖ My dad has already arrived.
+A1-01-011 A1-10b-03-02 Это {{c1::наш::our · agreement (дедушка)}} дедушка. ‖ This is our grandfather.
+A1-01-012 A1-10b-03-03 Вот {{c1::мой::my · agreement (словарь)}} словарь и {{c2::моя::my · agreement (тетрадь)}} тетрадь. ‖ Here are my dictionary and my exercise book.
+A1-01-013 A1-10b-04-01 Где {{c1::мои::my · agreement (очки)}} очки? ‖ Where are my glasses?
+A1-01-014 A1-10b-04-02 Эти часы {{c1::стоят::стоить · agreement (часы)}} дорого. ‖ This watch is expensive.
+A1-01-015 A1-10b-04-03 Это {{c1::новые::new · agreement (брюки)}} брюки. ‖ These are new trousers.
+A1-01-016 A1-10-01-01 {{c1::Чей::whose · agreement}} это телефон? ‖ Whose phone is this?
+A1-01-017 A1-10-01-02 {{c1::Чья::whose · agreement}} это сумка? ‖ Whose bag is this?
+A1-01-018 A1-10-01-03 {{c1::Чьи::whose · agreement}} это ключи? ‖ Whose keys are these?
+A1-01-019 A1-01-02-01 Это мои {{c1::друзья::друг · plural}}. ‖ These are my friends.
+A1-01-020 A1-01-02-02 Где мои {{c1::книги::книга · plural}}? ‖ Where are my books?
+A1-01-021 A1-01-02-03 Это наши {{c1::студенты::студент · plural}}. ‖ These are our students.
+A1-01-022 A1-01-02-04 Это новые {{c1::окна::окно · plural}}. ‖ These are new windows.
+A1-01-023 A1-01-02-05 Мои {{c1::братья::брат · plural}} живут в Москве. ‖ My brothers live in Moscow.
+A1-01-024 A1-01-02-06 Здесь живут хорошие {{c1::люди::человек · plural}}. ‖ Good people live here.
+A1-01-025 A1-01-02-07 Наши {{c1::дети::ребёнок · plural}} уже большие. ‖ Our children are already grown up.
+A1-01-026 A1-01-02-08 Это старые {{c1::дома::дом · plural}}. ‖ These are old houses.
+A1-01-027 A1-01-02-09 Это мои {{c1::карандаши::карандаш · plural}}. ‖ These are my pencils.
+A1-01-028 A1-10b-01-01 Где мои {{c1::ключи::ключ · plural}}? ‖ Where are my keys?
+A1-01-029 A1-10b-01-02 Это {{c1::хорошие::хороший · plural}} {{c2::врачи::врач · plural}}. ‖ These are good doctors.
+A1-01-030 A1-10b-01-03 Какой {{c1::тихий::quiet · masculine}} вечер! ‖ What a quiet evening!
+## A1::02 Прилагательные, «этот», «какой» и порядковые числительные
+A1-02-001 A1-02-03-01 Это {{c1::новая::новый · agreement}} машина. ‖ This is a new car.
+A1-02-002 A1-02-03-02 Это {{c1::хорошая::хороший · agreement}} книга. ‖ This is a good book.
+A1-02-003 A1-02-03-03 Это {{c1::новое::новый · agreement}} кафе. ‖ This is a new café.
+A1-02-004 A1-02-03-04 Это {{c1::русские::русский · agreement}} слова. ‖ These are Russian words.
+A1-02-005 A1-02-03-05 Море сегодня {{c1::синее::синий · agreement}}. ‖ The sea is blue today.
+A1-02-006 A1-02-03-06 Это {{c1::большая::большой · agreement}} квартира. ‖ This is a big flat.
+A1-02-007 A1-02-03-07 Какая {{c1::красивая::красивый · agreement}} девушка! ‖ What a beautiful girl!
+A1-02-008 A1-02-03-08 Это {{c1::летнее::летний · agreement}} платье. ‖ This is a summer dress.
+A1-02-009 NEW Это {{c1::молодой::молодой · agreement (stressed ending)}} человек. ‖ This is a young man.
+A1-02-010 A1-02-04-01 А {{c1::какая::which / what kind · agreement}} у тебя машина? ‖ And what kind of car do you have?
+A1-02-011 A1-02-04-02 Ты знаешь, {{c1::какие::which · agreement}} книги он любит? ‖ Do you know which books he likes?
+A1-02-012 A1-02-05-01 {{c1::Это::этот or это?}} мой брат.<br>{{c2::Этот::этот or это?}} дом очень старый. ‖ This is my brother. / This house is very old.
+A1-02-013 A1-02-05-02 Мне нравится {{c1::эта::этот · agreement}} песня. ‖ I like this song.
+A1-02-014 A1-02-05-03 {{c1::Эти::этот · agreement}} книги новые. ‖ These books are new.
+A1-02-015 A1-02-05-04 {{c1::Это::этот or это?}} мои родители. ‖ These are my parents.
+A1-02-016 A1-10b-02-01 Я пью {{c1::чёрный::black · agreement (кофе)}} кофе. ‖ I drink black coffee.
+A1-02-017 A1-10b-02-02 {{c1::Моё::my · agreement (пальто)}} пальто висит в шкафу. ‖ My coat is hanging in the wardrobe.
+A1-02-018 A1-10b-02-03 Мы ехали на {{c1::этом::this · prepositional (такси)}} такси. ‖ We rode in this taxi.
+A1-02-019 A1-10-04-01 Я живу на {{c1::третьем::третий · prepositional}} этаже. ‖ I live on the third floor.
+A1-02-020 A1-10-04-02 Это моя {{c1::первая::первый · agreement}} поездка в Россию. ‖ This is my first trip to Russia.
+A1-02-021 A1-10-02-01 Я говорю {{c1::по-русски::по-русски or русский?}}.<br>Я изучаю {{c2::русский::по-русски or русский?}} язык. ‖ I speak Russian. / I'm studying the Russian language.
+## A1::03 Настоящее время
+A1-03-001 A1-03-06-01 Я {{c1::читаю::читать · present}} книгу. ‖ I'm reading a book.
+A1-03-002 A1-03-06-02 Ты {{c1::знаешь::знать · present}} его? ‖ Do you know him?
+A1-03-003 A1-03-06-03 Она {{c1::работает::работать · present}} в банке. ‖ She works at a bank.
+A1-03-004 A1-03-06-04 Мы {{c1::гуляем::гулять · present}} в парке. ‖ We're walking in the park.
+A1-03-005 A1-03-06-05 Вы {{c1::понимаете::понимать · present}} по-русски? ‖ Do you understand Russian?
+A1-03-006 A1-03-06-06 Они {{c1::слушают::слушать · present}} музыку. ‖ They're listening to music.
+A1-03-007 A1-03-07-01 Я {{c1::говорю::говорить · present}} по-русски. ‖ I speak Russian.
+A1-03-008 A1-03-07-02 Ты {{c1::говоришь::говорить · present}} по-английски? ‖ Do you speak English?
+A1-03-009 A1-03-07-03 Он {{c1::звонит::звонить · present}} маме каждый день. ‖ He calls his mum every day.
+A1-03-010 A1-03-07-04 Мы {{c1::смотрим::смотреть · present}} фильм. ‖ We're watching a film.
+A1-03-011 A1-03-07-05 Они {{c1::говорят::говорить · present}} очень быстро. ‖ They speak very fast.
+A1-03-012 A1-03-07-06 Я {{c1::слышу::слышать · present}} музыку. ‖ I can hear music.
+A1-03-013 A1-03-08-01 Я {{c1::живу::жить · present}} в Москве. ‖ I live in Moscow.
+A1-03-014 A1-03-08-02 Где ты {{c1::живёшь::жить · present}}? ‖ Where do you live?
+A1-03-015 A1-03-08-03 Я {{c1::пишу::писать · present}} письмо. ‖ I'm writing a letter.
+A1-03-016 A1-03-08-04 Я {{c1::люблю::любить · present}} кофе. ‖ I love coffee.
+A1-03-017 A1-03-08-05 Я {{c1::хочу::хотеть · present}} чай. ‖ I want some tea.
+A1-03-018 A1-03-08-06 Мы {{c1::хотим::хотеть · present}} пойти в кино. ‖ We want to go to the cinema.
+A1-03-019 A1-03-08-07 Она {{c1::рисует::рисовать · present}} очень хорошо. ‖ She draws very well.
+A1-03-020 A1-10-03-01 Я не {{c1::могу::мочь · present}} прийти. ‖ I can't come.
+A1-03-021 A1-10-03-02 Ты {{c1::можешь::мочь · present}} мне помочь? ‖ Can you help me?
+A1-03-022 A1-10-03-03 Они не {{c1::могут::мочь · present}} найти ключи. ‖ They can't find the keys.
+A1-03-023 A1-10-03-04 Что ты {{c1::ешь::есть (eat) · present}}? ‖ What are you eating?
+A1-03-024 A1-10-03-05 Мы {{c1::едим::есть (eat) · present}} в семь. ‖ We eat at seven.
+A1-03-025 A1-10-03-06 Я {{c1::пью::пить · present}} кофе. ‖ I'm drinking coffee.
+A1-03-026 A1-10-03-07 Что ты {{c1::пьёшь::пить · present}}? ‖ What are you drinking?
+A1-03-027 A1-10-03-08 Я {{c1::беру::брать · present}} такси. ‖ I'm taking a taxi.
+A1-03-028 A1-10-03-09 Он {{c1::даёт::давать · present}} уроки музыки. ‖ He gives music lessons.
+A1-03-029 A1-03-09-01 Я {{c1::учусь::учиться · present}} в университете. ‖ I study at university.
+A1-03-030 A1-03-09-02 Как {{c1::называется::называться · present}} эта улица? ‖ What's this street called?
+A1-03-031 A1-03-09-03 Мой брат {{c1::занимается::заниматься · present}} спортом. ‖ My brother does sport.
+A1-03-032 A1-03-09-04 Где вы {{c1::учитесь::учиться · present}}? ‖ Where do you study?
+A1-03-033 A1-03-09-05 Фильм {{c1::начинается::начинаться · present}} в семь часов. ‖ The film starts at seven.
+## A1::04 Прошедшее и будущее время
+A1-04-001 A1-04-10-01 (A man speaking) Вчера я {{c1::читал::читать · past}} книгу. ‖ Yesterday I was reading a book.
+A1-04-002 A1-04-10-02 (A woman speaking) Вчера я {{c1::работала::работать · past}} дома. ‖ Yesterday I worked from home.
+A1-04-003 A1-04-10-03 Мы {{c1::смотрели::смотреть · past}} фильм. ‖ We watched a film.
+A1-04-004 A1-04-10-04 (To a man) Где ты {{c1::был::быть · past}} вчера? ‖ Where were you yesterday?
+A1-04-005 A1-04-10-05 (To a woman) Где ты {{c1::была::быть · past}} вчера? ‖ Where were you yesterday?
+A1-04-006 A1-04-10-06 Письмо {{c1::было::быть · past}} на столе. ‖ The letter was on the table.
+A1-04-007 A1-04-10-07 Они {{c1::жили::жить · past}} в Казани. ‖ They lived in Kazan.
+A1-04-008 A1-04-10-08 (A woman speaking) Я {{c1::шла::идти · past}} домой. ‖ I was walking home.
+A1-04-009 A1-04-10-09 Он {{c1::шёл::идти · past}} в магазин. ‖ He was walking to the shop.
+A1-04-010 A1-04-11-01 Завтра я {{c1::буду работать::работать · future}} дома. ‖ Tomorrow I'll be working from home.
+A1-04-011 A1-04-11-02 Что ты {{c1::будешь делать::делать · future}} вечером? ‖ What are you doing this evening?
+A1-04-012 A1-04-11-03 Мы {{c1::будем жить::жить · future}} в Петербурге. ‖ We'll live in St Petersburg.
+A1-04-013 A1-04-11-04 Завтра я {{c1::буду::быть · future}} дома. ‖ I'll be at home tomorrow.
+A1-04-014 A1-04-11-05 Они {{c1::будут::быть · future}} здесь в пять. ‖ They'll be here at five.
+## A1::05 Предложный падеж; «в» и «на»
+A1-05-001 A1-05-12-01 Я живу в {{c1::Москве::Москва · prepositional}}. ‖ I live in Moscow.
+A1-05-002 A1-05-12-02 Книга лежит на {{c1::столе::стол · prepositional}}. ‖ The book is on the table.
+A1-05-003 A1-05-12-03 Мы работаем в {{c1::банке::банк · prepositional}}. ‖ We work at a bank.
+A1-05-004 A1-05-12-04 Мы живём в {{c1::России::Россия · prepositional}}. ‖ We live in Russia.
+A1-05-005 A1-05-12-05 Что у тебя в {{c1::тетради::тетрадь · prepositional}}? ‖ What's in your notebook?
+A1-05-006 A1-05-12-06 Мы гуляем в {{c1::лесу::лес · prepositional}}. ‖ We're walking in the forest.
+A1-05-007 A1-05-12-07 Я жду тебя в {{c1::аэропорту::аэропорт · prepositional}}. ‖ I'll wait for you at the airport.
+A1-05-008 A1-05-12-08 Мы говорим о {{c1::брате::брат · prepositional}}. ‖ We're talking about my brother.
+A1-05-009 A1-05-12-09 Я думаю о {{c1::маме::мама · prepositional}}. ‖ I'm thinking about my mum.
+A1-05-010 A1-10b-05-01 Мы живём в {{c1::общежитии::общежитие · prepositional}}. ‖ We live in a hall of residence.
+A1-05-011 A1-10b-05-02 Офис в этом {{c1::здании::здание · prepositional}}. ‖ The office is in this building.
+A1-05-012 A1-10b-05-03 Мы говорили о {{c1::Марии::Мария · prepositional}}. ‖ We were talking about Maria.
+A1-05-013 A1-05-13-01 Мама сейчас {{c1::на::в or на?}} работе.<br>Мама сейчас {{c2::в::в or на?}} магазине. ‖ Mum's at work now. / Mum's at the shop now.
+A1-05-014 A1-05-13-02 Мы были {{c1::на::в or на?}} концерте. ‖ We were at a concert.
+A1-05-015 A1-05-13-03 Дети играют {{c1::на::в or на?}} улице. ‖ The children are playing outside.
+A1-05-016 A1-05-13-04 Я учусь {{c1::в::в or на?}} университете. ‖ I study at university.
+A1-05-017 A1-05-13-05 Он работает {{c1::на::в or на?}} почте. ‖ He works at the post office.
+A1-05-018 A1-05-13-06 Мы встретимся {{c1::на::в or на?}} вокзале. ‖ We'll meet at the station.
+A1-05-019 A1-05-13-07 Я живу {{c1::в::в or на?}} центре. ‖ I live in the centre.
+A1-05-020 A1-05-14-01 Мы говорили {{c1::о нём::о + он (prepositional)}}. ‖ We were talking about him.
+A1-05-021 A1-05-14-02 Он думает {{c1::о ней::о + она (prepositional)}}. ‖ He's thinking about her.
+A1-05-022 A1-05-14-03 Расскажи {{c1::обо мне::о + я (prepositional)}}. ‖ Tell them about me.
+A1-05-023 A1-05-14-04 Мы живём в {{c1::новом::новый · prepositional}} доме. ‖ We live in a new building.
+A1-05-024 A1-05-14-05 Мы сидим в {{c1::красивой::красивый · prepositional}} комнате. ‖ We're sitting in a beautiful room.
+A1-05-025 A1-10b-07-01 Встретимся {{c1::во::on (в or во?)}} вторник. ‖ Let's meet on Tuesday.
+A1-05-026 A1-10b-07-02 Иди {{c1::ко::to (к or ко?)}} мне! ‖ Come to me!
+A1-05-027 A1-10b-07-03 Возьми книгу {{c1::со::from (с or со?)}} стола. ‖ Take the book off the table.
+A1-05-028 A1-10b-07-04 Он живёт {{c1::во::in (в or во?)}} Франции. ‖ He lives in France.
+## A1::06 Винительный падеж; «где» и «куда»
+A1-06-001 A1-06-15-01 Я читаю {{c1::книгу::книга · accusative}}. ‖ I'm reading a book.
+A1-06-002 A1-06-15-02 Она пьёт {{c1::воду::вода · accusative}}. ‖ She's drinking water.
+A1-06-003 A1-06-15-03 Я люблю {{c1::музыку::музыка · accusative}}. ‖ I love music.
+A1-06-004 A1-06-15-04 Я жду {{c1::маму::мама · accusative}}. ‖ I'm waiting for my mum.
+A1-06-005 A1-06-15-05 Мы изучаем {{c1::историю::история · accusative}}. ‖ We're studying history.
+A1-06-006 NEW (A man speaking) Я купил {{c1::стол::стол · accusative (inanimate)}}. ‖ I've bought a table.
+A1-06-007 A1-06-16-01 Я знаю {{c1::брата::брат · accusative (animate)}}. ‖ I know his brother.
+A1-06-008 A1-06-16-02 Ты видишь {{c1::учителя::учитель · accusative (animate)}}? ‖ Can you see the teacher?
+A1-06-009 A1-06-16-03 Мы ждём {{c1::Ивана::Иван · accusative (animate)}}. ‖ We're waiting for Ivan.
+A1-06-010 A1-06-16-04 Она любит {{c1::сына::сын · accusative (animate)}}. ‖ She loves her son.
+A1-06-011 A1-06-17-01 Ты {{c1::меня::я · accusative}} понимаешь? ‖ Do you understand me?
+A1-06-012 A1-06-17-02 Я {{c1::тебя::ты · accusative}} люблю. ‖ I love you.
+A1-06-013 A1-06-17-03 Мы {{c1::их::они · accusative}} знаем. ‖ We know them.
+A1-06-014 A1-06-17-04 Я {{c1::его::он · accusative}} не вижу. ‖ I can't see him.
+A1-06-015 A1-06-17-05 Как {{c1::вас::вы · accusative}} зовут? ‖ What's your name?
+A1-06-016 A1-06-17-06 Как {{c1::тебя::ты · accusative}} зовут? ‖ What's your name?
+A1-06-017 A1-06-18-01 (A man speaking) Я купил {{c1::новую::новый · accusative}} машину. ‖ I bought a new car.
+A1-06-018 A1-06-18-02 Мы читаем {{c1::интересную::интересный · accusative}} книгу. ‖ We're reading an interesting book.
+A1-06-019 A1-06-18-03 Я знаю {{c1::вашего::ваш · accusative (animate)}} брата. ‖ I know your brother.
+A1-06-020 A1-06-19-01 {{c1::Где::Где or Куда?}} ты живёшь?<br>{{c2::Куда::Где or Куда?}} ты идёшь? ‖ Where do you live? / Where are you going?
+A1-06-021 A1-06-19-02 (Location) Я живу {{c1::в Москве::Москва · в + prepositional or accusative?}}.<br>(Direction) Я еду {{c2::в Москву::Москва · в + prepositional or accusative?}}. ‖ I live in Moscow. / I'm going to Moscow.
+A1-06-022 A1-06-19-03 (Direction) Я иду {{c1::на работу::работа · на + prepositional or accusative?}}. ‖ I'm going to work.
+A1-06-023 A1-06-19-04 (Location) Сейчас я {{c1::на работе::работа · на + prepositional or accusative?}}. ‖ I'm at work now.
+A1-06-024 A1-06-19-05 (Direction) Мы идём {{c1::в школу::школа · в + prepositional or accusative?}}. ‖ We're going to school.
+## A1::07 Родительный падеж: основы
+A1-07-001 A1-07-20-01 {{c1::У меня::у + я}} есть брат. ‖ I have a brother.
+A1-07-002 A1-07-20-02 {{c1::У тебя::у + ты}} есть машина? ‖ Do you have a car?
+A1-07-003 A1-07-20-03 {{c1::У него::у + он}} есть собака. ‖ He has a dog.
+A1-07-004 A1-07-20-04 {{c1::У нас::у + мы}} есть время. ‖ We have time.
+A1-07-005 NEW У {{c1::сестры::сестра · у + genitive}} две кошки. ‖ My sister has two cats.
+A1-07-006 A1-07-21-01 У меня нет {{c1::брата::брат · genitive}}. ‖ I don't have a brother.
+A1-07-007 A1-07-21-02 У нас нет {{c1::времени::время · genitive}}. ‖ We don't have time.
+A1-07-008 A1-07-21-03 Здесь нет {{c1::воды::вода · genitive}}. ‖ There's no water here.
+A1-07-009 A1-07-21-04 У неё нет {{c1::машины::машина · genitive}}. ‖ She doesn't have a car.
+A1-07-010 A1-07-21-05 Сегодня нет {{c1::урока::урок · genitive}}. ‖ There's no lesson today.
+A1-07-011 A1-07-21-06 У меня нет {{c1::книги::книга · genitive}}. ‖ I don't have the book.
+A1-07-012 A1-07-21-07 {{c1::Его::он · genitive}} нет дома. ‖ He's not at home.
+A1-07-013 A1-10-05-01 Я {{c1::не::не or нет?}} знаю.<br>{{c2::Нет::Не or Нет?}}, спасибо. ‖ I don't know. / No, thank you.
+A1-07-014 A1-10-05-02 У меня {{c1::нет::не or нет?}} машины. ‖ I don't have a car.
+A1-07-015 A1-07-22-01 Это дом {{c1::мамы::мама · genitive}}. ‖ This is Mum's house.
+A1-07-016 A1-07-22-02 Где сумка {{c1::Анны::Анна · genitive}}? ‖ Where's Anna's bag?
+A1-07-017 A1-07-22-03 Это центр {{c1::города::город · genitive}}. ‖ This is the city centre.
+A1-07-018 A1-07-22-04 Это машина {{c1::папы::папа · genitive}}. ‖ This is Dad's car.
+A1-07-019 A1-07-23-01 У меня два {{c1::брата::брат · after 2}}. ‖ I have two brothers.
+A1-07-020 A1-07-23-02 Мне двадцать два {{c1::года::год · after 2 (age)}}. ‖ I'm twenty-two.
+A1-07-021 A1-07-23-03 Мне тридцать {{c1::лет::год · after 5+ (age)}}. ‖ I'm thirty.
+A1-07-022 A1-07-23-04 Сейчас три {{c1::часа::час · after 3}}. ‖ It's three o'clock.
+A1-07-023 A1-07-23-05 Сейчас пять {{c1::часов::час · after 5+}}. ‖ It's five o'clock.
+A1-07-024 A1-07-23-06 Это стоит сто {{c1::рублей::рубль · after 5+}}. ‖ That costs a hundred roubles.
+A1-07-025 A1-07-23-07 У меня три {{c1::сестры::сестра · after 3}}. ‖ I have three sisters.
+## A1::08 Дательный и творительный падежи: основы
+A1-08-001 A1-08-24-01 {{c1::Мне::я · dative}} нравится эта музыка. ‖ I like this music.
+A1-08-002 A1-08-24-02 {{c1::Тебе::ты · dative}} нравится Москва? ‖ Do you like Moscow?
+A1-08-003 A1-08-24-03 {{c1::Ему::он · dative}} двадцать лет. ‖ He's twenty.
+A1-08-004 A1-08-24-04 {{c1::Нам::мы · dative}} надо идти. ‖ We need to go.
+A1-08-005 A1-08-24-05 {{c1::Ей::она · dative}} холодно. ‖ She's cold.
+A1-08-006 A1-08-24-06 {{c1::Вам::вы · dative}} нужна помощь? ‖ Do you need help?
+A1-08-007 A1-08-25-01 Мне {{c1::нравится::нравится or нравятся?}} этот город.<br>Мне {{c2::нравятся::нравится or нравятся?}} эти цветы. ‖ I like this city. / I like these flowers.
+A1-08-008 A1-08-25-02 Ему {{c1::нравится::нравится or нравятся?}} читать. ‖ He likes reading.
+A1-08-009 A1-08-26-01 Я звоню {{c1::маме::мама · dative}}. ‖ I'm calling Mum.
+A1-08-010 A1-08-26-02 Я пишу письмо {{c1::брату::брат · dative}}. ‖ I'm writing a letter to my brother.
+A1-08-011 A1-08-26-03 Я иду к {{c1::врачу::врач · dative}}. ‖ I'm going to the doctor's.
+A1-08-012 A1-08-26-04 Подари цветы {{c1::Анне::Анна · dative}}. ‖ Give Anna some flowers.
+A1-08-013 A1-08-26-05 Мы помогаем {{c1::другу::друг · dative}}. ‖ We're helping a friend.
+A1-08-014 NEW (Going to a person) Дети пошли {{c1::к::в or к?}} другу. ‖ The children have gone round to a friend's.
+A1-08-015 A1-08-27-01 Я иду в кино с {{c1::братом::брат · instrumental}}. ‖ I'm going to the cinema with my brother.
+A1-08-016 A1-08-27-02 Она живёт с {{c1::мамой::мама · instrumental}}. ‖ She lives with her mum.
+A1-08-017 A1-08-27-03 Я пью чай с {{c1::сахаром::сахар · instrumental}}. ‖ I take my tea with sugar.
+A1-08-018 A1-08-27-04 Пойдём {{c1::со мной::с + я (instrumental)}}! ‖ Come with me!
+A1-08-019 A1-08-27-05 Я хочу поговорить {{c1::с тобой::с + ты (instrumental)}}. ‖ I want to talk to you.
+A1-08-020 A1-08-27-06 Мы гуляли {{c1::с ней::с + она (instrumental)}}. ‖ We went for a walk with her.
+A1-08-021 A1-08-27-07 Он занимается {{c1::музыкой::музыка · instrumental}}. ‖ He does music.
+A1-08-022 A1-08-27-08 (A man speaking) Я говорил с {{c1::учителем::учитель · instrumental}}. ‖ I spoke to the teacher.
+## A1::09 Глаголы движения, союзы и вопросительные слова
+A1-09-001 A1-09-28-01 (Right now) Сейчас я {{c1::иду::идти or ходить? · present}} в школу.<br>(Every day) Каждый день я {{c2::хожу::идти or ходить? · present}} в школу. ‖ I'm on my way to school now. / I go to school every day.
+A1-09-002 A1-09-28-02 (Now, by bus) Я {{c1::еду::ехать or ездить? · present}} на работу на автобусе.<br>(Every summer) Летом мы {{c2::ездим::ехать or ездить? · present}} на море. ‖ I'm on the bus to work. / We go to the seaside every summer.
+A1-09-003 A1-09-28-03 (A man speaking; went and came back) Вчера я {{c1::ходил::идти or ходить? · past}} в кино. ‖ I went to the cinema yesterday.
+A1-09-004 A1-09-28-04 (By train) Я {{c1::еду::идти or ехать? · present}} в Петербург на поезде. ‖ I'm going to St Petersburg by train.
+A1-09-005 A1-09-28-05 (Now) Ты {{c1::идёшь::идти or ходить? · present}} домой? ‖ Are you heading home?
+A1-09-006 A1-10b-06-01 Я езжу на работу {{c1::на автобусе::by bus (на + prepositional)}}. ‖ I go to work by bus.
+A1-09-007 A1-10b-06-02 Я был {{c1::у врача::at the doctor's (у + genitive)}}.<br>Я иду {{c2::к врачу::to the doctor's (к + dative)}}.<br>Я иду {{c3::от врача::from the doctor's (от + genitive)}}. ‖ I was at the doctor's. / I'm going to the doctor's. / I'm coming from the doctor's.
+A1-09-008 A1-09-29-01 Я люблю чай {{c1::и::и, а or но?}} кофе.<br>Я люблю чай, {{c2::а::и, а or но?}} мой брат любит кофе.<br>(A man speaking) Я хотел пойти, {{c3::но::и, а or но?}} у меня не было времени. ‖ I like tea and coffee. / I like tea, whereas my brother likes coffee. / I wanted to go, but I didn't have time.
+A1-09-009 A1-09-29-02 Это не чай, {{c1::а::и, а or но?}} кофе. ‖ This isn't tea, it's coffee.
+A1-09-010 A1-09-30-01 Я дома, {{c1::потому что::потому что or поэтому?}} я болею.<br>Я болею, {{c2::поэтому::потому что or поэтому?}} я дома. ‖ I'm at home because I'm ill. / I'm ill, so I'm at home.
+A1-09-011 A1-09-31-01 {{c1::Откуда::where from}} вы? ‖ Where are you from?
+A1-09-012 A1-09-31-02 {{c1::Сколько::how much}} стоит этот хлеб? ‖ How much is this bread?
+A1-09-013 A1-09-31-03 {{c1::Почему::why}} ты не спишь? ‖ Why aren't you asleep?
+A1-09-014 A1-09-31-04 {{c1::Когда::when}} начинается урок? ‖ When does the lesson start?
+## A2::01 Вид глагола: образование и прошедшее время
+A2-01-001 A2-01-01-01 (A man speaking; finished) Я {{c1::прочитал::читать · perfective, past}} эту книгу. ‖ I've finished reading this book.
+A2-01-002 A2-01-01-02 (A woman speaking; finished) Я {{c1::написала::писать · perfective, past}} письмо. ‖ I've written the letter.
+A2-01-003 A2-01-01-03 Мы {{c1::сделали::делать · perfective, past}} домашнее задание. ‖ We've done our homework.
+A2-01-004 A2-01-01-04 Она {{c1::купила::покупать · perfective, past}} новое платье. ‖ She bought a new dress.
+A2-01-005 A2-01-01-05 Он {{c1::сказал::говорить · perfective, past}}, что придёт. ‖ He said he'd come.
+A2-01-006 A2-01-01-06 (A man speaking) Я {{c1::взял::брать · perfective, past}} твою ручку. ‖ I took your pen.
+A2-01-007 A2-01-01-07 (To a man) Ты {{c1::позвонил::звонить · perfective, past}} маме? ‖ Did you call Mum?
+A2-01-008 A2-01-01-08 Кто {{c1::открыл::открывать · perfective, past}} окно? ‖ Who opened the window?
+A2-01-009 A2-01-01-09 Мама {{c1::приготовила::готовить · perfective, past}} ужин. ‖ Mum has made dinner.
+A2-01-010 A2-01-01-10 Мы {{c1::решили::решать · perfective, past}} поехать на море. ‖ We decided to go to the seaside.
+A2-01-011 A2-01-02-01 (A man speaking; process, two hours) Вчера я два часа {{c1::читал::читать or прочитать? · past}} книгу.<br>(A man speaking; result, finished it) Вчера я {{c2::прочитал::читать or прочитать? · past}} всю книгу. ‖ Yesterday I spent two hours reading a book. / Yesterday I read the whole book.
+A2-01-012 A2-01-02-02 (Every day) Раньше она каждый день {{c1::звонила::звонить or позвонить? · past}} маме.<br>(Once, yesterday) Вчера она {{c2::позвонила::звонить or позвонить? · past}} маме. ‖ She used to call her mum every day. / Yesterday she called her mum.
+A2-01-013 A2-01-02-03 (To a man; ever, just the fact) Ты {{c1::читал::читать or прочитать? · past}} «Войну и мир»? ‖ Have you ever read War and Peace?
+A2-01-014 A2-01-02-04 (A man speaking; interrupted) Когда я {{c1::смотрел::смотреть or посмотреть? · past}} телевизор, позвонил друг. ‖ I was watching TV when a friend called.
+A2-01-015 A2-01-02-05 (Result) Мы наконец {{c1::купили::покупать or купить? · past}} квартиру. ‖ We've finally bought a flat.
+A2-01-016 A2-01-02-06 (Process, two hours) Она два часа {{c1::готовила::готовить or приготовить? · past}} ужин. ‖ She spent two hours cooking dinner.
+## A2::02 Вид глагола: будущее время, инфинитив, повелительное наклонение
+A2-02-001 A2-02-03-01 Завтра я {{c1::позвоню::звонить · perfective, future}} тебе. ‖ I'll call you tomorrow.
+A2-02-002 A2-02-03-02 Я {{c1::напишу::писать · perfective, future}} тебе письмо. ‖ I'll write you a letter.
+A2-02-003 A2-02-03-03 Я {{c1::скажу::говорить · perfective, future}} ему правду. ‖ I'll tell him the truth.
+A2-02-004 A2-02-03-04 Мы {{c1::купим::покупать · perfective, future}} билеты завтра. ‖ We'll buy the tickets tomorrow.
+A2-02-005 A2-02-03-05 Я {{c1::дам::давать · perfective, future}} тебе книгу. ‖ I'll give you the book.
+A2-02-006 A2-02-03-06 Ты {{c1::сделаешь::делать · perfective, future}} это сегодня? ‖ Will you get it done today?
+A2-02-007 A2-02-03-07 Я {{c1::возьму::брать · perfective, future}} такси. ‖ I'll take a taxi.
+A2-02-008 NEW Извини, я не {{c1::смогу::мочь · perfective future}} помочь тебе в субботу. ‖ Sorry, I won't be able to help you on Saturday.
+A2-02-009 A2-02-04-01 (All evening, process) Вечером я {{c1::буду писать::писать or написать? · future}} письма.<br>(One letter, done) Вечером я {{c2::напишу::писать or написать? · future}} письмо. ‖ I'll spend the evening writing letters. / I'll write the letter this evening.
+A2-02-010 A2-02-04-02 (Every day) Я {{c1::буду звонить::звонить or позвонить? · future}} тебе каждый день. ‖ I'll call you every day.
+A2-02-011 A2-02-05-01 Он начал {{c1::читать::читать or прочитать?}} книгу. ‖ He started reading the book.
+A2-02-012 A2-02-05-02 (A man speaking) Я забыл {{c1::купить::покупать or купить?}} хлеб. ‖ I forgot to buy bread.
+A2-02-013 A2-02-05-03 Я люблю {{c1::готовить::готовить or приготовить?}}. ‖ I love cooking.
+A2-02-014 A2-02-05-04 Мы кончили {{c1::работать::работать or поработать?}} в шесть. ‖ We finished work at six.
+A2-02-015 A2-02-06-01 {{c1::Читай::читать · ты, imperative}} громче! ‖ Read louder!
+A2-02-016 A2-02-06-02 {{c1::Говорите::говорить · вы, imperative}} медленнее, пожалуйста. ‖ Please speak more slowly.
+A2-02-017 A2-02-06-03 {{c1::Пишите::писать · вы, imperative}} мне! ‖ Write to me!
+A2-02-018 A2-02-06-04 {{c1::Будь::быть · ты, imperative}} осторожен. ‖ Be careful.
+A2-02-019 A2-02-06-05 {{c1::Дай::дать · ты, imperative}} мне ручку, пожалуйста. ‖ Give me a pen, please.
+A2-02-020 A2-02-06-06 {{c1::Давай::давать · ты, let's}} пойдём в кино. ‖ Let's go to the cinema.
+A2-02-021 A2-11b-11-01 {{c1::Пей::пить · imperative, ты}} больше воды! ‖ Drink more water!
+A2-02-022 A2-11b-11-02 {{c1::Ешь::есть · imperative, ты}}, пока горячее! ‖ Eat it while it's hot!
+A2-02-023 A2-11b-11-03 {{c1::Вставай::вставать · imperative, ты}}, уже восемь! ‖ Get up, it's eight already!
+A2-02-024 A2-11b-11-04 {{c1::Сядь::сесть · imperative, ты}} сюда. ‖ Sit here.
+A2-02-025 A2-11b-11-05 {{c1::Помоги::помочь · imperative, ты}} мне! ‖ Help me!
+A2-02-026 A2-11b-11-06 Не {{c1::бойся::бояться · imperative, ты}}! ‖ Don't be afraid!
+A2-02-027 A2-11b-11-07 Не {{c1::волнуйся::волноваться · imperative, ты}}. ‖ Don't worry.
+A2-02-028 A2-11b-11-08 (To a guest) {{c1::Садитесь::садиться · imperative, вы}}, пожалуйста. ‖ Do sit down.
+A2-02-029 A2-02-07-01 (Once, tomorrow) {{c1::Позвони::звони or позвони? · ты, imperative}} мне завтра.<br>(Negative) Не {{c2::звони::звони or позвони? · ты, imperative}} мне так поздно. ‖ Call me tomorrow. / Don't call me so late.
+A2-02-030 A2-02-07-02 (Polite invitation) {{c1::Садитесь::садитесь or сядьте? · вы, imperative}}, пожалуйста. ‖ Please, have a seat.
+A2-02-031 A2-02-07-03 (Negative) Не {{c1::открывай::открывай or открой? · ты, imperative}} окно. ‖ Don't open the window.
+A2-02-032 A2-11b-12-01 Давай {{c1::пойдём::пойти · мы (давай + …)}} в кино. ‖ Let's go to the cinema.
+A2-02-033 A2-11b-12-02 Давайте {{c1::поговорим::поговорить · мы}}. ‖ Let's talk.
+A2-02-034 A2-11b-12-03 Давай {{c1::не будем::let's not (давай … + infinitive)}} спорить. ‖ Let's not argue.
+## A2::03 Спряжение: чередования и особые формы
+A2-03-001 A2-11b-08-01 Я тебя не {{c1::вижу::видеть · я}}. ‖ I can't see you.
+A2-03-002 A2-11b-08-02 Я {{c1::сижу::сидеть · я}} дома. ‖ I'm sitting at home.
+A2-03-003 A2-11b-08-03 Я {{c1::плачу::платить · я}} за кофе. ‖ I'm paying for the coffee.
+A2-03-004 A2-11b-08-04 Я плохо {{c1::сплю::спать · я}}. ‖ I sleep badly.
+A2-03-005 A2-11b-08-05 Я {{c1::готовлю::готовить · я}} ужин. ‖ I'm making dinner.
+A2-03-006 A2-11b-08-06 Завтра я {{c1::куплю::купить · я}} хлеб. ‖ I'll buy bread tomorrow.
+A2-03-007 A2-11b-08-07 Я {{c1::отвечу::ответить · я}} завтра. ‖ I'll answer tomorrow.
+A2-03-008 A2-11b-08-08 Я {{c1::чищу::чистить · я}} зубы. ‖ I'm brushing my teeth.
+A2-03-009 A2-11b-09-01 Я {{c1::жду::ждать · я}} автобус. ‖ I'm waiting for the bus.
+A2-03-010 A2-11b-09-02 Я {{c1::зову::звать · я}} детей обедать. ‖ I'm calling the children for lunch.
+A2-03-011 A2-11b-09-03 Что ты {{c1::ищешь::искать · ты}}? ‖ What are you looking for?
+A2-03-012 A2-11b-09-04 Почему ты {{c1::плачешь::плакать · ты}}? ‖ Why are you crying?
+A2-03-013 A2-11b-09-05 Я {{c1::пою::петь · я}} в хоре. ‖ I sing in a choir.
+A2-03-014 A2-11b-09-06 Я {{c1::мою::мыть · я}} посуду. ‖ I'm washing up.
+A2-03-015 A2-11b-09-07 Я {{c1::встаю::вставать · я}} в семь. ‖ I get up at seven.
+A2-03-016 A2-11b-09-08 Ты мне {{c1::поможешь::помочь · ты}}? ‖ Will you help me?
+A2-03-017 A2-11b-09-09 Я {{c1::лягу::лечь · я}} спать пораньше. ‖ I'll go to bed early.
+A2-03-018 A2-11b-09-10 Я {{c1::начну::начать · я}} завтра. ‖ I'll start tomorrow.
+A2-03-019 A2-11b-09-11 Ты {{c1::поймёшь::понять · ты}}. ‖ You'll understand.
+A2-03-020 A2-11b-10-01 Он {{c1::нёс::нести · past, он}} тяжёлую сумку. ‖ He was carrying a heavy bag.
+A2-03-021 A2-11b-10-02 Она {{c1::несла::нести · past, она}} цветы. ‖ She was carrying flowers.
+A2-03-022 A2-11b-10-03 Он {{c1::вёз::везти · past, он}} детей в школу. ‖ He was driving the kids to school.
+A2-03-023 A2-11b-10-04 Он не {{c1::мог::мочь · past, он}} спать. ‖ He couldn't sleep.
+A2-03-024 A2-11b-10-05 Она не {{c1::могла::мочь · past, она}} прийти. ‖ She couldn't come.
+A2-03-025 A2-11b-10-06 Он {{c1::лёг::лечь · past, он}} в десять. ‖ He went to bed at ten.
+A2-03-026 A2-11b-10-07 Дедушка {{c1::умер::умереть · past, он}} в прошлом году. ‖ Grandad died last year.
+A2-03-027 A2-11b-10-08 (A man speaking) Я {{c1::замёрз::замёрзнуть · past, я}}. ‖ I'm frozen.
+A2-03-028 A2-11b-10-09 Ребёнок быстро {{c1::рос::расти · past, он}}. ‖ The child grew quickly.
+A2-03-029 A2-11b-10-10 Он ничего не {{c1::ел::есть · past, он}}. ‖ He didn't eat anything.
+## A2::04 Существительные: падежи множественного числа и чередования
+A2-04-001 A2-11-01-01 Я вижу {{c1::студентов::студент · accusative plural (animate)}}. ‖ I can see the students.
+A2-04-002 A2-11-01-02 Я люблю {{c1::собак::собака · accusative plural (animate)}}. ‖ I love dogs.
+A2-04-003 A2-11-01-03 Мы пишем {{c1::друзьям::друг · dative plural}}. ‖ We're writing to friends.
+A2-04-004 A2-11-01-04 Я звоню {{c1::родителям::родители · dative plural}}. ‖ I'm calling my parents.
+A2-04-005 A2-11-01-05 (A man speaking) Я говорил с {{c1::учителями::учитель · instrumental plural}}. ‖ I spoke to the teachers.
+A2-04-006 A2-11-01-06 Мы гуляем с {{c1::детьми::дети · instrumental plural}}. ‖ We're out for a walk with the children.
+A2-04-007 A2-11-01-07 Мы говорим о {{c1::фильмах::фильм · prepositional plural}}. ‖ We're talking about films.
+A2-04-008 A2-11-01-08 Книги лежат на {{c1::полках::полка · prepositional plural}}. ‖ The books are on the shelves.
+A2-04-009 A2-11b-03-01 В комнате новые {{c1::стулья::стул · plural}}. ‖ There are new chairs in the room.
+A2-04-010 A2-11b-03-02 В парке старые {{c1::деревья::дерево · plural}}. ‖ There are old trees in the park.
+A2-04-011 A2-11b-03-03 Её {{c1::сыновья::сын · plural}} живут в Москве. ‖ Her sons live in Moscow.
+A2-04-012 A2-11b-03-04 Их {{c1::мужья::муж · plural}} работают вместе. ‖ Their husbands work together.
+A2-04-013 A2-11b-03-05 В вазе красивые {{c1::цветы::цветок · plural}}. ‖ There are beautiful flowers in the vase.
+A2-04-014 A2-11b-03-06 У зайца длинные {{c1::уши::ухо · plural}}. ‖ The hare has long ears.
+A2-04-015 A2-11b-03-07 У меня болят {{c1::плечи::плечо · plural}}. ‖ My shoulders hurt.
+A2-04-016 A2-11b-03-08 Это большие {{c1::города::город · plural}}. ‖ These are big cities.
+A2-04-017 A2-11b-03-09 Наши {{c1::учителя::учитель · plural}} очень строгие. ‖ Our teachers are very strict.
+A2-04-018 A2-11b-02-01 Он вырос без {{c1::отца::отец · genitive}}. ‖ He grew up without a father.
+A2-04-019 A2-11b-02-02 Я был там три {{c1::дня::день · after три}}. ‖ I was there for three days.
+A2-04-020 A2-11b-02-03 У меня во {{c1::рту::рот · prepositional}} горько. ‖ I've got a bitter taste in my mouth.
+A2-04-021 A2-11b-02-04 Я купил два {{c1::подарка::подарок · after два}}. ‖ I bought two presents.
+A2-04-022 A2-11b-04-01 (A woman speaking) Я позвонила {{c1::матери::мать · dative}}. ‖ I rang my mother.
+A2-04-023 A2-11b-04-02 Он гордится {{c1::дочерью::дочь · instrumental}}. ‖ He's proud of his daughter.
+A2-04-024 A2-11b-04-03 У них три {{c1::дочери::дочь · after три}}. ‖ They have three daughters.
+A2-04-025 A2-11b-05-01 Дети играют в {{c1::саду::сад · prepositional (location)}}. ‖ The children are playing in the garden.
+A2-04-026 A2-11b-05-02 Кот спит на {{c1::полу::пол · prepositional (location)}}. ‖ The cat is sleeping on the floor.
+A2-04-027 A2-11b-05-03 Стул стоит в {{c1::углу::угол · prepositional (location)}}. ‖ The chair is in the corner.
+A2-04-028 A2-11b-05-04 Одежда в {{c1::шкафу::шкаф · prepositional (location)}}. ‖ The clothes are in the wardrobe.
+A2-04-029 A2-11b-05-05 Мы сидели на {{c1::берегу::берег · prepositional (location)}}. ‖ We sat on the shore.
+A2-04-030 A2-11b-05-06 Мы говорили о {{c1::саде::сад · prepositional (after о)}}. ‖ We were talking about the garden.
+A2-04-031 A2-11b-01-01 Я гуляю с {{c1::Сашей::Саша · instrumental}}. ‖ I'm going for a walk with Sasha.
+A2-04-032 A2-11b-01-02 Я говорил с {{c1::отцом::отец · instrumental (stressed ending)}}. ‖ I talked to my father.
+A2-04-033 A2-11b-01-03 Это {{c1::хорошее::хороший · neuter}} место. ‖ This is a good place.
+## A2::05 Родительный падеж множественного числа и количество
+A2-05-001 A2-03-08-01 У меня много {{c1::друзей::друг · genitive plural}}. ‖ I have a lot of friends.
+A2-05-002 A2-03-08-02 В классе двадцать {{c1::студентов::студент · genitive plural}}. ‖ There are twenty students in the class.
+A2-05-003 A2-03-08-03 На столе пять {{c1::книг::книга · genitive plural}}. ‖ There are five books on the table.
+A2-05-004 A2-03-08-04 В городе много {{c1::музеев::музей · genitive plural}}. ‖ There are lots of museums in the city.
+A2-05-005 A2-03-08-05 Сколько у тебя {{c1::братьев::брат · genitive plural}}? ‖ How many brothers do you have?
+A2-05-006 A2-03-08-06 Здесь мало {{c1::людей::человек · genitive plural}}. ‖ There aren't many people here.
+A2-05-007 A2-03-08-07 Там было много {{c1::девушек::девушка · genitive plural}}. ‖ There were lots of girls there.
+A2-05-008 A2-03-08-08 В доме пять {{c1::окон::окно · genitive plural}}. ‖ The house has five windows.
+A2-05-009 A2-03-08-09 У нас несколько {{c1::врачей::врач · genitive plural}}. ‖ We have several doctors.
+A2-05-010 A2-03-08-10 Сегодня шесть {{c1::лекций::лекция · genitive plural}}. ‖ There are six lectures today.
+A2-05-011 A2-03-08-11 Сколько у вас {{c1::детей::ребёнок · genitive plural}}? ‖ How many children do you have?
+A2-05-012 A2-03-08-12 Нет свободных {{c1::мест::место · genitive plural}}. ‖ There are no free seats.
+A2-05-013 A2-03-09-01 У меня две {{c1::сестры::сестра · genitive singular or plural?}}.<br>У меня пять {{c2::сестёр::сестра · genitive singular or plural?}}. ‖ I have two sisters. / I have five sisters.
+A2-05-014 A2-03-09-02 Дай мне три {{c1::яблока::яблоко · genitive singular or plural?}}.<br>Купи десять {{c2::яблок::яблоко · genitive singular or plural?}}. ‖ Give me three apples. / Buy ten apples.
+A2-05-015 A2-11b-16-01 На улице много {{c1::людей::люди · genitive plural}}. ‖ There are lots of people outside.
+A2-05-016 A2-11b-16-02 У меня мало {{c1::времени::время · genitive}}. ‖ I don't have much time.
+A2-05-017 A2-11b-16-03 Я жил там несколько {{c1::дней::день · genitive plural}}. ‖ I lived there for a few days.
+A2-05-018 A2-11b-16-04 Сколько у тебя {{c1::друзей::друг · genitive plural}} в Москве? ‖ How many friends do you have in Moscow?
+## A2::06 Прилагательные и местоимения во всех падежах
+A2-06-001 A2-04-10-01 У меня нет {{c1::свободного::свободный · genitive}} времени. ‖ I don't have any free time.
+A2-06-002 A2-04-10-02 Я звоню {{c1::старому::старый · dative}} другу. ‖ I'm calling an old friend.
+A2-06-003 A2-04-10-03 Мы говорили с {{c1::новым::новый · instrumental}} учителем. ‖ We spoke to the new teacher.
+A2-06-004 A2-04-10-04 (A woman speaking) Я была в {{c1::большом::большой · prepositional}} магазине. ‖ I was in a big shop.
+A2-06-005 A2-04-10-05 Подари это {{c1::младшей::младший · dative}} сестре. ‖ Give this to your younger sister.
+A2-06-006 A2-04-10-06 Она пришла без {{c1::старшей::старший · genitive}} сестры. ‖ She came without her older sister.
+A2-06-007 A2-04-10-07 Я занимаюсь с {{c1::хорошими::хороший · instrumental plural}} студентами. ‖ I work with good students.
+A2-06-008 A2-04-10-08 Мы пишем {{c1::нашим::наш · dative plural}} друзьям. ‖ We're writing to our friends.
+A2-06-009 A2-04-10-09 Это книга {{c1::моего::мой · genitive}} брата. ‖ This is my brother's book.
+A2-06-010 A2-04-10-10 Я говорю о {{c1::вашей::ваш · prepositional}} работе. ‖ I'm talking about your work.
+A2-06-011 A2-11b-06-01 Она была в {{c1::синем::синий · prepositional (платье, n.)}} платье. ‖ She was wearing a blue dress.
+A2-06-012 A2-11b-06-02 Ответ на {{c1::последней::последний · prepositional (страница, f.)}} странице. ‖ The answer is on the last page.
+A2-06-013 A2-11b-06-03 Я гулял с {{c1::хорошим::хороший · instrumental (друг, m.)}} другом. ‖ I went for a walk with a good friend.
+A2-06-014 A2-11b-07-01 Мы обедаем в {{c1::столовой::столовая · prepositional}}. ‖ We have lunch in the canteen.
+A2-06-015 A2-11b-07-02 Я работаю с {{c1::учёным::учёный · instrumental}}. ‖ I work with a scientist.
+A2-06-016 A2-11b-07-03 Билеты для {{c1::взрослых::взрослый · genitive plural}}. ‖ Tickets for adults.
+A2-06-017 A2-04-11-01 Я иду {{c1::к нему::к + он (dative)}}. ‖ I'm going to his place.
+A2-06-018 A2-04-11-02 Мы были {{c1::у них::у + они (genitive)}} в гостях. ‖ We were round at theirs.
+A2-06-019 A2-04-11-03 Я думаю {{c1::о них::о + они (prepositional)}}. ‖ I'm thinking about them.
+A2-06-020 A2-04-11-04 Мы гуляли {{c1::с ними::с + они (instrumental)}}. ‖ We went for a walk with them.
+A2-06-021 A2-04-11-05 Это подарок {{c1::для неё::для + она (genitive)}}. ‖ This is a present for her.
+A2-06-022 A2-04-11-06 Я ничего не знаю {{c1::о вас::о + вы (prepositional)}}. ‖ I don't know anything about you.
+A2-06-023 A2-11b-19-01 Не этот, а {{c1::тот::that (one)}} дом. ‖ Not this house, that one.
+A2-06-024 A2-11b-19-02 Вы набрали не {{c1::тот::wrong (не … номер)}} номер. ‖ You've dialled the wrong number.
+A2-06-025 A2-11b-19-03 Это {{c1::тот же::the same}} человек. ‖ It's the same person.
+A2-06-026 A2-11b-19-04 Он {{c1::такой::so (+ adjective)}} умный! ‖ He's so clever!
+A2-06-027 A2-11b-19-05 Он говорит {{c1::так::so (+ adverb)}} быстро! ‖ He speaks so fast!
+A2-06-028 A2-11b-19-06 Мы говорили обо {{c1::всём::everything · prepositional}}. ‖ We talked about everything.
+A2-06-029 A2-11b-19-07 Я познакомился со {{c1::всеми::everyone · instrumental}}. ‖ I met everyone.
+A2-06-030 A2-11b-19-08 {{c1::Всего::all · genitive (… хорошего = all the best)}} хорошего! ‖ All the best!
+## A2::07 Дательный падеж, безличные предложения, краткие прилагательные
+A2-07-001 A2-05-12-01 Мне {{c1::нужен::нужен, нужна, нужно or нужны?}} словарь.<br>Мне {{c2::нужна::нужен, нужна, нужно or нужны?}} помощь.<br>Мне {{c3::нужно::нужен, нужна, нужно or нужны?}} время.<br>Мне {{c4::нужны::нужен, нужна, нужно or нужны?}} деньги. ‖ I need a dictionary. / I need help. / I need time. / I need money.
+A2-07-002 A2-05-12-02 Тебе {{c1::нужно::нужен, нужна, нужно or нужны?}} отдохнуть. ‖ You need to rest.
+A2-07-003 NEW (Last year) Мне {{c1::была нужна::нужна · past}} помощь. ‖ I needed help.
+A2-07-004 NEW Завтра мне {{c1::надо будет::надо · future}} рано встать. ‖ I'll have to get up early tomorrow.
+A2-07-005 A2-05-13-01 Мы говорили {{c1::по телефону::телефон · по + dative}}. ‖ We talked on the phone.
+A2-07-006 A2-05-13-02 Мы гуляли {{c1::по городу::город · по + dative}}. ‖ We walked around the city.
+A2-07-007 A2-05-13-03 {{c1::По субботам::суббота · по + dative plural (every …)}} я играю в теннис. ‖ I play tennis on Saturdays.
+A2-07-008 A2-05-13-04 Он идёт {{c1::по улице::улица · по + dative}}. ‖ He's walking down the street.
+A2-07-009 A2-05-14-01 Я помогаю {{c1::сестре::сестра · dative}}. ‖ I'm helping my sister.
+A2-07-010 A2-05-14-02 Врач посоветовал {{c1::отцу::отец · dative}} отдохнуть. ‖ The doctor advised my father to rest.
+A2-07-011 A2-05-14-03 Не мешай {{c1::папе::папа · dative}} работать. ‖ Don't disturb Dad while he's working.
+A2-07-012 A2-05-14-04 Ответь {{c1::учителю::учитель · dative}}. ‖ Answer the teacher.
+A2-07-013 A2-05-14-05 (A man speaking) Я обещал {{c1::бабушке::бабушка · dative}} приехать. ‖ I promised Grandma I'd come.
+A2-07-014 A2-11b-14-01 Вчера мне было {{c1::холодно::cold (impersonal)}}. ‖ I was cold yesterday.
+A2-07-015 A2-11b-14-02 Мне {{c1::надо было::had to (надо · past)}} уйти. ‖ I had to leave.
+A2-07-016 A2-11b-14-03 Мне {{c1::лень::can't be bothered (impersonal)}} идти. ‖ I can't be bothered to go.
+A2-07-017 A2-11b-14-04 Мне {{c1::жаль::sorry for (+ accusative)}} его. ‖ I feel sorry for him.
+A2-07-018 A2-11b-14-05 Завтра {{c1::будет::быть · future (impersonal)}} тепло. ‖ It'll be warm tomorrow.
+A2-07-019 A2-05-15-01 (A woman speaking) Я {{c1::должна::must · agreement}} работать. ‖ I have to work.
+A2-07-020 A2-05-15-02 Мы {{c1::должны::must · agreement}} идти. ‖ We have to go.
+A2-07-021 A2-05-15-03 (A woman speaking) Я очень {{c1::рада::glad · agreement}} тебя видеть. ‖ I'm very glad to see you.
+A2-07-022 A2-05-15-04 Сегодня он {{c1::занят::busy · agreement}}. ‖ He's busy today.
+A2-07-023 A2-05-15-05 Мама сейчас {{c1::занята::busy · agreement}}. ‖ Mum's busy at the moment.
+A2-07-024 A2-05-15-06 Дети сейчас {{c1::больны::ill · agreement}}. ‖ The children are ill at the moment.
+## A2::08 Творительный падеж
+A2-08-001 A2-06-16-01 Мой брат работает {{c1::врачом::врач · instrumental}}. ‖ My brother works as a doctor.
+A2-08-002 A2-06-16-02 (A man speaking) В детстве я хотел стать {{c1::космонавтом::космонавт · instrumental}}. ‖ As a child, I wanted to be a cosmonaut.
+A2-08-003 A2-06-16-03 Она была {{c1::хорошей::хороший · instrumental}} учительницей. ‖ She was a good teacher.
+A2-08-004 A2-06-16-04 Он станет {{c1::инженером::инженер · instrumental}}. ‖ He'll become an engineer.
+A2-08-005 A2-06-17-01 Я интересуюсь {{c1::историей::история · instrumental}}. ‖ I'm interested in history.
+A2-08-006 A2-06-17-02 Она увлекается {{c1::живописью::живопись · instrumental}}. ‖ She's into painting.
+A2-08-007 A2-06-17-03 Родители гордятся {{c1::сыном::сын · instrumental}}. ‖ The parents are proud of their son.
+A2-08-008 A2-06-17-04 Мы пользуемся {{c1::компьютером::компьютер · instrumental}}. ‖ We use a computer.
+A2-08-009 A2-06-18-01 Лампа висит {{c1::над столом::стол · над + instrumental}}. ‖ The lamp hangs above the table.
+A2-08-010 A2-06-18-02 Кошка спит {{c1::под кроватью::кровать · под + instrumental}}. ‖ The cat is sleeping under the bed.
+A2-08-011 A2-06-18-03 Машина стоит {{c1::перед домом::дом · перед + instrumental}}. ‖ The car is parked in front of the house.
+A2-08-012 A2-06-18-04 Сад находится {{c1::за домом::дом · за + instrumental}}. ‖ The garden is behind the house.
+A2-08-013 A2-06-18-05 Банк находится {{c1::между почтой::почта · между + instrumental}} и аптекой. ‖ The bank is between the post office and the chemist's.
+A2-08-014 A2-06-18-06 Мой руки {{c1::перед едой::еда · перед + instrumental}}. ‖ Wash your hands before eating.
+## A2::09 Глаголы движения с приставками; положение в пространстве
+A2-09-001 A2-07-19-01 Он {{c1::пришёл::прийти · past}} домой в шесть. ‖ He came home at six.
+A2-09-002 A2-07-19-02 (A woman speaking) Я {{c1::ушла::уйти · past}} с работы рано. ‖ I left work early.
+A2-09-003 A2-07-19-03 Учитель {{c1::вошёл::войти · past}} в класс. ‖ The teacher came into the classroom.
+A2-09-004 A2-07-19-04 Она {{c1::вышла::выйти · past}} из дома. ‖ She went out of the house.
+A2-09-005 A2-07-19-05 Мы {{c1::приехали::приехать · past}} в Москву вчера. ‖ We arrived in Moscow yesterday.
+A2-09-006 A2-07-19-06 Брат {{c1::уехал::уехать · past}} в Сочи. ‖ My brother has gone to Sochi.
+A2-09-007 A2-07-19-07 Давай {{c1::пойдём::пойти · мы, let's}} гулять. ‖ Let's go for a walk.
+A2-09-008 A2-07-19-08 Завтра я {{c1::поеду::поехать · perfective, future}} к бабушке. ‖ Tomorrow I'll go to Grandma's.
+A2-09-009 A2-07-20-01 (Arrived) Поезд {{c1::пришёл::пришёл or ушёл?}} вовремя.<br>(Left) Поезд уже {{c2::ушёл::пришёл or ушёл?}}. ‖ The train arrived on time. / The train has already left.
+A2-09-010 A2-07-20-02 (Went in) Он {{c1::вошёл::вошёл or вышел?}} в комнату.<br>(Came out) Он {{c2::вышел::вошёл or вышел?}} из комнаты. ‖ He came into the room. / He came out of the room.
+A2-09-011 A2-07-21-01 (From where you'd go в) Я иду {{c1::из школы::школа · from (из, с or от?)}}.<br>(From where you'd go на) Я иду {{c2::с работы::работа · from (из, с or от?)}}.<br>(From a person) Я иду {{c3::от врача::врач · from (из, с or от?)}}. ‖ I'm coming from school. / I'm coming from work. / I'm coming from the doctor's.
+A2-09-012 A2-07-21-02 Он вернулся {{c1::из Москвы::Москва · from (из, с or от?)}}. ‖ He's back from Moscow.
+A2-09-013 A2-07-21-03 Она пришла {{c1::с концерта::концерт · from (из, с or от?)}}. ‖ She's come back from a concert.
+A2-09-014 A2-07-21-04 Это письмо {{c1::от мамы::мама · from (из, с or от?)}}. ‖ This letter is from Mum.
+A2-09-015 A2-11-02-01 (Where it is) Книга {{c1::лежит::лежит or стоит?}} на столе.<br>(Where it is) Бутылка {{c2::стоит::лежит or стоит?}} на столе. ‖ The book is on the table. / The bottle is on the table.
+A2-09-016 A2-11-02-02 (Putting it upright) {{c1::Поставь::Положи or Поставь?}} бутылку в холодильник.<br>(Putting it flat) {{c2::Положи::Положи or Поставь?}} книгу на стол. ‖ Put the bottle in the fridge. / Put the book on the table.
+A2-09-017 A2-11-02-03 Картина {{c1::висит::висеть · present}} на стене. ‖ The picture is hanging on the wall.
+A2-09-018 A2-11-02-04 {{c1::Повесь::повесить · ты, imperative}} куртку в шкаф. ‖ Hang your jacket in the wardrobe.
+A2-09-019 A2-11-02-05 (A man speaking) Я {{c1::положил::положить · past}} ключи в сумку. ‖ I put the keys in my bag.
+A2-09-020 A2-11b-13-01 Он {{c1::сел::сесть · past, он}} на диван. ‖ He sat down on the sofa.
+A2-09-021 A2-11b-13-02 Я {{c1::ложусь::ложиться · я}} в одиннадцать. ‖ I go to bed at eleven.
+A2-09-022 A2-11b-13-03 Она {{c1::встаёт::вставать · она}} в семь. ‖ She gets up at seven.
+## A2::10 Сложные предложения: «который», «что» / «чтобы», «если»
+A2-10-001 A2-08-22-01 Это мой друг, {{c1::который::who · agreement, subject of the clause}} живёт в Москве. ‖ This is my friend who lives in Moscow.
+A2-10-002 A2-08-22-02 Это девушка, {{c1::которая::who · agreement, subject of the clause}} работает со мной. ‖ This is the girl who works with me.
+A2-10-003 A2-08-22-03 Это книга, {{c1::которую::which · agreement, object of the clause}} я читаю. ‖ This is the book I'm reading.
+A2-10-004 A2-08-22-04 (A man speaking) Это город, в {{c1::котором::which · agreement, after в (location)}} я родился. ‖ This is the city where I was born.
+A2-10-005 A2-08-22-05 (A man speaking) Это друг, {{c1::которому::who · agreement, dative (to whom)}} я звонил. ‖ This is the friend I phoned.
+A2-10-006 A2-08-22-06 Это люди, {{c1::которые::who · agreement, subject (plural)}} мне помогли. ‖ These are the people who helped me.
+A2-10-007 A2-08-22-07 (A man speaking) Это фильм, о {{c1::котором::which · agreement, after о}} я говорил. ‖ This is the film I was talking about.
+A2-10-008 NEW Это мой друг, у {{c1::которого::who · agreement, after у}} есть машина. ‖ This is my friend who has a car.
+A2-10-009 A2-08-23-01 Он сказал, {{c1::что::что or чтобы?}} придёт.<br>Он сказал, {{c2::чтобы::что or чтобы?}} мы пришли. ‖ He said he'd come. / He told us to come.
+A2-10-010 A2-08-23-02 (To a man) Я хочу, {{c1::чтобы::что or чтобы?}} ты пришёл. ‖ I want you to come.
+A2-10-011 A2-08-23-03 (A man speaking) Я пришёл, {{c1::чтобы::что or чтобы?}} помочь тебе. ‖ I came to help you.
+A2-10-012 A2-08-23-04 (To a man) Я знаю, {{c1::что::что or чтобы?}} ты занят. ‖ I know you're busy.
+A2-10-013 A2-08-23-05 (A woman speaking) Мама хочет, чтобы я {{c1::позвонила::позвонить · past form after чтобы}} ей. ‖ Mum wants me to call her.
+A2-10-014 A2-08-24-01 Если завтра {{c1::будет::быть · future}} хорошая погода, мы поедем за город. ‖ If the weather's good tomorrow, we'll go to the countryside.
+A2-10-015 A2-08-24-02 Когда я {{c1::приеду::приехать · perfective, future}}, я тебе позвоню. ‖ When I arrive, I'll call you.
+A2-10-016 A2-08-24-03 (A woman speaking) Если ты {{c1::придёшь::прийти · perfective, future}}, я буду рада. ‖ If you come, I'll be glad.
+## A2::11 Сравнение и «свой»
+A2-11-001 A2-09-25-01 Этот фильм {{c1::интереснее::интересный · comparative}}, чем тот. ‖ This film is more interesting than that one.
+A2-11-002 A2-09-25-02 Мой брат {{c1::старше::старый · comparative (age)}} меня. ‖ My brother is older than me.
+A2-11-003 A2-09-25-03 Сегодня погода {{c1::лучше::хороший · comparative}}, чем вчера. ‖ The weather's better today than yesterday.
+A2-11-004 A2-09-25-04 В Москве жизнь {{c1::дороже::дорогой · comparative}}, чем в Казани. ‖ Life in Moscow is more expensive than in Kazan.
+A2-11-005 A2-09-25-05 Говори {{c1::медленнее::медленно · comparative}}, пожалуйста. ‖ Speak more slowly, please.
+A2-11-006 A2-09-25-06 Моя сестра {{c1::младше::молодой · comparative (age)}} меня на два года. ‖ My sister is two years younger than me.
+A2-11-007 A2-09-25-07 Сегодня {{c1::холоднее::холодный · comparative}}, чем вчера. ‖ It's colder today than yesterday.
+A2-11-008 A2-09-25-08 Он выше {{c1::меня::я · genitive after a comparative}}. ‖ He's taller than me.
+A2-11-009 A2-09-25-09 Моя квартира больше {{c1::твоей::твоя · genitive after a comparative}}. ‖ My flat is bigger than yours.
+A2-11-010 A2-09-26-01 Это {{c1::самый::the most · agreement}} высокий дом в городе. ‖ This is the tallest building in the city.
+A2-11-011 A2-09-26-02 Это {{c1::самая::the most · agreement}} красивая улица. ‖ This is the most beautiful street.
+A2-11-012 A2-09-26-03 Мы были в {{c1::самом::the most · agreement, prepositional}} старом музее города. ‖ We were in the city's oldest museum.
+A2-11-013 A2-09-27-01 (His own book) Он читает {{c1::свою::свою or его?}} книгу.<br>(Another man's book) Я читаю {{c2::его::свою or его?}} книгу. ‖ He's reading his (own) book. / I'm reading his book.
+A2-11-014 A2-09-27-02 (Her own mother) Она позвонила {{c1::своей::своей or её?}} маме. ‖ She called her (own) mum.
+A2-11-015 A2-09-27-03 (Another woman's mother) Он позвонил {{c1::её::своей or её?}} маме. ‖ He called her mum.
+A2-11-016 A2-09-27-04 (Their own car) Они продали {{c1::свою::свою or их?}} машину. ‖ They sold their car.
+## A2::12 Выражения времени
+A2-12-001 A2-10-28-01 Я приду {{c1::в понедельник::понедельник · в + accusative (day)}}. ‖ I'll come on Monday.
+A2-12-002 A2-10-28-02 Урок будет {{c1::в среду::среда · в + accusative (day)}}. ‖ The lesson is on Wednesday.
+A2-12-003 A2-10-28-03 Мы познакомились {{c1::в мае::май · в + prepositional (month)}}. ‖ We met in May.
+A2-12-004 A2-10-28-04 (A woman speaking) Я родилась {{c1::в 2000 году::2000 год · в + prepositional (year)}}. ‖ I was born in 2000.
+A2-12-005 A2-10-28-05 Мы были в Сочи {{c1::на прошлой неделе::прошлая неделя · на + prepositional}}. ‖ We were in Sochi last week.
+A2-12-006 A2-10-28-06 Я вернусь {{c1::через час::час · через + accusative (in …)}}. ‖ I'll be back in an hour.
+A2-12-007 A2-10-28-07 Он уехал два года {{c1::назад::ago}}. ‖ He left two years ago.
+A2-12-008 A2-10-28-08 (A man speaking) Я жил в Москве {{c1::неделю::неделя · accusative (duration)}}. ‖ I lived in Moscow for a week.
+A2-12-009 A2-10-28-09 Мы работали {{c1::всю ночь::вся ночь · accusative (duration)}}. ‖ We worked all night.
+A2-12-010 A2-11b-17-01 {{c1::Мы::we (… с братом = my brother and I)}} с братом ходили в кино. ‖ My brother and I went to the cinema.
+A2-12-011 A2-11b-17-02 Я {{c1::живу::жить · я (present for 'have been')}} в Москве уже три года. ‖ I've been living in Moscow for three years.
+A2-12-012 A2-11b-17-03 Он {{c1::уже не::no longer}} работает здесь. ‖ He doesn't work here any more.
+A2-12-013 A2-11b-17-04 Он {{c1::ещё не::not yet}} пришёл. ‖ He hasn't arrived yet.
+A2-12-014 A2-11b-17-05 Я хожу в бассейн два раза {{c1::в неделю::a week (в + accusative)}}. ‖ I go swimming twice a week.
+A2-12-015 A2-11b-18-01 Магазин работает {{c1::с девяти::from nine (с + genitive)}} до шести. ‖ The shop is open from nine to six.
+A2-12-016 A2-11b-18-02 Я работаю {{c1::с понедельника::from Monday (с + genitive)}} по пятницу. ‖ I work Monday to Friday.
+A2-12-017 A2-11b-18-03 Сделай это {{c1::к пяти::by five (к + dative)}} часам. ‖ Have it done by five o'clock.
+A2-12-018 A2-11b-18-04 Который час? — {{c1::Три часа::3 o'clock}}. ‖ What time is it? — Three o'clock.
+A2-12-019 A2-11b-18-05 Что тебе подарить {{c1::на::for (an occasion: … день рождения)}} день рождения? ‖ What shall I get you for your birthday?
+A2-12-020 A2-11b-18-06 Что у нас {{c1::на::for (a meal: … обед)}} обед? ‖ What's for lunch?
+## A2::13 Трудные пары и речевые формулы
+A2-13-001 A2-11-03-01 —Я люблю кофе. —Я {{c1::тоже::тоже or также?}}.<br>Он говорит по-английски, а {{c2::также::тоже or также?}} по-немецки. ‖ 'I love coffee.' 'Me too.' / He speaks English, and German as well.
+A2-13-002 A2-11-04-01 Я играю {{c1::в::в or на?}} футбол.<br>Я играю {{c2::на::в or на?}} гитаре. ‖ I play football. / I play the guitar.
+A2-13-003 A2-11-04-02 Дети играют {{c1::в::в or на?}} шахматы. ‖ The children are playing chess.
+A2-13-004 A2-11b-15-01 У меня {{c1::была::быть · past (собака)}} собака. ‖ I had a dog.
+A2-13-005 A2-11b-15-02 У них {{c1::было::быть · past (много денег)}} много денег. ‖ They had a lot of money.
+A2-13-006 A2-11b-15-03 У меня {{c1::будет::быть · future}} время завтра. ‖ I'll have time tomorrow.
+A2-13-007 A2-11b-15-04 У тебя {{c1::есть::have (у тебя … машина?)}} машина? ‖ Do you have a car?
+A2-13-008 A2-11b-20-01 Мы идём {{c1::в гости::visiting (direction)}}.<br>Вчера мы были {{c2::в гостях::visiting (location)}}. ‖ We're going visiting. / We were visiting friends yesterday.
+A2-13-009 A2-11b-20-02 Он {{c1::спросил::спросить or попросить? · past, он}}, где вокзал.<br>Она {{c2::попросила::спросить or попросить? · past, она}} меня помочь. ‖ He asked where the station was. / She asked me to help.
+A2-13-010 A2-11b-20-03 Мне {{c1::понравился::понравиться · past (фильм, m.)}} фильм. ‖ I liked the film.
+A2-13-011 A2-11b-21-01 {{c1::Не могли бы::could … (polite)}} вы мне помочь? ‖ Could you help me?
+A2-13-012 A2-11b-21-02 {{c1::Не подскажете::could you tell me (polite, two words)}}, где метро? ‖ Could you tell me where the metro is?
+A2-13-013 A2-11b-21-03 {{c1::Будьте добры::would you be so kind}}, счёт. ‖ The bill, please.
+A2-13-014 A2-11b-21-04 {{c1::Идёт::идти · он (weather)}} снег. ‖ It's snowing.
+A2-13-015 A2-11b-21-05 Тебе очень {{c1::идёт::идти · оно (suits)}} это платье. ‖ That dress really suits you.
+## B1::01 Условное наклонение: «бы»
+B1-01-001 B1-01-01-01 (A man speaking) Если бы у меня {{c1::было::быть · past (with бы)}} время, я бы поехал к тебе. ‖ If I had time, I'd come and see you.
+B1-01-002 B1-01-01-02 (A woman speaking) Если бы я знала, я бы {{c1::пришла::прийти · past (with бы)}}. ‖ If I'd known, I would have come.
+B1-01-003 B1-01-01-03 (A man speaking) Я бы {{c1::хотел::хотеть · past (with бы)}} поговорить с вами. ‖ I'd like to speak to you.
+B1-01-004 B1-01-01-04 (Two men talking) Если бы ты {{c1::позвонил::позвонить · past (with бы)}}, я бы тебе помог. ‖ If you'd called, I would have helped you.
+B1-01-005 B1-01-01-05 (A man speaking) На твоём месте я {{c1::бы::conditional particle}} не спешил. ‖ In your place, I wouldn't rush.
+B1-01-006 B1-01-01-06 (To a man) Было бы хорошо, если {{c1::бы::conditional particle}} ты пришёл. ‖ It would be good if you came.
+B1-01-007 B1-01-01-07 (To a man; advice) Ты {{c1::бы::conditional particle}} отдохнул. ‖ You should get some rest.
+B1-01-008 B1-01-02-01 (Real, possible) Если завтра {{c1::будет::быть · future or past (with бы)?}} дождь, мы останемся дома.<br>(Imaginary) Если бы вчера {{c2::был::быть · future or past (with бы)?}} дождь, мы бы остались дома. ‖ If it rains tomorrow, we'll stay at home. / If it had rained yesterday, we would have stayed at home.
+## B1::02 Причастия
+B1-02-001 B1-02-03-01 Человек, {{c1::читающий::читать · present active participle, agreement}} газету, — мой отец. ‖ The man reading the newspaper is my father.
+B1-02-002 B1-02-03-02 Я знаю девушку, {{c1::говорящую::говорить · present active participle, agreement}} по-китайски. ‖ I know a girl who speaks Chinese.
+B1-02-003 B1-02-03-03 Студенты, {{c1::живущие::жить · present active participle, agreement}} в общежитии, платят меньше. ‖ Students living in the hall of residence pay less.
+B1-02-004 B1-02-04-01 Человек, {{c1::написавший::написать · past active participle, agreement}} эту книгу, живёт в Москве. ‖ The man who wrote this book lives in Moscow.
+B1-02-005 B1-02-04-02 (A man speaking) Я встретил друга, {{c1::вернувшегося::вернуться · past active participle, agreement}} из Китая. ‖ I met a friend who'd come back from China.
+B1-02-006 B1-02-04-03 Студентка, {{c1::получившая::получить · past active participle, agreement}} приз, очень рада. ‖ The student who won the prize is delighted.
+B1-02-007 B1-02-05-01 Эта книга {{c1::написана::написать · short passive participle, agreement}} в 1869 году. ‖ This book was written in 1869.
+B1-02-008 B1-02-05-02 Магазин {{c1::закрыт::закрыть · short passive participle, agreement}}. ‖ The shop is closed.
+B1-02-009 B1-02-05-03 Окно {{c1::открыто::открыть · short passive participle, agreement}}. ‖ The window is open.
+B1-02-010 B1-02-05-04 Все билеты {{c1::проданы::продать · short passive participle, agreement}}. ‖ All the tickets are sold.
+B1-02-011 B1-02-05-05 Работа была {{c1::сделана::сделать · short passive participle, agreement}} вовремя. ‖ The work was done on time.
+B1-02-012 B1-02-05-06 Это дом, {{c1::построенный::построить · past passive participle, agreement}} в XIX веке. ‖ This is a house built in the 19th century.
+B1-02-013 B1-02-06-01 Это моя {{c1::любимая::любить · present passive participle, agreement}} книга. ‖ This is my favourite book.
+B1-02-014 B1-02-06-02 {{c1::Уважаемые::уважать · present passive participle, agreement}} коллеги! ‖ Dear colleagues!
+B1-02-015 B1-02-06-03 Проблемы, {{c1::обсуждаемые::обсуждать · present passive participle, agreement}} на конференции, очень важны. ‖ The issues discussed at the conference are very important.
+## B1::03 Деепричастия
+B1-03-001 B1-03-07-01 {{c1::Читая::читать · imperfective verbal adverb (while …ing)}} книгу, он пил чай. ‖ While reading a book, he drank tea.
+B1-03-002 B1-03-07-02 Он слушал музыку, {{c1::делая::делать · imperfective verbal adverb (while …ing)}} уроки. ‖ He listened to music while doing his homework.
+B1-03-003 B1-03-07-03 {{c1::Прочитав::прочитать · perfective verbal adverb (having …ed)}} письмо, она заплакала. ‖ Having read the letter, she burst into tears.
+B1-03-004 B1-03-07-04 (A man speaking) {{c1::Вернувшись::вернуться · perfective verbal adverb (having …ed)}} домой, я сразу лёг спать. ‖ When I got home, I went straight to bed.
+B1-03-005 B1-03-07-05 Она ушла, не {{c1::сказав::сказать · perfective verbal adverb}} ни слова. ‖ She left without saying a word.
+B1-03-006 B1-03-07-06 Он улыбался, {{c1::говоря::говорить · imperfective verbal adverb (while …ing)}} со мной. ‖ He was smiling as he talked to me.
+B1-03-007 B1-03-08-01 (At the same time) {{c1::Гуляя::гуляя or погуляв?}} по парку, мы разговаривали.<br>(After) {{c2::Погуляв::гуляя or погуляв?}} по парку, мы пошли домой. ‖ Walking in the park, we chatted. / After a walk in the park, we went home.
+## B1::04 Вид глагола: тонкости
+B1-04-001 B1-04-09-01 (Not allowed) Сюда нельзя {{c1::входить::входить or войти?}}.<br>(Impossible: it's locked) Дверь закрыта, нельзя {{c2::войти::входить or войти?}}. ‖ You're not allowed in here. / The door's locked; you can't get in.
+B1-04-002 B1-04-09-02 (Not allowed) В музее нельзя {{c1::фотографировать::фотографировать or сфотографировать?}}. ‖ Photography isn't allowed in the museum.
+B1-04-003 B1-04-10-01 Не надо {{c1::покупать::покупать or купить?}} хлеб, у нас есть. ‖ No need to buy bread; we've got some.
+B1-04-004 B1-04-10-02 Не нужно {{c1::звонить::звонить or позвонить?}} ему. ‖ There's no need to call him.
+B1-04-005 B1-04-11-01 (A man speaking; never did it at all) Я не {{c1::читал::читал or прочитал?}} эту книгу.<br>(A man speaking; started but didn't finish) Я не {{c2::прочитал::читал or прочитал?}} книгу до конца. ‖ I haven't read this book. / I didn't finish the book.
+B1-04-006 B1-04-12-01 (Came and has left) Утром к тебе {{c1::приходил::приходил or пришёл?}} Иван.<br>(He's here now) К тебе {{c2::пришёл::приходил or пришёл?}} Иван, он ждёт в коридоре. ‖ Ivan came round to see you this morning. / Ivan's here for you; he's waiting in the hall.
+B1-04-007 B1-04-12-02 (It's shut now, but the room is cold) Кто-то {{c1::открывал::открывал or открыл?}} окно? ‖ Has someone had the window open?
+B1-04-008 B1-10b-11-01 (A man speaking) Я долго искал и наконец {{c1::нашёл::искать · perfective partner, past, я}} ключи. ‖ I searched for ages and finally found my keys.
+B1-04-009 B1-10b-11-02 Кошка {{c1::поймала::ловить · perfective partner, past, она}} мышь. ‖ The cat caught a mouse.
+B1-04-010 B1-10b-11-03 Он перестал {{c1::курить::курить or покурить?}}. ‖ He stopped smoking.
+B1-04-011 B1-10b-11-04 Мне надоело {{c1::ждать::ждать or подождать?}}. ‖ I'm fed up with waiting.
+B1-04-012 B1-10b-11-05 (A man speaking) Я привык рано {{c1::вставать::вставать or встать?}}. ‖ I'm used to getting up early.
+## B1::05 Глаголы движения: пары и приставки
+B1-05-001 B1-05-13-01 (Right now) Я {{c1::несу::нести or носить? · present}} сумку домой. ‖ I'm carrying a bag home.
+B1-05-002 B1-05-13-02 (Every day) Мама {{c1::водит::вести or водить? · present}} сына в школу. ‖ Mum takes her son to school every day.
+B1-05-003 B1-05-13-03 (Right now, by car) Папа {{c1::везёт::везти or возить? · present}} нас в аэропорт. ‖ Dad's driving us to the airport.
+B1-05-004 B1-05-13-04 (Habit) Он каждое утро {{c1::бегает::бежать or бегать? · present}} в парке. ‖ He goes running in the park every morning.
+B1-05-005 B1-05-13-05 (Right now) Самолёт {{c1::летит::лететь or летать? · present}} в Москву. ‖ The plane is flying to Moscow.
+B1-05-006 B1-05-13-06 (Ability, in general) Я хорошо {{c1::плаваю::плыть or плавать? · present}}. ‖ I'm a good swimmer.
+B1-05-007 B1-05-13-07 (Right now, in a hurry) Куда ты {{c1::бежишь::бежать or бегать? · present}}? ‖ Where are you running off to?
+B1-05-008 B1-05-13-08 (Often) Я часто {{c1::летаю::лететь or летать? · present}} в Европу. ‖ I often fly to Europe.
+B1-05-009 B1-05-14-01 Он {{c1::подошёл::подойти · past}} к окну. ‖ He went up to the window.
+B1-05-010 B1-05-14-02 (A woman speaking) Я {{c1::отошла::отойти · past}} от двери. ‖ I stepped away from the door.
+B1-05-011 B1-05-14-03 Мы {{c1::перешли::перейти · past}} улицу. ‖ We crossed the street.
+B1-05-012 B1-05-14-04 Автобус {{c1::проехал::проехать · past}} мимо остановки. ‖ The bus drove past the stop.
+B1-05-013 B1-05-14-05 Мы {{c1::дошли::дойти · past}} до парка за десять минут. ‖ We got to the park in ten minutes.
+B1-05-014 B1-05-14-06 Мы {{c1::обошли::обойти · past}} весь город. ‖ We walked all round the town.
+B1-05-015 B1-10b-14-01 {{c1::Принеси::bring (при- + нести) · imperative, ты}} воды. ‖ Bring some water.
+B1-05-016 B1-10b-14-02 {{c1::Отвези::take (by vehicle; от- + везти) · imperative, ты}} ребёнка в школу. ‖ Drive the child to school.
+B1-05-017 B1-10b-14-03 {{c1::Вынеси::take out (вы- + нести) · imperative, ты}} мусор. ‖ Take the rubbish out.
+B1-05-018 B1-10b-14-04 Кто {{c1::унёс::take away (у- + нести) · past, он}} ключи? ‖ Who's taken the keys?
+B1-05-019 B1-10b-14-05 Он всегда {{c1::приезжает::arrive (by vehicle) · imperfective, он}} поздно. ‖ He always arrives late.
+B1-05-020 B1-10b-14-06 Поезд {{c1::уходит::leave · imperfective, он}} в пять. ‖ The train leaves at five.
+## B1::06 Падежи и предлоги
+B1-06-001 B1-06-15-01 Я пью кофе без {{c1::сахара::сахар · genitive}}. ‖ I drink coffee without sugar.
+B1-06-002 B1-06-15-02 Это подарок для {{c1::друга::друг · genitive}}. ‖ This is a present for a friend.
+B1-06-003 B1-06-15-03 После {{c1::работы::работа · genitive}} я иду в спортзал. ‖ After work I go to the gym.
+B1-06-004 B1-06-15-04 Я буду ждать до {{c1::вечера::вечер · genitive}}. ‖ I'll wait until the evening.
+B1-06-005 B1-06-15-05 Около {{c1::дома::дом · genitive}} есть парк. ‖ There's a park near the house.
+B1-06-006 B1-06-15-06 Все пришли, кроме {{c1::Ивана::Иван · genitive}}. ‖ Everyone came except Ivan.
+B1-06-007 B1-06-15-07 Мы не поехали из-за {{c1::дождя::дождь · genitive}}. ‖ We didn't go because of the rain.
+B1-06-008 B1-06-15-08 Я против {{c1::этого::этот · genitive}} плана. ‖ I'm against this plan.
+B1-06-009 B1-10b-15-01 Я схожу {{c1::за хлебом::to get bread (за + instrumental)}}. ‖ I'll pop out for bread.
+B1-06-010 B1-10b-15-02 Я заплатил {{c1::за билет::for the ticket (за + accusative)}}. ‖ I paid for the ticket.
+B1-06-011 B1-10b-15-03 Приходите {{c1::за час::an hour (за … до = before)}} до начала. ‖ Come an hour before the start.
+B1-06-012 B1-10b-15-04 Мы прошли {{c1::мимо::past (+ genitive)}} дома. ‖ We walked past the house.
+B1-06-013 B1-10b-15-05 Мы гуляли {{c1::вдоль::along (+ genitive)}} реки. ‖ We walked along the river.
+B1-06-014 B1-10b-15-06 Аптека {{c1::напротив::opposite (+ genitive)}} школы. ‖ The chemist's is opposite the school.
+B1-06-015 B1-10b-15-07 Мы бегали {{c1::вокруг::around (+ genitive)}} озера. ‖ We ran around the lake.
+B1-06-016 B1-10b-15-08 Перейди {{c1::через::across (+ accusative)}} улицу. ‖ Cross the street.
+B1-06-017 B1-06-16-01 Мой день рождения {{c1::пятого::пятый · genitive (on the …)}} марта. ‖ My birthday is on 5 March.
+B1-06-018 B1-06-16-02 Сегодня {{c1::первое::первый · nominative neuter (date)}} января. ‖ Today is the first of January.
+B1-06-019 B1-06-16-03 Мы приедем {{c1::двадцатого::двадцатый · genitive (on the …)}} июня. ‖ We'll arrive on 20 June.
+B1-06-020 B1-06-17-01 {{c1::Летом::лето · instrumental (time)}} мы ездим на море. ‖ In summer we go to the seaside.
+B1-06-021 B1-06-17-02 Я работаю {{c1::вечером::вечер · instrumental (time)}}. ‖ I work in the evenings.
+B1-06-022 B1-06-17-03 {{c1::Зимой::зима · instrumental (time)}} здесь очень холодно. ‖ It's very cold here in winter.
+B1-06-023 B1-06-17-04 Позвони мне {{c1::утром::утро · instrumental (time)}}. ‖ Call me in the morning.
+B1-06-024 B1-06-18-01 (Direction) Мы едем {{c1::за город::город · за + accusative or instrumental?}}.<br>(Location) Мы живём {{c2::за городом::город · за + accusative or instrumental?}}. ‖ We're going out of town. / We live out of town.
+B1-06-025 B1-06-18-02 (Direction) Кошка залезла {{c1::под кровать::кровать · под + accusative or instrumental?}}.<br>(Location) Кошка сидит {{c2::под кроватью::кровать · под + accusative or instrumental?}}. ‖ The cat crawled under the bed. / The cat is sitting under the bed.
+B1-06-026 B1-06-18-03 (Direction) Положи книгу {{c1::на стол::стол · на + accusative or prepositional?}}.<br>(Location) Книга уже {{c2::на столе::стол · на + accusative or prepositional?}}. ‖ Put the book on the table. / The book's already on the table.
+B1-06-027 B1-10b-16-01 Мы отдыхали {{c1::на::в or на?}} Кавказе.<br>Мы катались на лыжах {{c2::в::в or на?}} Альпах. ‖ We had a holiday in the Caucasus. / We went skiing in the Alps.
+B1-06-028 B1-10b-16-02 Он живёт {{c1::на::в or на?}} севере. ‖ He lives in the north.
+B1-06-029 B1-10b-16-03 Я жду тебя {{c1::на::в or на?}} вокзале. ‖ I'm waiting for you at the station.
+B1-06-030 B1-10-03-01 (Intended stay) Он приехал {{c1::на неделю::неделя · на + accusative or accusative alone?}}.<br>(Actual duration) Он жил у нас {{c2::неделю::неделя · на + accusative or accusative alone?}}. ‖ He's come for a week. / He stayed with us for a week.
+B1-06-031 B1-10-03-02 (Lend it for a while) Дай мне книгу {{c1::на два дня::два дня · на + accusative or accusative alone?}}. ‖ Lend me the book for two days.
+B1-06-032 NEW (Colloquial, + accusative) Расскажи мне {{c1::про::о or про?}} свою поездку. ‖ Tell me about your trip.
+B1-06-033 B1-06-19-01 Ребёнок боится {{c1::темноты::темнота · genitive}}. ‖ The child is afraid of the dark.
+B1-06-034 B1-06-19-02 Я учусь {{c1::музыке::музыка · dative}}. ‖ I'm learning music.
+B1-06-035 B1-06-19-03 Мы готовимся к {{c1::экзамену::экзамен · dative}}. ‖ We're preparing for the exam.
+B1-06-036 B1-06-19-04 Он жалуется на {{c1::погоду::погода · accusative}}. ‖ He's complaining about the weather.
+B1-06-037 B1-06-19-05 Чем Москва отличается от {{c1::Петербурга::Петербург · genitive}}? ‖ How is Moscow different from St Petersburg?
+B1-06-038 B1-06-19-06 Мы ждём {{c1::ответа::ответ · genitive (abstract)}}. ‖ We're waiting for an answer.
+## B1::07 Глаголы на «-ся», неопределённо-личные и отрицательные конструкции
+B1-07-001 B1-07-20-01 Мы {{c1::встречаемся::встречаться · present (each other)}} каждую субботу. ‖ We meet up every Saturday.
+B1-07-002 B1-07-20-02 Этот дом {{c1::строится::строить · -ся (passive)}} уже три года. ‖ This building has been under construction for three years.
+B1-07-003 B1-07-20-03 Мне сегодня не {{c1::спится::спать · -ся (impersonal: can't …)}}. ‖ I can't sleep tonight.
+B1-07-004 B1-07-20-04 Мне {{c1::хочется::хотеть · -ся (impersonal: feel like)}} пить. ‖ I feel like a drink.
+B1-07-005 B1-07-20-05 Как {{c1::пишется::писать · -ся (passive: how is … spelt)}} это слово? ‖ How do you spell this word?
+B1-07-006 B1-10b-10-01 Я {{c1::начинаю::начинать · я}} урок.<br>Урок {{c2::начинается::начинаться · он}} в девять. ‖ I'm starting the lesson. / The lesson starts at nine.
+B1-07-007 B1-10b-10-02 Дверь медленно {{c1::открылась::открыться · past, она}}. ‖ The door slowly opened.
+B1-07-008 B1-10b-10-03 Он {{c1::вернул::вернуть · past, он}} книгу.<br>Мы {{c2::вернулись::вернуться · past, мы}} домой. ‖ He returned the book. / We came back home.
+B1-07-009 B1-10b-12-01 Здесь не {{c1::курят::курить · они (indefinite-personal)}}. ‖ There's no smoking here.
+B1-07-010 B1-10b-12-02 Мне {{c1::сказали::сказать · past, они (someone told me)}}, что ты болен. ‖ I was told you were ill.
+B1-07-011 B1-10b-12-03 Тебя {{c1::зовут::звать · они (… к телефону)}} к телефону. ‖ There's a phone call for you.
+B1-07-012 B1-10b-12-04 Мне не {{c1::хватает::хватать · (не … + genitive)}} времени. ‖ I don't have enough time.
+B1-07-013 B1-10b-12-05 Денег не {{c1::хватило::хватить · past}}. ‖ There wasn't enough money.
+B1-07-014 B1-10b-12-06 {{c1::Хватит::enough! (+ infinitive)}} спорить! ‖ Stop arguing!
+B1-07-015 B1-10b-13-01 Вчера не {{c1::было::быть · past (negated, + genitive)}} урока. ‖ There was no lesson yesterday.
+B1-07-016 B1-10b-13-02 Завтра не {{c1::будет::быть · future (negated, + genitive)}} дождя. ‖ There won't be any rain tomorrow.
+B1-07-017 B1-10b-13-03 Что мне {{c1::делать::do · infinitive (what should I…?)}}? ‖ What should I do?
+B1-07-018 B1-10b-13-04 Я часто {{c1::бываю::бывать · я}} в Москве. ‖ I'm often in Moscow.
+B1-07-019 B1-10b-13-05 Так {{c1::бывает::бывать · оно (it happens)}}. ‖ These things happen.
+B1-07-020 B1-10b-13-06 Вы {{c1::бывали::бывать · past, вы}} в Париже? ‖ Have you ever been to Paris?
+B1-07-021 B1-07-21-01 Я {{c1::ничего::ничего or нечего?}} не знаю.<br>Мне {{c2::нечего::ничего or нечего?}} делать. ‖ I don't know anything. / I've got nothing to do.
+B1-07-022 B1-07-21-02 Он {{c1::никогда::никогда or некогда?}} не опаздывает.<br>Мне {{c2::некогда::никогда or некогда?}} читать. ‖ He's never late. / I've got no time to read.
+B1-07-023 B1-07-21-03 Мы {{c1::нигде::нигде or негде?}} не были.<br>Нам {{c2::негде::нигде or негде?}} жить. ‖ We haven't been anywhere. / We've got nowhere to live.
+B1-07-024 B1-07-21-04 {{c1::Никто::nobody}} не пришёл. ‖ Nobody came.
+## B1::08 «-то» и «-нибудь», «ли», союзы
+B1-08-001 B1-08-22-01 (Someone did) {{c1::Кто-то::кто-то or кто-нибудь?}} звонил тебе.<br>(Did anyone?) {{c2::Кто-нибудь::кто-то or кто-нибудь?}} звонил? ‖ Someone called you. / Did anyone call?
+B1-08-002 B1-08-22-02 (Anywhere at all) Давай пойдём {{c1::куда-нибудь::куда-то or куда-нибудь?}} вечером. ‖ Let's go somewhere this evening.
+B1-08-003 B1-08-22-03 (Somewhere specific, unknown) Он {{c1::куда-то::куда-то or куда-нибудь?}} ушёл. ‖ He's gone off somewhere.
+B1-08-004 B1-08-22-04 (Anything at all) Хочешь {{c1::что-нибудь::что-то or что-нибудь?}} выпить? ‖ Would you like something to drink?
+B1-08-005 B1-08-22-05 (A man speaking; something specific) Я {{c1::что-то::что-то or что-нибудь?}} слышал. ‖ I heard something.
+B1-08-006 B1-08-23-01 Он спросил, {{c1::придёт ли::прийти · future + ли (whether)}} она. ‖ He asked whether she'd come.
+B1-08-007 B1-08-23-02 Я не знаю, {{c1::есть ли::быть (есть) · + ли (whether)}} у него время. ‖ I don't know whether he has time.
+B1-08-008 B1-08-23-03 Спроси, {{c1::можно ли::можно · + ли (whether)}} войти. ‖ Ask whether we can come in.
+B1-08-009 B1-08-23-04 (Condition) {{c1::Если::если or ли?}} он придёт, позвони мне.<br>(Whether) Я не знаю, придёт {{c2::ли::если or ли?}} он. ‖ If he comes, call me. / I don't know whether he'll come.
+B1-08-010 B1-08-24-01 {{c1::Хотя::although}} было холодно, мы пошли гулять. ‖ Although it was cold, we went for a walk.
+B1-08-011 B1-08-24-02 Мы пошли гулять, {{c1::несмотря на::despite (+ accusative)}} дождь. ‖ We went for a walk despite the rain.
+B1-08-012 B1-08-24-03 Он пришёл на работу, {{c1::несмотря на то что::despite the fact that}} был болен. ‖ He came to work even though he was ill.
+B1-08-013 B1-08-24-04 {{c1::Так как::since (formal)}} шёл дождь, мы остались дома. ‖ Since it was raining, we stayed at home.
+B1-08-014 B1-08-24-05 {{c1::Чем::the more}} больше читаешь, {{c2::тем::the more (second half)}} больше знаешь. ‖ The more you read, the more you know.
+B1-08-015 B1-10b-18-01 Подожди, {{c1::пока::until (… я не вернусь)}} я не вернусь. ‖ Wait until I get back.
+B1-08-016 B1-10b-18-02 {{c1::Как только::as soon as}} он придёт, начнём. ‖ As soon as he arrives, we'll start.
+B1-08-017 B1-10b-18-03 {{c1::Прежде чем::before (+ infinitive)}} отвечать, подумай. ‖ Think before you answer.
+B1-08-018 B1-10b-18-04 {{c1::После того как::after (+ clause)}} он ушёл, стало тихо. ‖ After he left, it went quiet.
+B1-08-019 B1-10b-18-05 {{c1::С тех пор как::since (+ clause)}} мы переехали, всё изменилось. ‖ Everything has changed since we moved.
+B1-08-020 B1-10b-19-01 Шёл дождь, {{c1::так что::so (result)}} мы остались дома. ‖ It was raining, so we stayed in.
+B1-08-021 B1-10b-19-02 Одевайся теплее, {{c1::а то::or else}} замёрзнешь. ‖ Wrap up warm or you'll freeze.
+B1-08-022 B1-10b-19-03 Я знаю {{c1::не только::not only (… но и)}} русский, но и китайский. ‖ I know not only Russian but also Chinese.
+B1-08-023 B1-10b-19-04 Позвони мне {{c1::либо::either (… завтра, … в пятницу)}} завтра, либо в пятницу. ‖ Call me either tomorrow or on Friday.
+B1-08-024 B1-10b-19-05 Я не знаю {{c1::ни::neither (… его, … её)}} его, ни её. ‖ I know neither him nor her.
+B1-08-025 B1-10b-19-06 {{c1::По-моему::in my opinion}}, это ошибка. ‖ In my opinion, it's a mistake.
+B1-08-026 B1-10b-19-07 {{c1::К сожалению::unfortunately}}, я не смогу прийти. ‖ Unfortunately I won't be able to come.
+## B1::09 Местоимения: «друг друга», «сам», «каждый», неопределённые
+B1-09-001 B1-09-25-01 Они любят {{c1::друг друга::each other (accusative)}}. ‖ They love each other.
+B1-09-002 B1-09-25-02 Мы помогаем {{c1::друг другу::each other (dative)}}. ‖ We help each other.
+B1-09-003 B1-09-25-03 Они часто говорят {{c1::друг о друге::each other (о + prepositional)}}. ‖ They often talk about each other.
+B1-09-004 B1-09-25-04 Они поссорились {{c1::друг с другом::each other (с + instrumental)}}. ‖ They fell out with each other.
+B1-09-005 B1-09-26-01 (A man speaking) Я сделал это {{c1::сам::myself (by myself) · agreement}}. ‖ I did it myself.
+B1-09-006 B1-09-26-02 (A woman speaking) Я {{c1::сама::myself · agreement}} всё приготовила. ‖ I cooked everything myself.
+B1-09-007 B1-09-26-03 Дети всё сделали {{c1::сами::themselves · agreement}}. ‖ The children did it all themselves.
+B1-09-008 B1-10-04-01 {{c1::Каждый::each / every}} день я бегаю. ‖ I go running every day.
+B1-09-009 B1-10-04-02 Возьми {{c1::любую::any (whichever) · agreement}} книгу. ‖ Take any book you like.
+B1-09-010 B1-10-04-03 Тут продают {{c1::всякие::all kinds of · agreement}} вещи. ‖ They sell all sorts of things here.
+B1-09-011 B1-10b-09-01 Я был у {{c1::него::он · genitive (after у)}}, но не у {{c2::его::his (possessive)}} сестры. ‖ I was at his place, but not at his sister's.
+B1-09-012 B1-10b-09-02 Ты говорил с {{c1::кем-нибудь::anyone · instrumental}}? ‖ Did you talk to anyone?
+B1-09-013 B1-10b-09-03 (A man speaking) Я {{c1::кому-то::someone · dative}} звонил, но забыл кому. ‖ I called someone, but I forget who.
+B1-09-014 B1-10b-09-04 Мне {{c1::не с кем::no one to … with}} поговорить. ‖ I have no one to talk to.
+B1-09-015 B1-10b-09-05 (A man speaking) Я {{c1::ни с кем::with no one}} не говорил. ‖ I didn't talk to anyone.
+B1-09-016 B1-10b-09-06 {{c1::Не о чем::nothing to … about}} беспокоиться. ‖ There's nothing to worry about.
+B1-09-017 B1-10b-09-07 {{c1::Некого::no one (to …)}} спросить. ‖ There's no one to ask.
+B1-09-018 B1-10b-09-08 Он {{c1::ни разу::not once}} там не был. ‖ He's never once been there.
+## B1::10 Числительные
+B1-10-001 B1-09-27-01 Я живу с {{c1::двумя::два · instrumental}} друзьями. ‖ I live with two friends.
+B1-10-002 B1-09-27-02 Я приду около {{c1::трёх::три · genitive}} часов. ‖ I'll come at about three.
+B1-10-003 B1-09-27-03 (A man speaking) Я написал {{c1::двум::два · dative}} друзьям. ‖ I wrote to two friends.
+B1-10-004 B1-09-27-04 {{c1::Обе::both · feminine}} сестры живут в Москве. ‖ Both sisters live in Moscow.
+B1-10-005 B1-09-27-05 {{c1::Оба::both · masculine}} брата работают в банке. ‖ Both brothers work at a bank.
+B1-10-006 B1-09-27-06 Магазин работает до {{c1::пяти::пять · genitive}} часов. ‖ The shop is open until five.
+B1-10-007 B1-09-27-07 (A man speaking) Я был там с {{c1::пятью::пять · instrumental}} друзьями. ‖ I was there with five friends.
+B1-10-008 B1-10b-05-01 У нас два {{c1::больших::большой · after два (дома)}} дома. ‖ We have two big houses.
+B1-10-009 B1-10b-05-02 У нас две {{c1::большие::большой · after две (комнаты)}} комнаты. ‖ We have two big rooms.
+B1-10-010 B1-10b-05-03 В группе три {{c1::новых::новый · after три (студента)}} студента. ‖ There are three new students in the group.
+B1-10-011 B1-10b-05-04 В группе двадцать один {{c1::студент::student · after двадцать один}}. ‖ There are twenty-one students in the group.
+B1-10-012 B1-10b-05-05 Мне двадцать один {{c1::год::year · after двадцать один}}. ‖ I'm twenty-one.
+B1-10-013 B1-10b-05-06 (A woman speaking) Я живу {{c1::одна::alone · feminine}}. ‖ I live alone.
+B1-10-014 B1-10b-05-07 У меня только {{c1::одни::one · plural-only noun (часы)}} часы. ‖ I've only got one watch.
+B1-10-015 B1-10b-06-01 Мы живём в {{c1::двадцать первом::21st · prepositional (… веке)}} веке. ‖ We live in the 21st century.
+B1-10-016 B1-10b-06-02 Он родился в {{c1::тысяча девятьсот девяносто пятом::1995 · prepositional (… году)}} году. ‖ He was born in 1995.
+B1-10-017 B1-10b-06-03 Сейчас {{c1::без пятнадцати::quarter to (… пять)}} пять. ‖ It's quarter to five.
+B1-10-018 B1-10b-06-04 Встретимся {{c1::в половине::at half (… пятого = 4:30)}} пятого. ‖ Let's meet at half past four.
+B1-10-019 B1-10b-06-05 Сейчас пять минут {{c1::шестого::of the sixth hour (5:05)}}. ‖ It's five past five.
+## B1::11 Существительные: трудные формы, имена и отчества
+B1-11-001 B1-10b-01-01 Пришло пять {{c1::человек::person · genitive plural after пять}}. ‖ Five people came.
+B1-11-002 B1-10b-01-02 Сколько {{c1::раз::time (occasion) · genitive plural}} ты там был? ‖ How many times have you been there?
+B1-11-003 B1-10b-01-03 Купи пару {{c1::носков::носки · genitive plural}}. ‖ Buy a pair of socks.
+B1-11-004 B1-10b-01-04 У него пять пар {{c1::сапог::сапоги · genitive plural}}. ‖ He has five pairs of boots.
+B1-11-005 B1-10b-02-01 У нас нет {{c1::стульев::стулья · genitive plural}}. ‖ We have no chairs.
+B1-11-006 B1-10b-02-02 В парке много {{c1::деревьев::деревья · genitive plural}}. ‖ There are lots of trees in the park.
+B1-11-007 B1-10b-02-03 У него трое {{c1::сыновей::сыновья · genitive plural}}. ‖ He has three sons.
+B1-11-008 B1-10b-02-04 В группе много {{c1::англичан::англичанин · genitive plural}}. ‖ There are lots of English people in the group.
+B1-11-009 B1-10b-02-05 {{c1::Граждане::гражданин · plural}} пассажиры! ‖ Dear passengers!
+B1-11-010 B1-10b-03-01 Что значит буква в его {{c1::имени::имя · prepositional}}? ‖ What does the letter in his name mean?
+B1-11-011 B1-10b-03-02 У них красивые {{c1::имена::имя · plural}}. ‖ They have beautiful names.
+B1-11-012 B1-10b-03-03 Я не помню столько {{c1::имён::имя · genitive plural}}. ‖ I can't remember so many names.
+B1-11-013 B1-10b-04-01 (About a woman) Это {{c1::моя::my · agreement (коллега = a woman)}} коллега. ‖ This is my colleague.
+B1-11-014 B1-10b-04-02 Он у нас большой {{c1::умница::clever person (common gender)}}. ‖ He's a really clever boy.
+B1-11-015 B1-10b-20-01 Я говорил с {{c1::Иваном Петровичем::Иван Петрович · instrumental}}. ‖ I spoke with Ivan Petrovich.
+B1-11-016 B1-10b-20-02 Позвони {{c1::Марии Ивановне::Мария Ивановна · dative}}. ‖ Call Maria Ivanovna.
+B1-11-017 B1-10b-20-03 Его отца зовут Сергей, значит, он Иван {{c1::Сергеевич::patronymic (son of Сергей)}}. ‖ His father is Sergei, so he's Ivan Sergeyevich.
+## B1::12 Степени сравнения
+B1-12-001 B1-10b-07-01 Эта гора {{c1::выше::высокий · comparative}}. ‖ This mountain is higher.
+B1-12-002 B1-10b-07-02 Наш дом {{c1::ближе::близкий · comparative}} к центру. ‖ Our house is closer to the centre.
+B1-12-003 B1-10b-07-03 Здесь {{c1::дешевле::дешёвый · comparative}}. ‖ It's cheaper here.
+B1-12-004 B1-10b-07-04 Так {{c1::проще::простой · comparative}}. ‖ It's simpler that way.
+B1-12-005 B1-10b-07-05 Говорите {{c1::тише::тихий · comparative}}! ‖ Speak more quietly!
+B1-12-006 B1-10b-07-06 Приходи {{c1::позже::поздно · comparative}}. ‖ Come later.
+B1-12-007 B1-10b-07-07 Это задание {{c1::легче::лёгкий · comparative}}. ‖ This task is easier.
+B1-12-008 B1-10b-07-08 Здесь теплее, {{c1::чем::than (before a phrase)}} в Москве. ‖ It's warmer here than in Moscow.
+B1-12-009 B1-10b-07-09 Он старше меня {{c1::на два года::by two years (на + accusative)}}. ‖ He's two years older than me.
+B1-12-010 B1-10b-08-01 Она поёт {{c1::лучше всех::best of all (comparative + всех)}}. ‖ She sings best of all.
+B1-12-011 B1-10b-08-02 {{c1::Больше всего::most of all}} я люблю чай. ‖ Most of all I love tea.
+B1-12-012 B1-10b-08-03 Это {{c1::более::more (+ adjective)}} интересный вариант. ‖ This is a more interesting option.
+B1-12-013 B1-10b-08-04 Это {{c1::наиболее::most (formal)}} важный вопрос. ‖ This is the most important question.
+B1-12-014 B1-10b-08-05 Она {{c1::такая же::just as (… умная, как)}} умная, как мама. ‖ She's just as clever as her mum.
+## B1::13 Управление глаголов и лексические пары
+B1-13-001 B1-10-01-01 Моя сестра {{c1::учится::учить, учиться, изучать or заниматься?}} в школе. ‖ My sister goes to school.
+B1-13-002 B1-10-01-02 Я {{c1::учу::учить, учиться, изучать or заниматься?}} новые слова каждый день. ‖ I learn new words every day.
+B1-13-003 B1-10-01-03 Он {{c1::изучает::учить, учиться, изучать or заниматься?}} историю России. ‖ He studies Russian history.
+B1-13-004 B1-10-01-04 Вечером я {{c1::занимаюсь::учить, учиться, изучать or заниматься?}} в библиотеке. ‖ In the evenings I study in the library.
+B1-13-005 B1-10-01-05 Она {{c1::учит::учить, учиться, изучать or заниматься?}} детей музыке. ‖ She teaches children music.
+B1-13-006 B1-10-02-01 Я {{c1::умею::знать, уметь or мочь?}} плавать. ‖ I can swim (I know how).
+B1-13-007 B1-10-02-02 Сегодня я не {{c1::могу::знать, уметь or мочь?}} плавать: у меня болит рука. ‖ I can't swim today: my arm hurts.
+B1-13-008 B1-10-02-03 Я {{c1::знаю::знать, уметь or мочь?}}, где он живёт. ‖ I know where he lives.
+B1-13-009 B1-10b-17-01 Поздравляю {{c1::с::with (поздравлять … + instrumental)}} днём рождения! ‖ Happy birthday!
+B1-13-010 B1-10b-17-02 Извинись {{c1::перед::to (извиниться … + instrumental)}} ней. ‖ Apologise to her.
+B1-13-011 B1-10b-17-03 Это зависит {{c1::от::on (зависеть … + genitive)}} погоды. ‖ It depends on the weather.
+B1-13-012 B1-10b-17-04 Я надеюсь {{c1::на::for (надеяться … + accusative)}} помощь. ‖ I'm hoping for help.
+B1-13-013 B1-10b-17-05 Не сердись {{c1::на::with (сердиться … + accusative)}} меня. ‖ Don't be cross with me.
+B1-13-014 B1-10b-17-06 Я участвую {{c1::в::in (участвовать … + prepositional)}} конкурсе. ‖ I'm taking part in a competition.
+B1-13-015 B1-10b-17-07 Ты привыкнешь {{c1::к::to (привыкнуть … + dative)}} новой работе. ‖ You'll get used to the new job.
+B1-13-016 B1-10b-17-08 Как ты относишься {{c1::к::to (относиться … + dative)}} этому? ‖ How do you feel about this?
+B1-13-017 B1-10b-17-09 Я скучаю {{c1::по тебе::for you (скучать по + dative)}}. ‖ I miss you.
+## B2::01 Глаголы движения: переносные и особые значения
+B2-01-001 B2-01-01-01 Я {{c1::схожу::сходить · perfective, future (go and come back)}} в магазин за хлебом. ‖ I'll pop to the shop for some bread.
+B2-01-002 B2-01-01-02 {{c1::Зайди::зайти · ты, imperative (drop in)}} ко мне вечером. ‖ Drop by this evening.
+B2-01-003 B2-01-01-03 Гости уже {{c1::разошлись::разойтись · past (go separate ways)}}. ‖ The guests have all gone home.
+B2-01-004 B2-01-01-04 С тех пор {{c1::прошло::пройти · past (of time)}} три года. ‖ Three years have passed since then.
+B2-01-005 B2-01-01-05 Давай {{c1::перейдём::перейти · мы, let's}} на «ты». ‖ Let's switch to ты.
+B2-01-006 B2-01-01-06 Мы {{c1::съездили::съездить · past (went and came back)}} на выходные в Казань. ‖ We had a weekend trip to Kazan.
+B2-01-007 B2-01-02-01 Она {{c1::вышла замуж::вышла замуж or женился?}} за врача.<br>Он {{c2::женился::вышла замуж or женился?}} на учительнице. ‖ She married a doctor. / He married a teacher.
+B2-01-008 B2-01-02-02 Они {{c1::поженились::пожениться · past}} в прошлом году. ‖ They got married last year.
+B2-01-009 B2-11b-05-01 Мальчик {{c1::лезет::лезть · он}} на дерево. ‖ The boy is climbing the tree.
+B2-01-010 B2-11b-05-02 Змея медленно {{c1::ползёт::ползти · она}}. ‖ The snake is crawling slowly.
+B2-01-011 B2-11b-05-03 Он {{c1::тащит::тащить · он}} тяжёлый чемодан. ‖ He's dragging a heavy suitcase.
+B2-01-012 B2-11b-05-04 Солнце уже {{c1::взошло::rise (вз- + идти) · past, оно}}. ‖ The sun has already risen.
+B2-01-013 B2-11b-05-05 Он {{c1::сошёл::get off (с- + идти) · past, он}} с поезда. ‖ He got off the train.
+B2-01-014 B2-11b-05-06 Гости {{c1::съехались::gather (с- + ехать … -ся) · past, они}}. ‖ The guests have gathered.
+B2-01-015 B2-11b-05-07 (A mixed group speaking) Мы {{c1::походили::walk around a while (по- + ходить) · past, мы}} по магазинам. ‖ We wandered round the shops for a bit.
+B2-01-016 B2-11b-05-08 Он {{c1::объездил::travel all over (об- + ездить) · past, он}} всю страну. ‖ He's travelled all over the country.
+## B2::02 Вид глагола: сложные случаи
+B2-02-001 B2-02-03-01 (An offer) Ты {{c1::будешь пить::пить or выпить? · future}} чай? ‖ Would you like some tea?
+B2-02-002 B2-02-03-02 (An offer) Вы {{c1::будете заказывать::заказывать or заказать? · future}}? ‖ Are you ready to order?
+B2-02-003 B2-02-04-01 Я не {{c1::успею::успеть · perfective, future}} закончить к пятнице. ‖ I won't manage to finish by Friday.
+B2-02-004 B2-02-04-02 Он этого не {{c1::поймёт::понять · perfective, future}}. ‖ He won't (be able to) understand that.
+B2-02-005 B2-02-04-03 Без карты ты не {{c1::найдёшь::найти · perfective, future}} дорогу. ‖ You won't find the way without a map.
+B2-02-006 B2-02-05-01 Уже поздно, пора {{c1::идти::идти or пойти?}}. ‖ It's late; time to go.
+B2-02-007 B2-02-05-02 (A man speaking) Я успел {{c1::купить::покупать or купить?}} билеты. ‖ I managed to buy the tickets in time.
+B2-02-008 B2-02-05-03 Не стоит {{c1::волноваться::волноваться or взволноваться?}}. ‖ There's no point worrying.
+B2-02-009 B2-02-05-04 Нам удалось {{c1::решить::решать or решить?}} эту проблему. ‖ We managed to solve this problem.
+B2-02-010 B2-11-01-01 Не {{c1::забудь::забыть · ты, imperative (warning)}} ключи! ‖ Don't forget your keys!
+B2-02-011 B2-11-01-02 Не {{c1::опоздай::опоздать · ты, imperative (warning)}} на поезд! ‖ Don't miss the train!
+B2-02-012 B2-11-01-03 Осторожно, не {{c1::упади::упасть · ты, imperative (warning)}}! ‖ Careful, don't fall!
+## B2::03 «Удаться», «прийтись», «стоить», «следовать»
+B2-03-001 B2-03-07-01 Мне {{c1::удалось::удаться · past (managed to)}} купить билеты. ‖ I managed to get tickets.
+B2-03-002 B2-03-07-02 Нам {{c1::пришлось::прийтись · past (had to)}} уйти рано. ‖ We had to leave early.
+B2-03-003 B2-03-07-03 Мне {{c1::придётся::прийтись · future (will have to)}} работать в субботу. ‖ I'll have to work on Saturday.
+B2-03-004 B2-03-07-04 Этот фильм {{c1::стоит::стоить · worth (+ infinitive)}} посмотреть. ‖ This film is worth seeing.
+B2-03-005 B2-03-07-05 Вам {{c1::следует::следовать · should (formal)}} обратиться к врачу. ‖ You should see a doctor.
+## B2::04 Причастия, деепричастия и страдательный залог
+B2-04-001 B2-04-08-01 Мы говорили о {{c1::прочитанной::прочитать · past passive participle, prepositional}} книге. ‖ We talked about the book we'd read.
+B2-04-002 B2-04-08-02 Я познакомился с {{c1::приехавшими::приехать · past active participle, instrumental plural}} гостями. ‖ I met the guests who had arrived.
+B2-04-003 B2-04-08-03 Это письмо от {{c1::работающего::работать · present active participle, genitive}} в Москве друга. ‖ This letter is from a friend who works in Moscow.
+B2-04-004 B2-04-09-01 {{c1::Будучи::быть · verbal adverb (being)}} студентом, он работал по ночам. ‖ As a student, he worked nights.
+B2-04-005 B2-04-09-02 {{c1::Будучи::быть · verbal adverb (being)}} врачом, она знала, что делать. ‖ Being a doctor, she knew what to do.
+B2-04-006 B2-04-10-01 (In progress) Сейчас этот вопрос {{c1::решается::решаться or решён?}}.<br>(Done) Вопрос уже {{c2::решён::решаться or решён?}}. ‖ This issue is being decided now. / The issue has already been decided.
+B2-04-007 B2-04-10-02 Этот дом построен известным {{c1::архитектором::архитектор · instrumental (agent)}}. ‖ This house was built by a famous architect.
+## B2::05 Книжные союзы и предлоги
+B2-05-001 B2-05-11-01 {{c1::Благодаря::thanks to (+ dative)}} тебе я сдал экзамен. ‖ Thanks to you, I passed the exam.
+B2-05-002 B2-05-11-02 {{c1::Из-за::because of (+ genitive, bad result)}} пробок мы опоздали. ‖ We were late because of the traffic.
+B2-05-003 B2-05-11-03 {{c1::В течение::during / over (+ genitive)}} недели шёл дождь. ‖ It rained all week.
+B2-05-004 B2-05-11-04 {{c1::В связи с::in connection with (+ instrumental)}} ремонтом магазин закрыт. ‖ The shop is closed for refurbishment.
+B2-05-005 B2-05-11-05 {{c1::По сравнению с::compared with (+ instrumental)}} прошлым годом цены выросли. ‖ Prices have risen compared with last year.
+B2-05-006 B2-05-11-06 {{c1::В отличие от::unlike (+ genitive)}} брата, он очень спокойный. ‖ Unlike his brother, he's very calm.
+B2-05-007 B2-05-11-07 Цена меняется {{c1::в зависимости от::depending on (+ genitive)}} сезона. ‖ The price varies depending on the season.
+B2-05-008 B2-11b-06-01 Это было {{c1::при::under (a ruler; + prepositional)}} Петре Первом. ‖ It was under Peter the Great.
+B2-05-009 B2-11b-06-02 Не говори так {{c1::при::in front of (+ prepositional)}} детях. ‖ Don't talk like that in front of the children.
+B2-05-010 B2-11b-06-03 Кот вылез {{c1::из-под::from under (+ genitive)}} кровати. ‖ The cat crawled out from under the bed.
+B2-05-011 B2-11b-06-04 Машина выехала {{c1::из-за::from behind (+ genitive)}} угла. ‖ The car came out from round the corner.
+B2-05-012 B2-11b-06-05 Солнце светило {{c1::сквозь::through (+ accusative)}} туман. ‖ The sun shone through the fog.
+B2-05-013 B2-05-12-01 Квартира маленькая, {{c1::зато::but on the other hand (a plus)}} в центре. ‖ The flat's small, but it's in the centre.
+B2-05-014 B2-05-12-02 Было трудно; {{c1::тем не менее::nevertheless}}, мы справились. ‖ It was hard; nevertheless, we managed.
+B2-05-015 B2-05-12-03 Он обещал прийти, {{c1::однако::however}} не пришёл. ‖ He promised to come; however, he didn't.
+B2-05-016 B2-05-12-04 Он много работает и {{c1::при этом::at the same time}} успевает учиться. ‖ He works a lot and still finds time to study.
+B2-05-017 B2-11-03-01 Погода всё время меняется: {{c1::то::now … (first of a pair)}} дождь, то снег. ‖ The weather keeps changing: one minute rain, the next snow.
+B2-05-018 B2-11-03-02 Он сказал это {{c1::не то::either … or (unclear), first}} в шутку, не то всерьёз. ‖ He said it, whether as a joke or seriously, I couldn't tell.
+B2-05-019 B2-11-04-01 (A man speaking) Я поставил будильник, {{c1::чтобы не::so as not to}} проспать. ‖ I set an alarm so I wouldn't oversleep.
+## B2::06 Частицы: «же», «ведь», «именно», «даже»
+B2-06-001 B2-06-13-01 (A man speaking) Я {{c1::же::particle: emphasis (I told you!)}} тебе говорил! ‖ I told you so!
+B2-06-002 B2-06-13-02 Не волнуйся, ты {{c1::ведь::particle: after all / you know}} всё знаешь. ‖ Don't worry, you know it all after all.
+B2-06-003 B2-06-13-03 {{c1::Именно::exactly / precisely}} это я и хотел сказать. ‖ That's exactly what I meant to say.
+B2-06-004 B2-06-13-04 Это знают {{c1::даже::even}} дети. ‖ Even children know that.
+B2-06-005 B2-06-13-05 Где {{c1::же::particle: emphasis (impatient question)}} мои ключи? ‖ Where on earth are my keys?
+## B2::07 Употребление падежей
+B2-07-001 B2-07-06-01 (A man speaking; how long it took to finish) Я прочитал книгу {{c1::за два дня::два дня · за + accusative or accusative alone?}}.<br>(A man speaking; how long the activity lasted) Я читал книгу {{c2::два дня::два дня · за + accusative or accusative alone?}}. ‖ I read the book in two days. / I spent two days reading the book.
+B2-07-002 B2-07-06-02 За неделю {{c1::до::before (за + time + …)}} отъезда я купил билеты. ‖ A week before leaving, I bought the tickets.
+B2-07-003 B2-07-14-01 Купи, пожалуйста, {{c1::хлеба::хлеб · genitive (some)}}. ‖ Please buy some bread.
+B2-07-004 B2-07-14-02 Налей мне {{c1::чаю::чай · partitive genitive (some)}}. ‖ Pour me some tea.
+B2-07-005 B2-07-14-03 Дай мне {{c1::воды::вода · genitive (some)}}. ‖ Give me some water.
+B2-07-006 B2-07-15-01 Он не обратил {{c1::внимания::внимание · genitive after negation}}. ‖ He didn't pay attention.
+B2-07-007 B2-07-15-02 Я не получал никаких {{c1::писем::письмо · genitive plural after negation}}. ‖ I haven't received any letters.
+B2-07-008 B2-07-15-03 (A man speaking) Я не видел этого {{c1::фильма::фильм · genitive after negation}}. ‖ I haven't seen this film.
+B2-07-009 B2-07-16-01 Желаю тебе {{c1::успехов::успех · genitive plural}}! ‖ Good luck!
+B2-07-010 B2-07-16-02 Желаем вам {{c1::счастья::счастье · genitive}}! ‖ We wish you happiness!
+B2-07-011 B2-07-16-03 Желаю {{c1::здоровья::здоровье · genitive}}! ‖ Wishing you good health!
+B2-07-012 B2-07-17-01 Говори {{c1::шёпотом::шёпот · instrumental (manner)}}, ребёнок спит. ‖ Whisper, the baby's asleep.
+B2-07-013 B2-07-17-02 Мы поедем {{c1::поездом::поезд · instrumental (means)}}. ‖ We'll go by train.
+B2-07-014 B2-07-17-03 Он пришёл {{c1::первым::первый · instrumental (order)}}. ‖ He arrived first.
+B2-07-015 B2-11b-07-01 Он {{c1::достиг::reach (+ genitive) · past, он}} успеха. ‖ He achieved success.
+B2-07-016 B2-11b-07-02 Старайся {{c1::избегать::avoid (+ genitive) · infinitive}} ошибок. ‖ Try to avoid mistakes.
+B2-07-017 B2-11b-07-03 Она {{c1::руководит::manage (+ instrumental) · она}} отделом. ‖ She runs the department.
+B2-07-018 B2-11b-07-04 Я {{c1::болею::be ill with (+ instrumental) · я}} гриппом. ‖ I've got flu.
+B2-07-019 B2-11b-07-05 Я {{c1::болею за::support (a team; … + accusative)}} «Спартак». ‖ I support Spartak.
+B2-07-020 B2-11b-07-06 Он {{c1::завидует::envy (+ dative) · он}} другу. ‖ He envies his friend.
+## B2::08 Уступка и пожелания: «как бы ни», «хотя бы», «пусть»
+B2-08-001 B2-08-18-01 Как бы ты ни {{c1::старался::стараться · past (with бы ни)}}, ничего не получится. ‖ However hard you try, it won't work.
+B2-08-002 B2-08-18-02 Что бы ты ни {{c1::говорил::говорить · past (with бы ни)}}, я тебе не верю. ‖ Whatever you say, I don't believe you.
+B2-08-003 B2-08-18-03 Где бы я ни {{c1::был::быть · past (with бы ни)}}, я думаю о тебе. ‖ Wherever I am, I think of you.
+B2-08-004 B2-08-18-04 Кто бы ни {{c1::пришёл::прийти · past (with бы ни)}}, не открывай дверь. ‖ Whoever comes, don't open the door.
+B2-08-005 B2-08-19-01 Позвони {{c1::хотя бы::at least}} раз в неделю. ‖ Call at least once a week.
+B2-08-006 B2-08-19-02 {{c1::Пусть::let (him / her / them)}} он сам решает. ‖ Let him decide for himself.
+B2-08-007 B2-08-19-03 {{c1::Пусть::let (it be)}} будет так. ‖ So be it.
+## B2::09 Краткие прилагательные, притяжательные на «-ин», сравнение
+B2-09-001 B2-09-20-01 (To a woman) Ты {{c1::права::right · agreement}}. ‖ You're right.
+B2-09-002 B2-09-20-02 (A man speaking) Я {{c1::готов::ready · agreement}}. ‖ I'm ready.
+B2-09-003 B2-09-20-03 Он очень {{c1::похож::looks like · agreement}} на отца. ‖ He looks a lot like his father.
+B2-09-004 B2-09-20-04 (A woman speaking) Я {{c1::согласна::agree · agreement}} с тобой. ‖ I agree with you.
+B2-09-005 B2-09-20-05 Мы с ним {{c1::знакомы::acquainted · agreement}}. ‖ He and I know each other.
+B2-09-006 B2-09-20-06 (A man speaking) Я {{c1::доволен::pleased · agreement}} результатом. ‖ I'm pleased with the result.
+B2-09-007 B2-09-20-07 Это платье мне {{c1::велико::too big · agreement}}. ‖ This dress is too big for me.
+B2-09-008 B2-09-20-08 Эти ботинки мне {{c1::малы::too small · agreement}}. ‖ These shoes are too small for me.
+B2-09-009 B2-11b-04-01 Он {{c1::болен::болен or больной?}} гриппом.<br>Он {{c2::больной::болен or больной?}} человек. ‖ He's got flu. / He's a sickly man.
+B2-09-010 B2-11b-04-02 Зал был {{c1::полон::полный · short form}} людей. ‖ The hall was full of people.
+B2-09-011 B2-11b-04-03 Он {{c1::способен::capable · short form}} на всё. ‖ He's capable of anything.
+B2-09-012 B2-11b-04-04 Ты {{c1::должен был::should have (masculine)}} позвонить. ‖ You should have called.
+B2-09-013 B2-11b-04-05 Он, {{c1::должно быть::must (probably)}}, устал. ‖ He must be tired.
+B2-09-014 B2-11b-03-01 Это {{c1::мамина::Mum's · feminine (сумка)}} сумка. ‖ That's Mum's bag.
+B2-09-015 B2-11b-03-02 Я сижу в {{c1::маминой::Mum's · prepositional (комната, f.)}} комнате. ‖ I'm sitting in Mum's room.
+B2-09-016 B2-11b-03-03 Дайте что-нибудь {{c1::подешевле::a bit cheaper (по- + comparative)}}. ‖ Give me something a bit cheaper.
+B2-09-017 B2-11b-03-04 Говорите {{c1::погромче::a bit louder}}, пожалуйста. ‖ Speak up a bit, please.
+B2-09-018 B2-11b-03-05 Это было в {{c1::самом::very · prepositional (… начале)}} начале. ‖ It was at the very beginning.
+B2-09-019 B2-11b-03-06 Я видел {{c1::самого::himself · accusative (… директора)}} директора. ‖ I saw the director himself.
+B2-09-020 B2-09-21-01 Приезжай {{c1::как можно::as … as possible}} скорее. ‖ Come as soon as you can.
+B2-09-021 B2-09-21-02 Сегодня {{c1::гораздо::much (+ comparative)}} теплее, чем вчера. ‖ It's much warmer today than yesterday.
+B2-09-022 B2-09-21-03 Становится {{c1::всё::more and more (+ comparative)}} холоднее. ‖ It's getting colder and colder.
+B2-09-023 B2-09-21-04 Это {{c1::интереснейшая::интересный · -ейший (very / most, formal)}} книга. ‖ It's a most interesting book.
+B2-09-024 B2-09-21-05 Это одна из {{c1::важнейших::важный · -ейший, genitive plural}} проблем. ‖ This is one of the most important problems.
+## B2::10 «Себя», «тот, кто» и неопределённые местоимения
+B2-10-001 B2-10-22-01 Он думает только о {{c1::себе::себя · prepositional}}. ‖ He only thinks about himself.
+B2-10-002 B2-10-22-02 Возьми с {{c1::собой::себя · instrumental}} зонт. ‖ Take an umbrella with you.
+B2-10-003 B2-10-22-03 (A man speaking) Я купил {{c1::себе::себя · dative}} новую машину. ‖ I bought myself a new car.
+B2-10-004 B2-10-22-04 Как вы {{c1::себя::oneself · accusative (чувствовать …)}} чувствуете? ‖ How are you feeling?
+B2-10-005 B2-11-02-01 {{c1::Тот::the one (who) · nominative}}, кто рано встаёт, много успевает. ‖ The early bird catches the worm.
+B2-10-006 B2-11-02-02 Я думаю о {{c1::том::that · prepositional (о …, что)}}, что ты сказал. ‖ I'm thinking about what you said.
+B2-10-007 B2-11-02-03 Я привык к {{c1::тому::that · dative (к …, что)}}, что здесь холодно. ‖ I'm used to it being cold here.
+B2-10-008 B2-11-02-04 (A man speaking) Я не согласен с {{c1::тем::that · instrumental (с …, что)}}, что ты говоришь. ‖ I don't agree with what you're saying.
+B2-10-009 B2-11-02-05 {{c1::Те::those · nominative plural}}, кто хочет, могут уйти. ‖ Those who want to can leave.
+B2-10-010 B2-10-23-01 Я хочу тебе {{c1::кое-что::кое-что or что-либо?}} сказать. ‖ There's something I want to tell you.
+B2-10-011 B2-10-23-02 (Formal) Если у вас есть {{c1::какие-либо::кое-какие or какие-либо?}} вопросы, звоните. ‖ If you have any questions at all, please call.
+## B2::11 Числительные, проценты и фамилии в падежах
+B2-11-001 B2-11b-01-01 Я вижу {{c1::двух::two · accusative (animate: братьев)}} братьев.<br>Я вижу {{c2::два::two · accusative (inanimate: стола)}} стола. ‖ I can see two brothers. / I can see two tables.
+B2-11-002 B2-11b-01-02 У {{c1::обоих::both · genitive (masculine)}} братьев есть машины. ‖ Both brothers have cars.
+B2-11-003 B2-11b-01-03 Я дружу с {{c1::обеими::both · instrumental (feminine)}} сёстрами. ‖ I'm friends with both sisters.
+B2-11-004 B2-11b-02-01 Цены выросли на пять {{c1::процентов::per cent · after пять}}. ‖ Prices went up by five per cent.
+B2-11-005 B2-11b-02-02 Город с населением около {{c1::миллиона::million · genitive}} человек. ‖ A city of nearly a million people.
+B2-11-006 B2-11b-02-03 В течение {{c1::получаса::half an hour · genitive}} никто не звонил. ‖ Nobody rang for half an hour.
+B2-11-007 B2-11b-02-04 Я жил там {{c1::полгода::half a year}}. ‖ I lived there for six months.
+B2-11-008 B2-11b-08-01 Я работаю с {{c1::Ивановой::Иванова · instrumental}}. ‖ I work with Ivanova.
+B2-11-009 B2-11b-08-02 Мы были в гостях у {{c1::Петровых::Петровы · genitive}}. ‖ We were visiting the Petrovs.
+B2-11-010 B2-11b-08-03 Я знаю {{c1::Джона Смита::John Smith · accusative}}.<br>Я знаю {{c2::Мэри Смит::Mary Smith · accusative (foreign woman's surname)}}. ‖ I know John Smith. / I know Mary Smith.
+## C1::01 Вид глагола и способы действия
+C1-01-001 C1-01-01-01 (A man speaking) Я чуть не {{c1::упал::упасть · perfective past (almost)}}. ‖ I almost fell.
+C1-01-002 C1-01-01-02 (A man speaking) Не успел я {{c1::войти::входить · perfective partner, infinitive}}, как зазвонил телефон. ‖ I'd barely walked in when the phone rang.
+C1-01-003 C1-01-01-03 Стоит только {{c1::сказать::говорить · perfective partner, infinitive}} слово, как он обижается. ‖ You only have to say a word and he takes offence.
+C1-01-004 C1-01-01-04 (Typical behaviour) Иногда он {{c1::придёт::прийти · perfective future (typical action)}} и молчит весь вечер. ‖ Sometimes he'll come round and not say a word all evening.
+C1-01-005 C1-01-02-01 (Refusal) Я не {{c1::буду делать::делать or сделать? · future}} этого.<br>(Won't manage in time) Я не {{c2::сделаю::делать or сделать? · future}} это вовремя. ‖ I'm not going to do that. / I won't get it done in time.
+C1-01-006 C1-10b-01-01 Ребёнок вдруг {{c1::заплакал::start crying (за- + плакать) · past, он}}. ‖ The child suddenly burst into tears.
+C1-01-007 C1-10b-01-02 (A man speaking) Я немного {{c1::поработал::work a while (по- + работать) · past, я}}. ‖ I did a bit of work.
+C1-01-008 C1-10b-01-03 Он {{c1::проспал::sleep through (про- + спать) · past, он}} всю ночь. ‖ He slept through the whole night.
+C1-01-009 C1-10b-01-04 Мама {{c1::наготовила::cook a lot (на- + готовить) · past, она}} еды. ‖ Mum cooked loads of food.
+C1-01-010 C1-10b-01-05 (A man speaking) Я {{c1::переел::overeat (пере- + есть) · past, я}}. ‖ I've overeaten.
+C1-01-011 C1-10b-01-06 (A mixed group speaking) Мы {{c1::разговорились::get talking (раз- + говорить … -ся) · past, мы}}. ‖ We got talking.
+## C1::02 Глагольно-именные сочетания
+C1-02-001 C1-02-03-01 Комиссия {{c1::приняла::verb collocation: (to take) a decision, past}} решение. ‖ The committee took a decision.
+C1-02-002 C1-02-03-02 Врачи {{c1::оказали::verb collocation: (to give) help, past}} помощь пострадавшим. ‖ Doctors gave assistance to the injured.
+C1-02-003 C1-02-03-03 Учёные {{c1::провели::verb collocation: (to carry out) research, past}} исследование. ‖ The scientists carried out a study.
+C1-02-004 C1-02-03-04 Спектакль {{c1::произвёл::verb collocation: (to make) an impression, past}} на меня сильное впечатление. ‖ The play made a strong impression on me.
+C1-02-005 C1-02-03-05 Он {{c1::принял::verb collocation: (to take) part, past}} участие в конференции. ‖ He took part in the conference.
+C1-02-006 C1-02-03-06 {{c1::Обратите::verb collocation: (to pay) attention, вы imperative}} внимание на этот пункт. ‖ Please note this point.
+C1-02-007 C1-02-03-07 Министерство {{c1::осуществляет::verb collocation: (to exercise) control, present}} контроль за качеством. ‖ The ministry oversees quality control.
+C1-02-008 C1-02-03-08 Депутат {{c1::внёс::verb collocation: (to put forward) a proposal, past}} предложение. ‖ The deputy put forward a proposal.
+## C1::03 Книжные предлоги
+C1-03-001 C1-03-04-01 {{c1::По окончании::upon completion of (formal)}} университета он уехал в Москву. ‖ On graduating from university, he moved to Moscow.
+C1-03-002 C1-03-04-02 {{c1::По приезде::upon arrival (formal)}} позвоните нам. ‖ Please call us on arrival.
+C1-03-003 C1-03-04-03 {{c1::Согласно::according to (+ dative)}} закону, это запрещено. ‖ According to the law, this is prohibited.
+C1-03-004 C1-03-04-04 Он поступил так {{c1::вопреки::contrary to (+ dative)}} совету врача. ‖ He did it against his doctor's advice.
+C1-03-005 C1-03-04-05 {{c1::Ввиду::in view of (+ genitive)}} сложной ситуации встреча отменена. ‖ In view of the difficult situation, the meeting is cancelled.
+C1-03-006 C1-03-04-06 {{c1::В ходе::in the course of}} переговоров стороны договорились. ‖ In the course of the talks, the parties reached an agreement.
+C1-03-007 C1-03-04-07 {{c1::В рамках::within the framework of}} проекта мы открыли три школы. ‖ As part of the project, we opened three schools.
+C1-03-008 C1-03-04-08 {{c1::По мере::as … proceeds (+ genitive)}} развития технологий растут и риски. ‖ As technology develops, so do the risks.
+C1-03-009 C1-03-04-09 {{c1::На основании::on the basis of}} этих данных можно сделать вывод. ‖ On the basis of these data, we can draw a conclusion.
+C1-03-010 C1-03-04-10 {{c1::В целях::for the purpose of (+ genitive)}} безопасности вход закрыт. ‖ For security reasons, the entrance is closed.
+C1-03-011 C1-03-04-11 {{c1::В силу::owing to}} обстоятельств он не смог приехать. ‖ Owing to circumstances, he was unable to come.
+## C1::04 Управление существительных и глаголов
+C1-04-001 C1-04-05-01 У меня большой интерес {{c1::к::preposition (интерес …)}} истории. ‖ I have a keen interest in history.
+C1-04-002 C1-04-05-02 Как вы относитесь {{c1::к::preposition (относиться …)}} этому? ‖ What do you think about this?
+C1-04-003 C1-04-05-03 (A man speaking) Я уверен {{c1::в::preposition (уверен …)}} успехе. ‖ I'm confident of success.
+C1-04-004 C1-04-05-04 Он принял участие {{c1::в::preposition (участие …)}} конкурсе. ‖ He took part in the competition.
+C1-04-005 C1-04-05-05 Мы одержали победу {{c1::над::preposition (победа …)}} соперником. ‖ We won against our opponent.
+C1-04-006 C1-04-05-06 (A man speaking) Я получил ответ {{c1::на::preposition (ответ …)}} письмо. ‖ I got a reply to my letter.
+C1-04-007 C1-04-05-07 Есть надежда {{c1::на::preposition (надежда …)}} улучшение. ‖ There's hope of an improvement.
+C1-04-008 C1-04-05-08 Какова причина {{c1::аварии::авария · genitive (причина …)}}? ‖ What was the cause of the accident?
+C1-04-009 C1-04-05-09 Он сделал это из любви {{c1::к::preposition (любовь …)}} детям. ‖ He did it out of love for his children.
+C1-04-010 C1-04-05-10 Контроль {{c1::над::preposition (контроль …)}} ситуацией потерян. ‖ Control of the situation has been lost.
+## C1::05 Причастия, деепричастия и относительные слова
+C1-05-001 C1-05-06-01 {{c1::Придя::прийти · perfective verbal adverb}} домой, он сразу лёг спать. ‖ When he got home, he went straight to bed.
+C1-05-002 C1-05-06-02 {{c1::Войдя::войти · perfective verbal adverb}} в комнату, она включила свет. ‖ Entering the room, she switched on the light.
+C1-05-003 C1-05-06-03 {{c1::Найдя::найти · perfective verbal adverb}} ключи, мы поехали. ‖ Having found the keys, we set off.
+C1-05-004 C1-05-06-04 {{c1::Уйдя::уйти · perfective verbal adverb}} с работы, он почувствовал облегчение. ‖ Having left the job, he felt relieved.
+C1-05-005 C1-05-07-01 Студент, {{c1::сдавший::сдать · past active participle (= который сдал)}} экзамен первым, получил приз. ‖ The student who finished the exam first got a prize.
+C1-05-006 C1-05-07-02 Вопросы, {{c1::поднятые::поднять · past passive participle (= которые подняли)}} на собрании, будут рассмотрены. ‖ The issues raised at the meeting will be considered.
+C1-05-007 C1-05-07-03 Человек, {{c1::стоящий::стоять · present active participle (= который стоит)}} у окна, — мой начальник. ‖ The man standing by the window is my boss.
+C1-05-008 C1-10b-03-01 Автор, {{c1::чья::whose (relative) · feminine (книга)}} книга вышла вчера, придёт на встречу. ‖ The author whose book came out yesterday is coming to the meeting.
+C1-05-009 C1-10b-03-02 Человек, {{c1::чьего::whose (relative) · genitive (имени)}} имени я не помню, звонил снова. ‖ The man whose name I can't remember called again.
+C1-05-010 C1-10b-03-03 {{c1::Каков::what (formal) · masculine (результат)}} результат? ‖ What's the result?
+## C1::06 Безличные конструкции
+C1-06-001 C1-06-08-01 Дорогу {{c1::замело::замести · impersonal past (+ instrumental)}} снегом. ‖ The road was snowed over.
+C1-06-002 C1-06-08-02 Крышу {{c1::сорвало::сорвать · impersonal past (+ instrumental)}} ветром. ‖ The wind blew the roof off.
+C1-06-003 C1-06-08-03 Мне не {{c1::верится::верить · -ся (impersonal: can't believe)}}, что это правда. ‖ I can't believe it's true.
+C1-06-004 C1-06-08-04 Ему не {{c1::сидится::сидеть · -ся (impersonal: can't sit still)}} на месте. ‖ He can't sit still.
+C1-06-005 C1-06-08-05 {{c1::Было решено::решить · impersonal passive past (it was decided)}} перенести встречу. ‖ It was decided to postpone the meeting.
+C1-06-006 C1-06-08-06 Мне {{c1::везёт::везти · impersonal (lucky)}} в последнее время. ‖ I've been lucky lately.
+C1-06-007 C1-06-08-07 Его {{c1::тошнит::тошнить · impersonal (feels sick)}}. ‖ He feels sick.
+## C1::07 Условие, вероятность и сопоставление
+C1-07-001 C1-07-09-01 {{c1::В случае если::in the event that (formal)}} рейс отменят, мы вернём деньги. ‖ If the flight is cancelled, we'll refund your money.
+C1-07-002 C1-07-09-02 Я согласен {{c1::при условии::on condition (…, что)}}, что вы заплатите вперёд. ‖ I agree, on condition that you pay in advance.
+C1-07-003 C1-07-09-03 Мы поедем, {{c1::если только::unless (если … не)}} не будет дождя. ‖ We'll go, unless it rains.
+C1-07-004 C1-07-09-04 Он {{c1::вряд ли::unlikely / hardly}} придёт. ‖ He's unlikely to come.
+C1-07-005 C1-07-09-05 {{c1::Едва ли::hardly (formal)}} это правда. ‖ That's hardly likely to be true.
+C1-07-006 C1-10b-04-01 Он говорит, {{c1::будто::supposedly (as if)}} всё знает. ‖ He claims to know everything.
+C1-07-007 C1-10b-04-02 {{c1::Раз::since (given that)}} ты здесь, помоги мне. ‖ Since you're here, give me a hand.
+C1-07-008 C1-10b-04-03 Он {{c1::не столько::not so much (… умён, сколько)}} умён, сколько хитёр. ‖ He's not so much clever as cunning.
+C1-07-009 C1-10b-04-04 (Proverb) Тише {{c1::едешь::ехать · ты (generalised)}} — дальше будешь. ‖ More haste, less speed.
+## C1::08 Частицы и чужая речь
+C1-08-001 C1-08-10-01 (Doubting) {{c1::Разве::Разве or Неужели?}} ты не знал?<br>(Amazed) {{c2::Неужели::Разве or Неужели?}} ты выиграл?! ‖ Didn't you know? / You actually won?!
+C1-08-002 C1-08-11-01 Он {{c1::всё-таки::all the same / after all}} пришёл. ‖ He came after all.
+C1-08-003 C1-08-11-02 Ты пришёл {{c1::как раз::just (in time)}} вовремя. ‖ You've come just in time.
+C1-08-004 C1-08-11-03 Поезд {{c1::вот-вот::any moment now}} отправится. ‖ The train is about to leave any moment.
+C1-08-005 C1-08-11-04 Он {{c1::так и::never, in the end (+ не)}} не позвонил. ‖ He never did call.
+C1-08-006 C1-08-11-05 Не хотите {{c1::ли::particle (polite question)}} чаю? ‖ Would you care for some tea?
+C1-08-007 C1-10-01-01 Он сказал, {{c1::мол::(he said) — reported-speech particle}}, всё в порядке. ‖ He said everything was fine, supposedly.
+C1-08-008 C1-10-01-02 Она звонила, {{c1::якобы::allegedly}} по делу. ‖ She called, supposedly on business.
+C1-08-009 C1-10-01-03 Он, {{c1::дескать::so he claims (ironic)}}, ничего не знал. ‖ He didn't know anything, or so he claims.
+## C1::09 Собирательные числительные и приблизительность
+C1-09-001 C1-09-12-01 У них {{c1::двое::2 · collective number}} детей. ‖ They have two children.
+C1-09-002 C1-09-12-02 Нас было {{c1::трое::3 · collective number}}. ‖ There were three of us.
+C1-09-003 C1-09-12-03 Мы ехали {{c1::двое::2 · collective number}} суток. ‖ We travelled for two days and nights.
+C1-09-004 C1-09-13-01 (A man speaking) Я ждал {{c1::полтора::1.5 · masculine}} часа. ‖ I waited an hour and a half.
+C1-09-005 C1-09-13-02 Это стоит {{c1::полторы::1.5 · feminine}} тысячи. ‖ It costs one and a half thousand.
+C1-09-006 C1-09-14-01 Мы ждали {{c1::часа два::about two hours (noun first)}}. ‖ We waited about two hours.
+C1-09-007 C1-09-14-02 Ему лет {{c1::пятьдесят::50 (лет first = about)}}. ‖ He's about fifty.
+C1-09-008 C1-10b-02-01 Ему около {{c1::сорока::40 · genitive}} лет. ‖ He's about forty.
+C1-09-009 C1-10b-02-02 Пришло более {{c1::ста::100 · genitive}} человек. ‖ Over a hundred people came.
+C1-09-010 C1-10b-02-03 К {{c1::девяноста::90 · dative}} годам он ещё работал. ‖ He was still working at ninety.
+C1-09-011 C1-10b-02-04 Две {{c1::целых::whole (… три десятых = 2.3)}} три десятых. ‖ Two point three.
+C1-09-012 C1-10b-02-05 Прошла {{c1::четверть::quarter}} часа. ‖ A quarter of an hour passed.
+C1-09-013 C1-10b-02-06 Детям дали {{c1::по яблоку::an apple each (по + dative)}}. ‖ The children were given an apple each.
+## C2::01 Разговорная грамматика
+C2-01-001 C2-01-01-01 {{c1::Мам::мама · calling someone (casual)}}, ты где? ‖ Mum, where are you?
+C2-01-002 C2-01-01-02 {{c1::Саш::Саша · calling someone (casual)}}, иди сюда! ‖ Sasha, come here!
+C2-01-003 C2-01-01-03 {{c1::Пап::папа · calling someone (casual)}}, помоги мне. ‖ Dad, help me.
+C2-01-004 C2-01-02-01 А он как {{c1::закричит::закричать · perfective future (sudden action)}}! ‖ And then he suddenly yelled!
+C2-01-005 C2-01-02-02 Он взял да и {{c1::уехал::уехать · past (взял да и = went and…)}}. ‖ He just upped and left.
+C2-01-006 C2-01-02-03 {{c1::Посмотри-ка::посмотреть · imperative + -ка (softening)}}, кто пришёл! ‖ Look who's here!
+C2-01-007 C2-01-02-04 А он {{c1::прыг::jump (verbal interjection)}} в воду! ‖ And in he jumped!
+C2-01-008 C2-01-02-05 Все ушли гулять, а я {{c1::сиди::сидеть · imperative (= had to …, colloquial)}} дома! ‖ Everyone went out, and I had to stay at home!
+C2-01-009 C2-01-03-01 (A sign) Не {{c1::курить::smoke · infinitive (prohibition)}}! ‖ No smoking!
+C2-01-010 C2-01-03-02 (A sharp order) {{c1::Молчать::be quiet · infinitive (sharp order)}}! ‖ Silence!
+C2-01-011 C2-01-03-03 (Literary) Быть {{c1::грозе::гроза · dative (there'll be …)}}. ‖ There's going to be a storm.
+## C2::02 Книжные и устаревшие формы
+C2-02-001 C2-02-04-01 {{c1::Приди::прийти · imperative (= если бы …)}} он вовремя, ничего бы не случилось. ‖ Had he come on time, nothing would have happened.
+C2-02-002 C2-02-04-02 {{c1::Знай::знать · imperative (= если бы …)}} я об этом раньше, я бы помог. ‖ Had I known about it earlier, I'd have helped.
+C2-02-003 C2-02-05-01 Он до {{c1::сих::сей · genitive plural (archaic 'this')}} пор не позвонил. ‖ He still hasn't called.
+C2-02-004 C2-02-05-02 Иди сюда {{c1::сию::сей · accusative feminine (archaic)}} минуту! ‖ Come here this minute!
+C2-02-005 C2-02-05-03 Мы приняли меры, {{c1::дабы::in order that (archaic, formal)}} избежать ошибок. ‖ We took measures so as to avoid mistakes.
+C2-02-006 C2-02-05-04 Не бойся, {{c1::ибо::for / because (literary)}} я с тобой. ‖ Fear not, for I am with you.
+C2-02-007 C2-02-05-05 {{c1::Коли::if (archaic / folk)}} так, давай начнём. ‖ If that's the case, let's begin.
+C2-02-008 C2-02-05-06 Да {{c1::здравствует::здравствовать · archaic (long live)}} свобода! ‖ Long live freedom!
+C2-02-009 C2-02-05-07 {{c1::Боже::Бог · old vocative}}, как красиво! ‖ God, how beautiful!
+C2-02-010 C2-02-06-01 Он сдал экзамен {{c1::играючи::играть · old verbal adverb (effortlessly)}}. ‖ He passed the exam effortlessly.
+## C2::03 Уменьшительные и увеличительные формы
+C2-03-001 C2-03-07-01 Какой милый {{c1::домик::дом · diminutive}}! ‖ What a sweet little house!
+C2-03-002 C2-03-07-02 {{c1::Мамочка::мама · diminutive (affectionate)}}, спасибо! ‖ Mummy, thank you!
+C2-03-003 C2-03-07-03 Выглянуло {{c1::солнышко::солнце · diminutive}}. ‖ The sun has come out.
+C2-03-004 C2-03-07-04 Дай мне {{c1::ложечку::ложка · diminutive, accusative}}. ‖ Pass me a teaspoon.
+C2-03-005 C2-03-07-05 Это мой {{c1::сыночек::сын · diminutive}}. ‖ This is my little boy.
+C2-03-006 C2-03-07-06 Подожди {{c1::минуточку::минута · diminutive, accusative}}. ‖ Wait just a moment.
+C2-03-007 C2-03-07-07 Она такая {{c1::хорошенькая::хороший · diminutive (pretty)}}. ‖ She's so pretty.
+C2-03-008 C2-03-07-08 Какой {{c1::домище::дом · augmentative (-ище)}}! ‖ What an enormous house!
+## C2::04 Тонкости согласования
+C2-04-001 C2-04-08-01 Наш новый врач {{c1::пришла::прийти · past, agreement (a woman doctor)}}. ‖ Our new doctor (she) has arrived.
+C2-04-002 C2-04-08-02 Большинство студентов {{c1::сдало::сдать · past, agreement (formal singular)}} экзамен. ‖ Most of the students passed the exam.
+C2-04-003 C2-04-08-03 Ряд стран {{c1::подписал::подписать · past, agreement (ряд, singular)}} договор. ‖ A number of countries signed the agreement.
+C2-04-004 C2-04-08-04 Пять человек {{c1::пришло::прийти · past, agreement (counted group, neuter singular)}}. ‖ Five people came.
+C2-04-005 C2-08-01-01 У него {{c1::две::two · feminine (дочери)}} дочери. ‖ He has two daughters.
+C2-04-006 C2-08-01-02 Мы были в пути {{c1::двое::two · collective (суток)}} суток. ‖ We were travelling for two days and nights.
+## C2::05 Склонение числительных и имён
+C2-05-001 C2-05-09-01 Он встретился с {{c1::двумястами::200 · instrumental}} гостями. ‖ He met two hundred guests.
+C2-05-002 C2-05-09-02 Около {{c1::пятисот::500 · genitive}} человек пришли на митинг. ‖ About five hundred people came to the rally.
+C2-05-003 C2-05-09-03 Мы обошлись {{c1::пятьюдесятью::50 · instrumental}} рублями. ‖ We managed with fifty roubles.
+C2-05-004 C2-08-01-05 У {{c1::обеих::both · genitive (feminine: сестёр)}} сестёр есть дети. ‖ Both sisters have children.
+C2-05-005 C2-08-01-03 Я долго говорил с {{c1::Пушкиным::Пушкин · instrumental (surname)}}.<br>Я живу под {{c2::Пушкином::Пушкин · instrumental (town)}}. ‖ I had a long talk with Pushkin. / I live near Pushkin (the town).
+## C2::06 Типичные ошибки: формы глагола
+C2-06-001 C2-06-10-01 Я {{c1::кладу::кладу or ложу?}} книгу на стол. ‖ I'm putting the book on the table.
+C2-06-002 C2-06-10-02 {{c1::Положи::Положи or Ложи?}} это сюда. ‖ Put it here.
+C2-06-003 C2-06-10-03 (To a friend) {{c1::Поезжай::Поезжай or Ехай?}} осторожно. ‖ Drive carefully.
+C2-06-004 C2-06-10-04 Мы {{c1::хотим::хотим or хочем?}} домой. ‖ We want to go home.
+C2-06-005 C2-06-10-05 Бабушка {{c1::печёт::печёт or пекёт?}} пироги. ‖ Grandma's baking pies.
+C2-06-006 C2-06-10-06 {{c1::Ляг::Ляг or Ляжь?}} и отдохни. ‖ Lie down and rest.
+C2-06-007 C2-06-10-07 Я часто {{c1::езжу::езжу or ездию?}} в Москву. ‖ I often go to Moscow.
+C2-06-008 C2-06-10-08 Это {{c1::их::их or ихний?}} дом. ‖ This is their house.
+## C2::07 Типичные ошибки: выбор слова и падежа
+C2-07-001 C2-07-11-01 Мама {{c1::одела::одела or надела?}} ребёнка.<br>Мама {{c2::надела::одела or надела?}} шапку. ‖ Mum dressed the child. / Mum put her hat on.
+C2-07-002 C2-07-11-02 (A man speaking) Я {{c1::оплатил::оплатил or заплатил?}} счёт.<br>(A man speaking) Я {{c2::заплатил::оплатил or заплатил?}} за обед. ‖ I paid the bill. / I paid for lunch.
+C2-07-003 C2-07-11-03 Согласно {{c1::приказу::приказу or приказа?}}, все работают в субботу. ‖ By order, everyone works on Saturday.
+C2-07-004 C2-07-11-04 Я очень скучаю {{c1::по вам::по вам or по вас?}}. ‖ I miss you very much.
+C2-07-005 C2-07-11-05 Так {{c1::лучше::лучше or более лучше?}}. ‖ It's better this way.
+C2-07-006 C2-08-01-04 Этот вариант {{c1::лучше::better (not 'более …')}}. ‖ This option is better.
+C2-07-007 C2-08-01-06 {{c1::Извините::sorry (rather than 'извиняюсь')}}, я опоздал. ‖ Sorry I'm late.
+## Дополнительно (выше C2)::01 Церковнославянский пласт
+EX-01-001 BC-01-01-01 У меня болит {{c1::голова::голова or глава?}}.<br>{{c2::Глава::Голова or Глава?}} государства выступил с речью. ‖ I have a headache. / The head of state gave a speech.
+EX-01-002 BC-01-01-02 Это {{c1::Млечный::Молочный or Млечный?}} Путь.<br>Купи {{c2::молочные::молочные or млечные?}} продукты. ‖ That's the Milky Way. / Buy some dairy products.
+EX-01-003 BC-01-02-01 (Prayer) {{c1::Отче::отец · old vocative}} наш. ‖ Our Father.
+EX-01-004 BC-01-02-02 {{c1::Господи::Господь · old vocative}}, помоги! ‖ Lord, help me!
+## Дополнительно (выше C2)::02 Разговорный и интернет-русский
+EX-02-001 BC-02-01-01 Он громко {{c1::чихнул::чихать · once (-ну-), past}}. ‖ He sneezed loudly.
+EX-02-002 BC-02-01-02 Собака {{c1::прыгнула::прыгать · once (-ну-), past}} в воду. ‖ The dog jumped into the water.
+EX-02-003 BC-02-01-03 Она мне {{c1::подмигнула::подмигивать · once (-ну-), past}}. ‖ She winked at me.
+EX-02-004 BC-02-02-01 (Very casual) {{c1::Щас::сейчас · casual spoken form}} приду. ‖ Be there in a sec.
+EX-02-005 BC-02-02-02 (Very casual) {{c1::Чё::что · casual spoken form}} делаешь? ‖ Whatcha doing?
+EX-02-006 BC-02-02-03 (Casual greeting) {{c1::Здрасте::здравствуйте · casual spoken form}}! ‖ Hi there!
+EX-02-007 BC-02-02-04 (Filler) Это была, {{c1::типа::like (filler)}}, шутка. ‖ It was, like, a joke.
+EX-02-008 BC-02-02-05 (Filler) {{c1::Короче::long story short (filler)}}, мы опоздали. ‖ Long story short, we were late.
+EX-02-009 BC-02-02-06 (Texting) {{c1::Спс::спасибо · internet abbreviation}}! ‖ Thx!
+EX-02-010 BC-02-02-07 (Texting) —Как дела? —{{c1::Норм::нормально · internet / casual short form}}. ‖ 'How's it going?' 'Fine.'
+## Дополнительно (выше C2)::03 Региональные слова
+EX-03-001 BC-03-01-01 (St Petersburg) Встретимся у {{c1::парадной::building entrance (St Petersburg word), genitive}}. ‖ Let's meet at the entrance.
+EX-03-002 BC-03-01-02 (St Petersburg) Не наступай на {{c1::поребрик::kerb (St Petersburg word)}}. ‖ Don't step on the kerb.
+EX-03-003 BC-03-01-03 (St Petersburg) Купи {{c1::шаверму::shawarma (St Petersburg word), accusative}}. ‖ Get a shawarma.
+EX-03-004 BC-03-02-01 (Southern Russia) {{c1::Шо::что · southern colloquial}} ты сказал? ‖ What did you say?
+## Дополнительно (выше C2)::04 Орфография: «-тся» / «-ться», «ъ», «не» / «ни»
+EX-04-001 BC-04-01-01 Он хочет {{c1::учиться::учится or учиться?}}.<br>Он {{c2::учится::учится or учиться?}} в школе. ‖ He wants to study. / He goes to school.
+EX-04-002 BC-04-01-02 Мне нравится {{c1::заниматься::занимается or заниматься?}} спортом.<br>Она {{c2::занимается::занимается or заниматься?}} спортом. ‖ I like doing sport. / She does sport.
+EX-04-003 BC-04-02-01 Я тебе всё {{c1::объясню::explain · я, perfective future (spelling!)}}. ‖ I'll explain everything to you.
+EX-04-004 BC-04-02-02 Кто {{c1::съел::eat up · он, perfective past (spelling!)}} мой торт? ‖ Who ate my cake?
+EX-04-005 BC-04-02-03 Мы встретимся у {{c1::подъезда::building entrance · genitive (spelling!)}}. ‖ We'll meet at the entrance.
+EX-04-006 BC-04-03-01 Это {{c1::небольшой::небольшой or не большой?}} город.<br>Это {{c2::не большой::небольшой or не большой?}}, а маленький город. ‖ It's a fairly small town. / It's not a big town, it's a small one.
+EX-04-007 BC-04-03-02 Я {{c1::не знаю::незнаю or не знаю?}}. ‖ I don't know.
+EX-04-008 BC-04b-02-01 Я {{c1::не раз::не раз or ни разу?}} был там.<br>Я {{c2::ни разу::не раз or ни разу?}} там не был. ‖ I've been there more than once. / I've never once been there.
+EX-04-009 BC-04b-02-02 Здесь {{c1::не один::не один or ни один?}} человек так думает.<br>{{c2::Ни один::не один or ни один?}} человек не пришёл. ‖ More than one person here thinks so. / Not a single person came.
+EX-04-010 BC-04b-04-01 Это {{c1::непрочитанная::unread (together or apart?)}} книга. ‖ It's an unread book.
+EX-04-011 BC-04b-04-02 Это книга, {{c1::не прочитанная::not read (with a phrase: together or apart?)}} мной. ‖ It's a book I haven't read.
+EX-04-012 BC-04b-04-03 Вопрос ещё {{c1::не решён::not solved (short participle: together or apart?)}}. ‖ The question hasn't been settled yet.
+## Дополнительно (выше C2)::05 Орфография: «н» / «нн», слитно и раздельно, дефис, «ь»
+EX-05-001 BC-04b-01-01 На ужин {{c1::жареная::fried (adjective: н or нн?)}} картошка. ‖ There are fried potatoes for dinner.
+EX-05-002 BC-04b-01-02 Картошка, {{c1::жаренная::fried (participle with a phrase: н or нн?)}} на масле, вкуснее. ‖ Potatoes fried in oil taste better.
+EX-05-003 BC-04b-01-03 Это {{c1::деревянный::wooden (н or нн?)}} дом. ‖ It's a wooden house.
+EX-05-004 BC-04b-01-04 Сегодня {{c1::ветреный::windy (н or нн?)}} день. ‖ It's a windy day.
+EX-05-005 BC-04b-01-05 У меня {{c1::кожаная::leather (н or нн?)}} сумка. ‖ I have a leather bag.
+EX-05-006 BC-04b-03-01 Я сделал {{c1::то же::тоже or то же?}}, что и ты.<br>Я {{c2::тоже::тоже or то же?}} так сделал. ‖ I did the same as you. / I did that too.
+EX-05-007 BC-04b-03-02 Он поступил {{c1::так же::также or так же?}}, как отец. ‖ He acted the same way as his father.
+EX-05-008 BC-04b-03-03 {{c1::Что бы::что бы or чтобы?}} ни случилось, я с тобой. ‖ Whatever happens, I'm with you.
+EX-05-009 BC-04b-03-04 Ответьте {{c1::в течение::в течение or в течении?}} недели. ‖ Reply within a week.
+EX-05-010 BC-04b-05-01 Я хочу {{c1::кое о чём::about something (hyphen or not?)}} спросить. ‖ I want to ask about something.
+EX-05-011 BC-04b-05-02 Давай сделаем {{c1::по-новому::in a new way (hyphen or not?)}}. ‖ Let's do it a new way.
+EX-05-012 BC-04b-05-03 Купи {{c1::пол-литра::half a litre (hyphen or not?)}} молока. ‖ Buy half a litre of milk.
+EX-05-013 BC-04b-05-04 Сегодня тёплая {{c1::ночь::night (ь or not?)}}. ‖ It's a warm night.
+EX-05-014 BC-04b-05-05 Возьми {{c1::нож::knife (ь or not?)}}. ‖ Take the knife.
+EX-05-015 BC-04b-05-06 Ты много {{c1::читаешь::читать · ты (ь or not?)}}. ‖ You read a lot.
+EX-05-016 BC-04b-05-07 У меня много {{c1::задач::tasks · genitive plural (ь or not?)}}. ‖ I have lots of tasks.
+EX-05-017 BC-04b-05-08 Она вышла {{c1::замуж::married (ь or not?)}}. ‖ She got married.
+EX-05-018 BC-04b-05-09 Поезд {{c1::прибывает::arrive (пре- or при-?)}} в пять. ‖ The train arrives at five.
+EX-05-019 BC-04b-05-10 Делегация {{c1::пребывает::stay (пре- or при-?)}} в Москве. ‖ The delegation is staying in Moscow.
+EX-05-020 BC-04b-06-01 Увидимся в {{c1::понедельник::Monday (capital or not?)}}. ‖ See you on Monday.
+EX-05-021 BC-04b-06-02 Я учу {{c1::русский::Russian (capital or not?)}} язык. ‖ I'm learning Russian.
+## Дополнительно (выше C2)::06 Частые ошибки
+EX-06-001 BC-05-01-01 Сколько {{c1::времени::времени or время?}}? ‖ What time is it?
+EX-06-002 BC-05-01-02 (A man speaking) Я приехал {{c1::из::из or с?}} Москвы. ‖ I've come from Moscow.
+EX-06-003 BC-05-01-03 Он пришёл {{c1::из::из or со?}} школы. ‖ He came home from school.
+EX-06-004 BC-05-01-04 Мой кофе {{c1::остыл::остыл or остыло?}}. ‖ My coffee has gone cold.
+EX-06-005 BC-05-01-05 (Correct) Подъезжая к станции, {{c1::я::я or у меня?}} уронил шляпу. ‖ As I was approaching the station, I dropped my hat.
+EX-06-006 NEW Книга написана {{c1::на русском::по-русски or на русском?}} языке. ‖ The book is written in Russian.

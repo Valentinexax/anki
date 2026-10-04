@@ -1,0 +1,358 @@
+{
+"RU-EX-01-001": {
+"notes": "голова (head, body part) is the native East Slavic form with полногласие (оло); глава (head of a state or organisation) is the Church Slavonic form with ла. The Slavonic form is the abstract or elevated one.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-EX-01-002": {
+"notes": "Млечный Путь (Milky Way) keeps the Church Slavonic form; молочный (dairy) is the everyday East Slavic word. The same pair gives млекопитающее (mammal).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-EX-01-003": {
+"notes": "Отче is the old vocative of отец, preserved in prayer: Отче наш (Our Father). Modern Russian has no vocative case for most nouns.",
+"tip": "",
+"compare": "",
+"register": "Religious"
+},
+"RU-EX-01-004": {
+"notes": "Господи is the old vocative of Господь. It survives as a common exclamation of surprise or despair. In prayer, it's the address to God.",
+"tip": "",
+"compare": "",
+"register": "Neutral (exclamation)"
+},
+"RU-EX-02-001": {
+"notes": "The suffix -ну- turns an imperfective into a perfective of a single instance: чихать → чихнуть (sneeze once). These are called semelfactives.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-EX-02-002": {
+"notes": "прыгать → прыгнуть (one jump). The perfective focuses on the single act. The imperfective прыгать covers repeated jumping.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-EX-02-003": {
+"notes": "подмигивать → подмигнуть (wink once). The past -нула keeps the suffix. The imperfective подмигивать also describes repeated winks.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-EX-02-004": {
+"notes": "щас is a casual pronunciation of сейчас, now often written in chats. It's never used in formal writing.",
+"tip": "",
+"compare": "",
+"register": "Very casual"
+},
+"RU-EX-02-005": {
+"notes": "чё (also чо) is a casual pronunciation of что, common in many regions. It sounds uneducated to some listeners.",
+"tip": "",
+"compare": "",
+"register": "Very casual",
+"tr": "What you up to?",
+"flag": "tr: Whatcha doing? is American; changed to British usage"
+},
+"RU-EX-02-006": {
+"notes": "здрасте is a fast-speech form of здравствуйте. It's polite but casual. In very fast speech, it can shrink further to здрасьте.",
+"tip": "",
+"compare": "",
+"register": "Casual"
+},
+"RU-EX-02-007": {
+"notes": "типа (like, sort of) is a filler from the genitive of тип. It's informal and associated with young speakers.",
+"tip": "",
+"compare": "",
+"register": "Very casual"
+},
+"RU-EX-02-008": {
+"notes": "короче (literally 'shorter') is a filler meaning 'anyway, long story short'. It's very common in speech.",
+"tip": "",
+"compare": "",
+"register": "Very casual"
+},
+"RU-EX-02-009": {
+"notes": "спс is a texting abbreviation of спасибо, made from its consonants. Likewise пжл (пожалуйста). Other texting abbreviations: плз, ок.",
+"tip": "",
+"compare": "",
+"register": "Texting"
+},
+"RU-EX-02-010": {
+"notes": "норм is a clipped form of нормально, common in speech and texts. It means 'fine, OK'. The full form нормально is neutral.",
+"tip": "",
+"compare": "",
+"register": "Texting / casual"
+},
+"RU-EX-03-001": {
+"notes": "парадная (building entrance) is the St Petersburg word; Muscovites say подъезд. It's an adjective used as a noun, hence у парадной.",
+"tip": "",
+"compare": "",
+"register": "Regional (St Petersburg)"
+},
+"RU-EX-03-002": {
+"notes": "поребрик (kerb) is the St Petersburg word; elsewhere it's бордюр. The pair is a popular marker of Petersburg speech.",
+"tip": "",
+"compare": "",
+"register": "Regional (St Petersburg)"
+},
+"RU-EX-03-003": {
+"notes": "шаверма is the St Petersburg word for shawarma; Moscow says шаурма. The accusative is шаверму. The difference is a classic Moscow / Petersburg talking point.",
+"tip": "",
+"compare": "",
+"register": "Regional (St Petersburg)"
+},
+"RU-EX-03-004": {
+"notes": "шо is the southern (and Ukrainian-influenced) pronunciation of что. It's perceived as strongly regional.",
+"tip": "",
+"compare": "",
+"register": "Regional (southern)"
+},
+"RU-EX-04-001": {
+"notes": "Ask the question: что делать? → infinitive with -ться (учиться); что делает? → third person with -тся (учится). The ь follows the infinitive.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-002": {
+"notes": "After нравится, the infinitive answers что делать?, so -ться: заниматься. She does it answers что делает?, so -тся.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-003": {
+"notes": "ъ is written after a prefix ending in a consonant before е, ё, ю, я: объясню. It keeps the й sound. Without ъ, the word would be read with a soft б.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-004": {
+"notes": "съесть (eat up) takes ъ after the prefix с- before е: съел. сел (sat) is a different word. The ъ is also written in съезд and съёмка.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-005": {
+"notes": "подъезд has ъ after the prefix под- before е. The genitive is подъезда. The same ъ appears in подъём and подъехать.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-006": {
+"notes": "небольшой is written together as a single adjective (fairly small); не большой is written apart when contrasted with а: не большой, а маленький.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-007": {
+"notes": "не is always written separately from verbs: не знаю. незнаю is a common error. Exceptions are verbs that don't exist without не (ненавидеть).",
+"tip": "",
+"compare": "",
+"register": "Spelling",
+"text": "Я {{c1::не знаю::незнаю or не знаю?}}, что сказать.",
+"tr": "I don't know what to say.",
+"flag": "dup: replaced Я не знаю (also inside A1-07-013)"
+},
+"RU-EX-04-008": {
+"notes": "не раз means 'more than once'; ни разу (+ не) means 'not once'. The vowel changes the meaning completely.",
+"tip": "",
+"compare": "",
+"register": "Spelling",
+"text": "(A man speaking) Я {{c1::не раз::не раз or ни разу?}} был там.<br>(A man speaking) Я {{c2::ни разу::не раз or ни разу?}} не видел снега.",
+"tr": "I've been there more than once. / I've never once seen snow.",
+"flag": "dup: replaced Я ни разу там не был (near-identical to B1 Он ни разу там не был); text: added (A man speaking)"
+},
+"RU-EX-04-009": {
+"notes": "не один means 'more than one'; ни один (+ не) means 'not a single one'. The same pattern as не раз / ни разу.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-010": {
+"notes": "A participle with не and no dependent words is written together: непрочитанная книга. It functions like an adjective.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-011": {
+"notes": "With a dependent word (мной), не is written separately: не прочитанная мной. The participle keeps its verbal force.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-04-012": {
+"notes": "Short participles are always written separately from не: не решён. They behave like verbs. The long participle нерешённый would be written together.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-001": {
+"notes": "An adjective from an imperfective verb, without prefix or dependents, has one н: жареная картошка. It describes a quality.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-002": {
+"notes": "With a dependent phrase (на масле), the word becomes a participle with нн: жаренная на масле. The meaning is more verbal.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-003": {
+"notes": "деревянный is one of three exceptions with -янн- (деревянный, стеклянный, оловянный). Other -ян- adjectives have one н.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-004": {
+"notes": "ветреный (windy) has one н, but безветренный has two. It's a known exception. Other examples: обветренный, проветренный.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-005": {
+"notes": "кожаный (leather) has one н, from the suffix -ан-. Likewise песчаный, серебряный. The participle кожанный doesn't exist.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-006": {
+"notes": "то же (the same thing) is a pronoun + particle, written apart; тоже (also) is one word. Test: add самое: то же самое.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-007": {
+"notes": "так же (in the same way) is written apart when followed by как; также (also) is one word. Test: if тоже fits instead, write также.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-008": {
+"notes": "что бы ни (whatever) is two words; чтобы (in order to) is one. Test: remove бы and the sentence still works.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-009": {
+"notes": "в течение (over the period of) ends in -е. в течении (in the current) is a noun phrase with -и. The same goes for в продолжение (throughout).",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-010": {
+"notes": "кое- with a preposition is written apart without a hyphen: кое о чём. Without a preposition: кое-что.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-011": {
+"notes": "по- + adjective in -ому forms an adverb with a hyphen: по-новому. Likewise по-русски, по-моему. Likewise по-английски, по-моему, по-твоему.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-012": {
+"notes": "пол- is hyphenated before a vowel, л or a capital letter: пол-литра, пол-яблока, пол-Москвы. Otherwise it's joined: полчаса.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-013": {
+"notes": "Feminine nouns ending in a sibilant take ь: ночь, мышь, речь. Masculine ones don't: нож, врач. The same goes for печь, дочь, ложь.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-014": {
+"notes": "Masculine nouns ending in a sibilant have no ь: нож, ключ, плащ. The genitive is ножа, with stress on the ending. Feminine ones take ь: ночь, мышь.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-015": {
+"notes": "The ты ending -шь always has ь: читаешь, пишешь. This rule has no exceptions. The same applies to the reflexive: учишься.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-016": {
+"notes": "Genitive plurals of feminine nouns ending in a sibilant have no ь: задач, туч, рощ. Likewise туча → туч, роща → рощ.",
+"tip": "",
+"compare": "",
+"register": "Spelling",
+"text": "Нам нужно решить несколько {{c1::задач::tasks · genitive plural (ь or not?)}}.",
+"tr": "We need to solve several problems.",
+"flag": "dup: replaced У меня много задач (near-identical to A2 У меня много друзей)"
+},
+"RU-EX-05-017": {
+"notes": "Adverbs ending in a sibilant usually take ь (вскачь, настежь), but замуж, невтерпёж and уж are exceptions.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-018": {
+"notes": "при- means arrival or nearness: прибывать (arrive). пре- means 'very' or 'over': пребывать (stay, be). The two look alike but mean different things.",
+"tip": "",
+"compare": "",
+"register": "Spelling",
+"text": "Самолёт {{c1::прибывает::arrive (пре- or при-?)}} в Москву в полдень.",
+"tr": "The plane arrives in Moscow at midday.",
+"flag": "dup: replaced Поезд прибывает в пять (near-identical to B1 Поезд уходит в пять)"
+},
+"RU-EX-05-019": {
+"notes": "пребывать (stay, be present) has пре-. It's an official word: пребывание в Москве. The noun is пребывание.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-020": {
+"notes": "Days of the week are written with a lower-case letter: в понедельник. So are months. Only at the start of a sentence would it be capitalised.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-05-021": {
+"notes": "Language and nationality adjectives are written lower-case: русский язык. Only country names are capitalised.",
+"tip": "",
+"compare": "",
+"register": "Spelling"
+},
+"RU-EX-06-001": {
+"notes": "Сколько времени? is the colloquial way to ask the time. Сколько время? is non-standard. Который час? is the more neutral question.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-EX-06-002": {
+"notes": "Cities take в, so 'from' is из: из Москвы. с Москвы is regional or colloquial. The opposite is в Москву.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-EX-06-003": {
+"notes": "школа takes в, so 'from' is из: из школы. со школы is common in speech but non-standard. The same goes for из университета.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-EX-06-004": {
+"notes": "кофе is masculine in the standard language: мой кофе остыл. Dictionaries accept the neuter only as colloquial. In careful speech, keep it masculine.",
+"tip": "",
+"compare": "",
+"register": "Standard (prescriptive)"
+},
+"RU-EX-06-005": {
+"notes": "A verbal adverb must share its subject with the main clause: подъезжая, я уронил. Chekhov's mocking example used у меня слетела шляпа.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+},
+"RU-EX-06-006": {
+"notes": "With a noun (языке), the phrase is на русском языке; по-русски is the adverb. по-русски языке is impossible.",
+"tip": "",
+"compare": "",
+"register": "Standard"
+}
+}

@@ -1,0 +1,1775 @@
+{
+"RU-A2-01-001": {
+"notes": "The cue 'finished' calls for the perfective, and эту книгу is a single whole book. Prefix по-/про- often makes the perfective: читать → прочитать. A man says прочитал.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-002": {
+"notes": "A finished letter calls for the perfective написать, made with the prefix на-. A woman speaking takes the feminine -ла: написала. The prefix chosen for each verb has to be learned.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-003": {
+"notes": "Homework done and finished takes the perfective сделать, made with с-. The plural past -ли covers мы, вы and они alike. English 'have done' and 'did' both map onto сделали here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-004": {
+"notes": "покупать is the imperfective; its perfective is a different verb, купить, not a prefixed form. A single completed purchase takes купила. Some pairs differ in suffix rather than prefix.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-005": {
+"notes": "говорить in the sense 'tell, say' has the suppletive perfective сказать: сказала. Told me about it yesterday is one completed act, so the perfective fits. говорить's other perfective, поговорить, means 'have a talk'.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Она {{c1::сказала::говорить · perfective, past}} мне об этом вчера.",
+"tr": "She told me about it yesterday.",
+"flag": "dup: replaced Он сказал, что придёт (also in A2-10-009); answer сказал → сказала"
+},
+"RU-A2-01-006": {
+"notes": "брать has the suppletive perfective взять: взял, взяла. A man speaking takes взял. Taking someone's pen is one completed act.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-007": {
+"notes": "Asking whether a specific call has been made takes the perfective позвонить. Speaking to a man, ты takes the masculine позвонил. The question expects the result: is it done?",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-01-008": {
+"notes": "открывать (imperfective) pairs with открыть (perfective), which drops the suffix -ва-. Who opened it implies the window is still open: a result, so the perfective. Кто takes masculine agreement by default.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-009": {
+"notes": "готовить takes the prefix при- for the perfective: приготовить. Dinner is ready, so the result is in focus. The imperfective готовила would describe the cooking, not the outcome.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-010": {
+"notes": "решать pairs with решить; the perfective a- → и- change is common (решать / решить, отвечать / ответить). A decision made is a single completed act, so решили.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-011": {
+"notes": "два часа measures duration, which needs the imperfective читал; всю книгу is a completed whole, which needs прочитал. Time-span phrases almost always force the imperfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-012": {
+"notes": "каждый день signals a repeated action, so the imperfective звонила; вчера with a single call takes позвонила. Раньше (in the past, used to) also favours the imperfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-013": {
+"notes": "Asking whether something has ever happened, with no interest in a result, takes the imperfective: Ты читал…? This 'general fact' use of the imperfective has no English equivalent form.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-01-014": {
+"notes": "An action in progress when another happened takes the imperfective смотрел; the interrupting event (позвонил) is perfective. This is the Russian answer to English 'was …ing when'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-015": {
+"notes": "наконец (finally) marks an achieved result, so the perfective купили. наконец almost always goes with the perfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-01-016": {
+"notes": "два часа gives the duration, so the imperfective готовила. Saying приготовила два часа would be ungrammatical: perfectives can't take a plain duration.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-001": {
+"notes": "Завтра + a single completed call → perfective future. A perfective verb conjugated in the present form has future meaning: позвоню = I'll call. There's no буду позвонить.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-002": {
+"notes": "написать conjugates like писать, with с → ш: напишу, напишешь. Being perfective, the present-tense form refers to the future.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-003": {
+"notes": "сказать keeps the з → ж change in all forms: скажу, скажешь, скажут. Its present form means the future, because it's perfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-004": {
+"notes": "купить is second conjugation, with л inserted only in the я form: куплю, but купим. A specific purchase tomorrow takes the perfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-005": {
+"notes": "дать is irregular: дам, дашь, даст, дадим, дадите, дадут. These forms are always future in meaning, since дать is perfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-006": {
+"notes": "Asking whether something will get done today takes the perfective сделаешь. The imperfective будешь делать would ask about the activity: will you be working on it?",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-007": {
+"notes": "взять has the irregular future возьму, возьмёшь, built on a different stem. взять такси is a single act, so the perfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-008": {
+"notes": "мочь has no future of its own; the perfective смочь supplies it: смогу, сможешь. Russians never say буду мочь in the standard language.",
+"tip": "буду мочь is non-standard; use смогу.",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-009": {
+"notes": "Spending the evening on letters is an activity, so the compound future буду писать; one specific letter that will be finished takes напишу. The plural письма already hints at an open-ended process.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-010": {
+"notes": "каждый день signals repetition, so the imperfective compound future: буду звонить. Repeated actions in any tense default to the imperfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-011": {
+"notes": "начать (begin) is always followed by an imperfective infinitive: начал читать. The same rule holds after кончить, продолжать and перестать.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-012": {
+"notes": "Forgetting to do a specific thing takes the perfective infinitive: забыл купить. The bread wasn't bought as a single act.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-013": {
+"notes": "любить, нравиться and other verbs of liking take the imperfective infinitive, because they refer to the activity in general: люблю готовить.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-014": {
+"notes": "кончить, like начать, takes an imperfective infinitive: кончили работать. In speech закончить is more common than кончить with this meaning.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-02-015": {
+"notes": "The ты imperative of a verb with a vowel stem ends in -й: чита-ть → читай. It's formed from the они stem (чита-ют) minus the ending.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-016": {
+"notes": "говорить has a consonant stem (говор-ят), so the imperative is -и: говори, plural / polite говорите. The -те is added to the ты form to address вы.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-02-017": {
+"notes": "писать keeps its ш in the imperative: пиши, пишите. The stress follows the я form (пишý), so the imperative ending is stressed.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-02-018": {
+"notes": "быть has the imperative будь, from the future stem буд-. Будь осторожен uses the short masculine adjective; to a woman it's Будь осторожна.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-019": {
+"notes": "дать has the irregular imperative дай, plural дайте. Дай мне… is the everyday request; Дайте, пожалуйста is used in shops.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-020": {
+"notes": "Давай (let's) is the imperative of давать and is followed by a мы form: Давай пойдём. With вы or several people it becomes Давайте.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-021": {
+"notes": "пить forms the imperative from the stem пь-, written пей. The same pattern gives лей (from лить) and бей (from бить).",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-022": {
+"notes": "есть (eat) has the irregular imperative ешь, identical to the ты present form. Ешь, пока горячее uses the neuter горячее, meaning 'while it's hot'.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-023": {
+"notes": "Verbs in -авать keep -ва- in the imperative even though they drop it in the present: встаю but вставай. The same goes for давай and узнавай.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-024": {
+"notes": "сесть has the irregular imperative сядь, from the future stem ся́д-. It's the perfective, asking for a single act of sitting down.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-025": {
+"notes": "помочь has the imperative помоги, keeping the г of the я form (помогу). It takes the dative of the person: помоги мне.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "{{c1::Помоги::помочь · imperative, ты}} мне донести сумку!",
+"tr": "Help me carry this bag!",
+"flag": "dup: replaced Помоги мне! (near-identical to C2 Пап, помоги мне)"
+},
+"RU-A2-02-026": {
+"notes": "Negative imperatives normally use the imperfective: не бойся. бояться is reflexive, so the imperative ends in -ся after the consonant й.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-027": {
+"notes": "волноваться swaps -ова- for -у- in the stem: волнуюсь, so the imperative is волнуйся. Не волнуйся is the standard 'don't worry'.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-028": {
+"notes": "Warning someone not to do something takes the imperfective with не: не садитесь. The perfective сядьте is only used positively here.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)",
+"text": "Не {{c1::садитесь::садиться · imperative, вы}} на этот стул, он сломан.",
+"tr": "Don't sit on that chair, it's broken.",
+"flag": "dup: replaced (To a guest) Садитесь, пожалуйста (same as A2-02-030); answer Садитесь → садитесь"
+},
+"RU-A2-02-029": {
+"notes": "A positive request for one call takes the perfective позвони; a negative request takes the imperfective звони. Не позвони would sound like a warning against doing it by accident.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-030": {
+"notes": "Inviting someone to sit uses the imperfective садитесь, which sounds warm and inviting. The perfective сядьте sounds like an order, as from a teacher or official.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-02-031": {
+"notes": "Не with an imperative normally takes the imperfective: не открывай. Не открой is only used as a warning: mind you don't open it.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-02-032": {
+"notes": "Давай + perfective мы form proposes a single joint action: давай посмотрим. With an imperfective meaning, давай + infinitive is used instead (давай смотреть).",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "Давай {{c1::посмотрим::посмотреть · мы (давай + …)}} этот фильм.",
+"tr": "Let's watch this film.",
+"flag": "dup: replaced Давай пойдём в кино (same as A2-02-020); answer пойдём → посмотрим"
+},
+"RU-A2-02-033": {
+"notes": "Давайте + мы form addresses several people or one person politely: Давайте поговорим. поговорить is the perfective meaning 'have a talk'.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-02-034": {
+"notes": "Let's not uses давай не будем + imperfective infinitive: давай не будем спорить. Давай не поспорим is impossible.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-03-001": {
+"notes": "видеть changes д → ж in the я form only: вижу, but видишь. Second-conjugation verbs with stems in д, т, с, з, ст alternate this way.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я плохо {{c1::вижу::видеть · я}} без очков.",
+"tr": "I can't see well without my glasses.",
+"flag": "dup: replaced Я тебя не вижу (near-identical to A1 Я его не вижу)"
+},
+"RU-A2-03-002": {
+"notes": "сидеть also changes д → ж in the я form: сижу, сидишь. Russian uses the plain present for 'I'm sitting' and 'I sit'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-003": {
+"notes": "платить changes т → ч in the я form: плачу. платить за + accusative = pay for something. The perfective заплатить keeps the same change: заплачу.",
+"tip": "плачу́ (I pay) is stressed on the ending; пла́чу (I cry) on the stem.",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-004": {
+"notes": "спать inserts л in the я form: сплю, but спишь. The л appears after a labial (п, б, в, ф, м). The past is regular, спал, спала, with the stress moving to the ending in the feminine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-005": {
+"notes": "готовить inserts л after в in the я form: готовлю. The other forms are regular: готовишь, готовят. The perfective приготовить keeps the л: приготовлю.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-006": {
+"notes": "купить inserts л after п in the я form: куплю, but купишь. Being perfective, the form means the future.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-007": {
+"notes": "ответить changes т → ч in the я form: отвечу. It's the perfective of отвечать, so the form refers to the future.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-008": {
+"notes": "Stems in ст change to щ in the я form: чистить → чищу. Also пустить → пущу, простить → прощу. чистить зубы is the set phrase for brushing your teeth; the perfective is почистить.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-009": {
+"notes": "ждать drops the а of the infinitive in the present: жду, ждёшь. The stress falls on the ending throughout.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-010": {
+"notes": "звать has an inserted о in the present: зову, зовёшь. The same stem gives Как тебя зовут? The past goes back to the infinitive stem: звал, звала.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-011": {
+"notes": "искать changes ск → щ in every present form: ищу, ищешь, ищут. искать работу = look for a job. найти means 'find', so it isn't a perfective of искать.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "Ты {{c1::ищешь::искать · ты}} работу?",
+"tr": "Are you looking for a job?",
+"flag": "dup: replaced Что ты ищешь? (near-identical to A1 Что ты ешь?)"
+},
+"RU-A2-03-012": {
+"notes": "плакать changes к → ч in every present form: плачу, плачешь, плачут. Почему ты плачешь? is stem-stressed throughout.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-03-013": {
+"notes": "петь has the present stem по-: пою, поёшь, поют. петь в хоре = sing in a choir. The past is regular: пел, пела. Stress stays on the ending in поёшь and поёт.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-014": {
+"notes": "мыть has the present stem мо-: мою, моешь, моют. мыть посуду = do the washing-up. Its reflexive мыться (wash oneself) conjugates the same way: моюсь.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-015": {
+"notes": "вставать drops -ва- in the present: встаю, встаёшь. в семь = at seven. The perfective встать has a different pattern again: встану, встанешь.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-016": {
+"notes": "помочь has the г / ж alternation of мочь: помогу, поможешь, помогут. Ты мне поможешь? asks for help with a specific task.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-03-017": {
+"notes": "лечь has an irregular future: лягу, ляжешь, лягут. It's the perfective of ложиться: lie down, go to bed.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-018": {
+"notes": "начать has a future with -н-: начну, начнёшь. The past keeps the original stem: начал, начала. Its imperfective partner is начинать, a regular verb: начинаю.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-019": {
+"notes": "понять has a future with -йм-: пойму, поймёшь. The same pattern gives принять → приму, занять → займу.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-03-020": {
+"notes": "нести has a masculine past without -л: нёс. The other forms keep л: несла, несли. The same pattern gives вёз (везти) and рос (расти).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-021": {
+"notes": "The feminine past of нести is несла, with the л restored and the stress on the ending. The masculine нёс is the odd one out.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-022": {
+"notes": "везти (carry by vehicle) has the masculine past вёз, without -л. It pairs with нести (carry on foot) the way ехать pairs with идти.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-023": {
+"notes": "мочь has the masculine past мог, with no -л. The feminine and plural restore it: могла, могли. Prefixed forms follow suit: помог, смог, помогла.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-024": {
+"notes": "The feminine past of мочь is могла, with the stress on the ending. не могла прийти = couldn't come. The same г appears in the past of помочь: помогла.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-025": {
+"notes": "лечь has the masculine past лёг, with ё and no -л. The feminine is легла, the plural легли. Don't confuse it with ложился, the imperfective past.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-026": {
+"notes": "умереть has the masculine past умер, without -л. The feminine is умерла, with the stress on the ending.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-027": {
+"notes": "Verbs in -нуть can drop both -ну- and -л in the masculine past: замёрзнуть → замёрз. Others keep them: крикнуть → крикнул.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-028": {
+"notes": "расти has the irregular past рос, росла, росли, with the vowel о instead of а. The present is расту, растёшь.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-03-029": {
+"notes": "есть (eat) has the past ел, ела, ели, which looks unrelated to the present ем. Negated with ничего, the verb takes double negation: ничего не ел.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-001": {
+"notes": "студенты is animate, so the accusative plural equals the genitive plural: студентов. Animacy affects all genders in the plural, not only masculine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-002": {
+"notes": "собака is a feminine animate noun, and in the plural the accusative takes the genitive form: собак. In the singular it's simply собаку.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-003": {
+"notes": "The dative plural ends in -ам / -ям for every gender: друзьям. друзья has a soft plural stem, so -ям.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я часто пишу {{c1::друзьям::друг · dative plural}}.",
+"tr": "I often write to my friends.",
+"flag": "dup: replaced Мы пишем друзьям (near-identical to A2-06-008)"
+},
+"RU-A2-04-004": {
+"notes": "родители ends in -и, a soft stem, so the dative plural is -ям: родителям. звонить takes the dative of the person.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-005": {
+"notes": "The instrumental plural ends in -ами / -ями: учителя → с учителями. A woman speaking would say советовалась.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(A man speaking) Я советовался с {{c1::учителями::учитель · instrumental plural}}.",
+"tr": "I asked the teachers for advice.",
+"flag": "dup: replaced Я говорил с учителями (near-identical to A1-08-022 and A2-04-032)"
+},
+"RU-A2-04-006": {
+"notes": "дети has the irregular instrumental детьми, not детями. люди behaves the same way: с людьми. The prepositional is regular: о детях.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-007": {
+"notes": "The prepositional plural ends in -ах / -ях for every gender: фильмах. о + prepositional = about. Hard stems take -ах, soft stems -ях: о словарях.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Она пишет статью о {{c1::фильмах::фильм · prepositional plural}}.",
+"tr": "She's writing an article about films.",
+"flag": "dup: replaced Мы говорим о фильмах (near-identical to A1 Мы говорим о брате)"
+},
+"RU-A2-04-008": {
+"notes": "полки takes the prepositional plural -ах: на полках. The plural endings -ам, -ами, -ах are shared by all three genders.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-009": {
+"notes": "стул has the irregular plural стулья, with soft -ья. The genitive plural is стульев. The dative plural follows the same stem: стульям.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-010": {
+"notes": "дерево has the irregular plural деревья. The genitive plural is деревьев. The singular stem has no ь: дерево, дерева.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-011": {
+"notes": "сын has the plural сыновья, with an inserted -ов-. The genitive plural is сыновей. In a religious context сыны is also found, as in сыны Отечества.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-012": {
+"notes": "муж has the plural мужья, with stress on the ending. The genitive plural is мужей. Compare брат → братья and друг → друзья, built on the same pattern.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-013": {
+"notes": "цветок has the plural цветы, losing the -ок-. A second plural, цветки, refers to the individual flower heads.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-014": {
+"notes": "ухо has the irregular plural уши, with х → ш. The genitive plural is ушей. The singular declines regularly: уха, уху.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-015": {
+"notes": "плечо has the plural плечи, ending in -и, not -а. болеть in the sense 'hurt' agrees with the body part: болят. The genitive plural is плеч.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-016": {
+"notes": "город takes a stressed -а in the plural: города. The genitive plural is городов. Other masculine nouns in this group: поезда, леса, глаза.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-017": {
+"notes": "учитель has the plural учителя, with stressed -я. учители is archaic and now means 'teachers' as in great thinkers.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-018": {
+"notes": "отец has a fleeting е: the stem shrinks to отц- in every case but the nominative. без + genitive gives без отца.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-019": {
+"notes": "день has a fleeting е: the stem is дн- in other forms. After три, the genitive singular is дня. The genitive plural is дней, as in несколько дней.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-020": {
+"notes": "рот loses its о in every other form: рт-. во рту also uses the stressed locative -у. в becomes во before the consonant cluster.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-021": {
+"notes": "подарок has a fleeting о: the stem is подарк-. After два, the genitive singular is подарка. The same fleeting vowel appears in звонок → звонка.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-022": {
+"notes": "мать adds -ер- in every form but the nominative and accusative singular: матери. In speech мама is far more common.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-023": {
+"notes": "дочь adds -ер- in the oblique cases: дочерью. гордиться takes the instrumental. The plural instrumental is дочерьми, with the irregular -ьми like детьми.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-024": {
+"notes": "After три, дочь takes the genitive singular дочери. The genitive plural, after пять, is дочерей. The nominative plural, дочери, has the same spelling as the genitive singular.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-025": {
+"notes": "сад takes the stressed locative -у after в: в саду. Other common examples: в лесу, в шкафу, на полу.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-026": {
+"notes": "пол takes the stressed locative -у after на: на полу. на поле would refer to a field (поле). The stress moves to the ending: на полу́.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-027": {
+"notes": "угол has a fleeting о and the locative -у: в углу. The genitive is угла. Other examples with the fleeting vowel and -у: во рту, во лбу.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-028": {
+"notes": "шкаф takes the stressed locative -у: в шкафу. The ordinary prepositional, о шкафе, is used after о. The plural is шкафы, with no special locative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-029": {
+"notes": "берег takes the locative -у after на: на берегу. на берегу моря = at the seaside. The plural is берега, with stressed -а.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-030": {
+"notes": "о (about) never triggers the locative -у; it takes the regular -е: о саде. The -у form only appears after в and на of location.",
+"tip": "в саду (in the garden) but о саде (about the garden).",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-031": {
+"notes": "Саша is a man's name here, but it declines like a feminine -а noun: с Сашей. The ending is -ей because ш takes no unstressed о.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-04-032": {
+"notes": "похож на + accusative means 'look like': похож на отца. отец has a fleeting е, so the stem shrinks to отц- in every form but the nominative.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Мальчик похож {{c1::на отца::отец · на + accusative}}.",
+"tr": "The boy looks like his father.",
+"flag": "dup: replaced Я говорил с отцом (near-identical to A1-08-022 and A2-04-005); answer отцом → на отца"
+},
+"RU-A2-04-033": {
+"notes": "хороший has a stem in ш, and an unstressed о after ш becomes е: хорошее, not хорошое. The same rule gives горячее and свежее.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-001": {
+"notes": "много takes the genitive plural: друзей. друзья is soft in the plural, so the ending is -ей. The singular stem друг- changes to друз- in the plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-002": {
+"notes": "двадцать takes the genitive plural: студентов. Masculine hard nouns take -ов. двадцать один would take the nominative singular: двадцать один студент.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-003": {
+"notes": "Feminine -а nouns have a zero ending in the genitive plural: книга → книг. пять takes the genitive plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-004": {
+"notes": "музей ends in -й, so the genitive plural is -ев: музеев. много takes the genitive plural. The same applies to other -ей nouns: трамвай → трамваев.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-005": {
+"notes": "братья has the genitive plural братьев, as its plural stem ends in a soft й sound. Сколько takes the genitive plural.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-05-006": {
+"notes": "люди has the genitive plural людей. мало takes the genitive, like много. After a number it would be человек.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-007": {
+"notes": "девушка has a zero ending with an inserted е: девушек. The inserted vowel breaks up the cluster шк. Other examples: ручка → ручек, ложка → ложек.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-008": {
+"notes": "окно has a zero ending with an inserted о: окон. Neuter -о nouns usually have a zero ending in the genitive plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-009": {
+"notes": "Masculine nouns ending in ж, ш, ч, щ take -ей in the genitive plural: врачей. несколько takes the genitive plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-010": {
+"notes": "Feminine nouns in -ия take -ий in the genitive plural: лекций. шесть takes the genitive plural. Neuters in -ие take -ий too: здание → зданий.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-011": {
+"notes": "дети has the genitive plural детей. ребёнок has no regular plural. Its dative is детям and its instrumental детьми.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-05-012": {
+"notes": "место has a zero ending in the genitive plural: мест. Нет + genitive takes the plural when talking about several seats.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-013": {
+"notes": "две (2–4) takes the genitive singular: сестры; пять (5+) takes the genitive plural: сестёр, with an inserted ё.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-014": {
+"notes": "три takes the genitive singular: яблока; десять takes the genitive plural: яблок. The plural nominative is яблоки.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-05-015": {
+"notes": "много takes the genitive plural: людей. на улице = outside. много людей refers to a crowd; много человек is used only after numbers.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-016": {
+"notes": "Uncountable nouns after мало take the genitive singular: времени. The plural времена means 'times, eras'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-017": {
+"notes": "день has the genitive plural дней. несколько takes the genitive plural. The singular genitive дня is used after два, три, четыре.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-05-018": {
+"notes": "Сколько takes the genitive plural: друзей. в Москве is the prepositional of location. The question needs no verb in the present.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-06-001": {
+"notes": "нет + genitive: свободное время → свободного времени. The masculine and neuter genitive adjective ending is -ого, pronounced -ова.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-002": {
+"notes": "звонить + dative: старый друг → старому другу. The masculine and neuter dative adjective ending is -ому.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-003": {
+"notes": "с + instrumental: новый учитель → с новым учителем. The masculine and neuter instrumental adjective ending is -ым.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-004": {
+"notes": "в + prepositional: большой магазин → в большом магазине. The masculine and neuter prepositional adjective ending is -ом.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-005": {
+"notes": "подарить + dative: младшая сестра → младшей сестре. The feminine adjective ending -ей appears after ш, ж, ч, щ when unstressed.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-06-006": {
+"notes": "без + genitive: старшая сестра → без старшей сестры. Feminine adjectives share one form for the genitive, dative, instrumental and prepositional.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-007": {
+"notes": "с + instrumental plural: хорошие студенты → с хорошими студентами. All plural adjectives take -ими in the instrumental.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-008": {
+"notes": "Possessives in the dative plural take -им: нашим друзьям. The same ending is used for adjectives: старым друзьям.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-009": {
+"notes": "The owner goes into the genitive: мой брат → моего брата. The г in -его is pronounced в. The feminine counterpart is моей: книга моей сестры.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-010": {
+"notes": "о + prepositional: ваша работа → о вашей работе. Possessives in the feminine prepositional take -ей.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-06-011": {
+"notes": "синий is soft, so the prepositional is -ем: в синем платье. в + clothing means wearing it. The hard counterpart would be в красном платье.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-012": {
+"notes": "последний is soft, so the feminine prepositional is -ей: на последней странице. The hard counterpart would be -ой.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-013": {
+"notes": "хороший has a ш stem, and the unstressed instrumental ending is -им, not -ым: с хорошим другом. The spelling rule for и after ш applies.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-014": {
+"notes": "столовая is an adjective used as a noun, so it declines like an adjective: в столовой. Similar nouns are ванная, гостиная.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-015": {
+"notes": "учёный (scientist) is an adjective used as a noun: с учёным. Others are рабочий, военный, знакомый. The plural учёные means 'scientists' or 'scholars'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-016": {
+"notes": "взрослый (adult) declines like an adjective: для взрослых. для takes the genitive. The singular взрослый also works as an ordinary adjective: взрослый сын.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-017": {
+"notes": "к + он gives к нему: third-person pronouns add н- after a preposition. к + person = to someone's place.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Мы поедем {{c1::к нему::к + он (dative)}} в субботу.",
+"tr": "We're going round to his on Saturday.",
+"flag": "dup: replaced Я иду к нему (near-identical to A1 Я иду к врачу)"
+},
+"RU-A2-06-018": {
+"notes": "у + они gives у них, with н-. быть в гостях у = be visiting someone. в гостях is the locative of гости, used only in this phrase.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-019": {
+"notes": "о + они gives о них, with the н- prefix. Without a preposition the prepositional doesn't occur. вспоминать can also take a direct object: вспоминаю их.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я часто вспоминаю {{c1::о них::о + они (prepositional)}}.",
+"tr": "I often think back on them.",
+"flag": "dup: replaced Я думаю о них (near-identical to A1 Я думаю о маме)"
+},
+"RU-A2-06-020": {
+"notes": "с + они gives с ними, with н-. The instrumental plural is ими. разговаривать с is a little more conversational than говорить с.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я давно не разговаривал {{c1::с ними::с + они (instrumental)}}.",
+"tr": "I haven't spoken to them for ages.",
+"flag": "dup: replaced Мы гуляли с ними (near-identical to A1 Мы гуляли с ней)"
+},
+"RU-A2-06-021": {
+"notes": "для + она gives для неё, with н-. для takes the genitive. Other prepositions take the same form: без неё, от неё, у неё.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-022": {
+"notes": "о + вы gives о вас. Only the third-person pronouns add н-; вы, ты and мы don't. The same pronoun form serves for genitive, accusative and prepositional: вас.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-06-023": {
+"notes": "этот points to something near; тот points to something further away. не этот, а тот contrasts the two.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-024": {
+"notes": "не тот means 'the wrong one': не тот номер, не тот автобус. English 'wrong' isn't неправильный here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-025": {
+"notes": "тот же means 'the same': тот же человек. It agrees with its noun: та же, то же, те же. то же самое (the same thing) strengthens it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-026": {
+"notes": "такой (so, such) is used before an adjective and agrees with it: такой умный. так is used before adverbs and verbs.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-027": {
+"notes": "так (so) is used before an adverb: так быстро. такой would need an adjective. так also introduces a result clause: так устал, что уснул.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-028": {
+"notes": "весь declines irregularly: обо всём (about everything). о becomes обо before всём. The genitive is всего, the dative всему.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-029": {
+"notes": "все (everyone) has the instrumental всеми. с becomes со before всеми. Its other forms: всех (genitive), всем (dative).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-06-030": {
+"notes": "Wishes put the thing wished in the genitive, with желаю understood: всего хорошего. Likewise Спокойной ночи!",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-001": {
+"notes": "нужен is a short adjective that agrees with the thing needed: нужен (m.), нужна (f.), нужно (n.), нужны (pl.). The person in need is in the dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-002": {
+"notes": "With an infinitive, нужно is neuter and impersonal: тебе нужно отдохнуть. надо means the same and is a little more colloquial.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-07-003": {
+"notes": "The past of нужна uses быть in the same gender: была нужна. The verb agrees with помощь, not with мне.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-004": {
+"notes": "The future of надо uses будет: надо будет. The order будет надо is also heard, but надо будет is more natural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-005": {
+"notes": "по + dative marks the channel: по телефону (on the phone). Likewise по радио, по интернету, по почте.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-006": {
+"notes": "по + dative marks movement around or through a space: по городу. Compare в город (into the city). Other directions use other prepositions: в город, из города.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-007": {
+"notes": "по + dative plural means 'every': по субботам (on Saturdays). The singular в субботу means one particular Saturday.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-008": {
+"notes": "по + dative marks movement along: по улице. идти по улице = walk down the street. The verb идти signals a single direction.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-009": {
+"notes": "помогать takes the dative: сестре. English 'help someone' misleads learners into the accusative. The perfective помочь also takes the dative: помоги сестре.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-010": {
+"notes": "советовать takes the dative of the person advised: отцу. The fleeting е gives отц-. The advice itself follows as an infinitive: посоветовал отдохнуть.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-011": {
+"notes": "мешать takes the dative of the person disturbed: папе. Не мешай мне! = Leave me alone, I'm busy. The infinitive after мешать says what is being disturbed.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-07-012": {
+"notes": "отвечать / ответить takes the dative of the person: учителю. The thing answered takes на + accusative: ответить на вопрос.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-07-013": {
+"notes": "обещать takes the dative of the person: бабушке. The thing promised can follow as an infinitive. The perfective пообещать is used for a single promise.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-014": {
+"notes": "Impersonal states use the neuter было in the past: мне было холодно. The person feeling it is in the dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-015": {
+"notes": "The past of надо is надо было. мне надо было уйти = I had to leave. The future is надо будет: мне надо будет уйти.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-016": {
+"notes": "лень works like an impersonal predicate: мне лень + infinitive. It's colloquial and very common. The noun лень also means 'laziness'.",
+"tip": "",
+"compare": "",
+"register": "Informal"
+},
+"RU-A2-07-017": {
+"notes": "жаль takes the accusative of the person pitied and the dative of the one feeling it: мне жаль его. жалко is a more colloquial synonym.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-018": {
+"notes": "Impersonal weather sentences use будет in the future: будет тепло. There's no subject, so the verb is neuter singular.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-019": {
+"notes": "должен is a short adjective that agrees with the subject: должна for a woman. It's followed by an infinitive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-020": {
+"notes": "With мы, должен takes the plural должны. The stress is on the ending: должны́. The past uses быть: мы должны были идти.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-021": {
+"notes": "рад exists only as a short form: рад, рада, рады. A woman says рада. There's no long form: радый does not exist.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-022": {
+"notes": "занят (busy) is a short adjective: занят, занята, заняты. The stress moves to the ending in the feminine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-023": {
+"notes": "мама is feminine, so занята, with stress on the ending. сейчас = at the moment. The long-form занятый is used before a noun: занятый человек.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-07-024": {
+"notes": "Temporary states use short adjectives: болен, больна, больны. The long form больной means 'a sick person' or 'sore'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-001": {
+"notes": "работать takes the instrumental of a profession: работает врачом. The instrumental here means 'as'. The nominative is also possible for a permanent identity: Он врач.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-002": {
+"notes": "стать takes the instrumental: стать космонавтом. Likewise быть in the past and future. The perfective стать also gives the future: станет.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-003": {
+"notes": "быть in the past takes the instrumental of a role: была хорошей учительницей. The nominative is also possible, but sounds more permanent.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-004": {
+"notes": "станет is the perfective future of стать, and still takes the instrumental: станет инженером. The imperfective is становиться: он становится инженером.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-005": {
+"notes": "интересоваться takes the instrumental: интересуюсь историей. English 'interested in' has no preposition in Russian.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-006": {
+"notes": "увлекаться takes the instrumental: живописью. живопись is a feminine -ь noun, so -ью. увлекаться is stronger than интересоваться: to be really into something.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-007": {
+"notes": "гордиться takes the instrumental: гордятся сыном. English 'proud of' maps onto a bare case. The noun гордость takes за: гордость за сына.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-008": {
+"notes": "пользоваться takes the instrumental: компьютером. It means 'use' as a tool or service. Its perfective is воспользоваться, used for a single occasion.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-009": {
+"notes": "над (above) takes the instrumental: над столом. висеть = hang. над never takes the accusative, even with motion: повесить лампу над столом.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-010": {
+"notes": "под (under) takes the instrumental for location: под кроватью. With motion it takes the accusative: под кровать.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-011": {
+"notes": "перед (in front of) takes the instrumental: перед домом. стоять is used for parked cars. In time expressions it means 'before': перед уроком.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-012": {
+"notes": "за (behind) takes the instrumental for location: за домом. With motion it takes the accusative: за дом.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-013": {
+"notes": "между takes the instrumental of both nouns: между почтой и аптекой. находиться = be located. The preposition isn't repeated before the second noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-08-014": {
+"notes": "перед + instrumental also means 'before' in time: перед едой. Мой here is the imperative of мыть. It contrasts with после + genitive (after): после еды.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-09-001": {
+"notes": "при- means arriving: прийти. The past is пришёл, from the irregular шёл. The future is приду, придёшь, with д from the stem.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-002": {
+"notes": "у- means leaving: уйти. The past is ушла, from шла. The imperfective is уходить: она уходит. с работы pairs with на работу, as работа is a на noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-003": {
+"notes": "в- means going in: войти, past вошёл. The vowel о is added to avoid the cluster вш. The imperfective is входить: он входит.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-004": {
+"notes": "вы- means going out: выйти, past вышла. The prefix вы- is always stressed in perfectives. The imperfective is выходить: она выходит.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-005": {
+"notes": "приехать is arriving by transport: приехали. The motion verb changes from идти to ехать when transport is involved.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-006": {
+"notes": "уехать means leaving by transport: уехал. The result is that he's still away. Compare ушёл, which would mean he left on foot.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-007": {
+"notes": "пойти is the perfective of идти and means setting off: давай пойдём. With гулять, it's 'go for a walk'.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-09-008": {
+"notes": "поехать is the perfective of ехать and gives the future: поеду. к бабушке = to Grandma's. It means setting off on a trip, so it can't take a duration.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-009": {
+"notes": "при- means arriving and у- means leaving. уже (already) goes with the result of leaving: поезд уже ушёл.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-010": {
+"notes": "в- means going in (вошёл в), вы- going out (вышел из). The prepositions match the prefixes: в with в-, из with вы-.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-011": {
+"notes": "The 'from' preposition mirrors the 'to' one: в → из, на → с, к → от. All three take the genitive. The pattern is the same for location: в школе, на работе, у врача.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-012": {
+"notes": "в Москву pairs with из Москвы: cities take в, so 'from' is из. вернуться = come back. The imperfective is возвращаться.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-013": {
+"notes": "на концерт pairs with с концерта: events take на, so 'from' is с. The same goes for на работу → с работы and на почту → с почты.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-014": {
+"notes": "Things from a person take от + genitive: от мамы. из would treat Mum as a place. от + genitive also marks the sender: подарок от мамы.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-015": {
+"notes": "Flat objects лежат, upright ones стоят. A phone lies on its back; a bottle stands upright. Plates, books and phones lie; bottles, glasses and vases stand.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(Where it is) Телефон {{c1::лежит::лежит or стоит?}} на диване.<br>(Where it is) Бутылка {{c2::стоит::лежит or стоит?}} на столе.",
+"tr": "The phone is on the sofa. / The bottle is on the table.",
+"flag": "dup: replaced Книга лежит на столе (same as A1-05-002)"
+},
+"RU-A2-09-016": {
+"notes": "поставить is putting something upright; положить is putting it flat. The pairs are стоять / ставить / поставить and лежать / класть / положить.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-09-017": {
+"notes": "висеть describes something hanging: висит. It changes с → ш only in the я form: вишу. The perfective повесить means 'hang up'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-018": {
+"notes": "повесить (hang up) has the imperative повесь. It's the counterpart of висеть for putting. The imperfective is вешать: вешай.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-09-019": {
+"notes": "положить is used for putting things into a bag or pocket, even when they aren't flat: положил ключи в сумку.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-020": {
+"notes": "сесть (sit down) has the irregular past сел, села, сели. It's the change of position; сидеть is the state.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-021": {
+"notes": "ложиться (lie down, go to bed) is imperfective: ложусь. The perfective is лечь. In the future: лягу, ляжешь.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-09-022": {
+"notes": "вставать (get up) drops -ва- in the present: встаёт. The perfective is встать. The perfective is встать: встану.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-001": {
+"notes": "который agrees in gender and number with its antecedent (друг, m.), and takes its case from its role in the clause. Here it's the subject: который.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-002": {
+"notes": "девушка is feminine, and the relative is the subject of работает, so которая. Commas always mark off the relative clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-003": {
+"notes": "книга is feminine, but the relative is the object of читаю, so the accusative которую. The relative can't be dropped as in English.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-004": {
+"notes": "город is masculine, and в + prepositional gives в котором. English 'where' becomes a preposition plus the relative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-005": {
+"notes": "звонить takes the dative, so the relative is in the dative: которому. друг is masculine. In speech the relative clause usually follows the noun immediately.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-006": {
+"notes": "люди is plural and the relative is the subject, so которые. Plural forms don't distinguish gender. The dative plural would be которым: люди, которым я помог.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-007": {
+"notes": "говорить о + prepositional gives о котором. The preposition always comes in front of the relative pronoun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-008": {
+"notes": "Possession uses у + genitive, so the relative is у которого. Russian keeps the preposition with the pronoun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-009": {
+"notes": "что reports a statement (he said he'd come); чтобы reports a request (he told us to come) and takes the past form of the verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-010": {
+"notes": "хотеть with a different subject in the clause needs чтобы + past form: хочу, чтобы ты пришёл. Хочу, что ты придёшь is wrong.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-10-011": {
+"notes": "Purpose takes чтобы + infinitive when the subject is the same: пришёл, чтобы помочь. что cannot express purpose.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-012": {
+"notes": "знать reports a fact, so что: Я знаю, что ты занят. чтобы would make it a wish. Reported speech keeps the original tense: он сказал, что занят.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-10-013": {
+"notes": "After чтобы with a new subject, the verb takes its past form, whatever the time reference: чтобы я позвонила. A woman speaking gives -ла.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-014": {
+"notes": "Russian uses the future after если when the meaning is future: если будет. English uses the present here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-015": {
+"notes": "когда about the future takes the future: когда я приеду. English 'when I arrive' uses the present. The main clause is also future: я тебе позвоню.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-10-016": {
+"notes": "если + perfective future: если ты придёшь. The main clause also uses the future. буду рада uses the short form of рад.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-11-001": {
+"notes": "The simple comparative ends in -ее: интереснее. It doesn't agree with the noun, and чем introduces the comparison.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-002": {
+"notes": "старый has the comparative старше for people's ages: старше меня. The genitive can replace чем. For things, старее is used: этот дом старее.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-003": {
+"notes": "хороший has the irregular comparative лучше. плохой gives хуже. хороший also has the compound лучший (the best, better).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-004": {
+"notes": "дорогой has the comparative дороже, with г → ж. Stems in г, к, х, д, т, ст change and take -е. The compound form is более дорогой.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-005": {
+"notes": "Comparative adverbs have the same form as the adjective comparative: медленнее (more slowly). Vowel stems take -ее.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "Иди {{c1::медленнее::медленно · comparative}}, я не успеваю.",
+"tr": "Walk more slowly, I can't keep up.",
+"flag": "dup: replaced Говори медленнее, пожалуйста (near-identical to A2-02-016)"
+},
+"RU-A2-11-006": {
+"notes": "молодой has the comparative младше for age. на + accusative gives the difference: на два года. моложе is an equally common alternative: моложе меня.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-007": {
+"notes": "холодный has the comparative холоднее. In impersonal weather sentences, the comparative is used with no subject.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-008": {
+"notes": "After a simple comparative, the genitive can replace чем: выше меня. выше чем я is also possible. This genitive is only used after the simple comparative, not after более.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-009": {
+"notes": "The genitive after a comparative agrees with the omitted noun: больше твоей (квартиры). твоя → твоей.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-010": {
+"notes": "The superlative uses самый + adjective, agreeing with the noun: самый высокий дом. самый declines like an adjective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-011": {
+"notes": "улица is feminine, so самая красивая. Both words agree with the noun. The feminine is the same in all forms: самой, самую.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-012": {
+"notes": "самый declines with the noun: в самом старом музее. The prepositional masculine is -ом. самый is also used for 'the very': в самом начале.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-013": {
+"notes": "свой refers back to the subject of the clause: он читает свою книгу (his own). его would mean someone else's.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-014": {
+"notes": "She called her own mum: свой refers back to она, and declines like мой: своей маме. The feminine dative is своей.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-015": {
+"notes": "The subject is он, but the mother is hers, so её. свою would refer to his own mum. её never declines.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-11-016": {
+"notes": "свой replaces их when the owner is the subject: продали свою машину. их would mean other people's car.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-001": {
+"notes": "Days of the week take в + accusative: в понедельник. понедельник is inanimate, so the accusative is the same.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-002": {
+"notes": "Days of the week take в + accusative: в среду. Feminine -а days change to -у (в пятницу, в субботу); masculine ones stay the same: в четверг.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-003": {
+"notes": "Months take в + prepositional: в мае. Note the lower-case spelling of months in Russian. The same goes for all months: в январе, в июле.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-004": {
+"notes": "Years take в + prepositional: в 2000 году, read в двухтысячном году. год takes the locative -у. Only the last word of the number is an ordinal.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-005": {
+"notes": "неделя takes на + prepositional: на прошлой неделе. Other periods (month, year) take в. на этой неделе is 'this week', на следующей неделе 'next week'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-006": {
+"notes": "через + accusative means 'in' (after a period of time): через час. Через can also mean 'through, across'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-007": {
+"notes": "назад (ago) follows the time phrase: два года назад. тому назад is an older, more bookish variant. The time phrase stays in the accusative: неделю назад.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-008": {
+"notes": "A plain accusative gives duration: неделю (for a week). No preposition is needed. Only imperfective verbs can take a duration like this.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-009": {
+"notes": "Duration in the accusative: всю ночь. весь agrees with the noun. Likewise весь день, всё утро, весь год.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-010": {
+"notes": "мы с + instrumental means 'X and I': мы с братом. It can also be used with я: я с братом. The verb is plural, as мы is the subject.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-011": {
+"notes": "Russian uses the present for an action begun in the past that is still going on: живу уже три года. English needs 'have been living'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-012": {
+"notes": "уже не means 'no longer': уже не работает. уже не is the opposite of ещё. больше не has the same meaning: он больше не работает.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-013": {
+"notes": "ещё не means 'not yet': ещё не пришёл. ещё means 'still' in a positive sentence. The verb in the past is usually perfective: ещё не пришёл.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-014": {
+"notes": "Frequency takes в + accusative: два раза в неделю. Likewise раз в год. For 'a day', it's в день: три раза в день.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-015": {
+"notes": "с + genitive gives the starting point: с девяти. до + genitive gives the end. до девяти means 'until nine'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-016": {
+"notes": "с … по + accusative gives a range including the last day: с понедельника по пятницу. до would leave Friday unclear.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-017": {
+"notes": "к + dative means 'by' a time: к пяти часам. Both the number and the noun are dative. к is also used for 'towards': к вечеру.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-12-018": {
+"notes": "After три, час takes the genitive singular: три часа. Который час? is the standard way to ask the time.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-12-019": {
+"notes": "на + accusative marks an occasion: на день рождения (for your birthday). The same pattern gives на Новый год.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A2-12-020": {
+"notes": "на + accusative marks a meal: на обед (for lunch). Likewise на ужин, на завтрак. For 'at lunch' it's за обедом or на обеде.",
+"tip": "",
+"compare": "",
+"register": "Informal"
+},
+"RU-A2-13-001": {
+"notes": "тоже means 'too, also' when the subject is the same thing as another; также adds a new item. Я тоже, never Я также.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-002": {
+"notes": "играть в + accusative is used for games and sports; играть на + prepositional for instruments. Getting this wrong is very noticeable.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-003": {
+"notes": "Games take в + accusative: в шахматы, в карты. The noun is often plural. Instruments, by contrast, take на + prepositional: на гитаре.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Вечером мы играем {{c1::в::в or на?}} карты.",
+"tr": "We play cards in the evening.",
+"flag": "dup: replaced Дети играют в шахматы (near-identical to A2-04-025 Дети играют в саду)"
+},
+"RU-A2-13-004": {
+"notes": "The past of у меня есть agrees with the thing owned: была (собака, f.). The verb doesn't agree with меня, which is in the genitive. A dog is the subject.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-005": {
+"notes": "много + genitive is treated as neuter singular: было много денег. The verb is not plural. The future is будет: будет много денег.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-006": {
+"notes": "The future of у меня есть is у меня будет. будет agrees with время (singular). In the negative it would be не будет времени.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-007": {
+"notes": "есть emphasises that something exists: у вас есть свободный номер? It's dropped when the existence is assumed.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)",
+"text": "У вас {{c1::есть::have (у вас … свободный номер?)}} свободный номер?",
+"tr": "Have you got a room available?",
+"flag": "dup: replaced У тебя есть машина? (same as A1-07-002)"
+},
+"RU-A2-13-008": {
+"notes": "в гости is direction (going visiting); в гостях is location (being on a visit). Both use в with different cases.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-009": {
+"notes": "спросить means asking a question; попросить means asking someone to do something. English 'ask' covers both.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-010": {
+"notes": "понравиться agrees with the thing liked, not the person: фильм понравился. A single impression is perfective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-011": {
+"notes": "Не могли бы вы…? is the standard polite request: literally 'couldn't you…?'. The не adds politeness, not negation.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-13-012": {
+"notes": "Не подскажете…? is the standard polite way to ask a stranger for information. подсказать means 'prompt, give a hint'.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-13-013": {
+"notes": "Будьте добры is a formal 'please' used when asking for something, often in restaurants. It's more formal than пожалуйста.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A2-13-014": {
+"notes": "Precipitation 'goes' in Russian: идёт снег, идёт дождь. There's no verb 'to snow'. The past is шёл снег, the future будет идти снег.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A2-13-015": {
+"notes": "идти + dative means 'suit': тебе идёт. It agrees with the clothing, here платье, neuter singular. The past is шло: тебе шло это платье.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+}
+}

@@ -1,0 +1,1342 @@
+{
+"RU-A1-01-001": {
+"notes": "брат ends in a consonant, so it's masculine and takes мой. The possessive agrees with the thing owned, not the owner: a woman also says мой брат.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-002": {
+"notes": "сестра ends in -а, so it's feminine and takes моя. Masculine nouns in -а (папа, дедушка) are the exception, because meaning beats form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-003": {
+"notes": "письмо ends in -о, so it's neuter: моё. The neuter -ё is always stressed in моё, твоё, своё, and the dots are often left out in print (мое).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-004": {
+"notes": "квартира is feminine (-а), so наш becomes наша. наш and ваш have the same endings as мой: наш, наша, наше, наши.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-005": {
+"notes": "паспорт is masculine, and the cue вы gives ваш (your, polite or plural). ваш is capitalised (Ваш) in letters addressed to one person.",
+"tip": "",
+"compare": "",
+"register": "Neutral; polite (вы)"
+},
+"RU-A1-01-006": {
+"notes": "словарь ends in -ь, which can be either gender; this one is masculine, so мой. The -ь nouns have to be learned with their gender: словарь m., тетрадь f.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-007": {
+"notes": "тетрадь is a feminine -ь noun, so the familiar 'your' is твоя. Most -ь nouns ending in -сть, -ть after a consonant, or -чь / -шь are feminine.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-01-008": {
+"notes": "его (his) never agrees: его машина, его дом, его письмо. It's a frozen genitive of он, which is why it doesn't change for the thing owned.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-009": {
+"notes": "её (her) is invariable like его, even though дом is masculine. Don't confuse it with the agreeing possessive: её дом, never ейный (dialect).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-010": {
+"notes": "папа ends in -а but denotes a man, so both the possessive and the past verb are masculine: мой папа пришёл. Gender follows meaning for such nouns.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-011": {
+"notes": "дедушка is masculine despite its -а ending, so наш, not наша. The same goes for дядя, мужчина and nicknames such as Саша for a man.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-012": {
+"notes": "Two -ь nouns side by side: словарь is masculine (мой), тетрадь feminine (моя). Nothing in the ending tells you; each has to be learned.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-013": {
+"notes": "очки exists only in the plural, so the possessive is plural: мои. 'One pair of glasses' is одни очки, not одно очко.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-014": {
+"notes": "часы (a watch or clock) is plural-only, so the verb is plural too: стоят. Here стоить means 'cost'; стоят дорого = are expensive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-015": {
+"notes": "брюки is plural-only, so the adjective takes the plural -ые: новые брюки. Likewise джинсы, ножницы and деньги.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-016": {
+"notes": "телефон is masculine, so 'whose' is чей. Like мой, чей agrees with the thing owned: чей, чья, чьё, чьи.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-017": {
+"notes": "сумка is feminine, so чья. The word order Чья это сумка? keeps это invariable as the subject, and чья agrees with сумка.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-018": {
+"notes": "ключи is plural, so чьи. Note that это stays singular even with a plural noun: Чьи это ключи? The same holds for Это мои ключи, where это never becomes эти.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-019": {
+"notes": "друг has an irregular plural, друзья, with a г → з change and a soft -ья ending. The genitive plural is друзей.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-020": {
+"notes": "книга is feminine and its stem ends in г, so the spelling rule gives -и, not -ы: книги. The rule applies after г, к, х, ж, ш, щ, ч.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-021": {
+"notes": "студент ends in a hard consonant, so the plural is -ы: студенты. A female student is студентка (plural студентки).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-022": {
+"notes": "окно is neuter in -о, so the plural is -а: окна. The stress shifts in the plural, from окнó to óкна, as with many neuters.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-023": {
+"notes": "брат has the irregular plural братья (soft -ья). The verb живут is plural because the subject is plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-024": {
+"notes": "человек has a suppletive plural: люди. After numbers it reverts to человек: пять человек, never пять людей.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-025": {
+"notes": "ребёнок has the suppletive plural дети. The singular-sounding ребята is a different, colloquial word for 'guys, kids'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-026": {
+"notes": "дом takes a stressed -а in the plural: домá, not домы. The same pattern gives города, поезда, учителя.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-027": {
+"notes": "карандаш ends in ш, so the spelling rule gives -и: карандаши. The stress falls on the ending throughout the plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-028": {
+"notes": "ключ ends in ч, so the plural is spelt ключи, never ключы. ключи от + genitive = the keys to something.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "У тебя есть {{c1::ключи::ключ · plural}} от машины?",
+"tr": "Have you got the car keys?",
+"flag": "dup: replaced Где мои ключи? (near-identical to B2 Где же мои ключи?)"
+},
+"RU-A1-01-029": {
+"notes": "Both words obey the spelling rule: хороший (ш) → хорошие, врач (ч) → врачи. Writing ы after these consonants is always wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-01-030": {
+"notes": "вечер is masculine, and тихий has a stem in х, so the ending is -ий, not -ый. The same rule gives русский, лёгкий, долгий.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-001": {
+"notes": "машина is feminine, so новый becomes новая. Adjectives agree with their noun in gender, number and case.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-002": {
+"notes": "книга is feminine, so хорошая. The stem ends in ш, but the feminine ending is still -ая; the spelling rule only affects ы / и.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-003": {
+"notes": "кафе is an indeclinable loanword and is neuter, so новое. Indeclinable nouns in -е and -о are almost all neuter.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-004": {
+"notes": "слова is plural, and русский has a к stem, so the plural ending is -ие: русские. Nationality adjectives are written lower-case.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-005": {
+"notes": "море is neuter, and синий is a soft adjective, so -ее, not -ое. Soft adjectives keep the soft vowel in every ending: синяя, синие.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-006": {
+"notes": "семья is feminine, so большой becomes большая. Adjectives with stressed endings (большой, молодой) have -ой in the masculine but the usual -ая / -ое / -ие elsewhere.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "У нас {{c1::большая::большой · agreement}} семья.",
+"tr": "We have a big family.",
+"flag": "dup: replaced Это большая квартира (flagged against Это наша квартира)"
+},
+"RU-A1-02-007": {
+"notes": "девушка is feminine, so красивая, and какая agrees too. Какая + adjective + noun! is the standard exclamation: what a…!",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-008": {
+"notes": "платье is neuter, and летний is soft, so -ее: летнее. Season and time adjectives (зимний, вечерний, последний) are mostly soft.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-009": {
+"notes": "человек is masculine, and молодой has a stressed ending, so it ends in -ой, not -ый. Stress decides: новый (stem-stressed) but молодой, большой, плохой.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-010": {
+"notes": "машина is feminine, so какая. The question word agrees with the noun it asks about, exactly like an adjective.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-011": {
+"notes": "книги is plural, so какие, in an indirect question after знаешь. No change of word order is needed in the embedded question.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-012": {
+"notes": "Это on its own introduces something (this is…) and never changes; этот before a noun means 'this' and agrees with it: этот дом, эта улица. Here дом is masculine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-013": {
+"notes": "улица is feminine, so этот becomes эта. Here the demonstrative modifies a noun, so it agrees; contrast Это улица (this is a street).",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::Эта::этот · agreement}} улица очень длинная.",
+"tr": "This street is very long.",
+"flag": "dup: replaced Мне нравится эта песня (near-identical to A1 Мне нравится эта музыка); answer эта → Эта (sentence-initial)"
+},
+"RU-A1-02-014": {
+"notes": "книги is plural, so эти. The predicate новые is a separate adjective; without эти, Это книги новые would be odd.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-015": {
+"notes": "Это introduces the noun phrase (these are…), so it stays это even with a plural: Это мои родители. Эти would need a predicate after it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-016": {
+"notes": "кофе is masculine in the standard language, so чёрный. Neuter agreement (чёрное кофе) is now listed in dictionaries as colloquial, but it's still marked.",
+"tip": "",
+"compare": "чёрное кофе (casual)",
+"register": "Standard (prescriptive)"
+},
+"RU-A1-02-017": {
+"notes": "пальто is an indeclinable neuter loanword, so моё. It never changes for case or number: в пальто, без пальто, два пальто. The form пальта is a recognised error.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-018": {
+"notes": "такси is indeclinable and neuter, so этот takes the neuter prepositional этом while такси itself stays put. на такси means 'by taxi'.",
+"tip": "такси never changes: в такси, на такси, без такси.",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-019": {
+"notes": "этаже is prepositional after на, so the ordinal follows: третьем. третий is irregular, with a soft stem plus ь: третья, третье, третьего.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-020": {
+"notes": "поездка is feminine, so первая. Ordinals decline exactly like regular adjectives; only третий is irregular.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-02-021": {
+"notes": "With говорить the language is an adverb: по-русски (in Russian). With изучать, a transitive verb, it's the adjective + noun: русский язык.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-001": {
+"notes": "я + a first-conjugation verb in -ать takes -ю: читаю. The stem keeps its а: чита-ю, чита-ешь, чита-ют.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-002": {
+"notes": "ты takes -ешь: знаешь. In the present Russian doesn't distinguish 'do you know' and 'are you knowing'; one form covers both.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-03-003": {
+"notes": "она (third person) takes -ет: работает. в банке is the prepositional of place. The он, она and оно forms are identical in the present, so only the pronoun shows the gender.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-004": {
+"notes": "мы takes -ем: гуляем. гулять covers both a leisurely walk and going out to play; there's no separate verb for 'go for a walk'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-005": {
+"notes": "вы takes -ете: понимаете. понимать по-русски uses the adverb, just like говорить по-русски. With a noun object it's понимать русский язык, which is less common in speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral; polite (вы)"
+},
+"RU-A1-03-006": {
+"notes": "они takes -ют after a vowel stem: слушают. слушать takes a direct object in the accusative: слушать музыку.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-007": {
+"notes": "говорить is second conjugation (-ить), so я takes -ю: говорю. The ты form is говоришь, with -и- in the endings.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-008": {
+"notes": "ты with a second-conjugation verb takes -ишь: говоришь. Second-conjugation verbs mostly end in -ить in the infinitive.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-03-009": {
+"notes": "он with звонить takes -ит: звонит. The stress is on the ending (звони́т); звóнит is a common but non-standard pronunciation.",
+"tip": "Standard stress is звони́т, not звóнит.",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-010": {
+"notes": "смотреть is second conjugation despite -еть, so мы takes -им: смотрим. Other -еть verbs of this type: видеть, сидеть, терпеть.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-011": {
+"notes": "они with a second-conjugation verb takes -ят: говорят. The first-conjugation counterpart would be -ют.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-012": {
+"notes": "слышать has a stem in ш, so the spelling rule gives -у, not -ю: слышу. Russian uses the plain present for 'I can hear'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-013": {
+"notes": "жить inserts -в- in the present: живу, живёшь. The endings are stressed, so ё appears in живёшь, живёт, живём, живёте.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я {{c1::живу::жить · present}} недалеко от работы.",
+"tr": "I live not far from work.",
+"flag": "dup: replaced Я живу в Москве (also in A1-05-001 and A1-06-021)"
+},
+"RU-A1-03-014": {
+"notes": "ты takes the stressed ending -ёшь: живёшь. With a question like далеко от, Russian keeps the order of a statement and relies on intonation.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "Ты {{c1::живёшь::жить · present}} далеко от метро?",
+"tr": "Do you live far from the underground?",
+"flag": "dup: replaced Где ты живёшь? (repeated inside A1-06-020)"
+},
+"RU-A1-03-015": {
+"notes": "писать changes с → ш in every present form: пишу, пишешь, пишут. The stress moves back after the я form: пишý but пи́шешь.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я {{c1::пишу::писать · present}} по-русски с ошибками.",
+"tr": "I make mistakes when I write in Russian.",
+"flag": "dup: replaced Я пишу письмо (near-identical to A1-08-010)"
+},
+"RU-A1-03-016": {
+"notes": "любить adds л in the я form only: люблю, but любишь. This л-insertion happens after б, п, в, ф, м in second-conjugation verbs.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-017": {
+"notes": "хотеть is mixed: singular forms are first conjugation with т → ч (хочу, хочешь, хочет), plural forms second conjugation (хотим, хотите, хотят).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-018": {
+"notes": "мы switches хотеть to the second-conjugation pattern: хотим. хочем is a common error and non-standard.",
+"tip": "хочем is non-standard; the мы form is хотим.",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-019": {
+"notes": "Verbs in -овать replace -ова- with -у- in the present: рисовать → рисую, рисует. The same applies to фотографировать, путешествовать.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-020": {
+"notes": "мочь has a г / ж alternation: могу and могут with г, the middle forms with ж (можешь, может). It's followed by an infinitive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-021": {
+"notes": "ты takes the ж form: можешь. Ты можешь…? is the everyday way to ask a favour; Не мог бы ты…? is politer.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-03-022": {
+"notes": "они returns to г: могут. Only я and они keep the г of the stem (могу, могут); the forms in between all have ж. The past tense also has г: мог, могла, могли.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-023": {
+"notes": "есть (eat) is irregular: ем, ешь, ест, едим, едите, едят. The ты form ешь looks like the imperative too.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-03-024": {
+"notes": "мы of есть (eat) is едим, from a stem with д: едим, едите, едят. Don't confuse with есть meaning 'there is'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-025": {
+"notes": "пить keeps only the root consonant in the present: пью, пьёшь, пьют, with a soft sign before the vowel. много + genitive (воды) follows.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я {{c1::пью::пить · present}} много воды.",
+"tr": "I drink a lot of water.",
+"flag": "dup: replaced Я пью кофе (near-identical to A1-02-016 and B1-06-001)"
+},
+"RU-A1-03-026": {
+"notes": "ты of пить is пьёшь, with stressed ё. Чай с молоком (with milk) uses the instrumental after с. The past tense keeps the full stem: пил, пила, пили.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "Ты {{c1::пьёшь::пить · present}} чай с молоком?",
+"tr": "Do you take milk in your tea?",
+"flag": "dup: replaced Что ты пьёшь? (near-identical to Что ты ешь?)"
+},
+"RU-A1-03-027": {
+"notes": "брать inserts е in the present: беру, берёшь. брать такси = take a taxi; the perfective is взять (возьму).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-028": {
+"notes": "давать drops -ва- in the present: даю, даёшь, даёт. The same applies to вставать (встаю) and узнавать (узнаю).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-029": {
+"notes": "учиться is reflexive, and after the vowel-less я form the particle is -сь: учусь. With an infinitive it means 'learn to': учусь играть.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я {{c1::учусь::учиться · present}} играть на гитаре.",
+"tr": "I'm learning to play the guitar.",
+"flag": "dup: replaced Я учусь в университете (same as A1-05-016)"
+},
+"RU-A1-03-030": {
+"notes": "улица is the subject and называться is reflexive: называется (it is called). For people the verb is звать: как тебя зовут.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-031": {
+"notes": "заниматься takes the instrumental: заниматься спортом (do sport). The он form ends in -ется, -ся after a consonant.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-03-032": {
+"notes": "вы takes -итесь after a vowel: учитесь. Где вы учитесь? asks where someone is a student; Где вы работаете? is the equivalent for a job. The reflexive is -сь after any vowel.",
+"tip": "",
+"compare": "",
+"register": "Neutral; polite (вы)"
+},
+"RU-A1-03-033": {
+"notes": "фильм starts by itself, so the reflexive начинаться: начинается. Transitive начинать needs an object: я начинаю урок.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-001": {
+"notes": "The cue says a man, so the past takes the masculine -л: читал. The past tense marks gender, not person: я, ты and он all use читал.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-002": {
+"notes": "A woman speaking takes the feminine -ла: работала. дома (at home) is an adverb, unlike домой (home, as a destination).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-003": {
+"notes": "мы takes the plural -ли: смотрели. The plural past is the same for all genders and persons. Вчера вечером (last night, literally yesterday evening) sets the time frame.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Вчера вечером мы {{c1::смотрели::смотреть · past}} футбол.",
+"tr": "We watched football last night.",
+"flag": "dup: replaced Мы смотрели фильм (flagged against Мы смотрим фильм)"
+},
+"RU-A1-04-004": {
+"notes": "Speaking to a man, ты takes the masculine past: был. The past of быть is the only way to say 'was'; the present has no verb at all.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-04-005": {
+"notes": "Speaking to a woman, ты takes the feminine была, with the stress on the ending (была́). The other forms, был, было and были, are stem-stressed.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "(To a woman) Ты вчера {{c1::была::быть · past}} на работе?",
+"tr": "Were you at work yesterday?",
+"flag": "dup: replaced Где ты была вчера? (near-identical to A1-04-004)"
+},
+"RU-A1-04-006": {
+"notes": "письмо is neuter, so быть takes -о: было. The past of быть agrees with the subject, which here is a thing.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-007": {
+"notes": "они takes -ли: жили. в Казани is prepositional; Казань is a feminine -ь noun, hence -и. The past tense needs no person ending, so the pronoun is rarely dropped.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-008": {
+"notes": "идти has an irregular past built on a different stem: шёл, шла, шло, шли. A woman says шла. The prefixed verbs follow it: пришёл, пришла, ушёл, ушла.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-009": {
+"notes": "он with идти gives шёл, with ё. The imperfective past of a single trip in progress describes the walk itself, not its completion.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-010": {
+"notes": "The compound future is буду + imperfective infinitive: буду работать. It describes a process or activity, with no focus on finishing.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-011": {
+"notes": "ты takes будешь + infinitive: будешь делать. Что ты будешь делать вечером? is the everyday question about plans.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-04-012": {
+"notes": "мы takes будем + infinitive: будем жить. в Петербурге is the prepositional of Петербург. Only imperfective verbs form this compound future; perfectives use their present forms.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-04-013": {
+"notes": "быть on its own forms a simple future: буду (I will be). Never буду быть: the infinitive isn't repeated.",
+"tip": "буду быть is wrong; буду alone means 'I will be'.",
+"compare": "",
+"register": "Neutral",
+"text": "Я {{c1::буду::быть · future}} в офисе до шести.",
+"tr": "I'll be in the office until six.",
+"flag": "dup: replaced Завтра я буду дома (near-identical to A1-04-010)"
+},
+"RU-A1-04-014": {
+"notes": "они takes будут: будут здесь. в пять = at five; the word часов is often dropped in speech. There's no infinitive, as быть alone gives the future of 'be'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-001": {
+"notes": "в + a place takes the prepositional, and feminine -а becomes -е: Москва → в Москве. This is the default prepositional ending for most nouns.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Мой друг работает в {{c1::Москве::Москва · prepositional}}.",
+"tr": "My friend works in Moscow.",
+"flag": "dup: replaced Я живу в Москве (also in A1-03-013 and A1-06-021)"
+},
+"RU-A1-05-002": {
+"notes": "на (on a surface) + prepositional: стол → на столе. лежать is used for things lying flat, such as a book.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-003": {
+"notes": "банк ends in к, but the prepositional is still -е: в банке. Only ы / и are affected by the spelling rule.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-004": {
+"notes": "Nouns in -ия take -ии in the prepositional: Россия → в России. в Россие is a common error. The dative is also -ии (к России), and so is the genitive (из России).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-005": {
+"notes": "Feminine nouns in -ь take -и in the prepositional: тетрадь → в тетради. Masculine -ь nouns take -е: в словаре.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-006": {
+"notes": "лес is one of the masculine nouns with a stressed -у after в / на: в лесу. After о (about) it's regular: о лесе.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Грибы растут в {{c1::лесу::лес · prepositional}}.",
+"tr": "Mushrooms grow in the forest.",
+"flag": "dup: replaced Мы гуляем в лесу (flagged against Мы гуляем в парке)"
+},
+"RU-A1-05-007": {
+"notes": "аэропорт takes the locative -у: в аэропорту, with stress on the ending. The form в аэропорте is heard but non-standard. After о it's regular: об аэропорте.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-008": {
+"notes": "о (about) + prepositional: брат → о брате. The translation adds 'my' because Russian usually omits obvious possessives.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-009": {
+"notes": "думать о + prepositional: мама → о маме. Feminine -а nouns take -е, so the prepositional matches the dative here (маме).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-010": {
+"notes": "Neuter nouns in -ие take -ии: общежитие → в общежитии. The same goes for здание (в здании) and упражнение.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Студенты живут в {{c1::общежитии::общежитие · prepositional}}.",
+"tr": "The students live in a hall of residence.",
+"flag": "dup: replaced Мы живём в общежитии (flagged against Мы живём в России)"
+},
+"RU-A1-05-011": {
+"notes": "здание is neuter in -ие, so в этом здании, with the demonstrative in its own prepositional form, этом.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-012": {
+"notes": "Names in -ия follow the same rule: Мария → о Марии. Short names in -а (Анна) take -е: об Анне, with об before a vowel.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Расскажи мне о {{c1::Марии::Мария · prepositional}}.",
+"tr": "Tell me about Maria.",
+"flag": "dup: replaced Мы говорили о Марии (flagged against two other Мы говорили о… sentences)"
+},
+"RU-A1-05-013": {
+"notes": "работа is one of the на nouns (на работе), while магазин takes в (в магазине). There's no rule that predicts на; it has to be learned.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-014": {
+"notes": "Events take на: на концерте, на уроке, на собрании. концерт is an occasion, not a building, which is why в fails. The concert hall itself would be в зале.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-015": {
+"notes": "улица takes на: на улице (outside, in the street). в улице is impossible. The same на appears with площадь (на площади) and проспект (на проспекте).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-016": {
+"notes": "Educational institutions take в: в университете, в школе. But a faculty or year group takes на: на факультете, на втором курсе.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-017": {
+"notes": "почта is a fixed на noun: на почте, like на вокзале and на заводе. Historically these were open spaces or services, not buildings.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-018": {
+"notes": "вокзал takes на: на вокзале. The perfective future встретимся makes it a plan for one occasion. Airports, by contrast, take в: в аэропорту.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-019": {
+"notes": "центр takes в: в центре, as for most bounded areas. на окраине (on the outskirts) is the contrasting на form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-020": {
+"notes": "о + он gives о нём: the н- prefix appears on third-person pronouns after a preposition. нём has a stressed ё.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Все в классе говорят {{c1::о нём::о + он (prepositional)}}.",
+"tr": "Everyone in the class is talking about him.",
+"flag": "dup: replaced Мы говорили о нём (flagged against two other Мы говорили о… sentences)"
+},
+"RU-A1-05-021": {
+"notes": "о + она gives о ней, again with the н- prefix. The dative and the prepositional coincide for она: ей / ней.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-022": {
+"notes": "о becomes обо before мне: обо мне. The other pronouns keep о (о тебе, о нас), and об is used before vowels (об этом).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-023": {
+"notes": "доме is masculine prepositional, so the adjective takes -ом: в новом доме. Adjectives have their own prepositional endings, distinct from nouns.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-024": {
+"notes": "комнате is feminine prepositional, so the adjective takes -ой: в красивой комнате. The feminine -ой covers genitive, dative, instrumental and prepositional.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-025": {
+"notes": "вторник begins with в + another consonant, so в becomes во: во вторник. в среду and в четверг keep plain в.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-026": {
+"notes": "к becomes ко before мне: ко мне. The extra vowel prevents an awkward cluster; к тебе, к нему stay plain.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-027": {
+"notes": "стол begins with с + consonant, so с becomes со: со стола. с + genitive here means 'off, down from'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-05-028": {
+"notes": "Франции begins with ф, which with в forms a hard cluster, so во Франции. в Финляндии, by contrast, keeps в.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-001": {
+"notes": "The direct object of купить is accusative, and feminine -а becomes -у: книгу. The demonstrative also agrees: эту.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "(To a man) Где ты купил эту {{c1::книгу::книга · accusative}}?",
+"tr": "Where did you buy this book?",
+"flag": "dup: replaced Я читаю книгу (same as A1-03-001)"
+},
+"RU-A1-06-002": {
+"notes": "вода is the object of пить, so -а → -у: воду. With пить, the stress in this form falls on the stem: вóду.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-003": {
+"notes": "музыка becomes музыку as the object of любить. The accusative feminine is the only singular case where -а gives -у.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-004": {
+"notes": "ждать takes the accusative for specific people: ждать маму. With abstract things it often takes the genitive instead: ждать ответа.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-005": {
+"notes": "история is feminine in -ия, so -ю: историю. изучать means study a subject in depth and always takes an object.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-006": {
+"notes": "стол is masculine and inanimate, so its accusative looks the same as the nominative. Only animate masculine nouns change (брата).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-007": {
+"notes": "брат is animate, so the accusative takes the genitive form: брата. встречать (meet, at a station) takes the accusative.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Мы встречаем {{c1::брата::брат · accusative (animate)}} на вокзале.",
+"tr": "We're meeting my brother at the station.",
+"flag": "dup: replaced Я знаю брата (flagged against Я знаю вашего брата; translation had added 'his')"
+},
+"RU-A1-06-008": {
+"notes": "учитель is animate and ends in -ь, so the accusative is -я: учителя. The animacy rule covers all male people and animals.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-009": {
+"notes": "Иван is animate, so the accusative is Ивана. Even names follow the animacy rule: Я вижу Ивана, but Я вижу стол. A woman's name in -а simply takes -у: Я вижу Анну.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-010": {
+"notes": "сын is animate, so сына. Animate feminine nouns don't follow this rule: they take -у / -ю (маму), and -ь nouns like дочь stay unchanged.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-011": {
+"notes": "я in the accusative is меня, and pronoun objects usually come before the verb in neutral speech: Ты меня понимаешь?",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-06-012": {
+"notes": "ты in the accusative is тебя. Я тебя люблю is the default order; Я люблю тебя puts more weight on тебя.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-06-013": {
+"notes": "они in the accusative is их. Without a preposition there's no н- prefix; with one it becomes них (про них).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-014": {
+"notes": "он in the accusative is его, pronounced with в (yevó). It looks like the possessive his, but here it's the object.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-015": {
+"notes": "Как вас зовут? literally 'how do they call you': вас is the accusative object of the plural verb зовут. It's the standard polite way to ask a name.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A1-06-016": {
+"notes": "The cue says a man is speaking, and тебя is the accusative object of узнал. Pronoun objects normally precede the verb.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)",
+"text": "(A man speaking) Я {{c1::тебя::ты · accusative}} сразу узнал.",
+"tr": "I recognised you straight away.",
+"flag": "dup: replaced Как тебя зовут? (same frame as A1-06-015 Как вас зовут?)"
+},
+"RU-A1-06-017": {
+"notes": "машину is feminine accusative, so the adjective takes -ую: новую. Feminine accusative is the only adjective case with -ую.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-018": {
+"notes": "книгу is feminine accusative, so the adjective is интересную. Adjective and noun share the -у of the accusative. The masculine counterpart would be интересный фильм, unchanged.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-019": {
+"notes": "брата is animate masculine accusative, so the possessive takes the genitive form: вашего. Inanimate nouns would keep ваш.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-020": {
+"notes": "живёшь describes location, so где; идёшь describes direction, so куда. English 'where' covers both. The third member, откуда, asks for the starting point.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-021": {
+"notes": "Location (живу) takes в + prepositional, Москве; direction (еду) takes в + accusative, Москву. The preposition is the same; the case carries the difference.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-022": {
+"notes": "Going somewhere is direction, so на + accusative: на работу. The location counterpart is на работе. на-nouns keep на for both; only the case shifts.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-023": {
+"notes": "Being at work is location, so на + prepositional: на работе. Сейчас я на работе has no verb, as the present of быть is omitted.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-06-024": {
+"notes": "идём is direction, so в + accusative: в школу. The prepositional в школе would mean 'at school'. Feminine -а nouns make the contrast visible: -у versus -е.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-001": {
+"notes": "Possession uses у + genitive + есть: у меня есть. меня here is the genitive of я, identical in form to the accusative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-002": {
+"notes": "у + тебя (genitive of ты) + есть asks whether someone has something. есть can be dropped when the focus is the thing itself: У тебя машина?",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-07-003": {
+"notes": "After у, он becomes него with the н- prefix: у него. Without a preposition it's его (Его нет дома). The same н- appears in у неё and у них.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-004": {
+"notes": "у + нас (genitive of мы). время is a neuter noun in -мя, and here it's the subject of есть. In the negative it would become genitive: У нас нет времени.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-005": {
+"notes": "Possession with a noun owner also uses у + genitive: сестра → у сестры. The two cats follow in the genitive singular after две.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-006": {
+"notes": "нет + genitive denies possession: брат → брата. In the negative, есть disappears and the thing owned goes into the genitive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-007": {
+"notes": "время is irregular: the genitive is времени, with -ен-. Other -мя nouns (имя, знамя) behave the same way. нет + genitive is required, so время alone is impossible here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-008": {
+"notes": "нет + genitive also states absence: вода → воды. Здесь нет is 'there's no… here', with no possessor.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-009": {
+"notes": "машина is feminine, so the genitive is -ы: машины. у неё uses the н- form of её after the preposition.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-010": {
+"notes": "урок is masculine, so -а: урока. Сегодня нет урока = there's no lesson today; the past would be не было урока.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-011": {
+"notes": "ложка has a к stem, so the feminine genitive is spelt -и, not -ы: ложки. The spelling rule applies in every case.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "На столе нет {{c1::ложки::ложка · genitive}}.",
+"tr": "There isn't a spoon on the table.",
+"flag": "dup: replaced У меня нет книги (one of four У меня нет… sentences); answer книги → ложки"
+},
+"RU-A1-07-012": {
+"notes": "Absence of a person also uses нет + genitive: его нет дома. Without the preposition there's no н-: его, not него.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-013": {
+"notes": "не negates a word (не знаю); нет is the answer 'no' and also the verb of absence. Нет, спасибо declines an offer.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-014": {
+"notes": "Absence takes нет + genitive (молока). не would need a verb to negate. The past is не было молока and the future не будет молока, with the verb in the neuter.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "В холодильнике {{c1::нет::не or нет?}} молока.",
+"tr": "There's no milk in the fridge.",
+"flag": "dup: replaced У меня нет машины (one of four У меня нет… sentences)"
+},
+"RU-A1-07-015": {
+"notes": "The owner follows the thing in the genitive: дом мамы. In speech, possessive adjectives such as мамин дом are more common (B2).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-016": {
+"notes": "Анна → Анны in the genitive. The possessor comes after: сумка Анны, the reverse of English 'Anna's bag'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-017": {
+"notes": "город takes -а in the genitive: центр города. This 'of' genitive is the commonest use of the case. The possessor always follows: центр города, never города центр.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-018": {
+"notes": "папа is masculine but declines like a feminine -а noun: папы. Gender affects agreement; declension follows the ending.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-019": {
+"notes": "After два, the noun takes the genitive singular: сын → сына. Despite the form, the meaning is plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "В семье два {{c1::сына::сын · after 2}}.",
+"tr": "There are two sons in the family.",
+"flag": "dup: replaced У меня два брата (flagged against У меня нет брата); answer брата → сына"
+},
+"RU-A1-07-020": {
+"notes": "Compound numbers follow their last digit: двадцать два → года (genitive singular). Age uses the dative of the person: мне.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-021": {
+"notes": "Numbers from 5 up take the genitive plural, and год has the suppletive form лет: тридцать лет. годов exists but means 'years' as decades or periods.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-022": {
+"notes": "три takes the genitive singular: часа. Сейчас три часа = it's three o'clock; the verb is omitted in the present.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-023": {
+"notes": "пять takes the genitive plural: часов. The ending -ов is the masculine hard default. From пять to двадцать every number takes the genitive plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-024": {
+"notes": "сто (100) takes the genitive plural, and рубль ends in -ь, so -ей: рублей. стоить + amount = cost. With 1, 2 or 3 it would be рубль, рубля, рубля.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-07-025": {
+"notes": "три takes the genitive singular, сестры; the stress moves to the ending (сестры́). Five sisters would be пять сестёр.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-001": {
+"notes": "нравиться makes the thing liked the subject and the person the dative: мне нравится. Literally 'this music pleases me'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-002": {
+"notes": "ты in the dative is тебе, the experiencer of нравится. The verb is singular because Москва is singular.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-08-003": {
+"notes": "Age uses the dative of the person: ему двадцать лет. он in the dative is ему, with no н- since there's no preposition.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-004": {
+"notes": "надо + infinitive takes the person in the dative: нам надо идти. The sentence has no grammatical subject.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-005": {
+"notes": "Feelings and sensations take dative + adverb: ей холодно. Она холодная would describe her character (cold), not how she feels. The same pattern gives мне жарко, нам скучно.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-006": {
+"notes": "нужна agrees with помощь (feminine), and the person in need is in the dative: вам. Вам нужна помощь? is a standard offer.",
+"tip": "",
+"compare": "",
+"register": "Polite (вы)"
+},
+"RU-A1-08-007": {
+"notes": "город is singular, so нравится; цветы is plural, so нравятся. The verb agrees with the thing liked, not with мне.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-008": {
+"notes": "An infinitive as the thing liked takes the singular нравится. Ему нравится читать = he likes reading.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-009": {
+"notes": "звонить takes the dative of the person called: маме. It's 'ring to someone', unlike the English direct object.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-010": {
+"notes": "The recipient of a letter is in the dative: брату. The letter itself, письмо, is the accusative object.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-011": {
+"notes": "к + dative means going to a person: к врачу (to the doctor's). The ending -у marks the masculine dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-012": {
+"notes": "подарить takes the recipient in the dative: Анне. Feminine -а nouns take -е in the dative. The gift itself is the accusative object, as with дать and показать.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-013": {
+"notes": "помогать takes the dative, not the accusative: помогать соседу. English 'help someone' misleads learners into the accusative.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Я часто помогаю {{c1::соседу::сосед · dative}}.",
+"tr": "I often help my neighbour.",
+"flag": "dup: replaced Мы помогаем другу (near-identical to B1 Мы помогаем друг другу); answer другу → соседу"
+},
+"RU-A1-08-014": {
+"notes": "другу is a person, so going to their place takes к + dative. в + accusative is for places: в школу, в магазин.",
+"tip": "к for people, в / на for places.",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-015": {
+"notes": "с (with) + instrumental: брат → с братом. The masculine instrumental ending is -ом. Soft masculine nouns take -ем instead: с учителем, с Игорем.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-016": {
+"notes": "с + instrumental: мама → с мамой. Feminine -а nouns take -ой, soft -я nouns take -ей (с Таней). With a mother, Russian often says мы с мамой, meaning 'Mum and I'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-017": {
+"notes": "с + instrumental also marks what something comes with: чай с сахаром. без + genitive is the opposite: без сахара.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-018": {
+"notes": "с becomes со before мной: со мной. Пойдём со мной! is an invitation using the perfective future мы form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-019": {
+"notes": "с + ты gives с тобой. поговорить с кем = talk to someone; Russian uses 'with' where English uses 'to'.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-08-020": {
+"notes": "с + она gives с ней (also с нею, literary). The н- prefix appears because of the preposition. Without a preposition the instrumental is ей: Я горжусь ей.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-021": {
+"notes": "заниматься takes the instrumental without a preposition: заниматься музыкой. It's the usual verb for hobbies and sports.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-08-022": {
+"notes": "учитель ends in -ь, so the instrumental is -ем: с учителем. говорить с = talk to. The plural is учителя, with stressed -я, so с учителями.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-001": {
+"notes": "Right now, in one direction → идти (иду); every day, a habit → ходить (хожу). Both mean 'go on foot'. ходить changes д → ж in the я form only.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-002": {
+"notes": "By transport, one direction now → ехать (еду); a regular trip → ездить (ездим). The verb pair changes with the means of travel.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-003": {
+"notes": "A round trip in the past (went and came back) uses the multidirectional ходил. шёл would mean he was on his way.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-004": {
+"notes": "на поезде means travelling by transport, so ехать, not идти. Russians never use идти for a journey by vehicle, though a train or bus itself идёт.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-005": {
+"notes": "One direction now → идти: идёшь. домой is the adverb of direction (home); дома means 'at home'. Mixing them (иду дома) is a classic learner error.",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-09-006": {
+"notes": "Means of transport take на + prepositional: на автобусе, на метро. A habit uses ездить: я езжу, with д → ж in the я form. A single trip would be еду.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-007": {
+"notes": "People take their own prepositions: у + genitive (at someone's), к + dative (to them), от + genitive (from them). Places use в / на / из / с instead.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "(A man speaking) Я был {{c1::у врача::at the doctor's (у + genitive)}}.<br>Я иду {{c2::к врачу::to the doctor's (к + dative)}}.<br>Я иду {{c3::от врача::from the doctor's (от + genitive)}}.",
+"flag": "text: added (A man speaking), as был needs the speaker's gender"
+},
+"RU-A1-09-008": {
+"notes": "и simply adds; а contrasts two parallel facts (I… whereas my brother…); но marks something unexpected or contrary. English 'and' covers both и and many uses of а.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-009": {
+"notes": "After a negated element, the correction takes а: не чай, а кофе. но here would be wrong. The pattern не X, а Y is the standard way to say 'not X but Y'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-010": {
+"notes": "потому что introduces the reason (I'm ill); поэтому introduces the result (I'm at home). The order of clauses flips with the word.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-011": {
+"notes": "Asking for origin takes откуда (from where). Откуда вы? needs no verb, since the present of быть is dropped. The answer uses из + genitive: Я из Англии.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-012": {
+"notes": "Price questions use сколько + стоит. сколько also takes the genitive: сколько денег, сколько времени.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"RU-A1-09-013": {
+"notes": "почему asks for a cause; зачем asks for a purpose (what for). Почему ты не спишь? = why aren't you asleep?",
+"tip": "",
+"compare": "",
+"register": "Informal (ты)"
+},
+"RU-A1-09-014": {
+"notes": "когда asks for a time and usually comes first; the verb often precedes the subject in such questions: начинается урок.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+}
+}
