@@ -1,0 +1,305 @@
+{
+"DE-EX-01-001": {
+"notes": "dass (conjunction, that) starts a clause and sends the verb to the end; das is the article or pronoun. If welches or dieses fits, write das.",
+"tip": "Test: if dieses / welches fits, it's das.",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-002": {
+"notes": "seid is the ihr form of sein (you are); seit is the preposition 'since'. They sound identical, so only grammar decides.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-003": {
+"notes": "tot (dead) is an adjective, written with t; der Tod (death) is a noun, with d and a capital. Compounds follow suit: todmüde, totschlagen.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-004": {
+"notes": "ß follows a long vowel or diphthong: Fuß, Straße, heißen. The 1996 reform kept ß in these positions.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-005": {
+"notes": "ss follows a short vowel: Fluss, Schloss. Before the 1996 reform it was spelt Fluß. The plural is Flüsse, with ss.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-006": {
+"notes": "muss has a short u, so ss. The plural müssen keeps ss, as the vowel stays short. The ich form with ss contrasts with the noun Muße (leisure), long u.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-007": {
+"notes": "aß has a long a, so ß; the infinitive essen has a short e, so ss. One verb can switch between the two.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-008": {
+"notes": "Languages are nouns and take a capital after verbs and prepositions: Ich spreche Deutsch, auf Deutsch.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-009": {
+"notes": "As an adjective before a noun, deutsch is lower-case: die deutsche Sprache. In proper names it's capitalised: die Deutsche Bahn.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-010": {
+"notes": "Nominalised adjectives take a capital, even in fixed phrases: im Allgemeinen, im Großen und Ganzen. The rule is often broken in informal writing.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-011": {
+"notes": "In Rad fahren, Rad is a noun and is capitalised and written separately. The same goes for Auto fahren.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-012": {
+"notes": "A verb used as a noun after bei, zum or beim is capitalised: beim Lesen, zum Kochen. Without the preposition: ich lese, lower-case.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-013": {
+"notes": "Two verbs together are normally written separately: spazieren gehen, schwimmen gehen. The noun is one word: das Spazierengehen.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-014": {
+"notes": "kennenlernen is written as one word; kennen lernen is also allowed. The participle is kennengelernt.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-015": {
+"notes": "Separable verbs are written as one word in the infinitive and participle: zurückgekommen. In the present they split: Er kommt zurück.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-016": {
+"notes": "Every subordinate clause is separated by a comma, including dass-clauses. English often has no comma here.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-01-017": {
+"notes": "A zu-infinitive depending on a noun (die Absicht) needs a comma. A comma is also required after um, ohne, statt.",
+"tip": "",
+"compare": "",
+"register": "Written (spelling point)"
+},
+"DE-EX-02-001": {
+"notes": "bekommen means get, receive; werden means become (get + adjective). bekommen is never 'become'. Ich bekomme ein Kind = I'm having a baby.",
+"tip": "bekommen = get, not become.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-EX-02-002": {
+"notes": "ich will means I want (wollen); the future is ich werde. The English 'will' is a false friend. Ich will nach Hause needs no gehen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-EX-02-003": {
+"notes": "wann asks 'when?' (also in indirect questions); wenn means 'when(ever), if' in conditions and repeated events.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-EX-02-004": {
+"notes": "noch ein means 'one more of the same'; ein anderer means 'a different one'. English 'another' covers both.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-EX-02-005": {
+"notes": "studieren is for university study; lernen is for learning, revising, school. A school pupil lernt, not studiert.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-EX-02-006": {
+"notes": "satt means full after eating. Ich bin voll is colloquial for 'I'm drunk'. The opposite is hungrig, or Hunger haben.",
+"tip": "Ich bin satt, not voll.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-EX-02-007": {
+"notes": "Du fehlst mir (literally you are missing to me) = I miss you. The person missed is the subject; ich vermisse dich is the direct alternative.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-EX-03-001": {
+"notes": "In southern Germany, Austria and Switzerland, sitzen, stehen and liegen form the Perfekt with sein: Ich bin gesessen. The north uses haben.",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria, south)"
+},
+"DE-EX-03-002": {
+"notes": "heuer (this year) is standard in Austria and Bavaria. Elsewhere it's dieses Jahr. The adjective is heurig: der Heurige (new wine).",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria, Bavaria)"
+},
+"DE-EX-03-003": {
+"notes": "Swiss Standard German uses -ieren verbs where Germany doesn't: parkieren, grillieren. Germany says parken, grillen.",
+"tip": "",
+"compare": "",
+"register": "Regional (Switzerland)"
+},
+"DE-EX-03-004": {
+"notes": "Swiss Standard German doesn't use ß: Strasse, gross, Fuss. It's standard there, not an error. Liechtenstein follows the Swiss rule.",
+"tip": "",
+"compare": "",
+"register": "Regional (Switzerland)"
+},
+"DE-EX-03-005": {
+"notes": "am + nominalised infinitive + sein (the 'Rheinische Verlaufsform') means 'be doing': Ich bin am Arbeiten. It's colloquial nationwide.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"DE-EX-03-006": {
+"notes": "The dative possessive dem Peter sein Auto is widespread in speech but non-standard. Standard: Peters Auto or das Auto von Peter.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"DE-EX-03-007": {
+"notes": "Comparative + wie is common in southern and colloquial speech but non-standard. Standard German uses als.",
+"tip": "",
+"compare": "",
+"register": "Colloquial; regional",
+"text": "(Colloquial) Der Film war spannender {{c1::wie::than (colloquial / regional)}} das Buch.",
+"tr": "The film was more exciting than the book.",
+"flag": "dup: replaced Er ist größer wie ich (near-identical to A2-05-009 Er ist größer als ich)"
+},
+"DE-EX-03-008": {
+"notes": "Spoken Swiss German hardly uses the Präteritum, even for sein: Ich bin gewesen. Germany prefers ich war.",
+"tip": "",
+"compare": "",
+"register": "Regional (Switzerland)"
+},
+"DE-EX-03-009": {
+"notes": "In Switzerland, anrufen takes the dative (jemandem anrufen). Germany and Austria use the accusative.",
+"tip": "",
+"compare": "",
+"register": "Regional (Switzerland)",
+"text": "(Switzerland) Ich rufe {{c1::dir::du · dative (Swiss: anrufen + dative)}} heute Abend an.",
+"tr": "I'll ring you this evening.",
+"flag": "dup: replaced Ich habe ihm angerufen (near-identical to A1-12-009 Ich habe dich angerufen); answer ihm → dir"
+},
+"DE-EX-03-010": {
+"notes": "In Switzerland, Radio is masculine: der Radio. In Germany and Austria it's das Radio. Other Swiss gender differences include das Tram.",
+"tip": "",
+"compare": "",
+"register": "Regional (Switzerland)"
+},
+"DE-EX-03-011": {
+"notes": "Austrian German uses um + price: um zehn Euro (for ten euros). Germany says für. um also means 'around' with times.",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria)"
+},
+"DE-EX-03-012": {
+"notes": "Austrian German says auf Urlaub; Germany says in Urlaub or in den Urlaub. Urlaub machen is used everywhere.",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria)"
+},
+"DE-EX-03-013": {
+"notes": "in der Früh (in the morning) is Austrian and Bavarian. Germany says morgens or am Morgen. Früh here is a noun, so capitalised.",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria, Bavaria)"
+},
+"DE-EX-03-014": {
+"notes": "In Austria, vergessen can take auf + accusative (forget about). Germany uses a direct object. darauf vergessen follows the same pattern.",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria)"
+},
+"DE-EX-03-015": {
+"notes": "Austrian German says am Land (in the countryside); Germany says auf dem Land. The dative am is an + dem.",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria)"
+},
+"DE-EX-03-016": {
+"notes": "In Austria and eastern Germany, viertel vier means 3:15: a quarter of the way to four. Elsewhere it's Viertel nach drei.",
+"tip": "viertel vier = 3:15 (Austria, east).",
+"compare": "",
+"register": "Regional (Austria, east)",
+"text": "(Austria) Der Zug kommt um {{c1::viertel::quarter (Austria / eastern Germany: … vier = 3:15)}} vier.",
+"tr": "The train arrives at quarter past three.",
+"flag": "dup: replaced Es ist viertel vier (near-identical to A1-10-007 Es ist Viertel vor vier)"
+},
+"DE-EX-03-017": {
+"notes": "In Austria and the south, Cola is often neuter: das Cola. Northern Germany says die Cola. Both genders are in the standard dictionaries.",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria)"
+},
+"DE-EX-03-018": {
+"notes": "Austrian -erl forms diminutives: das Sackerl (bag). Germany uses die Tüte. Other examples: das Busserl (kiss), das Stamperl (shot glass).",
+"tip": "",
+"compare": "",
+"register": "Regional (Austria)"
+},
+"DE-EX-03-019": {
+"notes": "The south says an Ostern, an Weihnachten; the north says zu Ostern. Both are standard. zu and an both take Ostern without an article.",
+"tip": "",
+"compare": "",
+"register": "Regional (southern)"
+},
+"DE-EX-03-020": {
+"notes": "Swabian uses -le for diminutives: das Häusle. Standard German: das Häuschen. The ending is a famous marker of Swabian speech, as in Spätzle.",
+"tip": "",
+"compare": "",
+"register": "Regional (Swabia)"
+},
+"DE-EX-03-021": {
+"notes": "Northern speech splits da-words: Da weiß ich nichts von = Davon weiß ich nichts. It's colloquial. The standard form keeps davon together.",
+"tip": "",
+"compare": "",
+"register": "Regional (northern)"
+},
+"DE-EX-03-022": {
+"notes": "In speech, weil is often followed by main-clause order (weil ich hab keine Zeit). Writing requires the verb at the end.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"DE-EX-03-023": {
+"notes": "The article before first names (der Peter) is common in southern and colloquial speech. Standard writing omits it.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"DE-EX-03-024": {
+"notes": "brauchen without zu (Du brauchst nicht kommen) is widespread in speech. Standard: Du brauchst nicht zu kommen.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"DE-EX-03-025": {
+"notes": "tun + infinitive (Ich tu grad kochen) is colloquial and regional. Standard: Ich koche gerade. grad is a clipped gerade.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+}
+}

@@ -1,0 +1,33 @@
+1.0 1.0 DE-C1-07-07-03 kaum hatte er sich hingesetzt als das telefon klingelte DE-C1-07-07-04 kaum hatte er sich hingesetzt als das telefon klingelte
+0.88 0.68 DE-B1-03-05-04 ich bin müde deshalb gehe ich ins bett DE-B1-03-05-05 ich gehe ins bett weil ich müde bin ich bin müde deshalb gehe ich ins bett
+0.8 0.94 DE-B1-02-03-05 du brauchst nicht zu kommen DE-BC-03-04-03 du brauchst nicht kommen
+0.8 0.9 DE-A1-10-18-07 es ist viertel vor vier DE-BC-03-02-06 es ist viertel vier
+0.8 0.86 DE-B2-11-11-01 wenn er doch nur käme DE-B2-16-04-04 wenn er nur käme
+0.71 0.78 DE-B1-03-05-01 obwohl es regnet gehen wir spazieren DE-B1-03-05-02 es regnet trotzdem gehen wir spazieren
+0.67 0.81 DE-A2-02-02-05 ich hänge das bild an die wand DE-A2-14-13-02 ich habe das bild an die wand gehängt
+0.62 0.75 DE-A1-10-18-01 wir treffen uns am freitag um acht uhr DE-A2-06-07-02 wir treffen uns um acht
+0.62 0.65 DE-A2-05-06-09 er ist größer als ich er ist so groß wie ich DE-C2-10-10-07 er ist größer wie ich
+0.62 0.57 DE-A2-07-08-09 der lehrer hat es gut erklärt DE-C1-14-01-02 dann hat es ihr der lehrer erklärt
+0.6 0.93 DE-A1-12-21-05 ich habe dich angerufen DE-BC-03-01-02 ich habe ihm angerufen
+0.6 0.91 DE-A2-12-13-01 das ist annas auto DE-C2-08-08-02 das ist hans auto
+0.6 0.9 DE-A1-05-13-03 kannst du ihm helfen DE-A1-07-15-02 kannst du mir helfen
+0.6 0.79 DE-A1-02-06-04 was möchtest du trinken DE-A2-11-12-08 möchtest du etwas trinken
+0.6 0.78 DE-C2-08-08-03 das büro des herrn müller ist im zweiten stock DE-C2-08-08-04 herrn müllers büro ist im zweiten stock
+0.6 0.74 DE-A1-14-06-01 ruf mich morgen an DE-A2-14-14-04 ruf mich bitte an
+0.6 0.73 DE-B2-05-05-05 das ist eben so DE-B2-05-05-06 das ist halt so
+0.6 0.71 DE-A1-06-14-01 das ist mein bruder DE-B1-15-16-02 das ist mein arbeitszimmer
+0.57 0.86 DE-B2-14-14-01 alle neuen studenten müssen sich anmelden DE-B2-16-15-02 alle studierenden müssen sich anmelden
+0.57 0.71 DE-B1-14-17-03 keine sorge das wird schon klappen DE-B2-05-05-07 keine sorge das klappt schon
+0.57 0.69 DE-B1-01-01-02 ich denke oft an dich DE-A2-14-17-01 ich habe oft an dich gedacht
+0.56 0.96 DE-B1-07-10-04 wegen des wetters bleiben wir zu hause DE-B1-07-10-08 wegen dem wetter bleiben wir zu hause
+0.56 0.78 DE-A2-01-01-02 ich bleibe zu hause weil ich krank bin DE-C1-08-08-01 ich bleibe zu hause zumal ich erkältet bin
+0.56 0.58 DE-A2-02-02-04 das buch liegt auf dem tisch DE-B1-15-01-06 das buch lag auf dem tisch das buch hat auf dem tisch gelegen
+0.5 0.9 DE-A1-04-11-03 er ruft mich morgen an DE-A1-14-06-01 ruf mich morgen an
+0.5 0.89 DE-A1-01-02-02 hast du zeit DE-A1-12-20-03 hattest du zeit
+0.5 0.84 DE-A1-07-15-02 kannst du mir helfen DE-B2-05-05-03 kannst du mal kurz helfen
+0.5 0.81 DE-A2-11-12-07 ich habe nichts gesehen DE-A2-14-06-01 ich habe noch nichts gegessen
+0.43 0.89 DE-A1-02-04-02 was machst du am wochenende DE-A2-14-10-02 was macht ihr am wochenende
+0.43 0.82 DE-A1-02-04-02 was machst du am wochenende DE-A1-14-03-01 wen besuchst du am wochenende
+0.4 0.82 DE-A2-01-01-08 wenn es regnet bleiben wir zu hause DE-B1-07-10-04 wegen des wetters bleiben wir zu hause
+0.4 0.81 DE-A2-01-01-08 wenn es regnet bleiben wir zu hause DE-B1-07-10-08 wegen dem wetter bleiben wir zu hause
+32 pairs flagged

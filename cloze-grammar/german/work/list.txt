@@ -1,0 +1,947 @@
+## A1::01 sein, haben; du und Sie
+A1-01-001 A1-01-01-01 Ich {{c1::bin::sein · ich}} müde. ‖ I'm tired.
+A1-01-002 A1-01-01-02 (To a friend) Du {{c1::bist::sein · du}} sehr nett. ‖ You're very kind.
+A1-01-003 A1-01-01-03 Er {{c1::ist::sein · er}} Lehrer. ‖ He's a teacher.
+A1-01-004 A1-01-01-04 Wir {{c1::sind::sein · wir}} aus England. ‖ We're from England.
+A1-01-005 A1-01-01-05 (To two friends) Ihr {{c1::seid::sein · ihr}} spät. ‖ You're late.
+A1-01-006 A1-01-01-06 (Formal) {{c1::Sind::sein · Sie}} Sie Frau Müller? ‖ Are you Ms Müller?
+A1-01-007 A1-01-02-01 Ich {{c1::habe::haben · ich}} eine Frage. ‖ I have a question.
+A1-01-008 A1-01-02-02 (To a friend) {{c1::Hast::haben · du}} du Zeit? ‖ Have you got time?
+A1-01-009 A1-01-02-03 Sie {{c1::hat::haben · sie (she)}} zwei Kinder. ‖ She has two children.
+A1-01-010 A1-01-02-04 (To two friends) {{c1::Habt::haben · ihr}} ihr Hunger? ‖ Are you hungry?
+A1-01-011 A1-01-03-01 (To a friend) Woher {{c1::kommst::come · du}} du?<br>(Formal) Woher {{c1::kommen::come · Sie}} Sie? ‖ Where are you from? / Where are you from?
+## A1::02 Präsens: regelmäßig, Vokalwechsel, wissen, möchte
+A1-02-001 A1-02-04-01 Ich {{c1::wohne::wohnen · ich}} in Berlin. ‖ I live in Berlin.
+A1-02-002 A1-02-04-02 Was {{c1::machst::machen · du}} du am Wochenende? ‖ What are you doing at the weekend?
+A1-02-003 A1-02-04-03 Er {{c1::spielt::spielen · er}} gern Fußball. ‖ He likes playing football.
+A1-02-004 A1-02-04-04 (To two friends) Ihr {{c1::lernt::learn · ihr}} schnell. ‖ You're learning fast.
+A1-02-005 A1-02-04-05 Sie {{c1::arbeitet::arbeiten · sie (she)}} in einer Bank. ‖ She works in a bank.
+A1-02-006 A1-02-04-06 Wie {{c1::heißt::heißen · du}} du? ‖ What's your name?
+A1-02-007 A1-02-04-07 {{c1::Findest::finden · du}} du das gut? ‖ Do you think that's good?
+A1-02-008 A1-14-01-01 Ich {{c1::sammle::sammeln · ich}} Briefmarken. ‖ I collect stamps.
+A1-02-009 A1-14-01-02 Wir {{c1::wandern::hike · wir}} gern in den Bergen. ‖ We like hiking in the mountains.
+A1-02-010 A1-14-01-03 Ich {{c1::ändere::ändern · ich}} nichts. ‖ I'm not changing anything.
+A1-02-011 A1-14-01-04 Warum {{c1::lächelst::lächeln · du}} du? ‖ Why are you smiling?
+A1-02-012 A1-14-02-01 (To a friend) Du {{c1::tanzt::tanzen · du}} sehr gut. ‖ You dance really well.
+A1-02-013 A1-14-02-02 (To a friend) Du {{c1::sitzt::sitzen · du}} auf meinem Platz. ‖ You're sitting in my seat.
+A1-02-014 A1-14-02-03 Der Bus {{c1::hält::halten · er}} direkt vor dem Haus. ‖ The bus stops right outside the house.
+A1-02-015 A1-14-02-04 Was {{c1::rätst::raten · du}} du mir? ‖ What do you advise me?
+A1-02-016 A1-14-02-05 Sie {{c1::läuft::laufen · sie (she)}} jeden Morgen fünf Kilometer. ‖ She runs five kilometres every morning.
+A1-02-017 A1-02-05-01 Er {{c1::fährt::fahren · er}} nach Hamburg. ‖ He's driving to Hamburg.
+A1-02-018 A1-02-05-02 Du {{c1::sprichst::sprechen · du}} gut Deutsch. ‖ You speak good German.
+A1-02-019 A1-02-05-03 Sie {{c1::liest::lesen · sie (she)}} ein Buch. ‖ She's reading a book.
+A1-02-020 A1-02-05-04 Was {{c1::isst::essen · du}} du gern? ‖ What do you like eating?
+A1-02-021 A1-02-05-05 Er {{c1::nimmt::nehmen · er}} den Bus. ‖ He takes the bus.
+A1-02-022 A1-02-05-06 {{c1::Siehst::sehen · du}} du das Schild? ‖ Can you see the sign?
+A1-02-023 A1-02-05-07 Das Baby {{c1::schläft::schlafen · es}}. ‖ The baby's asleep.
+A1-02-024 A1-02-05-08 Er {{c1::hilft::helfen · er}} seiner Mutter. ‖ He helps his mother.
+A1-02-025 A1-02-06-01 Ich {{c1::weiß::wissen · ich}} es nicht. ‖ I don't know.
+A1-02-026 A1-02-06-02 {{c1::Weißt::wissen · du}} du, wo er wohnt? ‖ Do you know where he lives?
+A1-02-027 A1-02-06-03 Ich {{c1::möchte::would like · ich}} einen Kaffee, bitte. ‖ I'd like a coffee, please.
+A1-02-028 A1-02-06-04 Was {{c1::möchtest::would like · du}} du trinken? ‖ What would you like to drink?
+A1-02-029 A1-14-10-01 Ich {{c1::kenne::kenne or weiß?}} ihn schon lange.<br>Ich {{c2::weiß::kenne or weiß?}}, wo er wohnt. ‖ I've known him a long time. / I know where he lives.
+## A1::03 Artikel, Genus, Plural; kein und nicht
+A1-03-001 A1-03-07-01 {{c1::Der::the · nominative}} Tisch ist neu. ‖ The table is new.
+A1-03-002 A1-03-07-02 {{c1::Die::the · nominative}} Lampe ist kaputt. ‖ The lamp is broken.
+A1-03-003 A1-03-07-03 {{c1::Das::the · nominative}} Buch ist interessant. ‖ The book is interesting.
+A1-03-004 A1-03-07-04 {{c1::Die::the · nominative plural}} Kinder spielen draußen. ‖ The children are playing outside.
+A1-03-005 A1-03-07-05 {{c1::Das::the · nominative}} Mädchen ist sieben. ‖ The girl is seven.
+A1-03-006 A1-03-07-06 {{c1::Die::the · nominative}} Zeitung liegt auf dem Tisch. ‖ The newspaper is on the table.
+A1-03-007 A1-03-07-07 Das ist {{c1::ein::a · nominative}} Hund. ‖ That's a dog.
+A1-03-008 A1-03-07-08 Das ist {{c1::eine::a · nominative}} Katze. ‖ That's a cat.
+A1-03-009 A1-14-07-01 {{c1::Die::the · nominative (Haus + Tür)}} Haustür ist offen. ‖ The front door is open.
+A1-03-010 A1-14-07-02 Wo ist {{c1::der::the · nominative (Fahrrad + Schlüssel)}} Fahrradschlüssel? ‖ Where's the bike key?
+A1-03-011 A1-14-07-03 {{c1::Das::the · nominative (Kinder + Zimmer)}} Kinderzimmer ist sehr klein. ‖ The children's room is very small.
+A1-03-012 A1-14-08-01 Sie ist {{c1::Ärztin::Arzt · feminine}}. ‖ She's a doctor.
+A1-03-013 A1-14-08-02 Die {{c1::Lehrerinnen::Lehrerin · plural}} sind sehr nett. ‖ The (female) teachers are very nice.
+A1-03-014 A1-14-08-03 Meine Mutter ist {{c1::Köchin::Koch · feminine}}. ‖ My mother is a cook.
+A1-03-015 A1-03-08-01 Ich habe zwei {{c1::Kinder::Kind · plural}}. ‖ I have two children.
+A1-03-016 A1-03-08-02 Wo sind die {{c1::Äpfel::Apfel · plural}}? ‖ Where are the apples?
+A1-03-017 A1-03-08-03 Die {{c1::Frauen::Frau · plural}} arbeiten hier. ‖ The women work here.
+A1-03-018 A1-03-08-04 Wir haben drei {{c1::Autos::Auto · plural}}. ‖ We have three cars.
+A1-03-019 A1-03-08-05 Die {{c1::Häuser::Haus · plural}} sind alt. ‖ The houses are old.
+A1-03-020 A1-03-08-06 Meine {{c1::Brüder::Bruder · plural}} wohnen in Köln. ‖ My brothers live in Cologne.
+A1-03-021 A1-03-09-01 Das ist {{c1::kein::nicht or kein?}} Problem.<br>Das ist {{c1::nicht::nicht or kein?}} mein Problem. ‖ That's no problem. / That's not my problem.
+A1-03-022 A1-03-09-02 Ich habe {{c1::keine::no · accusative (die Zeit)}} Zeit. ‖ I have no time.
+## A1::04 Akkusativ
+A1-04-001 A1-04-10-01 Ich habe {{c1::einen::a · accusative (der Bruder)}} Bruder. ‖ I have a brother.
+A1-04-002 A1-04-10-02 Ich kaufe {{c1::den::the · accusative (der Mantel)}} Mantel. ‖ I'll buy the coat.
+A1-04-003 A1-04-10-03 Siehst du {{c1::die::the · accusative, feminine}} Frau dort? ‖ Can you see the woman over there?
+A1-04-004 A1-04-10-04 Ich trinke {{c1::keinen::no · accusative (der Kaffee)}} Kaffee. ‖ I don't drink coffee.
+A1-04-005 A1-04-10-05 Wir brauchen {{c1::ein::a · accusative (das Auto)}} Auto. ‖ We need a car.
+A1-04-006 A1-04-10-06 {{c1::Der::der or den?}} Mann kauft {{c2::den::der or den?}} Wagen. ‖ The man is buying the car.
+A1-04-007 A1-04-10-07 Das Geschenk ist für {{c1::meinen::my · accusative (der Vater)}} Vater. ‖ The present is for my father.
+A1-04-008 A1-04-10-08 Wir gehen durch {{c1::den::the · accusative (der Park)}} Park. ‖ We're walking through the park.
+A1-04-009 A1-04-11-01 Ich liebe {{c1::dich::du · accusative}}. ‖ I love you.
+A1-04-010 A1-04-11-02 Kennst du {{c1::ihn::er · accusative}}? ‖ Do you know him?
+A1-04-011 A1-04-11-03 Er ruft {{c1::mich::ich · accusative}} morgen an. ‖ He's ringing me tomorrow.
+A1-04-012 A1-04-11-04 Wir besuchen {{c1::euch::ihr · accusative}} am Sonntag. ‖ We'll visit you on Sunday.
+## A1::05 Dativ und Präpositionen
+A1-05-001 A1-05-12-01 Ich fahre mit {{c1::dem::the · dative (der Bus)}} Bus. ‖ I'm going by bus.
+A1-05-002 A1-05-12-02 Ich wohne bei {{c1::meiner::my · dative (die Mutter)}} Mutter. ‖ I live with my mother.
+A1-05-003 A1-05-12-03 Er kommt aus {{c1::der::the · dative (die Schweiz)}} Schweiz. ‖ He's from Switzerland.
+A1-05-004 A1-05-12-04 Ich gehe {{c1::zum::to (zu + dem)}} Arzt. ‖ I'm going to the doctor's.
+A1-05-005 A1-05-12-05 Sie geht {{c1::zur::to (zu + der)}} Schule. ‖ She goes to school.
+A1-05-006 A1-05-12-06 Das Buch ist von {{c1::meinem::my · dative (der Freund)}} Freund. ‖ The book is from my friend.
+A1-05-007 A1-05-12-07 Nach {{c1::dem::the · dative (das Essen)}} Essen trinken wir Kaffee. ‖ After the meal we have coffee.
+A1-05-008 A1-05-12-08 Ich spiele mit den {{c1::Kindern::Kind · dative plural}}. ‖ I'm playing with the children.
+A1-05-009 A1-05-13-01 (To a friend) Wie geht es {{c1::dir::du · dative}}? ‖ How are you?
+A1-05-010 A1-05-13-02 Das Kleid gefällt {{c1::mir::ich · dative}}. ‖ I like the dress.
+A1-05-011 A1-05-13-03 Kannst du {{c1::ihm::er · dative}} helfen? ‖ Can you help him?
+A1-05-012 A1-05-13-04 Ich gebe {{c1::ihr::sie (she) · dative}} das Buch. ‖ I'm giving her the book.
+A1-05-013 A1-14-05-01 {{c1::Außer::except (+ dative)}} mir war niemand da. ‖ No one was there except me.
+A1-05-014 A1-14-05-02 Die Bank ist {{c1::gegenüber::opposite (+ dative)}} dem Bahnhof. ‖ The bank is opposite the station.
+A1-05-015 A1-14-05-03 Wir sitzen {{c1::um::around (+ accusative)}} den Tisch. ‖ We're sitting around the table.
+A1-05-016 A1-14-05-04 Er ist {{c1::gegen::against (+ accusative)}} den Plan. ‖ He's against the plan.
+A1-05-017 A1-14-05-05 Ich komme {{c1::ohne::without (+ accusative)}} meinen Mann. ‖ I'm coming without my husband.
+## A1::06 Possessivartikel
+A1-06-001 A1-06-14-01 Das ist {{c1::mein::my · nominative (der Bruder)}} Bruder. ‖ This is my brother.
+A1-06-002 A1-06-14-02 Das ist {{c1::meine::my · nominative (die Schwester)}} Schwester. ‖ This is my sister.
+A1-06-003 A1-06-14-03 (To a friend) Wo ist {{c1::dein::your (du) · nominative (das Handy)}} Handy? ‖ Where's your phone?
+A1-06-004 A1-06-14-04 Das sind {{c1::unsere::our · nominative plural}} Kinder. ‖ These are our children.
+A1-06-005 A1-06-14-05 (Formal) Ist das {{c1::Ihr::your (Sie) · nominative (der Koffer)}} Koffer? ‖ Is this your suitcase?
+A1-06-006 A1-06-14-06 Ich suche {{c1::meinen::my · accusative (der Schlüssel)}} Schlüssel. ‖ I'm looking for my key.
+A1-06-007 A1-06-14-07 (To two friends) Wo ist {{c1::eure::your (ihr) · nominative (die Wohnung)}} Wohnung? ‖ Where's your flat?
+A1-06-008 A1-06-14-08 Peter und {{c1::seine::sein or ihr? · (die Frau)}} Frau.<br>Anna und {{c2::ihr::sein or ihr? · (der Mann)}} Mann. ‖ Peter and his wife. / Anna and her husband.
+## A1::07 Modalverben
+A1-07-001 A1-07-15-01 Ich {{c1::kann::können · ich}} gut schwimmen. ‖ I can swim well.
+A1-07-002 A1-07-15-02 (To a friend) {{c1::Kannst::können · du}} du mir helfen? ‖ Can you help me?
+A1-07-003 A1-07-15-03 Ich {{c1::muss::müssen · ich}} heute arbeiten. ‖ I have to work today.
+A1-07-004 A1-07-15-04 Er {{c1::will::wollen · er}} Arzt werden. ‖ He wants to become a doctor.
+A1-07-005 A1-07-15-05 Hier {{c1::darf::dürfen · man}} man nicht rauchen. ‖ You're not allowed to smoke here.
+A1-07-006 A1-07-15-06 Du {{c1::sollst::sollen · du}} deine Mutter anrufen. ‖ You're supposed to call your mother.
+A1-07-007 A1-07-15-07 Ich {{c1::mag::mögen · ich}} keine Tomaten. ‖ I don't like tomatoes.
+A1-07-008 A1-07-15-08 (To two friends) {{c1::Wollt::wollen · ihr}} ihr mitkommen? ‖ Do you want to come along?
+A1-07-009 A1-07-15-09 Du {{c1::musst::musst or darfst?}} nicht kommen, wenn du keine Zeit hast.<br>Hier {{c2::darfst::musst or darfst?}} du nicht parken. ‖ You don't have to come if you have no time. / You mustn't park here.
+## A1::08 Trennbare Verben
+A1-08-001 A1-08-16-01 Ich {{c1::stehe::aufstehen · ich}} um sieben Uhr auf. ‖ I get up at seven.
+A1-08-002 A1-08-16-02 Er {{c1::ruft::anrufen · er}} seine Mutter an. ‖ He's calling his mother.
+A1-08-003 A1-08-16-03 Wir {{c1::kaufen::einkaufen · wir}} am Samstag ein. ‖ We go shopping on Saturdays.
+A1-08-004 A1-08-16-04 Der Zug {{c1::kommt::ankommen · er}} um acht Uhr an. ‖ The train arrives at eight.
+A1-08-005 A1-08-16-05 Kommst du {{c1::mit::mitkommen · separable part}}? ‖ Are you coming along?
+A1-08-006 A1-08-16-06 Sie {{c1::sieht::fernsehen · sie (she)}} jeden Abend fern. ‖ She watches TV every evening.
+A1-08-007 A1-08-16-07 Ich muss morgen früh {{c1::aufstehen::get up · infinitive (after a modal)}}. ‖ I have to get up early tomorrow.
+A1-08-008 A1-14-06-01 (To a friend) {{c1::Ruf::anrufen · imperative, du}} mich morgen an! ‖ Give me a ring tomorrow!
+A1-08-009 A1-14-06-02 (To a friend) Mach bitte die Tür {{c1::zu::zumachen · separable part}}! ‖ Shut the door, please!
+## A1::09 Verbzweitstellung und Fragen
+A1-09-001 A1-09-17-01 Heute {{c1::gehe::gehen · ich (after heute)}} ich ins Kino. ‖ Today I'm going to the cinema.
+A1-09-002 A1-09-17-02 Morgen {{c1::fliegt::fliegen · er}} er nach Rom. ‖ Tomorrow he's flying to Rome.
+A1-09-003 A1-09-17-03 {{c1::Wohnst::wohnen · du (yes/no question)}} du in Wien? ‖ Do you live in Vienna?
+A1-09-004 A1-09-17-04 {{c1::Wo::wo, wohin or woher?}} wohnst du?<br>{{c2::Woher::wo, wohin or woher?}} kommst du?<br>{{c3::Wohin::wo, wohin or woher?}} gehst du? ‖ Where do you live? / Where are you from? / Where are you going?
+A1-09-005 A1-09-17-05 {{c1::Wann::when}} beginnt der Film? ‖ When does the film start?
+A1-09-006 A1-09-17-06 {{c1::Warum::why}} lernst du Deutsch? ‖ Why are you learning German?
+A1-09-007 A1-09-17-07 {{c1::Wie viel::how much (two words)}} kostet das? ‖ How much is that?
+A1-09-008 A1-09-17-08 Hast du Hunger? – {{c1::Ja::ja or doch?}}.<br>Hast du keinen Hunger? – {{c2::Doch::ja or doch?}}! ‖ Are you hungry? — Yes. / Aren't you hungry? — Yes, I am!
+A1-09-009 A1-14-03-01 {{c1::Wen::who · accusative}} besuchst du am Wochenende? ‖ Who are you visiting at the weekend?
+A1-09-010 A1-14-03-02 {{c1::Wem::who · dative}} gehört das Fahrrad? ‖ Who does the bike belong to?
+A1-09-011 A1-14-03-03 {{c1::Was für ein::what kind of}} Auto hast du? ‖ What kind of car have you got?
+## A1::10 Zeit und Ort, Uhrzeit, Zahlen und Mengen
+A1-10-001 A1-10-18-01 Wir treffen uns {{c1::am::am, um or im?}} Freitag {{c2::um::am, um or im?}} acht Uhr. ‖ We're meeting on Friday at eight.
+A1-10-002 A1-10-18-02 Ich habe {{c1::im::am, um or im?}} Mai Geburtstag. ‖ My birthday's in May.
+A1-10-003 A1-10-18-03 Ich fahre {{c1::nach::nach or in?}} Berlin.<br>Ich fahre {{c2::in::nach or in?}} die Schweiz. ‖ I'm going to Berlin. / I'm going to Switzerland.
+A1-10-004 A1-10-18-04 Ich gehe jetzt {{c1::nach::nach or zu?}} Hause.<br>Ich bin heute Abend {{c2::zu::nach or zu?}} Hause. ‖ I'm going home now. / I'm at home this evening.
+A1-10-005 A1-10-18-05 Es ist {{c1::halb::half (… acht = 7:30)}} acht. ‖ It's half past seven.
+A1-10-006 A1-10-18-06 Es ist Viertel {{c1::nach::past (Viertel … drei = 3:15)}} drei. ‖ It's quarter past three.
+A1-10-007 A1-10-18-07 Es ist Viertel {{c1::vor::to (Viertel … vier = 3:45)}} vier. ‖ It's quarter to four.
+A1-10-008 A1-14-04-01 Ich bin {{c1::einundzwanzig::21 (one word)}} Jahre alt. ‖ I'm twenty-one.
+A1-10-009 A1-14-04-02 Er ist {{c1::neunzehnhundertneunzig::1990 (year, as spoken)}} geboren. ‖ He was born in 1990.
+A1-10-010 A1-14-04-03 Es sind drei {{c1::Komma::decimal point (spoken)}} fünf Grad. ‖ It's 3.5 degrees.
+A1-10-011 A1-14-04-04 Der Zug fährt um vierzehn Uhr {{c1::dreißig::30 (24-hour time)}}. ‖ The train leaves at 14:30.
+A1-10-012 A1-14-04-05 Es ist fünf vor {{c1::halb::half (fünf vor … drei = 2:25)}} drei. ‖ It's twenty-five past two.
+A1-10-013 A1-14-09-01 Ich kaufe zwei {{c1::Kilo::kg measure (no plural)}} Äpfel. ‖ I'll buy two kilos of apples.
+A1-10-014 A1-14-09-02 Zwei {{c1::Glas::glass (measure, no plural)}} Wein, bitte. ‖ Two glasses of wine, please.
+A1-10-015 A1-14-09-03 Ich nehme zwei {{c1::Stück::piece (measure, no plural)}} Kuchen. ‖ I'll have two pieces of cake.
+## A1::11 Imperativ
+A1-11-001 A1-11-19-01 (To a friend) {{c1::Komm::come · imperative, du}} schnell! ‖ Come quickly!
+A1-11-002 A1-11-19-02 (Formal) {{c1::Kommen::come · imperative, Sie}} Sie bitte herein. ‖ Please come in.
+A1-11-003 A1-11-19-03 (To two friends) {{c1::Kommt::come · imperative, ihr}} mit! ‖ Come along!
+A1-11-004 A1-11-19-04 (To a friend) {{c1::Nimm::nehmen · imperative, du}} das Geld! ‖ Take the money!
+A1-11-005 A1-11-19-05 (To a friend) {{c1::Sei::sein · imperative, du}} leise! ‖ Be quiet!
+A1-11-006 A1-11-19-06 (To a friend) {{c1::Hilf::helfen · imperative, du}} mir bitte! ‖ Help me, please!
+A1-11-007 A1-11-19-07 (To a friend) {{c1::Fahr::fahren · imperative, du}} vorsichtig! ‖ Drive carefully!
+A1-11-008 A1-11-19-08 (To a friend) {{c1::Mach::aufmachen · imperative, du}} bitte das Fenster auf! ‖ Open the window, please!
+A1-11-009 A1-11-19-09 (Formal) {{c1::Seien::sein · imperative, Sie}} Sie bitte pünktlich. ‖ Please be on time.
+## A1::12 Vergangenheit: war, hatte und Perfekt
+A1-12-001 A1-12-20-01 Ich {{c1::war::sein · past, ich}} gestern krank. ‖ I was ill yesterday.
+A1-12-002 A1-12-20-02 Wir {{c1::waren::sein · past, wir}} letztes Jahr in Italien. ‖ We were in Italy last year.
+A1-12-003 A1-12-20-03 (To a friend) {{c1::Hattest::haben · past, du}} du Zeit? ‖ Did you have time?
+A1-12-004 A1-12-20-04 Er {{c1::hatte::haben · past, er}} keine Lust. ‖ He didn't feel like it.
+A1-12-005 A1-12-21-01 Ich habe Fußball {{c1::gespielt::spielen · past participle}}. ‖ I played football.
+A1-12-006 A1-12-21-02 Was hast du gestern {{c1::gemacht::machen · past participle}}? ‖ What did you do yesterday?
+A1-12-007 A1-12-21-03 Er hat ein Buch {{c1::gelesen::lesen · past participle}}. ‖ He read a book.
+A1-12-008 A1-12-21-04 Wir haben Pizza {{c1::gegessen::essen · past participle}}. ‖ We had pizza.
+A1-12-009 A1-12-21-05 Ich habe dich {{c1::angerufen::anrufen · past participle}}. ‖ I called you.
+A1-12-010 A1-12-21-06 Sie hat Medizin {{c1::studiert::studieren · past participle}}. ‖ She studied medicine.
+A1-12-011 A1-12-21-07 Er ist spät {{c1::gekommen::kommen · past participle}}. ‖ He came late.
+A1-12-012 A1-12-21-08 Sie ist zu Hause {{c1::geblieben::bleiben · past participle}}. ‖ She stayed at home.
+A1-12-013 A1-12-21-09 Ich {{c1::bin::bin or habe?}} nach Hause gegangen.<br>Ich {{c2::habe::bin or habe?}} viel gearbeitet. ‖ I went home. / I worked a lot.
+A1-12-014 A1-12-21-10 Wir {{c1::sind::haben or sein? · wir}} nach Wien gefahren. ‖ We drove to Vienna.
+## A1::13 es gibt, gern und lieber, man
+A1-13-001 A1-13-22-01 Hier {{c1::gibt::geben · es (es … + accusative)}} es einen Supermarkt. ‖ There's a supermarket here.
+A1-13-002 A1-13-22-02 Es gibt {{c1::keinen::no · accusative (der Parkplatz)}} Parkplatz. ‖ There's no parking space.
+A1-13-003 A1-13-22-03 Ich spiele {{c1::gern::like doing (+ verb)}} Tennis. ‖ I like playing tennis.
+A1-13-004 A1-13-22-04 Ich trinke {{c1::lieber::prefer (comparative of gern)}} Tee. ‖ I prefer tea.
+A1-13-005 A1-13-22-05 In Österreich spricht {{c1::man::one; people (general)}} Deutsch. ‖ They speak German in Austria.
+## A2::01 Nebensätze: weil, dass, wenn, ob, als
+A2-01-001 A2-01-01-01 Ich lerne Deutsch, weil ich in Berlin {{c1::arbeite::arbeiten · ich (weil …, verb at the end)}}. ‖ I'm learning German because I work in Berlin.
+A2-01-002 A2-01-01-02 Ich bleibe zu Hause, weil ich krank {{c1::bin::sein · ich (verb at the end)}}. ‖ I'm staying at home because I'm ill.
+A2-01-003 A2-01-01-03 Er sagt, dass er keine Zeit {{c1::hat::haben · er (verb at the end)}}. ‖ He says he has no time.
+A2-01-004 A2-01-01-04 Ich glaube, {{c1::dass::that (verb to the end)}} es morgen regnet. ‖ I think it'll rain tomorrow.
+A2-01-005 A2-01-01-05 Weißt du, {{c1::ob::whether}} er heute kommt? ‖ Do you know whether he's coming today?
+A2-01-006 A2-01-01-06 Ich weiß nicht, wann der Zug {{c1::ankommt::ankommen · er (verb at the end)}}. ‖ I don't know when the train arrives.
+A2-01-007 A2-01-01-07 Ich weiß, dass du gut kochen {{c1::kannst::können · du (verb at the end)}}. ‖ I know you can cook well.
+A2-01-008 A2-01-01-08 Wenn es regnet, {{c1::bleiben::stay · wir (after the wenn-clause)}} wir zu Hause. ‖ If it rains, we'll stay at home.
+A2-01-009 A2-01-01-09 {{c1::Als::als or wenn?}} ich 18 war, bin ich nach Berlin gezogen.<br>{{c2::Wenn::als or wenn?}} ich nach Berlin fahre, besuche ich meine Tante. ‖ When I was 18, I moved to Berlin. / When(ever) I go to Berlin, I visit my aunt.
+A2-01-010 A2-01-01-10 Ich komme nicht, {{c1::weil::weil or denn?}} ich krank bin.<br>Ich komme nicht, {{c2::denn::weil or denn?}} ich bin krank. ‖ I'm not coming because I'm ill. / I'm not coming, as I'm ill.
+## A2::02 Wechselpräpositionen, Richtung und Ort; stellen, legen, setzen, hängen
+A2-02-001 A2-02-02-01 Ich gehe in {{c1::den::the (Park, m.) · wohin?}} Park. ‖ I'm going into the park.
+A2-02-002 A2-02-02-02 Die Kinder spielen {{c1::im::in + the (Park, m.) · wo?}} Park. ‖ The children are playing in the park.
+A2-02-003 A2-02-02-03 Ich lege das Buch auf {{c1::den::the (Tisch, m.) · wohin?}} Tisch. ‖ I'm putting the book on the table.
+A2-02-004 A2-02-02-04 Das Buch liegt auf {{c1::dem::the (Tisch, m.) · wo?}} Tisch. ‖ The book is on the table.
+A2-02-005 A2-02-02-05 Ich hänge das Bild an {{c1::die::the (Wand, f.) · wohin?}} Wand. ‖ I'm hanging the picture on the wall.
+A2-02-006 A2-02-02-06 Das Bild hängt an {{c1::der::the (Wand, f.) · wo?}} Wand. ‖ The picture is hanging on the wall.
+A2-02-007 A2-02-02-07 Wir fahren {{c1::ans::to + the (Meer, n.) · wohin?}} Meer. ‖ We're going to the seaside.
+A2-02-008 A2-02-02-08 Wir sind {{c1::am::at + the (Meer, n.) · wo?}} Meer. ‖ We're at the seaside.
+A2-02-009 A2-02-02-09 Der Hund schläft unter {{c1::dem::the (Bett, n.) · wo?}} Bett. ‖ The dog is sleeping under the bed.
+A2-02-010 A2-02-02-10 Die Katze springt auf {{c1::das::the (Sofa, n.) · wohin?}} Sofa. ‖ The cat jumps onto the sofa.
+A2-02-011 NEW (Towards the speaker) Komm bitte {{c1::her::hin or her?}}!<br>(Away from the speaker) Geh doch {{c1::hin::hin or her?}} und frag ihn! ‖ Come here, please! / Go over there and ask him!
+A2-02-012 A2-02-03-01 Ich {{c1::stelle::stellen or stehen? · ich}} die Flasche auf den Tisch.<br>Die Flasche {{c2::steht::stellen or stehen? · sie}} auf dem Tisch. ‖ I'm putting the bottle on the table. / The bottle is on the table.
+A2-02-013 A2-02-03-02 Ich {{c1::lege::legen or liegen? · ich}} das Handy aufs Bett.<br>Das Handy {{c2::liegt::legen or liegen? · es}} auf dem Bett. ‖ I'm putting the phone on the bed. / The phone is on the bed.
+A2-02-014 A2-14-13-01 Ich {{c1::setze::setzen or sitzen? · ich}} mich aufs Sofa.<br>Ich {{c2::sitze::setzen or sitzen? · ich}} auf dem Sofa. ‖ I'm sitting down on the sofa. / I'm sitting on the sofa.
+A2-02-015 A2-14-13-02 Ich habe das Bild an die Wand {{c1::gehängt::hängen (put up) · past participle}}. ‖ I've hung the picture on the wall.
+A2-02-016 A2-14-13-03 Das Bild hat lange dort {{c1::gehangen::hängen (be hanging) · past participle}}. ‖ The picture hung there for a long time.
+A2-02-017 A2-14-11-01 Heute Abend gehe ich {{c1::auf::to (an event: … eine Party)}} eine Party. ‖ I'm going to a party tonight.
+A2-02-018 A2-14-11-02 Ich muss noch {{c1::zur::to (zu + der: Post)}} Post. ‖ I still need to go to the post office.
+A2-02-019 A2-14-11-03 Sie studiert {{c1::an::at (university: … der Uni)}} der Uni Heidelberg. ‖ She studies at Heidelberg University.
+A2-02-020 A2-14-11-04 Ich kaufe Gemüse {{c1::auf::at (… dem Markt)}} dem Markt. ‖ I buy vegetables at the market.
+A2-02-021 A2-14-11-05 Er ist noch {{c1::bei::at (… der Arbeit)}} der Arbeit. ‖ He's still at work.
+A2-02-022 A2-14-11-06 Ich war heute {{c1::beim::at (bei + dem: Arzt)}} Arzt. ‖ I was at the doctor's today.
+A2-02-023 A2-14-12-01 Ich wohne {{c1::bei::bei or mit?}} meinen Eltern.<br>Ich gehe {{c2::mit::bei or mit?}} meinen Eltern ins Kino. ‖ I live with my parents (at their place). / I'm going to the cinema with my parents.
+## A2::03 Dativverben, zwei Objekte, gefallen und mögen
+A2-03-001 A2-03-04-01 Ich schenke {{c1::meiner::my · dative (Mutter, f.)}} Mutter Blumen. ‖ I'm giving my mother flowers.
+A2-03-002 A2-03-04-02 Er zeigt {{c1::den::the · dative plural (Kinder)}} Kindern die Stadt. ‖ He's showing the children around the town.
+A2-03-003 A2-03-04-03 Das Auto {{c1::gehört::belong to (+ dative) · es}} meinem Vater. ‖ The car belongs to my father.
+A2-03-004 A2-03-04-04 (To a friend) Wie {{c1::schmeckt::taste (+ dative) · es}} dir das Essen? ‖ How do you like the food?
+A2-03-005 A2-03-04-05 Die Hose {{c1::passt::fit (+ dative) · sie}} mir nicht. ‖ The trousers don't fit me.
+A2-03-006 A2-03-04-06 (Formal) Ich {{c1::danke::thank (+ dative) · ich}} Ihnen für Ihre Hilfe. ‖ Thank you for your help.
+A2-03-007 A2-03-04-07 (Formal) Gefällt {{c1::Ihnen::Sie · dative}} das Hotel? ‖ Do you like the hotel?
+A2-03-008 A2-03-04-08 Hast du ihm das Buch gegeben? – Ja, ich habe {{c1::es::it · accusative (two pronouns)}} ihm gegeben. ‖ Did you give him the book? — Yes, I gave it to him.
+A2-03-009 A2-14-14-01 Ich frage {{c1::den::the · case after fragen (Lehrer, m.)}} Lehrer. ‖ I'll ask the teacher.
+A2-03-010 A2-14-14-02 Ich gratuliere {{c1::dir::du · case after gratulieren}}! ‖ Congratulations!
+A2-03-011 A2-14-14-03 Ich glaube {{c1::ihm::er · case after glauben}} nicht. ‖ I don't believe him.
+A2-03-012 A2-14-14-04 (To a friend) Ruf {{c1::mich::ich · case after anrufen}} bitte an! ‖ Give me a call, please!
+A2-03-013 A2-14-14-05 Der Hund folgt {{c1::mir::ich · case after folgen}} überallhin. ‖ The dog follows me everywhere.
+A2-03-014 A2-14-15-01 Der Film {{c1::gefällt::gefällt, mag or gern?}} mir.<br>Ich {{c2::mag::gefällt, mag or gern?}} Käse.<br>Ich schwimme {{c3::gern::gefällt, mag or gern?}}. ‖ I like the film. / I like cheese. / I like swimming.
+A2-03-015 A2-14-16-01 {{c1::Mir::ich · dative (… ist kalt)}} ist kalt. ‖ I'm cold.
+A2-03-016 A2-14-16-02 Ist {{c1::dir::du · dative}} langweilig? ‖ Are you bored?
+A2-03-017 A2-14-16-03 {{c1::Ihm::er · dative}} ist schlecht. ‖ He feels sick.
+## A2::04 Adjektivendungen
+A2-04-001 A2-04-05-01 Der {{c1::neue::neu · nominative (der …)}} Lehrer ist nett. ‖ The new teacher is nice.
+A2-04-002 A2-04-05-02 Ich kaufe den {{c1::roten::rot · accusative (der Pullover, m.)}} Pullover. ‖ I'll buy the red jumper.
+A2-04-003 A2-04-05-03 Die {{c1::kleine::klein · nominative (die …)}} Katze schläft. ‖ The little cat is asleep.
+A2-04-004 A2-04-05-04 Das {{c1::alte::alt · nominative (das …)}} Haus ist schön. ‖ The old house is lovely.
+A2-04-005 A2-04-05-05 Mit dem {{c1::neuen::neu · dative (das Auto, n.)}} Auto fahren wir nach Italien. ‖ We're driving to Italy in the new car.
+A2-04-006 A2-04-05-06 Die {{c1::jungen::jung · nominative plural (die …)}} Leute tanzen. ‖ The young people are dancing.
+A2-04-007 A2-04-05-07 Das ist ein {{c1::guter::gut · nominative (der Film, m.; ein …)}} Film. ‖ That's a good film.
+A2-04-008 A2-04-05-08 Das ist ein {{c1::schönes::schön · nominative (das Kleid, n.; ein …)}} Kleid. ‖ That's a lovely dress.
+A2-04-009 A2-04-05-09 Ich habe eine {{c1::große::groß · accusative (die Wohnung, f.; eine …)}} Wohnung. ‖ I have a big flat.
+A2-04-010 A2-04-05-10 Ich suche einen {{c1::billigen::billig · accusative (der Laptop, m.; einen …)}} Laptop. ‖ I'm looking for a cheap laptop.
+A2-04-011 A2-04-05-11 Er wohnt in einem {{c1::kleinen::klein · dative (das Dorf, n.; einem …)}} Dorf. ‖ He lives in a small village.
+A2-04-012 A2-04-05-12 Ich trinke gern {{c1::kalten::kalt · accusative (der Kaffee, m.; no article)}} Kaffee. ‖ I like cold coffee.
+A2-04-013 A2-04-05-13 {{c1::Frisches::frisch · nominative (das Brot, n.; no article)}} Brot schmeckt am besten. ‖ Fresh bread tastes best.
+A2-04-014 A2-04-05-14 Der Film ist {{c1::gut::good (after sein)}}. ‖ The film is good.
+A2-04-015 NEW Ich habe den Artikel mit {{c1::großem::groß · dative (Interesse, n.; no article)}} Interesse gelesen. ‖ I read the article with great interest.
+## A2::05 Komparativ und Superlativ
+A2-05-001 A2-05-06-01 Berlin ist {{c1::größer::groß · comparative}} als München. ‖ Berlin is bigger than Munich.
+A2-05-002 A2-05-06-02 Mein Bruder ist {{c1::älter::alt · comparative}} als ich. ‖ My brother is older than me.
+A2-05-003 A2-05-06-03 Heute ist es {{c1::wärmer::warm · comparative}} als gestern. ‖ It's warmer today than yesterday.
+A2-05-004 A2-05-06-04 Dein Plan ist {{c1::besser::gut · comparative}}. ‖ Your plan is better.
+A2-05-005 A2-05-06-05 Er hat {{c1::mehr::viel · comparative}} Geld als ich. ‖ He has more money than me.
+A2-05-006 A2-05-06-06 Ich esse {{c1::am liebsten::gern · superlative}} Pizza. ‖ Pizza is my favourite food.
+A2-05-007 A2-05-06-07 Die Zugspitze ist der {{c1::höchste::hoch · superlative (der …)}} Berg Deutschlands. ‖ The Zugspitze is Germany's highest mountain.
+A2-05-008 A2-05-06-08 Im Januar ist es {{c1::am kältesten::kalt · superlative}}. ‖ It's coldest in January.
+A2-05-009 A2-05-06-09 Er ist größer {{c1::als::als or wie?}} ich.<br>Er ist so groß {{c2::wie::als or wie?}} ich. ‖ He's taller than me. / He's as tall as me.
+## A2::06 Reflexive Verben
+A2-06-001 A2-06-07-01 Ich {{c1::freue::sich freuen · ich}} mich auf das Wochenende. ‖ I'm looking forward to the weekend.
+A2-06-002 A2-06-07-02 Wir treffen {{c1::uns::reflexive · wir}} um acht. ‖ We're meeting at eight.
+A2-06-003 A2-06-07-03 (To a friend) Interessierst du {{c1::dich::reflexive · du}} für Musik? ‖ Are you interested in music?
+A2-06-004 A2-06-07-04 Er {{c1::wäscht::sich waschen · er}} sich. ‖ He's having a wash.
+A2-06-005 A2-06-07-05 Ich putze {{c1::mir::reflexive · ich (+ another object)}} die Zähne. ‖ I'm brushing my teeth.
+A2-06-006 A2-06-07-06 (Formal) Setzen Sie {{c1::sich::reflexive · Sie}}, bitte. ‖ Please sit down.
+A2-06-007 A2-06-07-07 Ich wasche {{c1::mich::mich or mir?}}.<br>Ich wasche {{c2::mir::mich or mir?}} die Hände. ‖ I'm having a wash. / I'm washing my hands.
+## A2::07 Perfekt: unregelmäßige Partizipien und untrennbare Präfixe
+A2-07-001 A2-07-08-01 Ich habe zu viel Kaffee {{c1::getrunken::trinken · past participle}}. ‖ I've drunk too much coffee.
+A2-07-002 A2-07-08-02 Sie hat mir eine E-Mail {{c1::geschrieben::schreiben · past participle}}. ‖ She wrote me an email.
+A2-07-003 A2-07-08-03 Hast du deinen Schlüssel {{c1::gefunden::finden · past participle}}? ‖ Did you find your key?
+A2-07-004 A2-07-08-04 Wir haben lange {{c1::geschlafen::schlafen · past participle}}. ‖ We slept in.
+A2-07-005 A2-07-08-05 Er hat den Zug {{c1::genommen::nehmen · past participle}}. ‖ He took the train.
+A2-07-006 A2-07-08-06 Ich bin noch nie in Wien {{c1::gewesen::sein · past participle}}. ‖ I've never been to Vienna.
+A2-07-007 A2-07-08-07 Wir haben unsere Oma {{c1::besucht::besuchen · past participle}}. ‖ We visited our gran.
+A2-07-008 A2-07-08-08 Ich habe das nicht {{c1::verstanden::verstehen · past participle}}. ‖ I didn't understand that.
+A2-07-009 A2-07-08-09 Der Lehrer hat es gut {{c1::erklärt::erklären · past participle}}. ‖ The teacher explained it well.
+A2-07-010 A2-07-08-10 Was ist {{c1::passiert::passieren · past participle}}? ‖ What happened?
+A2-07-011 A2-07-08-11 Ich bin um sechs Uhr {{c1::aufgestanden::aufstehen · past participle}}. ‖ I got up at six.
+A2-07-012 A2-07-08-12 Sie ist nach Berlin {{c1::umgezogen::umziehen · past participle}}. ‖ She moved to Berlin.
+A2-07-013 A2-14-17-01 Ich habe oft an dich {{c1::gedacht::denken · past participle}}. ‖ I've often thought of you.
+A2-07-014 A2-14-17-02 Er hat Blumen {{c1::mitgebracht::mitbringen · past participle}}. ‖ He brought flowers.
+A2-07-015 A2-14-17-03 Hast du das {{c1::gewusst::wissen · past participle}}? ‖ Did you know that?
+A2-07-016 A2-14-17-04 Wie habt ihr das Baby {{c1::genannt::nennen · past participle}}? ‖ What did you call the baby?
+A2-07-017 A2-14-17-05 Ich bin zum Bus {{c1::gerannt::rennen · past participle}}. ‖ I ran for the bus.
+## A2::08 Präteritum: Modalverben, es gab, wusste
+A2-08-001 A2-08-09-01 Ich {{c1::konnte::können · past, ich}} nicht kommen. ‖ I couldn't come.
+A2-08-002 A2-08-09-02 Wir {{c1::mussten::müssen · past, wir}} lange warten. ‖ We had to wait a long time.
+A2-08-003 A2-08-09-03 Er {{c1::wollte::wollen · past, er}} Pilot werden. ‖ He wanted to be a pilot.
+A2-08-004 A2-08-09-04 Als Kind {{c1::durfte::dürfen · past, ich}} ich nicht fernsehen. ‖ As a child I wasn't allowed to watch TV.
+A2-08-005 A2-08-09-05 Früher {{c1::gab::geben · past (es … es)}} es hier ein Kino. ‖ There used to be a cinema here.
+A2-08-006 A2-08-09-06 Ich {{c1::wusste::wissen · past, ich}} das nicht. ‖ I didn't know that.
+## A2::09 Höflicher Konjunktiv II: hätte, könnten, würde, wäre
+A2-09-001 A2-09-10-01 Ich {{c1::hätte::haben · Konjunktiv II, ich}} gern ein Bier. ‖ I'd like a beer.
+A2-09-002 A2-09-10-02 (Formal) {{c1::Könnten::können · Konjunktiv II, Sie}} Sie mir helfen? ‖ Could you help me?
+A2-09-003 A2-09-10-03 Ich {{c1::würde::would · ich}} gern mitkommen. ‖ I'd like to come along.
+A2-09-004 A2-09-10-04 Das {{c1::wäre::sein · Konjunktiv II, es}} schön. ‖ That would be nice.
+A2-09-005 A2-09-10-05 (Formal) {{c1::Würden::would · Sie}} Sie bitte das Fenster schließen? ‖ Would you close the window, please?
+A2-09-006 A2-09-10-06 Du {{c1::solltest::sollen · Konjunktiv II (advice), du}} mehr schlafen. ‖ You should get more sleep.
+## A2::10 Zeitangaben: seit, vor, für, bis, ab; noch, erst; Datum
+A2-10-001 A2-10-11-01 Ich lerne {{c1::seit::seit, vor or für?}} einem Jahr Deutsch.<br>Ich habe {{c2::vor::seit, vor or für?}} einem Jahr angefangen.<br>Ich fahre {{c3::für::seit, vor or für?}} ein Jahr nach Wien. ‖ I've been learning German for a year. / I started a year ago. / I'm going to Vienna for a year.
+A2-10-002 A2-10-11-02 Ich wohne seit drei {{c1::Jahren::Jahr · dative plural}} in Hamburg. ‖ I've been living in Hamburg for three years.
+A2-10-003 A2-10-11-03 Der Laden ist {{c1::bis::until}} 20 Uhr geöffnet. ‖ The shop is open until 8 p.m.
+A2-10-004 A2-10-11-04 {{c1::Ab::from (starting)}} Montag habe ich Urlaub. ‖ I'm on holiday from Monday.
+A2-10-005 A2-10-11-05 Heute ist der {{c1::dritte::3rd · nominative (der …)}} Mai. ‖ Today is the third of May.
+A2-10-006 A2-10-11-06 Ich habe am {{c1::ersten::1st · dative (am …)}} Juni Geburtstag. ‖ My birthday is on the first of June.
+A2-10-007 A2-14-08-01 Ich gehe {{c1::jeden::every · accusative (Tag, m.)}} Tag joggen. ‖ I go jogging every day.
+A2-10-008 A2-14-08-02 {{c1::Letzte::last · accusative (Woche, f.)}} Woche war ich krank. ‖ I was ill last week.
+A2-10-009 A2-14-08-03 {{c1::Nächsten::next · accusative (Monat, m.)}} Monat ziehen wir um. ‖ We're moving next month.
+A2-10-010 A2-14-08-04 Ich habe den {{c1::ganzen::whole · accusative (Tag, m.; den …)}} Tag gewartet. ‖ I waited all day.
+A2-10-011 A2-14-09-01 {{c1::Montags::on Mondays (adverb)}} arbeite ich, aber heute {{c2::Abend::evening (heute …)}} habe ich frei. ‖ I work on Mondays, but I'm free this evening.
+A2-10-012 A2-14-09-02 {{c1::Abends::in the evenings (adverb)}} lese ich gern. ‖ In the evenings I like to read.
+A2-10-013 A2-14-10-01 Ich komme {{c1::gegen::around (approximate time)}} acht Uhr. ‖ I'll come around eight.
+A2-10-014 A2-14-10-02 Was macht ihr {{c1::am::at (… Wochenende)}} Wochenende? ‖ What are you doing at the weekend?
+A2-10-015 A2-14-10-03 {{c1::In der::in the (… Nacht)}} Nacht hat es geschneit. ‖ It snowed in the night.
+A2-10-016 A2-14-10-04 Was macht ihr {{c1::zu::at (… Weihnachten, northern)}} Weihnachten? ‖ What are you doing at Christmas?
+A2-10-017 A2-14-10-05 {{c1::Im::in the (… Jahr 2010)}} Jahr 2010 bin ich nach Wien gezogen. ‖ In 2010 I moved to Vienna.
+A2-10-018 A2-14-06-01 Ich habe {{c1::noch nichts::nothing yet}} gegessen. ‖ I haven't eaten anything yet.
+A2-10-019 A2-14-06-02 Ich habe {{c1::kein::no (… Geld mehr)}} Geld mehr. ‖ I've got no money left.
+A2-10-020 A2-14-06-03 Er ist {{c1::erst::only (no older than)}} fünf. ‖ He's only five.
+A2-10-021 A2-14-06-04 Der Laden öffnet {{c1::erst::not until}} um zehn. ‖ The shop doesn't open until ten.
+A2-10-022 A2-14-06-05 Sie wohnt {{c1::nicht mehr::no longer}} hier. ‖ She doesn't live here any more.
+A2-10-023 A2-14-07-01 {{c1::Zuerst::first}} kaufen wir ein, {{c2::dann::then}} kochen wir, und {{c3::zum Schluss::finally}} spülen wir ab. ‖ First we shop, then we cook, and finally we wash up.
+A2-10-024 A2-14-18-01 {{c1::Was für ein::what a (exclamation)}} schöner Tag! ‖ What a lovely day!
+A2-10-025 A2-14-18-02 Wir sind vom 3. {{c1::bis::to (vom … …)}} 5. Mai in Wien. ‖ We're in Vienna from 3 to 5 May.
+A2-10-026 A2-14-18-03 (Letter heading) Berlin, {{c1::den::letter date (Berlin, … 3. Mai)}} 3. Mai 2026 ‖ Berlin, 3 May 2026
+## A2::11 einer, keiner, welcher; jemand, niemand; meiner, der da
+A2-11-001 A2-11-12-01 Hast du einen Stift? – Ja, ich habe {{c1::einen::one · accusative (Stift, m.)}}. ‖ Have you got a pen? — Yes, I've got one.
+A2-11-002 A2-11-12-02 Ist hier ein Café? – Ja, da ist {{c1::eins::one · nominative (Café, n.)}}. ‖ Is there a café here? — Yes, there's one over there.
+A2-11-003 A2-11-12-03 Hast du ein Auto? – Nein, ich habe {{c1::keins::none · accusative (Auto, n.)}}. ‖ Have you got a car? — No, I haven't.
+A2-11-004 A2-11-12-04 {{c1::Welchen::which · accusative (Film, m.)}} Film möchtest du sehen? ‖ Which film do you want to see?
+A2-11-005 A2-11-12-05 {{c1::Jemand::somebody}} hat angerufen. ‖ Somebody called.
+A2-11-006 A2-11-12-06 {{c1::Niemand::nobody}} ist zu Hause. ‖ Nobody's home.
+A2-11-007 A2-11-12-07 Ich habe {{c1::nichts::nothing}} gesehen. ‖ I didn't see anything.
+A2-11-008 A2-11-12-08 Möchtest du {{c1::etwas::something}} trinken? ‖ Would you like something to drink?
+A2-11-009 A2-14-04-01 Das ist nicht dein Schlüssel, das ist {{c1::meiner::mine · nominative (Schlüssel, m.)}}. ‖ That's not your key, it's mine.
+A2-11-010 A2-14-04-02 Ist das {{c1::deins::yours (du) · nominative (Handy, n.)}}? ‖ Is this yours?
+A2-11-011 A2-14-04-03 Mein Auto ist klein, {{c1::ihres::hers · nominative (Auto, n.)}} ist größer. ‖ My car is small; hers is bigger.
+A2-11-012 A2-14-05-01 Kennst du den Mann? – Nein, {{c1::den::him (demonstrative) · accusative (Mann, m.)}} kenne ich nicht. ‖ Do you know that man? — No, I don't know him.
+A2-11-013 A2-14-05-02 Die neue Kollegin? {{c1::Die::she (demonstrative) · nominative}} ist sehr nett. ‖ The new colleague? She's really nice.
+A2-11-014 A2-14-05-03 Mit {{c1::dem::him (demonstrative) · dative (Mann, m.)}} rede ich nicht mehr. ‖ I'm not talking to him any more.
+## A2::12 Besitz: Annas, von, wessen
+A2-12-001 A2-12-13-01 Das ist {{c1::Annas::Anna · possessive (name + -s)}} Auto. ‖ That's Anna's car.
+A2-12-002 A2-12-13-02 Das ist das Auto {{c1::von::of (spoken, + dative)}} meinem Bruder. ‖ That's my brother's car.
+A2-12-003 A2-12-13-03 {{c1::Wessen::whose}} Tasche ist das? ‖ Whose bag is that?
+A2-12-004 A2-12-13-04 Das ist das Haus {{c1::meiner::my · genitive plural (die Eltern)}} Eltern. ‖ That's my parents' house.
+## A2::13 werden
+A2-13-001 A2-13-14-01 (A woman speaking) Ich {{c1::werde::werden · ich}} Lehrerin. ‖ I'm going to be a teacher.
+A2-13-002 A2-13-14-02 Es {{c1::wird::werden · es}} schon dunkel. ‖ It's already getting dark.
+A2-13-003 A2-13-14-03 (To a friend) Was {{c1::wirst::werden · du}} du nach der Schule machen? ‖ What will you do after school?
+A2-13-004 A2-13-14-04 Er {{c1::wurde::werden · past, er}} plötzlich krank. ‖ He suddenly fell ill.
+## A2::14 Genus nach Endung und Bedeutung; weitere Plurale
+A2-14-001 A2-14-01-01 {{c1::Die::the · nominative (-heit)}} Freiheit ist wichtig. ‖ Freedom is important.
+A2-14-002 A2-14-01-02 {{c1::Das::the · nominative (-um)}} Museum ist montags geschlossen. ‖ The museum is closed on Mondays.
+A2-14-003 A2-14-01-03 {{c1::Der::the · nominative (-ling)}} Frühling kommt bald. ‖ Spring will soon be here.
+A2-14-004 A2-14-01-04 {{c1::Die::the · nominative (-tät)}} Universität ist sehr groß. ‖ The university is very big.
+A2-14-005 A2-14-01-05 {{c1::Der::the · nominative (-ismus)}} Tourismus wächst. ‖ Tourism is growing.
+A2-14-006 A2-14-01-06 {{c1::Das::the · nominative (-ment)}} Dokument fehlt noch. ‖ The document is still missing.
+A2-14-007 A2-14-01-07 {{c1::Die::the · nominative (-ion)}} Situation ist schwierig. ‖ The situation is difficult.
+A2-14-008 A2-14-02-01 {{c1::Das::the · nominative (a metal)}} Gold ist teuer geworden. ‖ Gold has got expensive.
+A2-14-009 A2-14-02-02 Ich habe in Mathe {{c1::eine::a · accusative (a number as a noun: Eins)}} Eins bekommen. ‖ I got an A (a 1) in maths.
+A2-14-010 A2-14-02-03 {{c1::Das::the · nominative (diminutive -chen)}} Kätzchen schläft. ‖ The kitten is asleep.
+A2-14-011 A2-14-02-04 Wir wohnen in einem kleinen {{c1::Häuschen::Haus · diminutive (-chen)}}. ‖ We live in a little cottage.
+A2-14-012 A2-14-03-01 Meine {{c1::Töchter::Tochter · plural}} studieren beide. ‖ My daughters are both at university.
+A2-14-013 A2-14-03-02 Im Winter sind die {{c1::Nächte::Nacht · plural}} lang. ‖ In winter the nights are long.
+A2-14-014 A2-14-03-03 Wir haben zwei {{c1::Gärten::Garten · plural}}. ‖ We have two gardens.
+A2-14-015 A2-14-03-04 In der Stadt gibt es drei {{c1::Kinos::Kino · plural}}. ‖ There are three cinemas in town.
+## B1::01 Verben mit Präposition; da- und wo-Wörter
+B1-01-001 B1-01-01-01 Ich warte {{c1::auf::for (warten … + accusative)}} den Bus. ‖ I'm waiting for the bus.
+B1-01-002 B1-01-01-02 Ich denke oft {{c1::an::about (denken … + accusative)}} dich. ‖ I often think about you.
+B1-01-003 B1-01-01-03 Er interessiert sich {{c1::für::in (sich interessieren … + accusative)}} Politik. ‖ He's interested in politics.
+B1-01-004 B1-01-01-04 Ich freue mich {{c1::auf::looking forward (sich freuen … + accusative)}} den Urlaub.<br>Ich freue mich {{c2::über::glad about (sich freuen … + accusative)}} das Geschenk. ‖ I'm looking forward to the holiday. / I'm pleased with the present.
+B1-01-005 B1-01-01-05 Sie hat Angst {{c1::vor::of (Angst haben … + dative)}} Hunden. ‖ She's afraid of dogs.
+B1-01-006 B1-01-01-06 Ich ärgere mich {{c1::über::about (sich ärgern … + accusative)}} den Lärm. ‖ The noise is annoying me.
+B1-01-007 B1-01-01-07 Wer kümmert sich {{c1::um::(sich kümmern … = look after)}} die Kinder? ‖ Who's looking after the children?
+B1-01-008 B1-01-01-08 Er träumt {{c1::von::of (träumen … + dative)}} einem Haus am Meer. ‖ He dreams of a house by the sea.
+B1-01-009 B1-01-02-01 {{c1::Worauf::what (warten auf …?)}} wartest du? ‖ What are you waiting for?
+B1-01-010 B1-01-02-02 Denkst du an die Prüfung? – Ja, ich denke {{c1::daran::of it (an + it)}}. ‖ Are you thinking about the exam? — Yes, I am.
+B1-01-011 B1-01-02-03 {{c1::Wofür::what … in (sich interessieren …?)}} interessierst du dich? ‖ What are you interested in?
+B1-01-012 B1-01-02-04 {{c1::Worauf::worauf or auf wen?}} wartest du? – Auf den Bus.<br>{{c2::Auf wen::worauf or auf wen?}} wartest du? – Auf meine Schwester. ‖ What are you waiting for? — The bus. / Who are you waiting for? — My sister.
+B1-01-013 B1-01-02-05 Ich freue mich {{c1::darauf::to it (da-compound, points forward)}}, dich zu sehen. ‖ I'm looking forward to seeing you.
+## B1::02 Infinitiv mit und ohne zu; um … zu und damit
+B1-02-001 B1-02-03-01 Ich habe keine Lust, heute {{c1::zu::to (infinitive marker)}} kochen. ‖ I don't feel like cooking today.
+B1-02-002 B1-02-03-02 Es ist schwer, Deutsch {{c1::zu lernen::lernen · zu-infinitive}}. ‖ Learning German is hard.
+B1-02-003 B1-02-03-03 Vergiss nicht, mich {{c1::anzurufen::anrufen · zu-infinitive}}! ‖ Don't forget to call me!
+B1-02-004 B1-02-03-04 Ich versuche, früh {{c1::aufzustehen::aufstehen · zu-infinitive}}. ‖ I try to get up early.
+B1-02-005 B1-02-03-05 Du brauchst nicht {{c1::zu::to (brauchen nicht … = don't need to)}} kommen. ‖ You don't need to come.
+B1-02-006 B1-02-03-06 Er ging, {{c1::ohne::without (… + zu-infinitive)}} etwas zu sagen. ‖ He left without saying anything.
+B1-02-007 B1-02-03-07 {{c1::Statt::instead of (… + zu-infinitive)}} zu lernen, sieht er fern. ‖ Instead of studying, he's watching TV.
+B1-02-008 B1-02-04-01 Ich lerne Deutsch, {{c1::um::um or damit?}} in Berlin zu arbeiten.<br>Ich spreche langsam, {{c2::damit::um or damit?}} du mich verstehst. ‖ I'm learning German in order to work in Berlin. / I'm speaking slowly so that you understand me.
+B1-02-009 B1-15-05-01 Ich höre ihn im Bad {{c1::singen::sing · infinitive (hören + …)}}. ‖ I can hear him singing in the bathroom.
+B1-02-010 B1-15-05-02 Wir gehen heute Nachmittag {{c1::schwimmen::swim · infinitive (gehen + …)}}. ‖ We're going swimming this afternoon.
+B1-02-011 B1-15-05-03 Bitte bleiben Sie {{c1::sitzen::sit · infinitive (bleiben + …)}}. ‖ Please remain seated.
+B1-02-012 B1-15-05-04 Ich habe ihn kommen {{c1::sehen::see · double infinitive (habe … kommen …)}}. ‖ I saw him coming.
+## B1::03 obwohl, trotzdem, trotz; weil und deshalb; aber und sondern; da, sonst, also
+B1-03-001 B1-03-05-01 {{c1::Obwohl::although (verb at the end)}} es regnet, gehen wir spazieren. ‖ Although it's raining, we're going for a walk.
+B1-03-002 B1-03-05-02 Es regnet. {{c1::Trotzdem::nevertheless (verb follows)}} gehen wir spazieren. ‖ It's raining. We're going for a walk anyway.
+B1-03-003 B1-03-05-03 {{c1::Trotz::despite (+ genitive)}} des Regens gehen wir spazieren. ‖ Despite the rain, we're going for a walk.
+B1-03-004 B1-03-05-04 Ich bin müde, {{c1::deshalb::that's why (verb follows)}} gehe ich ins Bett. ‖ I'm tired, so I'm going to bed.
+B1-03-005 B1-03-05-05 Ich gehe ins Bett, {{c1::weil::weil or deshalb?}} ich müde bin.<br>Ich bin müde, {{c2::deshalb::weil or deshalb?}} gehe ich ins Bett. ‖ I'm going to bed because I'm tired. / I'm tired, so I'm going to bed.
+B1-03-006 B1-03-06-01 Er ist nicht dumm, {{c1::sondern::aber or sondern?}} faul.<br>Er ist klug, {{c2::aber::aber or sondern?}} faul. ‖ He's not stupid — he's lazy. / He's clever but lazy.
+B1-03-007 B1-15-14-01 {{c1::Da::since; as (causal, verb at the end)}} ich krank war, blieb ich zu Hause. ‖ As I was ill, I stayed at home.
+B1-03-008 B1-15-14-02 {{c1::Solange::as long as}} es regnet, bleiben wir drinnen. ‖ As long as it's raining, we'll stay inside.
+B1-03-009 B1-15-14-03 Beeil dich, {{c1::sonst::otherwise}} kommst du zu spät. ‖ Hurry up, or you'll be late.
+B1-03-010 B1-15-14-04 Es regnet, {{c1::also::so (therefore)}} nehme ich den Schirm. ‖ It's raining, so I'll take the umbrella.
+## B1::04 Relativsätze
+B1-04-001 B1-04-07-01 Der Mann, {{c1::der::who · nominative (Mann, m.)}} dort steht, ist mein Chef. ‖ The man standing over there is my boss.
+B1-04-002 B1-04-07-02 Die Frau, {{c1::die::who · nominative (Frau, f.)}} hier wohnt, ist Ärztin. ‖ The woman who lives here is a doctor.
+B1-04-003 B1-04-07-03 Das Buch, {{c1::das::which · accusative (Buch, n.)}} ich lese, ist spannend. ‖ The book I'm reading is gripping.
+B1-04-004 B1-04-07-04 Der Film, {{c1::den::which · accusative (Film, m.)}} wir gesehen haben, war toll. ‖ The film we saw was great.
+B1-04-005 B1-04-07-05 Der Freund, {{c1::dem::who · dative (Freund, m.; helfen)}} ich helfe, heißt Tom. ‖ The friend I'm helping is called Tom.
+B1-04-006 B1-04-07-06 Die Leute, {{c1::denen::who · dative plural (Leute; gehören)}} das Haus gehört, wohnen in Wien. ‖ The people the house belongs to live in Vienna.
+B1-04-007 B1-04-07-07 Die Frau, {{c1::deren::whose (Frau, f.)}} Sohn hier arbeitet, ist sehr nett. ‖ The woman whose son works here is very nice.
+B1-04-008 B1-04-07-08 Der Mann, {{c1::dessen::whose (Mann, m.)}} Auto kaputt ist, wartet draußen. ‖ The man whose car has broken down is waiting outside.
+B1-04-009 B1-04-07-09 Die Stadt, in {{c1::der::which · dative (Stadt, f.; in …)}} ich wohne, ist klein. ‖ The town I live in is small.
+B1-04-010 B1-04-07-10 Das ist alles, {{c1::was::that (after alles)}} ich weiß. ‖ That's all I know.
+B1-04-011 B1-04-07-11 Hamburg ist die Stadt, {{c1::wo::where (place)}} ich geboren bin. ‖ Hamburg is the city where I was born.
+B1-04-012 NEW Das sind die Freunde, mit {{c1::denen::who · dative plural (Freunde; mit …)}} ich in Urlaub fahre. ‖ These are the friends I'm going on holiday with.
+## B1::05 Präteritum: Erzählen und starke Verben
+B1-05-001 B1-05-08-01 Er {{c1::ging::gehen · Präteritum, er}} langsam nach Hause. ‖ He walked home slowly.
+B1-05-002 B1-05-08-02 Sie {{c1::kam::kommen · Präteritum, sie (she)}} zu spät. ‖ She arrived late.
+B1-05-003 B1-05-08-03 Wir {{c1::sahen::sehen · Präteritum, wir}} einen Film. ‖ We watched a film.
+B1-05-004 B1-05-08-04 Ich {{c1::fand::finden · Präteritum, ich}} den Schlüssel nicht. ‖ I couldn't find the key.
+B1-05-005 B1-05-08-05 Er {{c1::nahm::nehmen · Präteritum, er}} seine Tasche und {{c2::verließ::verlassen · Präteritum, er}} das Haus. ‖ He took his bag and left the house.
+B1-05-006 B1-05-08-06 Sie {{c1::sprach::sprechen · Präteritum, sie (she)}} sehr leise. ‖ She spoke very quietly.
+B1-05-007 B1-05-08-07 Der Zug {{c1::fuhr::fahren · Präteritum, er}} pünktlich ab. ‖ The train left on time.
+B1-05-008 B1-05-08-08 Wir {{c1::saßen::sitzen · Präteritum, wir}} im Garten. ‖ We were sitting in the garden.
+B1-05-009 B1-05-08-09 Ich {{c1::rief::anrufen · Präteritum, ich}} ihn sofort an. ‖ I rang him straight away.
+B1-05-010 B1-05-08-10 Sie {{c1::arbeitete::arbeiten · Präteritum, sie (she)}} zehn Jahre in Wien. ‖ She worked in Vienna for ten years.
+B1-05-011 B1-05-08-11 Es {{c1::regnete::regnen · Präteritum, es}} den ganzen Tag. ‖ It rained all day.
+B1-05-012 B1-05-08-12 Ich {{c1::dachte::denken · Präteritum, ich}}, du kommst nicht. ‖ I thought you weren't coming.
+B1-05-013 B1-05-08-13 Er {{c1::brachte::bringen · Präteritum, er}} Blumen mit. ‖ He brought flowers.
+B1-05-014 B1-15-01-01 Er {{c1::half::helfen · Präteritum, er}} mir gestern.<br>Er hat mir gestern {{c2::geholfen::helfen · past participle}}. ‖ He helped me yesterday.
+B1-05-015 B1-15-01-02 Wir {{c1::flogen::fliegen · Präteritum, wir}} nach Rom.<br>Wir sind nach Rom {{c2::geflogen::fliegen · past participle}}. ‖ We flew to Rome.
+B1-05-016 B1-15-01-03 Sie {{c1::schrieb::schreiben · Präteritum, sie (she)}} einen langen Brief.<br>Sie hat einen langen Brief {{c2::geschrieben::schreiben · past participle}}. ‖ She wrote a long letter.
+B1-05-017 B1-15-01-04 Ich {{c1::blieb::bleiben · Präteritum, ich}} den ganzen Tag im Bett.<br>Ich bin den ganzen Tag im Bett {{c2::geblieben::bleiben · past participle}}. ‖ I stayed in bed all day.
+B1-05-018 B1-15-01-05 Der Preis {{c1::stieg::steigen · Präteritum, er}} stark.<br>Der Preis ist stark {{c2::gestiegen::steigen · past participle}}. ‖ The price rose sharply.
+B1-05-019 B1-15-01-06 Das Buch {{c1::lag::liegen · Präteritum, es}} auf dem Tisch.<br>Das Buch hat auf dem Tisch {{c2::gelegen::liegen · past participle}}. ‖ The book was lying on the table.
+B1-05-020 B1-15-01-07 Sie {{c1::trug::tragen · Präteritum, sie (she)}} ein rotes Kleid.<br>Sie hat ein rotes Kleid {{c2::getragen::tragen · past participle}}. ‖ She was wearing a red dress.
+B1-05-021 B1-15-01-08 Wir {{c1::zogen::ziehen · Präteritum, wir}} nach Hamburg.<br>Wir sind nach Hamburg {{c2::gezogen::ziehen · past participle}}. ‖ We moved to Hamburg.
+B1-05-022 B1-15-01-09 Er {{c1::verlor::verlieren · Präteritum, er}} seinen Schlüssel.<br>Er hat seinen Schlüssel {{c2::verloren::verlieren · past participle}}. ‖ He lost his key.
+B1-05-023 B1-15-01-10 Sein Opa {{c1::starb::sterben · Präteritum, er}} 2010.<br>Sein Opa ist 2010 {{c2::gestorben::sterben · past participle}}. ‖ His grandad died in 2010.
+B1-05-024 B1-15-01-11 Das Kind {{c1::fiel::fallen · Präteritum, es}} vom Fahrrad.<br>Das Kind ist vom Fahrrad {{c2::gefallen::fallen · past participle}}. ‖ The child fell off the bike.
+B1-05-025 B1-15-01-12 Der Zug {{c1::hielt::halten · Präteritum, er}} in Köln.<br>Der Zug hat in Köln {{c2::gehalten::halten · past participle}}. ‖ The train stopped in Cologne.
+B1-05-026 B1-15-01-13 Sie {{c1::lief::laufen · Präteritum, sie (she)}} schnell nach Hause.<br>Sie ist schnell nach Hause {{c2::gelaufen::laufen · past participle}}. ‖ She ran home quickly.
+B1-05-027 B1-15-01-14 Ich {{c1::traf::treffen · Präteritum, ich}} sie im Café.<br>Ich habe sie im Café {{c2::getroffen::treffen · past participle}}. ‖ I met her in the café.
+B1-05-028 B1-15-01-15 Er {{c1::bat::bitten · Präteritum, er}} mich um Hilfe.<br>Er hat mich um Hilfe {{c2::gebeten::bitten · past participle}}. ‖ He asked me for help.
+B1-05-029 B1-15-01-16 Wir {{c1::aßen::essen · Präteritum, wir}} im Garten.<br>Wir haben im Garten {{c2::gegessen::essen · past participle}}. ‖ We ate in the garden.
+B1-05-030 B1-15-01-17 Ich {{c1::vergaß::vergessen · Präteritum, ich}} seinen Namen.<br>Ich habe seinen Namen {{c2::vergessen::forget · past participle}}. ‖ I forgot his name.
+B1-05-031 B1-15-01-18 Der Film {{c1::begann::beginnen · Präteritum, er}} um acht.<br>Der Film hat um acht {{c2::begonnen::beginnen · past participle}}. ‖ The film started at eight.
+B1-05-032 B1-15-01-19 Wer {{c1::gewann::gewinnen · Präteritum, er}} das Spiel?<br>Wer hat das Spiel {{c2::gewonnen::gewinnen · past participle}}? ‖ Who won the match?
+B1-05-033 B1-15-01-20 Er {{c1::warf::werfen · Präteritum, er}} den Ball über den Zaun.<br>Er hat den Ball über den Zaun {{c2::geworfen::werfen · past participle}}. ‖ He threw the ball over the fence.
+B1-05-034 B1-15-01-21 Sie {{c1::sang::singen · Präteritum, sie (she)}} ein altes Lied.<br>Sie hat ein altes Lied {{c2::gesungen::singen · past participle}}. ‖ She sang an old song.
+B1-05-035 B1-15-01-22 Er {{c1::schloss::schließen · Präteritum, er}} leise die Tür.<br>Er hat leise die Tür {{c2::geschlossen::schließen · past participle}}. ‖ He quietly closed the door.
+B1-05-036 B1-15-01-23 Die Stadt {{c1::wuchs::wachsen · Präteritum, sie (it)}} schnell.<br>Die Stadt ist schnell {{c2::gewachsen::wachsen · past participle}}. ‖ The town grew quickly.
+B1-05-037 B1-15-01-24 Sie {{c1::bot::anbieten · Präteritum, sie (she)}} mir Kaffee an.<br>Sie hat mir Kaffee {{c2::angeboten::anbieten · past participle}}. ‖ She offered me coffee.
+B1-05-038 B1-15-02-01 Ich {{c1::kannte::kennen · Präteritum, ich}} ihn damals noch nicht. ‖ I didn't know him back then.
+B1-05-039 B1-15-02-02 Wie {{c1::nannten::nennen · Präteritum, sie (they)}} sie das Kind? ‖ What did they call the child?
+B1-05-040 B1-15-02-03 Er {{c1::rannte::rennen · Präteritum, er}} zum Bus. ‖ He ran for the bus.
+## B1::06 haben oder sein; Doppelinfinitiv und Verbstellung
+B1-06-001 B1-15-03-01 Ich {{c1::bin::bin or habe?}} nach Rom gefahren.<br>Ich {{c2::habe::bin or habe?}} das Auto in die Garage gefahren. ‖ I drove to Rome. / I drove the car into the garage.
+B1-06-002 B1-15-03-02 Er {{c1::ist::ist or hat?}} nach Köln gezogen.<br>Er {{c2::hat::ist or hat?}} am Seil gezogen. ‖ He moved to Cologne. / He pulled on the rope.
+B1-06-003 B1-15-03-03 Das Eis {{c1::ist::ist or hat?}} gebrochen.<br>Er {{c2::hat::ist or hat?}} sich das Bein gebrochen. ‖ The ice has broken. / He broke his leg.
+B1-06-004 B1-15-04-01 Ich habe gestern lange arbeiten {{c1::müssen::must · double infinitive (habe … arbeiten …)}}. ‖ I had to work late yesterday.
+B1-06-005 B1-15-04-02 Sie hat leider nicht kommen {{c1::können::can · double infinitive}}. ‖ Unfortunately she couldn't come.
+B1-06-006 B1-15-04-03 Ich habe es so {{c1::gewollt::wollen · past participle (no other verb)}}. ‖ That's how I wanted it.
+B1-06-007 B1-15-06-01 Ich warte, weil das Formular noch unterschrieben werden {{c1::muss::müssen · es (verb at the very end)}}. ‖ I'm waiting because the form still has to be signed.
+B1-06-008 B1-15-06-02 Heute freut {{c1::sich::reflexive · er (before a noun subject)}} mein Bruder besonders. ‖ My brother is especially happy today.
+## B1::07 Passiv
+B1-07-001 B1-06-09-01 Das Haus {{c1::wird::werden · passive, es}} gerade renoviert. ‖ The house is being renovated.
+B1-07-002 B1-06-09-02 Die Briefe werden morgen {{c1::verschickt::verschicken · past participle}}. ‖ The letters will be sent tomorrow.
+B1-07-003 B1-06-09-03 Das Museum {{c1::wurde::werden · passive past, es}} 1900 gebaut. ‖ The museum was built in 1900.
+B1-07-004 B1-06-09-04 Das Auto muss repariert {{c1::werden::passive auxiliary · infinitive (after a modal)}}. ‖ The car needs to be repaired.
+B1-07-005 B1-06-09-05 Das Bild wurde {{c1::von::by (agent, + dative)}} einem Kind gemalt. ‖ The picture was painted by a child.
+B1-07-006 B1-06-09-06 Der Dieb ist gestern verhaftet {{c1::worden::passive Perfekt (ist … …)}}. ‖ The thief was arrested yesterday.
+B1-07-007 B1-06-09-07 Die Tür {{c1::wird::wird or ist?}} um 8 Uhr geschlossen.<br>Die Tür {{c2::ist::wird or ist?}} jetzt geschlossen. ‖ The door is closed (locked up) at 8. / The door is closed now.
+## B1::08 Genitiv
+B1-08-001 B1-07-10-01 Das ist das Auto {{c1::des::the · genitive (Lehrer, m.)}} Lehrers. ‖ That's the teacher's car.
+B1-08-002 B1-07-10-02 Das Ende des {{c1::Films::Film · genitive}} war traurig. ‖ The end of the film was sad.
+B1-08-003 B1-07-10-03 Die Farbe {{c1::der::the · genitive (Tasche, f.)}} Tasche gefällt mir. ‖ I like the colour of the bag.
+B1-08-004 B1-07-10-04 {{c1::Wegen::because of (+ genitive)}} des Wetters bleiben wir zu Hause. ‖ Because of the weather, we're staying at home.
+B1-08-005 B1-07-10-05 {{c1::Während::during (+ genitive)}} des Essens klingelte das Telefon. ‖ During the meal the phone rang.
+B1-08-006 B1-07-10-06 {{c1::Statt::instead of (+ genitive)}} eines Briefes schrieb sie eine E-Mail. ‖ Instead of a letter, she wrote an email.
+B1-08-007 B1-07-10-07 Das ist die Wohnung meines {{c1::alten::alt · genitive (Freund, m.; meines …)}} Freundes. ‖ That's my old friend's flat.
+B1-08-008 B1-07-10-08 (Colloquial) Wegen {{c1::dem::the · dative (spoken; Wetter, n.)}} Wetter bleiben wir zu Hause. ‖ Because of the weather we're staying in.
+## B1::09 Konjunktiv II: Irreales, Vergangenheit, als ob
+B1-09-001 B1-08-11-01 Wenn ich Zeit {{c1::hätte::haben · Konjunktiv II, ich}}, würde ich mehr lesen. ‖ If I had time, I'd read more.
+B1-09-002 B1-08-11-02 Wenn ich reich {{c1::wäre::sein · Konjunktiv II, ich}}, würde ich um die Welt reisen. ‖ If I were rich, I'd travel the world.
+B1-09-003 B1-08-11-03 An deiner Stelle {{c1::würde::would · ich}} ich das nicht machen. ‖ If I were you, I wouldn't do that.
+B1-09-004 B1-08-11-04 Ich {{c1::wünschte::wish · Konjunktiv II, ich}}, ich könnte fliegen. ‖ I wish I could fly.
+B1-09-005 B1-08-11-05 Wenn es nicht so teuer wäre, {{c1::könnten::können · Konjunktiv II, wir}} wir es kaufen. ‖ If it weren't so expensive, we could buy it.
+B1-09-006 B1-08-11-06 Wenn du früher gekommen {{c1::wärst::sein · Konjunktiv II (past), du}}, hättest du ihn gesehen. ‖ If you'd come earlier, you'd have seen him.
+B1-09-007 B1-08-11-07 Ich {{c1::hätte::haben · Konjunktiv II (past), ich}} das nicht gemacht. ‖ I wouldn't have done that.
+B1-09-008 B1-08-11-08 Er tut so, {{c1::als ob::as if (verb at the end)}} er alles wüsste. ‖ He acts as if he knew everything.
+## B1::10 n-Deklination
+B1-10-001 B1-09-12-01 Ich kenne den {{c1::Kollegen::Kollege · accusative}} nicht. ‖ I don't know the colleague.
+B1-10-002 B1-09-12-02 Ich habe mit dem {{c1::Studenten::Student · dative}} gesprochen. ‖ I spoke to the student.
+B1-10-003 B1-09-12-03 Ich schreibe {{c1::Herrn::Herr · dative}} Müller eine E-Mail. ‖ I'm writing an email to Mr Müller.
+B1-10-004 B1-09-12-04 Kennst du den {{c1::Jungen::Junge · accusative}} da? ‖ Do you know that boy?
+B1-10-005 B1-09-12-05 Wie ist der Name des {{c1::Kunden::Kunde · genitive}}? ‖ What's the customer's name?
+B1-10-006 B1-09-12-06 Ich frage meinen {{c1::Nachbarn::Nachbar · accusative}}. ‖ I'll ask my neighbour.
+## B1::11 Zweiteilige Konjunktionen
+B1-11-001 B1-10-13-01 Ich spreche {{c1::sowohl::both (… als auch)}} Englisch als auch Spanisch. ‖ I speak both English and Spanish.
+B1-11-002 B1-10-13-02 Ich habe {{c1::weder::neither (… noch)}} Zeit noch Geld. ‖ I have neither time nor money.
+B1-11-003 B1-10-13-03 {{c1::Entweder::either (… oder)}} du kommst mit, oder du bleibst hier. ‖ Either you come along or you stay here.
+B1-11-004 B1-10-13-04 Sie ist {{c1::nicht nur::not only (… sondern auch)}} klug, sondern auch nett. ‖ She's not only clever but also nice.
+B1-11-005 B1-10-13-05 {{c1::Je::the more (first part, + comparative)}} länger ich warte, desto nervöser werde ich. ‖ The longer I wait, the more nervous I get.
+B1-11-006 B1-10-13-06 Je mehr du übst, {{c1::desto::the more (second part)}} besser wirst du. ‖ The more you practise, the better you get.
+B1-11-007 B1-10-13-07 Das Hotel war {{c1::zwar::admittedly (… aber)}} teuer, aber sehr schön. ‖ The hotel was admittedly expensive, but very nice.
+## B1::12 Temporalsätze und Plusquamperfekt
+B1-12-001 B1-11-14-01 {{c1::Nachdem::after (+ Plusquamperfekt)}} ich gegessen hatte, ging ich spazieren. ‖ After I had eaten, I went for a walk.
+B1-12-002 B1-11-14-02 Nachdem er angekommen {{c1::war::sein · Plusquamperfekt auxiliary, er}}, rief er uns an. ‖ After he had arrived, he rang us.
+B1-12-003 B1-11-14-03 Ich {{c1::hatte::haben · Plusquamperfekt auxiliary, ich}} den Film schon gesehen. ‖ I had already seen the film.
+B1-12-004 B1-11-14-04 {{c1::Bevor::before (conjunction)}} du gehst, mach bitte das Licht aus. ‖ Before you go, please turn the light off.
+B1-12-005 B1-11-14-05 {{c1::Während::while (conjunction)}} ich koche, deckst du den Tisch. ‖ While I cook, you lay the table.
+B1-12-006 B1-11-14-06 Warte, {{c1::bis::until (conjunction)}} ich zurückkomme. ‖ Wait until I come back.
+B1-12-007 B1-11-14-07 {{c1::Seitdem::since (conjunction)}} er in Berlin wohnt, ist er glücklicher. ‖ Since he's been living in Berlin, he's happier.
+B1-12-008 B1-11-14-08 Ruf mich an, {{c1::sobald::as soon as}} du ankommst. ‖ Call me as soon as you arrive.
+B1-12-009 NEW {{c1::Vor::vor or bevor?}} dem Essen wasche ich mir die Hände.<br>{{c1::Bevor::vor or bevor?}} ich esse, wasche ich mir die Hände. ‖ Before the meal I wash my hands. / Before I eat, I wash my hands.
+## B1::13 lassen
+B1-13-001 B1-12-15-01 Ich {{c1::lasse::lassen · ich}} mein Auto reparieren. ‖ I'm having my car repaired.
+B1-13-002 B1-12-15-02 Ich lasse mir die Haare {{c1::schneiden::cut · infinitive (lassen + …)}}. ‖ I'm having my hair cut.
+B1-13-003 B1-12-15-03 {{c1::Lass::lassen · imperative, du}} mich in Ruhe! ‖ Leave me alone!
+B1-13-004 B1-12-15-04 Er hat sein Handy zu Hause {{c1::gelassen::lassen · past participle (leave behind)}}. ‖ He left his phone at home.
+B1-13-005 B1-12-15-05 Wir haben das Auto reparieren {{c1::lassen::have done · Perfekt form (… + infinitive)}}. ‖ We had the car repaired.
+## B1::14 Adjektive: Nominalisierung, Endungen nach dieser, Steigerung
+B1-14-001 B1-13-16-01 Mein Mann ist {{c1::Deutscher::German man (no article)}}. ‖ My husband is German.
+B1-14-002 B1-13-16-02 Ich habe einen {{c1::Bekannten::bekannt · noun, accusative (einen …, m.)}} getroffen. ‖ I met an acquaintance.
+B1-14-003 B1-13-16-03 Gibt es etwas {{c1::Neues::neu · noun (etwas …)}}? ‖ Is there any news?
+B1-14-004 B1-13-16-04 – Was gibt's? – Nichts {{c1::Besonderes::special · noun (nichts …)}}. ‖ — What's up? — Nothing much.
+B1-14-005 B1-13-16-05 Die {{c1::Erwachsenen::erwachsen · noun, plural (die …)}} zahlen mehr. ‖ Adults pay more.
+B1-14-006 B1-13-16-06 Alles {{c1::Gute::gut · noun (alles …)}} zum Geburtstag! ‖ Happy birthday!
+B1-14-007 B1-15-07-01 Ich nehme diesen {{c1::alten::alt · accusative (Mantel, m.; diesen …)}} Mantel. ‖ I'll take this old coat.
+B1-14-008 B1-15-07-02 {{c1::Welches::which · accusative (Handy, n.)}} neue Handy hast du gekauft? ‖ Which new phone did you buy?
+B1-14-009 B1-15-07-03 Manche {{c1::jungen::jung · nominative plural (manche …)}} Leute lesen keine Zeitung. ‖ Some young people don't read newspapers.
+B1-14-010 B1-15-08-01 Er fährt ein {{c1::teures::teuer · accusative (Auto, n.; ein …)}} Auto. ‖ He drives an expensive car.
+B1-14-011 B1-15-08-02 Im {{c1::dunklen::dunkel · dative (Zimmer, n.; im …)}} Zimmer sah ich nichts. ‖ I couldn't see anything in the dark room.
+B1-14-012 B1-15-08-03 Das ist ein sehr {{c1::hoher::hoch · nominative (Berg, m.; ein …)}} Berg. ‖ That's a very high mountain.
+B1-14-013 B1-15-08-04 Ich mag {{c1::saure::sauer · accusative plural (no article)}} Gurken. ‖ I like pickled gherkins.
+B1-14-014 B1-15-09-01 Ich brauche ein {{c1::schnelleres::schnell · comparative, accusative (Auto, n.; ein …)}} Auto. ‖ I need a faster car.
+B1-14-015 B1-15-09-02 Wir wohnen jetzt im {{c1::größeren::groß · comparative, dative (Haus, n.; im …)}} Haus. ‖ We now live in the bigger house.
+B1-14-016 B1-15-09-03 Er ist mein {{c1::bester::gut · superlative, nominative (Freund, m.; mein …)}} Freund. ‖ He's my best friend.
+B1-14-017 B1-15-09-04 Wo ist der {{c1::nächste::nah · superlative (der …)}} Bahnhof? ‖ Where's the nearest station?
+B1-14-018 B1-15-09-05 Es wird {{c1::immer::more and more (… besser)}} besser. ‖ It's getting better and better.
+B1-14-019 B1-15-09-06 Komm bitte {{c1::möglichst::as … as possible (… schnell)}} schnell. ‖ Please come as quickly as possible.
+B1-14-020 B1-15-10-01 Sie trägt ein {{c1::lila::purple (indeclinable)}} Kleid. ‖ She's wearing a purple dress.
+B1-14-021 B1-15-10-02 Wir treffen uns am {{c1::Berliner::Berlin · adjective (never declines)}} Hauptbahnhof. ‖ We're meeting at Berlin Central Station.
+B1-14-022 B1-15-10-03 Sie wohnt in der {{c1::Wiener::Vienna · adjective (never declines)}} Innenstadt. ‖ She lives in central Vienna.
+## B1::15 werden für Vermutungen und Versprechen
+B1-15-001 B1-14-17-01 Er ist nicht da. Er {{c1::wird::werden · er (assumption)}} wohl krank sein. ‖ He's not here. He's probably ill.
+B1-15-002 B1-14-17-02 Ich {{c1::werde::werden · ich (promise)}} dich nie vergessen. ‖ I'll never forget you.
+B1-15-003 B1-14-17-03 Keine Sorge, das {{c1::wird::werden · es (reassurance)}} schon klappen. ‖ Don't worry, it'll work out.
+## B1::16 selbst, einander, irgend-, jeder und alle; Bruchzahlen; Wortbildung
+B1-16-001 B1-15-11-01 Ich habe den Kuchen {{c1::selbst::myself (emphatic)}} gebacken. ‖ I baked the cake myself.
+B1-16-002 B1-15-11-02 Die beiden helfen {{c1::einander::each other}}. ‖ The two of them help each other.
+B1-16-003 B1-15-11-03 Wir reden oft {{c1::miteinander::with each other}}. ‖ We often talk to each other.
+B1-16-004 B1-15-12-01 {{c1::Irgendwann::some time or other}} fahre ich nach Island. ‖ Some day I'll go to Iceland.
+B1-16-005 B1-15-12-02 Hat {{c1::irgendjemand::anybody at all}} meine Brille gesehen? ‖ Has anyone seen my glasses?
+B1-16-006 B1-15-12-03 Er wohnt {{c1::irgendwo::somewhere or other}} in Bayern. ‖ He lives somewhere in Bavaria.
+B1-16-007 B1-15-13-01 {{c1::Jeder::jeder or alle?}} Schüler hat ein Buch.<br>{{c2::Alle::jeder or alle?}} Schüler haben ein Buch. ‖ Every pupil has a book. / All the pupils have a book.
+B1-16-008 B1-15-15-01 Ich habe {{c1::die Hälfte::half (noun)}} des Kuchens gegessen. ‖ I ate half the cake.
+B1-16-009 B1-15-15-02 Er wartete {{c1::anderthalb::one and a half}} Stunden. ‖ He waited an hour and a half.
+B1-16-010 B1-15-15-03 Ein {{c1::Drittel::third (fraction)}} der Leute war dagegen. ‖ A third of the people were against it.
+B1-16-011 B1-15-15-04 Ich war schon {{c1::dreimal::three times (one word)}} in Wien. ‖ I've been to Vienna three times.
+B1-16-012 B1-15-15-05 Das ist {{c1::doppelt::twice (… so groß)}} so groß. ‖ That's twice as big.
+B1-16-013 B1-15-15-06 Es ist das {{c1::erste::1st · nominative (das … Mal)}} Mal, dass ich hier bin. ‖ It's the first time I've been here.
+B1-16-014 B1-15-15-07 {{c1::Erstens::firstly}} ist es zu teuer, zweitens zu weit. ‖ Firstly it's too expensive, secondly it's too far.
+B1-16-015 B1-15-16-01 {{c1::Das::the · nominative (nominalised infinitive)}} Rauchen ist hier verboten. ‖ Smoking is forbidden here.
+B1-16-016 B1-15-16-02 Das ist mein {{c1::Arbeitszimmer::study (Arbeit + linking -s- + Zimmer)}}. ‖ This is my study.
+B1-16-017 B1-15-16-03 Morgen ist mein {{c1::Geburtstag::birthday (Geburt + linking -s- + Tag)}}. ‖ It's my birthday tomorrow.
+## B2::01 Konjunktiv I: indirekte Rede
+B2-01-001 B2-01-01-01 Der Minister sagte, er {{c1::sei::sein · Konjunktiv I, er}} nicht informiert worden. ‖ The minister said he had not been informed.
+B2-01-002 B2-01-01-02 Sie erklärte, sie {{c1::habe::haben · Konjunktiv I, sie (she)}} keine Zeit. ‖ She stated that she had no time.
+B2-01-003 B2-01-01-03 Er behauptet, er {{c1::könne::können · Konjunktiv I, er}} das beweisen. ‖ He claims he can prove it.
+B2-01-004 B2-01-01-04 Der Sprecher sagte, die Firma {{c1::werde::werden · Konjunktiv I, sie (it)}} keine Stellen streichen. ‖ The spokesman said the company would not cut any jobs.
+B2-01-005 B2-01-01-05 Laut Polizei {{c1::gebe::geben · Konjunktiv I (es …)}} es keine Verletzten. ‖ According to the police, there were no injuries.
+B2-01-006 B2-01-01-06 Die Zeugen sagten, sie {{c1::hätten::haben · reported, sie (they) — Konjunktiv I would look like the indicative}} nichts gesehen. ‖ The witnesses said they had seen nothing.
+B2-01-007 B2-01-01-07 Sie sagte, sie {{c1::sei::sein · Konjunktiv I, sie (she)}} gestern in Berlin gewesen. ‖ She said she had been in Berlin yesterday.
+## B2::02 Passiv: Ersatzformen, Dativverben, Zustand und Vorgang
+B2-02-001 B2-02-02-01 Das Problem {{c1::lässt::lassen · er (… sich lösen = can be solved)}} sich leicht lösen. ‖ The problem can easily be solved.
+B2-02-002 B2-02-02-02 Der Text ist leicht {{c1::zu verstehen::verstehen · sein + zu + infinitive}}. ‖ The text is easy to understand.
+B2-02-003 B2-02-02-03 Der Antrag ist bis Freitag {{c1::einzureichen::einreichen · sein + zu (must be done)}}. ‖ The application must be submitted by Friday.
+B2-02-004 B2-02-02-04 Das ist leider nicht {{c1::machbar::machen · -able adjective}}. ‖ Unfortunately that's not doable.
+B2-02-005 B2-02-02-05 Seine Schrift ist kaum {{c1::lesbar::lesen · -able adjective}}. ‖ His handwriting is barely legible.
+B2-02-006 B2-02-02-06 Hier {{c1::kann::können · man (passive meaning)}} man gut essen. ‖ You can eat well here.
+B2-02-007 B2-16-07-01 {{c1::Mir::ich · dative (subjectless passive)}} wurde sofort geholfen. ‖ I was helped straight away.
+B2-02-008 B2-16-07-02 Ihm {{c1::wurde::werden · passive past (no subject)}} herzlich gratuliert. ‖ He was warmly congratulated.
+B2-02-009 B2-16-07-03 Die Stadt wurde {{c1::durch::durch or von?}} ein Erdbeben zerstört.<br>Die Stadt wurde {{c2::von::durch or von?}} den Römern gegründet. ‖ The city was destroyed by an earthquake. / The city was founded by the Romans.
+B2-02-010 B2-16-08-01 Als wir ankamen, {{c1::war::war or wurde?}} die Tür schon geschlossen.<br>Um zehn Uhr {{c2::wurde::war or wurde?}} die Tür geschlossen. ‖ When we arrived, the door was already shut. / At ten o'clock the door was shut.
+## B2::03 Partizipien als Adjektive; Infinitiv Perfekt
+B2-03-001 B2-03-03-01 Weck den {{c1::schlafenden::schlafen · Partizip I, accusative (Hund, m.; den …)}} Hund nicht! ‖ Let sleeping dogs lie.
+B2-03-002 B2-03-03-02 Ich esse gern ein {{c1::gekochtes::kochen · Partizip II, accusative (Ei, n.; ein …)}} Ei zum Frühstück. ‖ I like a boiled egg for breakfast.
+B2-03-003 B2-03-03-03 Die {{c1::steigenden::steigen · Partizip I, nominative plural (die …)}} Preise machen allen Sorgen. ‖ Rising prices are worrying everyone.
+B2-03-004 B2-03-03-04 Der seit Jahren leer {{c1::stehende::stehen · Partizip I, nominative (Laden, m.; der …)}} Laden wird abgerissen. ‖ The shop, which has stood empty for years, is being demolished.
+B2-03-005 B2-03-03-05 Das ist ein schwer {{c1::zu lösendes::lösen · zu + Partizip I, nominative (Problem, n.; ein …)}} Problem. ‖ That's a problem that's hard to solve.
+B2-03-006 B2-03-03-06 Die im letzten Jahr {{c1::gebaute::bauen · Partizip II, nominative (Brücke, f.; die …)}} Brücke ist schon kaputt. ‖ The bridge built last year is already damaged.
+B2-03-007 B2-16-06-01 Er scheint es {{c1::gewusst::wissen · past participle (perfect infinitive)}} zu haben. ‖ He seems to have known.
+B2-03-008 B2-16-06-02 Sie hofft, eingeladen zu {{c1::werden::passive auxiliary · infinitive}}. ‖ She hopes to be invited.
+B2-03-009 B2-16-06-03 Ich bin froh, gekommen zu {{c1::sein::auxiliary (perfect infinitive with kommen)}}. ‖ I'm glad I came.
+## B2::04 Subjektive Modalverben: soll, muss, dürfte, will, kann
+B2-04-001 B2-04-04-01 Er {{c1::soll::is said to (hearsay) · er}} sehr reich sein. ‖ He's supposed to be very rich.
+B2-04-002 B2-04-04-02 Sie {{c1::will::claims to (her own claim) · sie}} ihn nie gesehen haben. ‖ She claims never to have seen him.
+B2-04-003 B2-04-04-03 Das Licht ist an, er {{c1::muss::must be (inference) · er}} zu Hause sein. ‖ The light's on — he must be at home.
+B2-04-004 B2-04-04-04 Das {{c1::dürfte::is probably (cautious estimate) · es}} etwa zwei Stunden dauern. ‖ That'll probably take about two hours.
+B2-04-005 B2-04-04-05 Das {{c1::kann::could be · es}} nicht stimmen. ‖ That can't be right.
+B2-04-006 B2-04-04-06 Der Täter soll {{c1::geflohen::fliehen · past participle (perfect infinitive)}} sein. ‖ The culprit is said to have fled.
+## B2::05 Modalpartikeln
+B2-05-001 B2-05-05-01 Das weißt du {{c1::ja::particle: as we both know}}. ‖ Well, you know that.
+B2-05-002 B2-05-05-02 Komm {{c1::doch::particle: urging (go on!)}} mit! ‖ Why don't you come along!
+B2-05-003 B2-05-05-03 Kannst du {{c1::mal::particle: softens a request}} kurz helfen? ‖ Could you give me a hand for a sec?
+B2-05-004 B2-05-05-04 Was ist {{c1::denn::particle: question (interest, surprise)}} los? ‖ What's going on, then?
+B2-05-005 B2-05-05-05 Das ist {{c1::eben::particle: that's just how it is}} so. ‖ That's just the way it is.
+B2-05-006 B2-05-05-06 (Southern Germany / Austria) Das ist {{c1::halt::particle: that's just how it is (southern)}} so. ‖ That's just how it is.
+B2-05-007 B2-05-05-07 Keine Sorge, das klappt {{c1::schon::particle: reassurance}}. ‖ Don't worry, it'll work out.
+B2-05-008 B2-05-05-08 Er ist {{c1::wohl::particle: probably}} noch im Büro. ‖ He's probably still at the office.
+B2-05-009 B2-16-04-01 Was machst du {{c1::eigentlich::particle: by the way; actually}} hier? ‖ What are you actually doing here?
+B2-05-010 B2-16-04-02 Komm {{c1::ruhig::particle: go ahead (reassuring)}} rein! ‖ Do come in!
+B2-05-011 B2-16-04-03 Mach das {{c1::bloß::particle: warning (just don't…)}} nicht! ‖ Don't you dare do that!
+B2-05-012 B2-16-04-04 Wenn er {{c1::nur::particle: if only}} käme! ‖ If only he would come!
+B2-05-013 B2-16-04-05 Bist du {{c1::etwa::particle: surely not? (suspicious)}} krank? ‖ You're not ill, are you?
+B2-05-014 B2-16-04-06 Das ist {{c1::aber::particle: exclamation (really)}} schön! ‖ That's really lovely!
+B2-05-015 B2-16-04-07 Hast du {{c1::auch::particle: checking (… alles?)}} alles eingepackt? ‖ You have packed everything, haven't you?
+B2-05-016 B2-16-04-08 Das war {{c1::vielleicht::particle: exclamation (what a…!)}} ein Tag! ‖ What a day that was!
+## B2::06 Konjunktionen: indem, sodass, falls, ohne dass, außer dass
+B2-06-001 B2-06-06-01 Man lernt eine Sprache am besten, {{c1::indem::by (… + verb at the end)}} man sie spricht. ‖ The best way to learn a language is by speaking it.
+B2-06-002 B2-06-06-02 Es regnete stark, {{c1::sodass::so that (result)}} das Spiel abgebrochen wurde. ‖ It rained heavily, so the match was abandoned.
+B2-06-003 B2-06-06-03 {{c1::Falls::in case; if}} du Hilfe brauchst, ruf mich an. ‖ If you need help, call me.
+B2-06-004 B2-06-06-04 Wir fahren mit dem Rad oder dem Auto, {{c1::je nachdem::depending on (… wie das Wetter ist)}}, wie das Wetter ist. ‖ We'll go by bike or by car, depending on the weather.
+B2-06-005 B2-06-06-05 Er verließ das Haus, {{c1::ohne dass::without (different subject)}} jemand es merkte. ‖ He left the house without anyone noticing.
+B2-06-006 B2-06-06-06 Das Wasser ist zu kalt, {{c1::als dass::for (zu … , … + Konjunktiv II)}} man darin schwimmen könnte. ‖ The water is too cold to swim in.
+B2-06-007 B2-06-06-07 Er war so müde, {{c1::dass::that (so … , …)}} er sofort einschlief. ‖ He was so tired that he fell asleep at once.
+B2-06-008 B2-16-12-01 Er hat nichts gesagt, {{c1::außer dass::except that}} er müde sei. ‖ He said nothing except that he was tired.
+B2-06-009 B2-16-12-02 {{c1::Während::whereas (contrast)}} ich Kaffee liebe, trinkt er nur Tee. ‖ Whereas I love coffee, he only drinks tea.
+## B2::07 Nominalstil: beim Kochen, durch Üben
+B2-07-001 B2-07-07-01 {{c1::Beim::bei + dem (while …)}} Kochen höre ich Radio. ‖ I listen to the radio while cooking.
+B2-07-002 B2-07-07-02 Nach seiner {{c1::Ankunft::ankommen · noun}} rief er sofort an. ‖ After his arrival he called straight away.
+B2-07-003 B2-07-07-03 {{c1::Durch::by (means of, + accusative)}} regelmäßiges Üben wird man besser. ‖ You get better by practising regularly.
+B2-07-004 B2-07-07-04 Vor der {{c1::Abfahrt::abfahren · noun}} müssen alle Gäste bezahlen. ‖ All guests must pay before departure.
+B2-07-005 B2-07-07-05 Bei der {{c1::Anmeldung::anmelden · noun}} brauchen Sie Ihren Ausweis. ‖ You need your ID when registering.
+## B2::08 Präpositionen der Schriftsprache
+B2-08-001 B2-08-08-01 {{c1::Aufgrund::due to (+ genitive)}} des Streiks fallen viele Züge aus. ‖ Due to the strike, many trains are cancelled.
+B2-08-002 B2-08-08-02 {{c1::Angesichts::in view of (+ genitive)}} der Lage müssen wir handeln. ‖ In view of the situation, we must act.
+B2-08-003 B2-08-08-03 Bitte antworten Sie {{c1::innerhalb::within (+ genitive)}} einer Woche. ‖ Please reply within a week.
+B2-08-004 B2-08-08-04 {{c1::Mithilfe::with the help of (+ genitive)}} einer App kann man Vokabeln lernen. ‖ You can learn vocabulary with the help of an app.
+B2-08-005 B2-08-08-05 {{c1::Bezüglich::regarding (+ genitive)}} Ihrer Anfrage melden wir uns morgen. ‖ We'll get back to you tomorrow regarding your enquiry.
+B2-08-006 B2-08-08-06 {{c1::Gemäß::in accordance with (+ dative)}} der Hausordnung ist Rauchen verboten. ‖ In accordance with the house rules, smoking is prohibited.
+B2-08-007 B2-08-08-07 Dem Bericht {{c1::zufolge::according to (+ dative, after the noun)}} ist die Zahl gestiegen. ‖ According to the report, the number has risen.
+B2-08-008 B2-08-08-08 Er ist mir {{c1::gegenüber::towards (+ dative, after a pronoun)}} immer freundlich. ‖ He's always friendly towards me.
+B2-08-009 B2-16-05-01 Wir gehen die Straße {{c1::entlang::along (after the noun)}}. ‖ We're walking along the street.
+B2-08-010 B2-16-05-02 {{c1::Dank::thanks to}} seiner Hilfe haben wir es geschafft. ‖ Thanks to his help we managed it.
+B2-08-011 B2-16-05-03 {{c1::Laut::according to}} Wetterbericht wird es heiß. ‖ According to the forecast it's going to be hot.
+B2-08-012 B2-16-05-04 Ich mache das nur dir {{c1::zuliebe::for the sake of (after the noun, + dative)}}. ‖ I'm only doing it for your sake.
+B2-08-013 B2-16-05-05 Er kam {{c1::samt::together with (+ dative)}} seiner Familie. ‖ He came along with his whole family.
+B2-08-014 B2-16-05-06 {{c1::Entgegen::contrary to (+ dative)}} allen Erwartungen hat er gewonnen. ‖ Against all expectations, he won.
+## B2::09 Weitere Verben mit Präposition
+B2-09-001 B2-09-09-01 Das Team besteht {{c1::aus::of (bestehen … = consist of)}} fünf Personen. ‖ The team consists of five people.
+B2-09-002 B2-09-09-02 Er besteht {{c1::auf::on (bestehen … = insist on)}} einer Entschuldigung. ‖ He insists on an apology.
+B2-09-003 B2-09-09-03 Das hängt {{c1::von::on (abhängen …)}} dir ab. ‖ That depends on you.
+B2-09-004 B2-09-09-04 Auf ihn kann man sich {{c1::verlassen::rely (sich … auf) · infinitive}}. ‖ You can rely on him.
+B2-09-005 B2-09-09-05 Sie bewirbt sich {{c1::um::for (sich bewerben … + a job)}} eine Stelle bei Siemens. ‖ She's applying for a job at Siemens.
+B2-09-006 B2-09-09-06 Ich kann nicht {{c1::auf::(verzichten … = do without)}} Kaffee verzichten. ‖ I can't do without coffee.
+B2-09-007 B2-09-09-07 Ich habe mich an das Wetter {{c1::gewöhnt::get used to (sich … an) · past participle}}. ‖ I've got used to the weather.
+B2-09-008 B2-09-09-08 Wir haben uns beim Hotel {{c1::über::about (sich beschweren …)}} den Lärm beschwert. ‖ We complained to the hotel about the noise.
+## B2::10 Funktionsverbgefüge
+B2-10-001 B2-10-10-01 Wir müssen bald eine Entscheidung {{c1::treffen::make (a decision) · infinitive}}. ‖ We need to make a decision soon.
+B2-10-002 B2-10-10-02 Die Firma {{c1::stellt::provide (zur Verfügung …) · sie}} allen Mitarbeitern einen Laptop zur Verfügung. ‖ The company provides all staff with a laptop.
+B2-10-003 B2-10-10-03 Das kommt nicht in {{c1::Frage::question (nicht in … kommen = out of the question)}}. ‖ That's out of the question.
+B2-10-004 B2-10-10-04 Sag mir bitte {{c1::Bescheid::let know (… sagen)}}, wenn du ankommst. ‖ Let me know when you arrive.
+B2-10-005 B2-10-10-05 Das Gesetz {{c1::tritt::come (in Kraft …) · es}} im Januar in Kraft. ‖ The law comes into force in January.
+B2-10-006 B2-10-10-06 Er brachte seine Dankbarkeit zum {{c1::Ausdruck::expression (zum … bringen)}}. ‖ He expressed his gratitude.
+B2-10-007 B2-10-10-07 Das nimmt viel Zeit in {{c1::Anspruch::claim (in … nehmen = take up)}}. ‖ That takes up a lot of time.
+## B2::11 Konjunktiv II: starke Formen, Doppelinfinitiv, Bedingung ohne wenn
+B2-11-001 B2-11-11-01 Wenn er doch nur {{c1::käme::kommen · Konjunktiv II, er}}! ‖ If only he would come!
+B2-11-002 B2-11-11-02 Ich {{c1::wüsste::wissen · Konjunktiv II, ich}} gern, wie das funktioniert. ‖ I'd like to know how that works.
+B2-11-003 B2-11-11-03 Wenn es keine Autos {{c1::gäbe::geben · Konjunktiv II, es}}, wäre die Luft sauberer. ‖ If there were no cars, the air would be cleaner.
+B2-11-004 B2-11-11-04 Es {{c1::ginge::gehen · Konjunktiv II, es}} schneller, wenn du hilfst. ‖ It would go faster if you helped.
+B2-11-005 B2-11-11-05 Ich hätte früher kommen {{c1::sollen::should · double infinitive (hätte … kommen …)}}. ‖ I should have come earlier.
+B2-11-006 B2-11-11-06 Du hättest mich anrufen {{c1::können::could · double infinitive (hättest … anrufen …)}}. ‖ You could have called me.
+B2-11-007 B2-16-09-01 Ohne dich {{c1::wäre::sein · Konjunktiv II, ich}} ich verloren. ‖ I'd be lost without you.
+B2-11-008 B2-16-09-02 Fast {{c1::wäre::sein · Konjunktiv II (almost happened), ich}} ich gestürzt. ‖ I nearly fell.
+B2-11-009 B2-16-09-03 Bei schönem Wetter {{c1::könnten::können · Konjunktiv II, wir}} wir grillen. ‖ If the weather were nice, we could have a barbecue.
+B2-11-010 B2-16-10-01 Er sagt, dass er gestern {{c1::hat::haben · er (before the double infinitive)}} arbeiten müssen. ‖ He says he had to work yesterday.
+B2-11-011 B2-16-10-02 Ich weiß nicht mehr, ob ich das Auto {{c1::habe::haben · ich (before the double infinitive)}} reparieren lassen. ‖ I can't remember whether I had the car repaired.
+## B2::12 es als Platzhalter; man, einen, einem
+B2-12-001 B2-12-12-01 {{c1::Es::placeholder (points to the dass-clause)}} freut mich, dass du gekommen bist. ‖ I'm glad you came.
+B2-12-002 B2-12-12-02 {{c1::Es::placeholder (impersonal passive)}} wurde den ganzen Abend getanzt. ‖ There was dancing all evening.
+B2-12-003 B2-12-12-03 {{c1::Es::placeholder (subject comes later)}} kamen viele Leute zur Party. ‖ Lots of people came to the party.
+B2-12-004 B2-16-13-01 So etwas freut {{c1::einen::man · accusative}}. ‖ That kind of thing makes you happy.
+B2-12-005 B2-16-13-02 Das kann {{c1::einem::man · dative}} schon mal passieren. ‖ That can happen to anyone.
+## B2::13 Futur II
+B2-13-001 B2-13-13-01 Er ist nicht da. Er {{c1::wird::werden · er (assumption about the past)}} den Zug verpasst haben. ‖ He's not here. He'll have missed the train.
+B2-13-002 B2-13-13-02 Bis morgen werde ich das Buch {{c1::gelesen::lesen · past participle}} haben. ‖ By tomorrow I'll have read the book.
+B2-13-003 B2-13-13-03 Sie wird schon nach Hause gegangen {{c1::sein::auxiliary · infinitive (Future II with gehen)}}. ‖ She'll have gone home already.
+## B2::14 Adjektivendungen nach alle, beide, viele, einige
+B2-14-001 B2-14-14-01 Alle {{c1::neuen::neu · nominative plural (alle …)}} Studenten müssen sich anmelden. ‖ All new students must register.
+B2-14-002 B2-14-14-02 Viele {{c1::neue::neu · nominative plural (viele …)}} Studenten kommen aus dem Ausland. ‖ Many new students come from abroad.
+B2-14-003 B2-14-14-03 Die beiden {{c1::jungen::jung · nominative plural (die beiden …)}} Frauen sind Schwestern. ‖ The two young women are sisters.
+B2-14-004 B2-14-14-04 Ich habe einige {{c1::gute::gut · accusative plural (einige …)}} Bücher gelesen. ‖ I've read some good books.
+B2-14-005 B2-14-14-05 Drei {{c1::kleine::klein · nominative plural (number, no article)}} Kinder spielen im Hof. ‖ Three small children are playing in the yard.
+## B2::15 haben und sein + zu; scheinen, drohen, pflegen
+B2-15-001 B2-15-15-01 Du hast hier nichts zu {{c1::sagen::say · infinitive (haben + zu = have to)}}. ‖ You have no say here.
+B2-15-002 B2-15-15-02 Er {{c1::scheint::seem · er (… zu)}} müde zu sein. ‖ He seems to be tired.
+B2-15-003 B2-15-15-03 Das alte Haus {{c1::droht::threaten · es (… einzustürzen)}} einzustürzen. ‖ The old house is in danger of collapsing.
+B2-15-004 B2-15-15-04 Er {{c1::pflegt::be in the habit of · er (formal; … zu)}} nach dem Essen zu schlafen. ‖ He's in the habit of sleeping after meals.
+## B2::16 Nomen: Name, Herz, derselbe; geschlechtergerechte Formen
+B2-16-001 B2-16-01-01 Ich kenne ihn nur dem {{c1::Namen::Name · dative}} nach. ‖ I only know him by name.
+B2-16-002 B2-16-01-02 Trotz seines {{c1::Namens::Name · genitive}} ist er nicht berühmt. ‖ Despite his name he isn't famous.
+B2-16-003 B2-16-01-03 Ich habe es von {{c1::Herzen::Herz · dative}} gesagt. ‖ I meant it from the bottom of my heart.
+B2-16-004 B2-16-01-04 Ich kann mich mit dem {{c1::Gedanken::Gedanke · dative}} nicht anfreunden. ‖ I can't get used to the idea.
+B2-16-005 B2-16-01-05 Die Reporterin interviewte den {{c1::Präsidenten::Präsident · accusative}}. ‖ The reporter interviewed the president.
+B2-16-006 B2-16-01-06 Ich kenne hier keinen {{c1::Menschen::Mensch · accusative}}. ‖ I don't know a soul here.
+B2-16-007 B2-16-02-01 Wir wohnen in {{c1::demselben::the same · dative (Haus, n.)}} Haus. ‖ We live in the same house.
+B2-16-008 B2-16-02-02 {{c1::Diejenigen::those · nominative plural (… , die)}}, die fertig sind, können gehen. ‖ Those who are finished may go.
+B2-16-009 B2-16-15-01 Liebe {{c1::Kolleginnen und Kollegen::colleagues (both forms)}}, ‖ Dear colleagues,
+B2-16-010 B2-16-15-02 Alle {{c1::Studierenden::students (gender-neutral participle noun)}} müssen sich anmelden. ‖ All students must register.
+B2-16-011 B2-16-15-03 Er ist in den {{c1::Neunzigerjahren::the nineties (one word)}} aufgewachsen. ‖ He grew up in the nineties.
+## B2::17 Präfixe trennbar oder untrennbar; starke und schwache Doppelformen
+B2-17-001 B2-16-03-01 Er hat das Schild {{c1::umgefahren::knock down by car · past participle (separable)}}. ‖ He knocked the sign over with his car.
+B2-17-002 B2-16-03-02 Er hat den Stau {{c1::umfahren::drive round · past participle (inseparable)}}. ‖ He drove round the traffic jam.
+B2-17-003 B2-16-03-03 Ich {{c1::übersetze::translate · ich}} den Text ins Englische. ‖ I'm translating the text into English.
+B2-17-004 B2-16-03-04 Die Fähre {{c1::setzt::ferry across · sie (separable)}} uns ans andere Ufer über. ‖ The ferry takes us across to the other bank.
+B2-17-005 B2-16-03-05 Ich habe ihn sofort {{c1::durchschaut::see through (a person) · past participle}}. ‖ I saw through him straight away.
+B2-17-006 B2-16-14-01 Ich {{c1::erschrak::erschrecken · Präteritum (be startled), ich}}.<br>Der Lärm {{c2::erschreckte::erschrecken · Präteritum (startle someone), er}} mich. ‖ I got a fright. / The noise startled me.
+B2-17-007 B2-16-14-02 Er {{c1::schuf::schaffen · Präteritum (create), er}} ein Meisterwerk.<br>Er {{c2::schaffte::schaffen · Präteritum (manage), er}} die Prüfung. ‖ He created a masterpiece. / He passed the exam.
+B2-17-008 B2-16-14-03 Das Baby {{c1::wog::wiegen · Präteritum (weigh), es}} drei Kilo.<br>Die Mutter {{c2::wiegte::wiegen · Präteritum (rock), sie}} das Baby. ‖ The baby weighed three kilos. / The mother rocked the baby.
+## B2::18 Relativsätze mit wo(r)-, wer und was
+B2-18-001 B2-16-11-01 Das ist etwas, {{c1::worüber::about which (nachdenken über)}} ich nachdenken muss. ‖ That's something I need to think about.
+B2-18-002 B2-16-11-02 Alles, {{c1::wofür::for which (arbeiten für)}} ich gearbeitet habe, ist weg. ‖ Everything I worked for is gone.
+B2-18-003 B2-16-11-03 {{c1::Wer::whoever}} zu spät kommt, muss draußen warten. ‖ Whoever comes late has to wait outside.
+B2-18-004 B2-16-11-04 {{c1::Was::what (relative, no antecedent)}} du sagst, stimmt nicht. ‖ What you're saying isn't true.
+## C1::01 Genitivobjekte: gedenken, bedürfen, sich bedienen; bewusst, würdig
+C1-01-001 C1-01-01-01 Wir gedenken {{c1::der::the · genitive plural (die Opfer)}} Opfer des Krieges. ‖ We commemorate the victims of the war.
+C1-01-002 C1-01-01-02 Das bedarf {{c1::keiner::no · genitive (Erklärung, f.)}} Erklärung. ‖ That needs no explanation.
+C1-01-003 C1-01-01-03 Er bediente sich {{c1::eines::a · genitive (Trick, m.)}} Tricks. ‖ He made use of a trick.
+C1-01-004 C1-01-01-04 Sie enthielt sich {{c1::der::the · genitive (Stimme, f.)}} Stimme. ‖ She abstained (from voting).
+C1-01-005 C1-01-01-05 Ich bin mir {{c1::des::the · genitive (Risiko, n.)}} Risikos bewusst. ‖ I'm aware of the risk.
+C1-01-006 C1-01-01-06 Er wurde {{c1::des::the · genitive (Diebstahl, m.)}} Diebstahls angeklagt. ‖ He was charged with theft.
+C1-01-007 C1-01-01-07 Diese Frage ist einer Antwort nicht {{c1::würdig::worthy (+ genitive)}}. ‖ This question isn't worth answering.
+## C1::02 Feste Wendungen im Konjunktiv I
+C1-02-001 C1-02-02-01 Wir fahren morgen, {{c1::es sei denn::unless}}, es regnet. ‖ We'll go tomorrow, unless it rains.
+C1-02-002 C1-02-02-02 {{c1::Sei::sein · Konjunktiv I (… es … oder)}} es im Büro oder zu Hause — er arbeitet immer. ‖ Whether at the office or at home, he's always working.
+C1-02-003 C1-02-02-03 Wie dem auch {{c1::sei::sein · Konjunktiv I (wie dem auch …)}}, wir müssen weitermachen. ‖ Be that as it may, we have to carry on.
+C1-02-004 C1-02-02-04 Man {{c1::nehme::nehmen · Konjunktiv I (recipe), man}} 200 g Mehl und zwei Eier. ‖ Take 200 g of flour and two eggs.
+C1-02-005 C1-02-02-05 Es {{c1::lebe::leben · Konjunktiv I (toast)}} die Freiheit! ‖ Long live freedom!
+C1-02-006 C1-02-02-06 Wir schaffen das, koste es, was es {{c1::wolle::wollen · Konjunktiv I (koste es, was es …)}}. ‖ We'll do it, whatever it takes.
+## C1::03 Partizipialkonstruktionen
+C1-03-001 C1-03-03-01 In Berlin {{c1::angekommen::ankommen · participle clause (after arriving)}}, rief er sofort seine Mutter an. ‖ Having arrived in Berlin, he called his mother at once.
+C1-03-002 C1-03-03-02 {{c1::Ehrlich::honestly (… gesagt)}} gesagt, habe ich keine Lust. ‖ To be honest, I don't feel like it.
+C1-03-003 C1-03-03-03 Genau {{c1::genommen::nehmen · participle (genau …)}} hast du recht. ‖ Strictly speaking, you're right.
+C1-03-004 C1-03-03-04 {{c1::Abgesehen::apart (… davon)}} davon ist alles in Ordnung. ‖ Apart from that, everything's fine.
+C1-03-005 C1-03-03-05 Wir fahren am Freitag, {{c1::vorausgesetzt::provided (…, dass)}}, dass das Wetter mitspielt. ‖ We'll go on Friday, provided the weather plays along.
+C1-03-006 C1-03-03-06 {{c1::Gesetzt::supposing (… den Fall)}} den Fall, er sagt nein — was dann? ‖ Supposing he says no — what then?
+## C1::04 Präpositionen der Amtssprache
+C1-04-001 C1-04-04-01 {{c1::Im Rahmen::as part of (+ genitive)}} des Projekts wurden neue Stellen geschaffen. ‖ As part of the project, new jobs were created.
+C1-04-002 C1-04-04-02 {{c1::Seitens::on the part of (+ genitive)}} der Firma gab es keine Reaktion. ‖ There was no response from the company.
+C1-04-003 C1-04-04-03 {{c1::Zwecks::for the purpose of (+ genitive)}} Terminvereinbarung rufen Sie bitte an. ‖ Please call to arrange an appointment.
+C1-04-004 C1-04-04-04 Das Verfahren wurde {{c1::mangels::for lack of (+ genitive)}} Beweisen eingestellt. ‖ The case was dropped for lack of evidence.
+C1-04-005 C1-04-04-05 Der Preis beträgt 100 Euro {{c1::zuzüglich::plus (+ genitive)}} Mehrwertsteuer. ‖ The price is 100 euros plus VAT.
+C1-04-006 C1-04-04-06 {{c1::Unter::taking into (… Berücksichtigung + genitive)}} Berücksichtigung aller Faktoren haben wir entschieden. ‖ Taking all factors into account, we have decided.
+C1-04-007 C1-04-04-07 {{c1::Im Zuge::in the course of (+ genitive)}} der Reform wurden Ämter zusammengelegt. ‖ In the course of the reform, offices were merged.
+## C1::05 Verbpräfixe: ver-, zer-, er-, ent-, be-
+C1-05-001 C1-05-05-01 (A man speaking) Ich habe heute {{c1::verschlafen::oversleep (ver- + schlafen) · past participle}}. ‖ I overslept today.
+C1-05-002 C1-05-05-02 Wir haben uns im Wald {{c1::verlaufen::get lost (ver- + laufen) · past participle}}. ‖ We got lost in the woods.
+C1-05-003 C1-05-05-03 Das Glas ist {{c1::zerbrochen::break to pieces (zer- + brechen) · past participle}}. ‖ The glass has shattered.
+C1-05-004 C1-05-05-04 Sie hat sich ihren Erfolg hart {{c1::erarbeitet::achieve through work (er- + arbeiten) · past participle}}. ‖ She worked hard for her success.
+C1-05-005 C1-05-05-05 Der Dieb ist der Polizei {{c1::entkommen::escape (ent- + kommen) · past participle}}. ‖ The thief escaped the police.
+C1-05-006 C1-05-05-06 Er {{c1::antwortete::antworten or beantworten? · Präteritum, er}} auf die Frage.<br>Er {{c2::beantwortete::antworten or beantworten? · Präteritum, er}} die Frage. ‖ He replied to the question. / He answered the question.
+## C1::06 Adverbien auf -weise und -erweise
+C1-06-001 C1-06-06-01 {{c1::Glücklicherweise::fortunately (glücklich + -erweise)}} wurde niemand verletzt. ‖ Fortunately, no one was hurt.
+C1-06-002 C1-06-06-02 Das ist {{c1::möglicherweise::possibly (möglich + -erweise)}} ein Fehler. ‖ That may be a mistake.
+C1-06-003 C1-06-06-03 Die Straße ist {{c1::teilweise::partly (Teil + -weise)}} gesperrt. ‖ The road is partially closed.
+C1-06-004 C1-06-06-04 Wir führen das System {{c1::schrittweise::step by step (Schritt + -weise)}} ein. ‖ We're introducing the system step by step.
+C1-06-005 C1-06-06-05 Viele Länder, {{c1::beispielsweise::for example (Beispiel + -weise)}} Frankreich, haben das Gesetz geändert. ‖ Many countries, France for example, have changed the law.
+## C1::07 Inversion: Bedingung ohne wenn, kaum … als
+C1-07-001 C1-07-07-01 {{c1::Hätte::haben · Konjunktiv II, verb first (no wenn)}} ich das gewusst, wäre ich gekommen. ‖ Had I known, I would have come.
+C1-07-002 C1-07-07-02 {{c1::Sollten::sollen · Konjunktiv II, verb first (formal 'should you')}} Sie Fragen haben, rufen Sie uns an. ‖ Should you have any questions, please call us.
+C1-07-003 C1-07-07-03 {{c1::Kaum::no sooner (… hatte er …, als)}} hatte er sich hingesetzt, als das Telefon klingelte. ‖ No sooner had he sat down than the phone rang.
+C1-07-004 C1-07-07-04 Kaum hatte er sich hingesetzt, {{c1::als::than (kaum … , …)}} das Telefon klingelte. ‖ He'd barely sat down when the phone rang.
+C1-07-005 C1-07-07-05 {{c1::Wäre::sein · Konjunktiv II, verb first (no wenn)}} das Wetter besser, könnten wir draußen essen. ‖ If the weather were better, we could eat outside.
+## C1::08 Konjunktionen: zumal, wohingegen, geschweige denn, wo … doch
+C1-08-001 C1-08-08-01 Ich bleibe zu Hause, {{c1::zumal::especially as}} ich erkältet bin. ‖ I'm staying in, especially as I've got a cold.
+C1-08-002 C1-08-08-02 Er liebt den Sommer, {{c1::wohingegen::whereas}} sie den Winter bevorzugt. ‖ He loves summer, whereas she prefers winter.
+C1-08-003 C1-08-08-03 Er kann kaum laufen, {{c1::geschweige denn::let alone}} rennen. ‖ He can barely walk, let alone run.
+C1-08-004 C1-08-08-04 Das stimmt {{c1::insofern::in so far (… , als)}}, als die Preise gestiegen sind. ‖ That's true in so far as prices have risen.
+C1-08-005 C1-08-08-05 {{c1::Obgleich::although (formal)}} es spät war, arbeitete er weiter. ‖ Although it was late, he kept working.
+C1-08-006 C1-08-08-06 Die Lage ist schwierig. {{c1::Nichtsdestotrotz::nevertheless (formal)}} bleiben wir optimistisch. ‖ The situation is difficult. Nevertheless, we remain optimistic.
+C1-08-007 C1-08-08-07 Er hat die Frist verpasst; {{c1::folglich::consequently}} wurde sein Antrag abgelehnt. ‖ He missed the deadline; consequently his application was rejected.
+C1-08-008 C1-14-04-01 Er schweigt, {{c1::wo::when (… er doch …)}} er doch alles weiß. ‖ He says nothing, even though he knows everything.
+C1-08-009 C1-14-04-02 {{c1::Nicht dass::not that}} ich etwas dagegen hätte, aber … ‖ Not that I'd have anything against it, but…
+C1-08-010 C1-14-04-03 {{c1::Ehe::before (literary)}} ich gehe, möchte ich noch etwas sagen. ‖ Before I go, I'd like to say something.
+C1-08-011 C1-14-04-04 {{c1::Sowie::as soon as}} er ankommt, rufe ich dich an. ‖ As soon as he arrives, I'll call you.
+## C1::09 Korrelate: darauf, dass; davon ausgehen, dass
+C1-09-001 C1-09-09-01 Ich gehe {{c1::davon::da-word (ausgehen von …, dass)}} aus, dass er pünktlich kommt. ‖ I assume he'll be on time.
+C1-09-002 C1-09-09-02 Bitte sorgen Sie {{c1::dafür::da-word (sorgen für …, dass)}}, dass alle informiert sind. ‖ Please make sure everyone is informed.
+C1-09-003 C1-09-09-03 Das liegt {{c1::daran::da-word (liegen an …, dass)}}, dass niemand Zeit hatte. ‖ That's because nobody had time.
+C1-09-004 C1-09-09-04 Wir weisen {{c1::darauf::da-word (hinweisen auf …, dass)}} hin, dass das Büro geschlossen ist. ‖ Please note that the office is closed.
+C1-09-005 C1-09-09-05 Du kannst dich {{c1::darauf::da-word (sich verlassen auf …, dass)}} verlassen, dass ich helfe. ‖ You can count on me to help.
+## C1::10 bekommen-Passiv, unpersönliches Passiv, Passiv im Konjunktiv II
+C1-10-001 C1-10-10-01 Ich {{c1::bekomme::bekommen · ich (recipient passive)}} das Paket morgen geschickt. ‖ The parcel is being sent to me tomorrow.
+C1-10-002 C1-10-10-02 Er hat das Auto von seinem Vater {{c1::geschenkt::schenken · past participle (bekommen-passive)}} bekommen. ‖ His father gave him the car.
+C1-10-003 C1-10-10-03 Es wird {{c1::gebeten::bitten · past participle (impersonal passive)}}, nicht zu rauchen. ‖ You are kindly requested not to smoke.
+C1-10-004 C1-14-03-01 Das hätte früher gemacht werden {{c1::müssen::must · double infinitive (hätte … gemacht werden …)}}. ‖ That should have been done earlier.
+C1-10-005 C1-14-03-02 Das Haus {{c1::wäre::sein · Konjunktiv II (passive past), es}} längst gebaut worden, wenn es Geld gegeben hätte. ‖ The house would have been built long ago if there had been money.
+## C1::11 Fallen bei Genus und Plural
+C1-11-001 C1-11-11-01 Wir schwimmen im {{c1::See::lake · dative (im …)}}. ‖ We're swimming in the lake.
+C1-11-002 C1-11-11-02 Er arbeitet auf {{c1::der::the · dative (See = sea)}} See. ‖ He works at sea.
+C1-11-003 C1-11-11-03 Wir zahlen zu viele {{c1::Steuern::Steuer (tax) · plural}}. ‖ We pay too many taxes.
+C1-11-004 C1-11-11-04 Er sitzt am {{c1::Steuer::steering wheel (am …)}}. ‖ He's at the wheel.
+C1-11-005 C1-11-11-05 Im Park stehen zwei {{c1::Bänke::Bank (bench) · plural}}. ‖ There are two benches in the park.
+C1-11-006 C1-11-11-06 Die {{c1::Banken::Bank (financial) · plural}} schließen um 16 Uhr. ‖ The banks close at 4 p.m.
+C1-11-007 C1-11-11-07 Dieses Wörterbuch hat 50.000 {{c1::Wörter::Wort (single words) · plural}}. ‖ This dictionary has 50,000 words.
+C1-11-008 C1-11-11-08 Vielen Dank für Ihre freundlichen {{c1::Worte::Wort (things said) · plural}}. ‖ Thank you for your kind words.
+C1-11-009 C1-14-05-01 {{c1::Der::the · nominative (Leiter = manager)}} Leiter der Abteilung ist krank.<br>{{c2::Die::the · nominative (Leiter = ladder)}} Leiter steht im Keller. ‖ The head of department is ill. / The ladder is in the cellar.
+C1-11-010 C1-14-05-02 Mir tut {{c1::der::the · nominative (Kiefer = jaw)}} Kiefer weh.<br>{{c2::Die::the · nominative (Kiefer = pine)}} Kiefer ist ein Nadelbaum. ‖ My jaw hurts. / The pine is a conifer.
+C1-11-011 C1-14-05-03 {{c1::Der::the · nominative (Erbe = heir)}} Erbe bekommt alles.<br>{{c2::Das::the · nominative (Erbe = inheritance)}} Erbe ist riesig. ‖ The heir gets everything. / The inheritance is huge.
+C1-11-012 C1-14-05-04 {{c1::Das::the · nominative (Gehalt = salary)}} Gehalt ist gut.<br>{{c2::Der::the · nominative (Gehalt = content)}} Gehalt an Zucker ist hoch. ‖ The salary is good. / The sugar content is high.
+## C1::12 als + Verb: als wäre nichts geschehen
+C1-12-001 C1-12-12-01 Er tat so, als {{c1::wäre::sein · Konjunktiv II, verb straight after als}} nichts geschehen. ‖ He acted as if nothing had happened.
+C1-12-002 C1-12-12-02 Sie sieht aus, als {{c1::hätte::haben · Konjunktiv II, verb straight after als}} sie nicht geschlafen. ‖ She looks as if she hasn't slept.
+C1-12-003 C1-12-12-03 Es klingt, {{c1::als ob::as if (verb at the end)}} jemand weint. ‖ It sounds as if someone is crying.
+## C1::13 Adjektive mit Präposition
+C1-13-001 C1-13-13-01 Ich bin stolz {{c1::auf::of (stolz … + accusative)}} dich. ‖ I'm proud of you.
+C1-13-002 C1-13-13-02 Ich bin gespannt {{c1::auf::(gespannt … = curious about)}} das Ergebnis. ‖ I'm curious to see the result.
+C1-13-003 C1-13-13-03 Er ist finanziell abhängig {{c1::von::on (abhängig …)}} seinen Eltern. ‖ He's financially dependent on his parents.
+C1-13-004 C1-13-13-04 Sind Sie zufrieden {{c1::mit::with (zufrieden …)}} dem Service? ‖ Are you satisfied with the service?
+C1-13-005 C1-13-13-05 Wer ist verantwortlich {{c1::für::for (verantwortlich …)}} dieses Projekt? ‖ Who's responsible for this project?
+C1-13-006 C1-13-13-06 Wir sind sehr interessiert {{c1::an::in (interessiert … + dative)}} einer Zusammenarbeit. ‖ We're very interested in working together.
+## C1::14 Wortstellung und Bezug: Pronomen vor dem Subjekt, dessen, derer, manch, solch
+C1-14-001 C1-14-01-01 Gestern hat {{c1::ihn::er · accusative (before a noun subject)}} mein Bruder angerufen. ‖ My brother rang him yesterday.
+C1-14-002 C1-14-01-02 Dann hat {{c1::es::it · accusative (before a noun subject)}} ihr der Lehrer erklärt. ‖ Then the teacher explained it to her.
+C1-14-003 C1-14-02-01 Peter traf Paul und {{c1::dessen::his (= Paul's, unambiguous)}} Frau. ‖ Peter met Paul and Paul's wife.
+C1-14-004 C1-14-02-02 Die Zahl {{c1::derer::of those (genitive plural, … , die)}}, die zustimmen, wächst. ‖ The number of those who agree is growing.
+C1-14-005 C1-14-06-01 {{c1::Manch::many a (uninflected, + einer)}} einer hat es bereut. ‖ Many a person has regretted it.
+C1-14-006 C1-14-06-02 {{c1::Solch::such (uninflected, + ein)}} ein Unsinn! ‖ Such nonsense!
+## C2::01 Archaische und literarische Formen
+C2-01-001 C2-01-01-01 {{c1::Im Grunde::basically (im … , set phrase with dative -e)}} hast du recht. ‖ Basically, you're right.
+C2-01-002 C2-01-01-02 Sie wohnen {{c1::auf dem Lande::in the country (archaic dative -e)}}. ‖ They live in the country.
+C2-01-003 C2-01-01-03 Und es {{c1::ward::werden · past (poetic), es}} Licht. ‖ And there was light.
+C2-01-004 C2-01-01-04 (Proverb) {{c1::Wes::whose (archaic)}} Brot ich ess', des Lied ich sing'. ‖ He who pays the piper calls the tune.
+C2-01-005 C2-01-01-05 Nicht dieses Haus, sondern {{c1::jenes::that (written, contrastive) · accusative (Haus, n.)}} möchte ich kaufen. ‖ Not this house but that one is the one I'd like to buy.
+C2-01-006 C2-01-01-06 {{c1::Welch::what (exclamation, … ein)}} ein schöner Tag! ‖ What a beautiful day!
+## C2::02 Adverbiale Genitive
+C2-02-001 C2-02-02-01 {{c1::Eines::a · genitive (… Tages = one day)}} Tages wirst du mich verstehen. ‖ One day you'll understand me.
+C2-02-002 C2-02-02-02 {{c1::Meines::my · genitive (… Wissens = as far as I know)}} Wissens ist er verheiratet. ‖ As far as I know, he's married.
+C2-02-003 C2-02-02-03 {{c1::Letzten::last · genitive (… Endes = ultimately)}} Endes ist es deine Entscheidung. ‖ Ultimately it's your decision.
+C2-02-004 C2-02-02-04 Er behauptete {{c1::allen::all · genitive (… Ernstes = seriously)}} Ernstes, er sei unschuldig. ‖ He claimed in all seriousness that he was innocent.
+C2-02-005 C2-02-02-05 {{c1::Schweren::heavy · genitive (… Herzens = with a heavy heart)}} Herzens verließ sie die Stadt. ‖ With a heavy heart she left the town.
+C2-02-006 C2-02-02-06 Wir mussten unverrichteter {{c1::Dinge::Ding · genitive plural (unverrichteter …)}} wieder abziehen. ‖ We had to leave without having achieved anything.
+## C2::03 meinetwegen, um … willen, statt meiner
+C2-03-001 C2-03-03-01 – Darf ich das Fenster öffnen? – {{c1::Meinetwegen::fine by me (because of me → as far as I'm concerned)}}. ‖ — May I open the window? — Fine by me.
+C2-03-002 C2-03-03-02 Er ist nur {{c1::deinetwegen::because of you (du)}} gekommen. ‖ He only came because of you.
+C2-03-003 C2-03-03-03 Um {{c1::Himmels::Himmel · genitive (um … willen)}} willen, was ist passiert? ‖ For heaven's sake, what's happened?
+C2-03-004 C2-03-03-04 Er schwieg um des lieben Friedens {{c1::willen::for the sake (um … …)}}. ‖ He kept quiet for the sake of peace.
+C2-03-005 C2-03-03-05 Sie ging {{c1::statt meiner::instead of me (formal genitive)}} zur Sitzung. ‖ She went to the meeting instead of me.
+## C2::04 Konjunktiv I: möge, solle, indirekte Fragen
+C2-04-001 C2-04-04-01 Man {{c1::möge::mögen · Konjunktiv I (formal wish), man}} mir verzeihen. ‖ May I be forgiven.
+C2-04-002 C2-04-04-02 Er sagte, ich {{c1::solle::sollen · Konjunktiv I (indirect command), ich}} draußen warten. ‖ He told me to wait outside.
+C2-04-003 C2-04-04-03 Sie fragte, ob er morgen {{c1::komme::kommen · Konjunktiv I, er}}. ‖ She asked whether he was coming tomorrow.
+C2-04-004 C2-04-04-04 Der Arzt meinte, sie {{c1::müsse::müssen · Konjunktiv I, sie (she)}} sich schonen. ‖ The doctor said she needed to take it easy.
+## C2::05 Konzessive Rahmen: so … auch, wie auch immer, mag … noch so
+C2-05-001 C2-05-05-01 {{c1::So::however (… schwer es auch ist)}} schwer es auch ist, wir geben nicht auf. ‖ However hard it is, we won't give up.
+C2-05-002 C2-05-05-02 {{c1::Was::whatever (… auch immer)}} auch immer passiert, ich bin für dich da. ‖ Whatever happens, I'm there for you.
+C2-05-003 C2-05-05-03 {{c1::Wer::whoever (… auch immer)}} auch immer das war, er soll sich melden. ‖ Whoever it was should come forward.
+C2-05-004 C2-05-05-04 {{c1::Mag::mögen · concessive (… es noch so …)}} es noch so regnen, wir gehen spazieren. ‖ However much it rains, we're going for a walk.
+## C2::06 Juristische Sprache
+C2-06-001 C2-06-06-01 Die Zahlung ist {{c1::binnen::within (legal)}} 14 Tagen zu leisten. ‖ Payment is due within 14 days.
+C2-06-002 C2-06-06-02 {{c1::Unbeschadet::without prejudice to (+ genitive)}} weiterer Ansprüche kündigen wir den Vertrag. ‖ Without prejudice to further claims, we hereby terminate the contract.
+C2-06-003 C2-06-06-03 {{c1::Vorbehaltlich::subject to (+ genitive)}} der Zustimmung des Vorstands ist der Vertrag gültig. ‖ Subject to board approval, the contract is valid.
+C2-06-004 C2-06-06-04 Die Unterlagen sind bis zum 1. März {{c1::vorzulegen::vorlegen · sein + zu (must be)}}. ‖ The documents must be submitted by 1 March.
+C2-06-005 C2-06-06-05 Der Mieter {{c1::hat::haben · obligation (… + zu), er}} die Nebenkosten zu tragen. ‖ The tenant shall bear the additional costs.
+C2-06-006 C2-06-06-06 Sofern nicht anders {{c1::vereinbart::vereinbaren · past participle}}, gilt deutsches Recht. ‖ Unless otherwise agreed, German law applies.
+## C2::07 Seltene Plurale
+C2-07-001 C2-07-07-01 In der Bibliothek stehen alte {{c1::Atlanten::Atlas · plural}}. ‖ There are old atlases in the library.
+C2-07-002 C2-07-07-02 Auf der Fensterbank stehen drei {{c1::Kakteen::Kaktus · plural}}. ‖ There are three cacti on the windowsill.
+C2-07-003 C2-07-07-03 Für beide Länder braucht man {{c1::Visa::Visum · plural}}. ‖ You need visas for both countries.
+C2-07-004 C2-07-07-04 Hier fehlen zwei {{c1::Kommata::Komma · plural}}. ‖ Two commas are missing here.
+C2-07-005 C2-07-07-05 Berlin hat viele {{c1::Museen::Museum · plural}}. ‖ Berlin has many museums.
+C2-07-006 C2-07-07-06 Sie hat schon drei {{c1::Praktika::Praktikum · plural}} gemacht. ‖ She's already done three internships.
+## C2::08 Namen im Genitiv
+C2-08-001 C2-08-08-01 Wir lesen die Werke {{c1::Goethes::Goethe · genitive (after the noun)}}. ‖ We're reading Goethe's works.
+C2-08-002 C2-08-08-02 Das ist {{c1::Hans'::Hans · genitive (name ending in -s)}} Auto. ‖ That's Hans's car.
+C2-08-003 C2-08-08-03 Das Büro des {{c1::Herrn::Herr · genitive (des … Müller)}} Müller ist im zweiten Stock. ‖ Mr Müller's office is on the second floor.
+C2-08-004 C2-08-08-04 {{c1::Herrn::Herr · genitive (no article; … Müllers)}} Müllers Büro ist im zweiten Stock. ‖ Mr Müller's office is on the second floor.
+## C2::09 Vorfeld: Gesehen habe ich ihn nicht
+C2-09-001 C2-09-09-01 {{c1::Gesehen::sehen · past participle (fronted for emphasis)}} habe ich ihn nicht, nur gehört. ‖ I didn't see him — I only heard him.
+C2-09-002 C2-09-09-02 {{c1::Geschlafen::schlafen · past participle (fronted)}} hat er kaum. ‖ Sleep is something he hardly got.
+C2-09-003 C2-09-09-03 {{c1::Helfen::help · infinitive (fronted)}} kann ich dir leider nicht. ‖ Help you, I'm afraid I can't.
+## C2::10 Literarischer Konjunktiv II: stürbe, hülfe
+C2-10-001 C2-11-01-01 Wenn er {{c1::stürbe::sterben · Konjunktiv II (literary), er}}, erbte sie alles. ‖ If he were to die, she would inherit everything.
+C2-10-002 C2-11-01-02 Das {{c1::hülfe::helfen · Konjunktiv II (literary), es}} uns nicht. ‖ That wouldn't help us.
+C2-10-003 C2-11-01-03 Ich {{c1::empföhle::empfehlen · Konjunktiv II (literary), ich}} Ihnen dieses Hotel. ‖ I would recommend this hotel to you.
+## Zusatz (über C2)::01 Rechtschreibung nach Grammatik
+EX-01-001 BC-01-01-01 Ich glaube, {{c1::dass::das or dass?}} {{c2::das::das or dass?}} stimmt. ‖ I think that's right.
+EX-01-002 BC-01-01-02 {{c1::Seid::seit or seid?}} ihr {{c2::seit::seit or seid?}} Montag hier? ‖ Have you been here since Monday?
+EX-01-003 BC-01-01-03 Der Hund ist {{c1::tot::tot or Tod?}}.<br>Der {{c2::Tod::tot or Tod?}} kam plötzlich. ‖ The dog is dead. / Death came suddenly.
+EX-01-004 BC-01-02-01 Mein {{c1::Fuß::foot (ss or ß? long vowel)}} tut weh. ‖ My foot hurts.
+EX-01-005 BC-01-02-02 Der {{c1::Fluss::river (ss or ß? short vowel)}} ist sehr breit. ‖ The river is very wide.
+EX-01-006 BC-01-02-03 Ich {{c1::muss::müssen · ich (ss or ß?)}} jetzt gehen. ‖ I have to go now.
+EX-01-007 BC-01-02-04 Er {{c1::aß::essen · Präteritum, er (ss or ß?)}} sehr schnell. ‖ He ate very fast.
+EX-01-008 BC-01-03-01 Ich spreche {{c1::Deutsch::German (the language; capital or not?)}} und Englisch. ‖ I speak German and English.
+EX-01-009 BC-01-03-02 Das ist die {{c1::deutsche::German (adjective; capital or not?)}} Sprache. ‖ That's the German language.
+EX-01-010 BC-01-03-03 {{c1::Im Allgemeinen::in general (capital or not?)}} bin ich zufrieden. ‖ In general, I'm satisfied.
+EX-01-011 BC-01-03-04 Ich fahre gern {{c1::Rad::bike (… fahren; capital or not?)}}. ‖ I like cycling.
+EX-01-012 BC-01-03-05 Er ist {{c1::beim Lesen::while reading (bei + nominalised verb)}} eingeschlafen. ‖ He fell asleep while reading.
+EX-01-013 BC-01-04-01 Wollen wir {{c1::spazieren gehen::go for a walk (one word or two?)}}? ‖ Shall we go for a walk?
+EX-01-014 BC-01-04-02 Ich möchte dich besser {{c1::kennenlernen::get to know (one word or two?)}}. ‖ I'd like to get to know you better.
+EX-01-015 BC-01-04-03 Er ist gestern {{c1::zurückgekommen::come back · past participle (one word or two?)}}. ‖ He came back yesterday.
+EX-01-016 BC-01-05-01 Ich glaube{{c1::,::punctuation (before dass)}} dass er kommt. ‖ I think he's coming.
+EX-01-017 BC-01-05-02 Er hat die Absicht{{c1::,::punctuation (before a zu-infinitive after a noun)}} zu kündigen. ‖ He intends to resign.
+## Zusatz (über C2)::02 Fallen für Englischsprachige
+EX-02-001 BC-02-01-01 Ich {{c1::bekomme::bekomme or werde?}} ein Geschenk.<br>Ich {{c2::werde::bekomme or werde?}} müde. ‖ I'm getting a present. / I'm getting tired.
+EX-02-002 BC-02-02-01 Ich {{c1::will::will or werde?}} nach Hause.<br>Morgen {{c2::werde::will or werde?}} ich arbeiten. ‖ I want to go home. / Tomorrow I'll be working.
+EX-02-003 BC-02-03-01 Ich weiß nicht, {{c1::wann::wann or wenn?}} er kommt.<br>{{c2::Wenn::wann or wenn?}} er kommt, essen wir. ‖ I don't know when he's coming. / When he comes, we'll eat.
+EX-02-004 BC-02-04-01 Möchtest du {{c1::noch ein::one more}} Bier?<br>Ich möchte {{c2::ein anderes::a different (… Bier, n.)}} Bier. ‖ Would you like another beer? / I'd like a different beer.
+EX-02-005 BC-02-05-01 Ich {{c1::studiere::studiere or lerne?}} Medizin in Wien.<br>Ich {{c2::lerne::studiere or lerne?}} für die Prüfung. ‖ I'm studying medicine in Vienna. / I'm revising for the exam.
+EX-02-006 BC-02-06-01 Danke, ich bin {{c1::satt::full (after eating)}}. ‖ Thanks, I'm full.
+EX-02-007 BC-02-06-02 Du {{c1::fehlst::fehlen · du (Du … mir = I miss you)}} mir. ‖ I miss you.
+## Zusatz (über C2)::03 Regional und umgangssprachlich
+EX-03-001 C2-10-10-01 (Austria) Ich {{c1::bin::auxiliary (southern Perfekt of sitzen), ich}} lange im Café gesessen. ‖ I sat in the café for a long time.
+EX-03-002 C2-10-10-02 (Austria) {{c1::Heuer::this year (Austria / Bavaria)}} fahren wir nach Italien. ‖ This year we're going to Italy.
+EX-03-003 C2-10-10-03 (Switzerland) Wo kann ich hier {{c1::parkieren::park (Swiss form)}}? ‖ Where can I park here?
+EX-03-004 C2-10-10-04 (Switzerland) Wir wohnen an der {{c1::Strasse::street (Swiss spelling, no ß)}} nach Bern. ‖ We live on the road to Bern.
+EX-03-005 C2-10-10-05 (Colloquial) Ich bin gerade am {{c1::Arbeiten::work · nominalised infinitive (am … sein)}}. ‖ I'm working at the moment.
+EX-03-006 C2-10-10-06 (Colloquial) Das ist dem Peter {{c1::sein::his (dative possessive, colloquial)}} Auto. ‖ That's Peter's car.
+EX-03-007 C2-10-10-07 (Colloquial) Er ist größer {{c1::wie::than (colloquial / regional)}} ich. ‖ He's taller than me.
+EX-03-008 BC-03-01-01 (Switzerland) Ich {{c1::bin::auxiliary (Swiss: Perfekt instead of war)}} gestern krank gewesen. ‖ I was ill yesterday.
+EX-03-009 BC-03-01-02 (Switzerland) Ich habe {{c1::ihm::er · dative (Swiss: anrufen + dative)}} angerufen. ‖ I rang him.
+EX-03-010 BC-03-01-03 (Switzerland) Mach bitte {{c1::den::the · accusative (Swiss: Radio is masculine)}} Radio aus. ‖ Turn the radio off, please.
+EX-03-011 BC-03-02-01 (Austria) Ich habe das Buch {{c1::um::for (price; Austria)}} zehn Euro gekauft. ‖ I bought the book for ten euros.
+EX-03-012 BC-03-02-02 (Austria) Wir fahren nächste Woche {{c1::auf::on (holiday; Austria: … Urlaub)}} Urlaub. ‖ We're going on holiday next week.
+EX-03-013 BC-03-02-03 (Austria) Ich stehe {{c1::in der Früh::in the morning (Austria / Bavaria)}} um sechs auf. ‖ I get up at six in the morning.
+EX-03-014 BC-03-02-04 (Austria) Ich habe {{c1::auf::(Austria: vergessen … + accusative)}} den Termin vergessen. ‖ I forgot about the appointment.
+EX-03-015 BC-03-02-05 (Austria) Wir wohnen {{c1::am::in the (Austria: … Land = countryside)}} Land. ‖ We live in the countryside.
+EX-03-016 BC-03-02-06 (Austria) Es ist {{c1::viertel::quarter (Austria / eastern Germany: … vier = 3:15)}} vier. ‖ It's quarter past three.
+EX-03-017 BC-03-02-07 (Austria) Ich trinke {{c1::ein::a · accusative (Austria: Cola is neuter)}} Cola. ‖ I'll have a cola.
+EX-03-018 BC-03-02-08 (Austria) Brauchen Sie ein {{c1::Sackerl::bag (Austrian diminutive -erl)}}? ‖ Do you need a bag?
+EX-03-019 BC-03-03-01 (Southern Germany) Was macht ihr {{c1::an::at (southern: … Ostern)}} Ostern? ‖ What are you doing at Easter?
+EX-03-020 BC-03-03-02 (Swabia) Wir haben ein kleines {{c1::Häusle::Haus · diminutive (Swabian -le)}}. ‖ We have a little house.
+EX-03-021 BC-03-03-03 (Northern Germany) Da weiß ich nichts {{c1::von::about (split da-word: da … …)}}. ‖ I don't know anything about that.
+EX-03-022 BC-03-04-01 (Colloquial) Ich komme nicht, weil ich {{c1::hab::haben · ich, clipped (weil + verb second)}} keine Zeit. ‖ I'm not coming, cos I haven't got time.
+EX-03-023 BC-03-04-02 (Colloquial) {{c1::Der::the (article before a first name)}} Peter kommt auch. ‖ Peter's coming too.
+EX-03-024 BC-03-04-03 (Colloquial) Du brauchst nicht {{c1::kommen::come · infinitive (colloquial: brauchen without zu)}}. ‖ You don't need to come.
+EX-03-025 BC-03-04-04 (Colloquial) Ich {{c1::tu::tun · ich (… + infinitive)}} grad kochen. ‖ I'm just cooking.

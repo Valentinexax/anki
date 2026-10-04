@@ -1,0 +1,1058 @@
+{
+"DE-A2-01-001": {
+"notes": "weil is a subordinating conjunction, so the conjugated verb goes to the very end: weil ich in Berlin arbeite. A comma always separates the subordinate clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-01-002": {
+"notes": "After weil, the verb bin moves behind krank to the end of the clause. In casual speech you'll hear weil + main-clause order (weil ich bin krank), but it's avoided in writing.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-01-003": {
+"notes": "dass sends the verb to the end: dass er keine Zeit hat. In speech, dass can be dropped after sagen, and then main-clause order returns: Er sagt, er hat keine Zeit.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-01-004": {
+"notes": "dass (that) introduces a statement and is spelt with ss; das (the, that) is an article or pronoun. The verb regnet goes to the end of the dass-clause.",
+"tip": "dass (conjunction) vs das (article, pronoun).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-01-005": {
+"notes": "ob means 'whether' and turns a yes/no question into an indirect one: Kommt er? → ob er kommt. Using wenn here is a common English-based error.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-01-006": {
+"notes": "In an indirect question with wann, the verb goes to the end, and a separable verb rejoins its prefix: wann der Zug ankommt, not kommt … an.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-01-007": {
+"notes": "With a modal in a subordinate clause, the modal comes last, after the infinitive: dass du gut kochen kannst.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-01-008": {
+"notes": "When the wenn-clause comes first, it fills position one, so the main clause begins with its verb: Wenn es regnet, bleiben wir… The two verbs meet at the comma.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-01-009": {
+"notes": "als is for a single event or period in the past (als ich 18 war); wenn is for the present, the future or repeated events (whenever). English 'when' covers both.",
+"tip": "als: one occasion in the past; wenn: whenever.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-01-010": {
+"notes": "weil sends the verb to the end; denn keeps normal word order (denn ich bin krank) and can't begin a sentence. Both give a reason.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-001": {
+"notes": "gehen in den Park is movement towards a destination (wohin?), so the two-way preposition in takes the accusative: den Park.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-002": {
+"notes": "spielen im Park is location (wo?), so in takes the dative: in dem → im. The contraction im is almost always used.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-003": {
+"notes": "legen is a verb of putting, so auf takes the accusative: auf den Tisch. legen is used for putting something flat.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-004": {
+"notes": "liegen describes position, so auf takes the dative: auf dem Tisch. The verb pair legen / liegen mirrors the accusative / dative pair.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-005": {
+"notes": "hängen with an object (I hang it) is movement to a place, so an takes the accusative: an die Wand. an is used for vertical surfaces.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-006": {
+"notes": "hängen without an object (it hangs) is position, so an takes the dative: an der Wand. Feminine die changes to der in the dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-007": {
+"notes": "fahren ans Meer is movement, so an + das contracts to ans. ans Meer (to the seaside) uses an because the sea is a boundary you go up to.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-008": {
+"notes": "sein am Meer is location, so an + dem contracts to am. The same phrase gives am See, am Fluss. For a lake or river by name, the same an applies: am Rhein.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-009": {
+"notes": "schlafen unter dem Bett is location, so unter takes the dative: dem Bett. Bett is neuter, so das → dem.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-010": {
+"notes": "springen auf das Sofa is movement onto it, so auf takes the accusative: das Sofa. The neuter accusative looks the same as the nominative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-011": {
+"notes": "her marks movement towards the speaker, hin away from the speaker. They combine with prefixes and question words: herein, hinaus, woher, wohin.",
+"tip": "her = towards me; hin = away from me.",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-02-012": {
+"notes": "stellen (put upright) is a regular verb of putting and takes the accusative; stehen (be standing) is irregular and takes the dative. Bottles stand, so stellen / stehen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-013": {
+"notes": "legen (put flat) takes the accusative: aufs Bett. liegen (be lying) takes the dative: auf dem Bett. A phone lies flat, so legen / liegen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-014": {
+"notes": "sich setzen (sit down) is the movement, with the accusative: aufs Sofa. sitzen (be sitting) is the position, with the dative: auf dem Sofa.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-015": {
+"notes": "hängen as 'hang something up' is regular: hängte, gehängt. an den Haken is accusative because it's movement to a place.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Ich habe den Mantel an den Haken {{c1::gehängt::hängen (put up) · past participle}}.",
+"tr": "I hung my coat on the hook.",
+"flag": "dup: replaced Ich habe das Bild an die Wand gehängt (near-identical to A2-02-005)"
+},
+"DE-A2-02-016": {
+"notes": "hängen as 'be hanging' is irregular: hing, gehangen. Das Bild hat … gehangen describes a state that lasted, so it takes haben.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-017": {
+"notes": "Events take auf + accusative for 'going to': auf eine Party, auf ein Konzert. Being there is auf + dative: auf der Party.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-018": {
+"notes": "Shops, services and institutions take zu: zu der Post → zur Post. noch müssen = still have to (go somewhere); the verb gehen is often left out.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-019": {
+"notes": "Universities take an + dative for 'at': an der Uni Heidelberg. Schools are different: an der Schule or in der Schule.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-020": {
+"notes": "Markets take auf + dative: auf dem Markt. Going there is auf + accusative: auf den Markt gehen. Shops and buildings take in instead: im Supermarkt.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-021": {
+"notes": "bei + workplace or activity means 'at': bei der Arbeit, bei der Post (working there). bei always takes the dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-022": {
+"notes": "Being at the doctor's is bei + dative: bei dem → beim Arzt. Going there is zum Arzt. Likewise beim Friseur, beim Zahnarzt.",
+"tip": "zum Arzt (going), beim Arzt (being there).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-02-023": {
+"notes": "bei + people means 'at their place': wohnen bei meinen Eltern. mit means 'together with': ins Kino gehen mit meinen Eltern. Both take the dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-001": {
+"notes": "schenken takes the person in the dative and the gift in the accusative: meiner Mutter (dative) Blumen (accusative). Two nouns: dative first.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-002": {
+"notes": "zeigen takes a dative person, and the dative plural article is den with -n on the noun: den Kindern. die Stadt is the accusative thing shown.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-003": {
+"notes": "gehören (belong to) takes the dative: meinem Vater. The thing owned is the subject, so gehört agrees with das Auto.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-004": {
+"notes": "schmecken takes the dative of the person tasting: dir. Wie schmeckt dir das Essen? is the standard question about food; the subject is das Essen.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-03-005": {
+"notes": "passen (fit, suit) takes the dative: mir. The clothing is the subject, so passt agrees with die Hose, which is singular in German.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-006": {
+"notes": "danken takes the dative: Ihnen, with a capital for formal Sie. The reason follows with für + accusative: für Ihre Hilfe.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-A2-03-007": {
+"notes": "gefallen takes the dative of the person: Ihnen, the formal dative, always capitalised. The verb agrees with das Hotel.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-A2-03-008": {
+"notes": "With two pronouns, the accusative comes before the dative: es ihm. With two nouns, the order is reversed: dem Mann das Buch.",
+"tip": "Two pronouns: accusative first (es ihm).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-009": {
+"notes": "fragen takes the accusative, even though English might suggest 'ask to': Ich frage den Lehrer. The question itself can follow with nach + dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-010": {
+"notes": "gratulieren takes the dative: dir. Ich gratuliere dir is a complete congratulation; zum Geburtstag can be added with zu + dative.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-03-011": {
+"notes": "glauben takes the dative of a person (believe someone): ihm. A thing believed is accusative: Ich glaube das nicht. glauben an + accusative means believe in.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-012": {
+"notes": "anrufen takes the accusative, unlike English 'call to': mich. In a du imperative, the prefix an still goes to the end.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-03-013": {
+"notes": "folgen takes the dative: mir. It forms the Perfekt with sein when it means following physically: Er ist mir gefolgt.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-014": {
+"notes": "gefallen makes the thing liked the subject and suits impressions (a film); mögen + noun states a general liking (cheese); gern + verb means liking an activity.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-015": {
+"notes": "Physical sensations use a dative pronoun with ist + adjective: Mir ist kalt. Ich bin kalt would describe a cold personality.",
+"tip": "Mir ist kalt, not Ich bin kalt.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-03-016": {
+"notes": "Boredom works the same way: Ist dir langweilig? Du bist langweilig would mean you are boring. The answer might be Nein, mir ist nicht langweilig.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-03-017": {
+"notes": "Ihm ist schlecht means he feels sick, with er in the dative. Er ist schlecht would mean he's bad (at something, or morally).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-001": {
+"notes": "After der (definite article), the adjective in the masculine nominative takes -e: der neue Lehrer. The article already shows the gender and case.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-002": {
+"notes": "After den (masculine accusative), the adjective takes -en: den roten Pullover. -en appears everywhere after der-words except the five -e positions.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-003": {
+"notes": "Feminine nominative after die takes -e: die kleine Katze. The feminine accusative is the same: Ich sehe die kleine Katze.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-004": {
+"notes": "Neuter nominative after das takes -e: das alte Haus. Neuter accusative is identical, so das alte Haus covers both cases.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-005": {
+"notes": "All dative forms after a der-word take -en: mit dem neuen Auto. mit always triggers the dative. mit dem Auto fahren itself means 'go by car'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-006": {
+"notes": "Plural adjectives after die take -en: die jungen Leute. Only the singular nominative and feminine / neuter accusative take -e.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-007": {
+"notes": "ein shows no gender in the masculine nominative, so the adjective does: ein guter Film (-er, like der). After der it would be der gute Film.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-008": {
+"notes": "ein shows no gender in the neuter nominative or accusative, so the adjective takes -es, like das: ein schönes Kleid.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-009": {
+"notes": "eine already shows feminine, so the adjective takes -e: eine große Wohnung. The pattern after eine matches the one after die.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-010": {
+"notes": "einen shows masculine accusative, so the adjective takes -en: einen billigen Laptop. Every masculine accusative adjective ends in -en.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-011": {
+"notes": "einem shows the dative, so the adjective takes -en: in einem kleinen Dorf. in + dative because wohnen describes location.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-012": {
+"notes": "With no article, the adjective takes the der-word ending itself: den → kalten Kaffee (masculine accusative -en).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-013": {
+"notes": "No article, neuter nominative, so the adjective takes the das ending -es: frisches Brot. It does the article's job of showing case and gender.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-014": {
+"notes": "After sein, werden or bleiben, adjectives take no ending: Der Film ist gut. Endings only appear before a noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-04-015": {
+"notes": "With no article, the adjective takes the dative ending of dem itself: großem Interesse (-em). Set phrases like mit großem Interesse and bei schönem Wetter are common.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-001": {
+"notes": "The comparative adds -er, and many one-syllable adjectives add an umlaut: groß → größer. than is als, never wie.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-002": {
+"notes": "alt → älter, with umlaut. After als, the standard pronoun is nominative: älter als ich, matching English 'than I'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-003": {
+"notes": "warm → wärmer. With es and the weather, comparatives work as in English: Heute ist es wärmer als gestern.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-004": {
+"notes": "gut has an irregular comparative: besser. The superlative is am besten or der / die / das beste. Before a noun it declines: ein besserer Plan.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-005": {
+"notes": "viel → mehr, which never takes an ending: mehr Geld, mehr Leute. weniger (less, fewer) works the same way.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-006": {
+"notes": "gern → lieber → am liebsten. Ich esse am liebsten Pizza is the natural way to name a favourite; favourite as a noun is Lieblings-: mein Lieblingsessen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-007": {
+"notes": "hoch → höher → der höchste. Before a noun, the superlative takes adjective endings: der höchste Berg (-e after der).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-008": {
+"notes": "After a verb, the superlative takes am + -sten: am kältesten. Adjectives in -t add -e- before -sten for pronunciation.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-05-009": {
+"notes": "A comparative takes als (than); equality takes so … wie (as … as). größer wie is colloquial and non-standard.",
+"tip": "größer als, so groß wie.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-06-001": {
+"notes": "sich freuen auf + accusative = look forward to. The reflexive pronoun matches the subject: ich freue mich.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-06-002": {
+"notes": "sich kennenlernen with a plural subject means 'meet each other, get to know each other': wir haben uns kennengelernt. The reflexive uns is the reciprocal 'each other'.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Wir haben {{c1::uns::reflexive · wir}} im Urlaub kennengelernt.",
+"tr": "We met on holiday.",
+"flag": "dup: replaced Wir treffen uns um acht (near-identical to A1-10-001 Wir treffen uns am Freitag um acht Uhr)"
+},
+"DE-A2-06-003": {
+"notes": "sich interessieren für + accusative = be interested in. du takes the reflexive dich. The question about the thing is Wofür interessierst du dich?",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-06-004": {
+"notes": "sich waschen changes a → ä in the er form: er wäscht sich. The third-person reflexive is always sich.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-06-005": {
+"notes": "With another object (die Zähne), the reflexive becomes dative: mir. German uses the reflexive dative instead of a possessive: not meine Zähne.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-06-006": {
+"notes": "The formal reflexive is sich, lower-case, even though Sie is capitalised. Setzen Sie sich is a polite invitation to sit.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-A2-06-007": {
+"notes": "With no other object, the reflexive is accusative: mich. With a body part as object, it becomes dative: mir die Hände.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-001": {
+"notes": "trinken has the irregular participle getrunken, with i → u. Strong verbs often change their vowel in the participle and end in -en.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-002": {
+"notes": "schreiben → geschrieben, with ei → ie. The dative mir (to me) comes before the accusative eine E-Mail.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-003": {
+"notes": "finden → gefunden, with i → u. The participle goes to the end of the question: Hast du … gefunden? The Präteritum is fand: Ich fand den Schlüssel nicht.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-07-004": {
+"notes": "schlafen → geschlafen, with no vowel change; the a → ä of the present (er schläft) doesn't carry over. lange schlafen = sleep in. The Präteritum is schlief.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-005": {
+"notes": "nehmen → genommen, with e → o and a doubled m. den Zug nehmen = take the train. The Präteritum is nahm, with a long a.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-006": {
+"notes": "sein has the participle gewesen and forms the Perfekt with sein: Ich bin gewesen. noch nie = never (yet).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-007": {
+"notes": "Verbs with the inseparable prefix be- take no ge-: besucht. The other inseparable prefixes are ver-, er-, ent-, emp-, ge-, zer-.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-008": {
+"notes": "verstehen has the prefix ver- and an irregular stem: verstanden, with no ge-. The negation nicht goes before the participle.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-009": {
+"notes": "erklären has the inseparable prefix er-, so no ge-: erklärt. It's otherwise regular, ending in -t. Its noun is die Erklärung (explanation).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-010": {
+"notes": "passieren ends in -ieren, so no ge-: passiert. It forms the Perfekt with sein, because something comes about.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-011": {
+"notes": "aufstehen is separable and irregular: auf-ge-standen. It takes sein, as a change of position. In the present it splits: Ich stehe um sechs auf.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-012": {
+"notes": "umziehen (move house) is separable: um-ge-zogen, with sein. sich umziehen means 'get changed' and takes haben.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-013": {
+"notes": "denken is a mixed verb: vowel change plus -t, gedacht. denken an + accusative = think of; daran refers back to a thing or idea.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Daran habe ich nicht {{c1::gedacht::denken · past participle}}.",
+"tr": "I didn't think of that.",
+"flag": "dup: replaced Ich habe oft an dich gedacht (near-identical to B1-01-002 Ich denke oft an dich)"
+},
+"DE-A2-07-014": {
+"notes": "mitbringen is separable and mixed: mit-ge-bracht. bringen changes to brach- plus -t in the participle.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-07-015": {
+"notes": "wissen is mixed: gewusst, with i → u and -t. Hast du das gewusst? is the natural spoken past; Wusstest du das? is equally common.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-07-016": {
+"notes": "nennen is mixed: genannt, with e → a. nennen means 'name, call'; heißen is used for what someone is called.",
+"tip": "",
+"compare": "",
+"register": "Informal (ihr)"
+},
+"DE-A2-07-017": {
+"notes": "rennen is mixed: gerannt, and takes sein as a verb of movement. zum Bus rennen = run for the bus. Its Präteritum, rannte, is also mixed.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-08-001": {
+"notes": "Modals in the past normally use the Präteritum: ich konnte. The umlaut of können disappears: konnte, not könnte (which means could, hypothetically).",
+"tip": "konnte (could, past) vs könnte (could, hypothetical).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-08-002": {
+"notes": "müssen → mussten, without the umlaut. The Perfekt (haben warten müssen) exists but is much rarer. lange warten = wait a long time.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-08-003": {
+"notes": "wollen → wollte. The ich and er forms have no extra ending: er wollte. werden after wollen is an infinitive at the end.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-08-004": {
+"notes": "dürfen → durfte, without the umlaut. Als Kind takes first position, so the verb durfte comes second.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-08-005": {
+"notes": "es gibt has the past es gab, used in speech as well as writing. Früher = in the past, it used to be.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-08-006": {
+"notes": "wissen → wusste, with i → u and -te. Ich wusste das nicht = I didn't know that. The Konjunktiv II is wüsste (would know).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-09-001": {
+"notes": "Ich hätte gern… is a polite way to order: literally 'I would have gladly'. It's slightly more polite than Ich möchte.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"DE-A2-09-002": {
+"notes": "Könnten Sie…? (could you?) is the Konjunktiv II of können and much politer than Können Sie…? The infinitive helfen goes to the end.",
+"tip": "",
+"compare": "",
+"register": "Polite (Sie)"
+},
+"DE-A2-09-003": {
+"notes": "würde + infinitive forms the Konjunktiv II of most verbs: Ich würde gern mitkommen. gern softens it into a wish.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"DE-A2-09-004": {
+"notes": "sein has its own Konjunktiv II, wäre; würde sein is avoided. Das wäre schön = that would be nice. Its past form is wäre … gewesen.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"DE-A2-09-005": {
+"notes": "Würden Sie bitte…? is a polite request; the infinitive goes to the end: schließen. Werden Sie…? would ask about the future instead.",
+"tip": "",
+"compare": "",
+"register": "Polite (Sie)"
+},
+"DE-A2-09-006": {
+"notes": "solltest (Konjunktiv II of sollen) gives advice: you should. It looks like the past (solltest), and context shows which is meant.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-10-001": {
+"notes": "seit + present tense is for something still going on (I've been learning); vor is 'ago' with a past tense; für is a planned period.",
+"tip": "seit + present = have been …ing.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-002": {
+"notes": "seit takes the dative, and the dative plural adds -n: seit drei Jahren. The verb stays in the present: Ich wohne seit…",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-003": {
+"notes": "bis means 'until' and is used with times and dates: bis 20 Uhr. With an article it combines with zu: bis zum Abend.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-004": {
+"notes": "ab means 'from (starting at)' and looks forward: ab Montag. von … an means the same: von Montag an. ab also gives a starting place: ab Berlin.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-005": {
+"notes": "Dates use the ordinal with an adjective ending: der dritte Mai. Ordinals add -te up to 19 (dritte is irregular) and -ste from 20.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-006": {
+"notes": "'On' a date is am + dative ordinal: am ersten Juni. erste is irregular, from eins. In writing it's am 1. Juni.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-007": {
+"notes": "Time phrases without a preposition take the accusative: jeden Tag. Tag is masculine, so jeder → jeden.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-008": {
+"notes": "letzte Woche is accusative feminine with no preposition. Woche is feminine, so letzte with -e. The masculine would be letzten Monat, the neuter letztes Jahr.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-009": {
+"notes": "nächsten Monat is masculine accusative: -en. The phrase takes first position, so ziehen comes second.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-010": {
+"notes": "den ganzen Tag (all day) is an accusative of duration. After den, the adjective takes -en. Likewise die ganze Woche, das ganze Jahr.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-011": {
+"notes": "Habitual adverbs end in -s and are lower-case: montags (on Mondays). With heute, the time of day is a capitalised noun: heute Abend.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-012": {
+"notes": "abends (in the evenings) is lower-case, as an adverb. Likewise morgens, mittags, nachts. Abends would only be capitalised here because it begins the sentence.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-013": {
+"notes": "gegen + time means 'around, approximately': gegen acht Uhr. um acht Uhr would be exact. gegen also means 'against' with nouns: gegen den Plan.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-014": {
+"notes": "am Wochenende (at the weekend) uses an + dem, like days of the week: am Montag, am Wochenende. Here it takes first position, so the verb schlafe comes straight after.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::Am::at (… Wochenende)}} Wochenende schlafe ich lange.",
+"tr": "At the weekend I have a lie-in.",
+"flag": "dup: replaced Was macht ihr am Wochenende? (near-identical to A1-02-002 Was machst du am Wochenende?); answer am → Am (sentence-initial)"
+},
+"DE-A2-10-015": {
+"notes": "in der Nacht (in the night) uses in + dative. nachts means 'at night' in general. The same pattern gives in der Woche (during the week).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-016": {
+"notes": "zu Weihnachten is the northern form; southern Germany and Austria say an Weihnachten. Both are standard.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-017": {
+"notes": "A year alone takes no preposition (2010 bin ich…), or im Jahr 2010. in 2010 is an anglicism. Decades take in: in den Neunzigerjahren.",
+"tip": "Not in 2010: just 2010 or im Jahr 2010.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-018": {
+"notes": "noch nichts means 'nothing yet', and noch nicht 'not yet'. The answer to it is schon (already). With a verb in place of nichts, it's noch nicht: Ich habe noch nicht gegessen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-019": {
+"notes": "kein … mehr means 'no more, none left': kein Geld mehr. With a verb it's nicht mehr: Ich kann nicht mehr.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-020": {
+"notes": "erst with a number means 'only, no more than': Er ist erst fünf. It implies 'less than you might expect'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-021": {
+"notes": "erst with a time means 'not until': erst um zehn. nur um zehn would be wrong here. In the past it means 'only then': Er kam erst um zehn.",
+"tip": "erst um zehn = not until ten.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-022": {
+"notes": "nicht mehr means 'no longer, not any more': Sie wohnt nicht mehr hier. It's the opposite of noch. The word order is nicht mehr, never mehr nicht.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-023": {
+"notes": "Sequencing words take first position, so the verb follows straight after: Zuerst kaufen wir…, dann kochen wir… The subject comes third.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-024": {
+"notes": "Was für ein …! is an exclamation: what a…! ein declines with the noun: Was für ein schöner Tag (masculine nominative -er).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-025": {
+"notes": "Date ranges use von … bis: vom 3. bis 5. Mai. Ordinals are written with a full stop: 3. = dritten. The ordinal after vom and bis zum is in the dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-10-026": {
+"notes": "In a letter heading, the date takes den + ordinal: Berlin, den 3. Mai 2026. In emails and modern letters, Berlin, 3. Mai 2026 is also fine.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"DE-A2-11-001": {
+"notes": "Standing alone, ein takes full endings: einen (masculine accusative) for Stift. ein with no ending only appears before a noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-11-002": {
+"notes": "Standing alone in the neuter, ein becomes eins (or eines): Da ist eins. Café is neuter. The masculine would be einer: Da ist einer.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-11-003": {
+"notes": "kein standing alone also takes full endings: keins for neuter Auto. keiner (m.) and keine (f.) work the same way.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-11-004": {
+"notes": "welcher (which) declines like der: welchen Film (masculine accusative). It asks about one of a known set.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-11-005": {
+"notes": "jemand (somebody) takes the er form of the verb: Jemand hat angerufen. Its accusative and dative (jemanden, jemandem) are optional in speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-11-006": {
+"notes": "niemand (nobody) is negative on its own, so no nicht is needed: Niemand ist zu Hause. Double negatives are wrong.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-11-007": {
+"notes": "nichts (nothing) never changes. It can be the subject, as here, or the object: Ich habe nichts gesehen.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "{{c1::Nichts::nothing}} ist unmöglich.",
+"tr": "Nothing is impossible.",
+"flag": "dup: replaced Ich habe nichts gesehen (near-identical to A2-10-018 Ich habe noch nichts gegessen); answer nichts → Nichts (sentence-initial)"
+},
+"DE-A2-11-008": {
+"notes": "etwas (something) never changes; in speech it's often shortened to was. In questions it can mean 'anything'.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Ich habe {{c1::etwas::something}} für dich gekauft.",
+"tr": "I've bought something for you.",
+"flag": "dup: replaced Möchtest du etwas trinken? (near-identical to A1-02-028 Was möchtest du trinken?)"
+},
+"DE-A2-11-009": {
+"notes": "Possessives standing alone take full endings: meiner for masculine Schlüssel. They match the gender of the noun left out.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-11-010": {
+"notes": "Standing alone, the neuter possessive is deins (or deines). Handy is neuter. The masculine is deiner, the feminine deine.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-11-011": {
+"notes": "ihres (hers) is neuter for Auto. The same form also means 'theirs'; context decides. The masculine is ihrer: Mein Hund ist alt, ihrer ist jung.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-11-012": {
+"notes": "In speech, der / die / das are used as stressed pronouns: den kenne ich nicht. They're often fronted for emphasis.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-A2-11-013": {
+"notes": "Die ist sehr nett uses die as a pronoun for die Kollegin. It's neutral in speech; in writing sie is better.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-A2-11-014": {
+"notes": "The demonstrative pronoun in the dative masculine is dem: mit dem. It sounds dismissive here, as often with demonstratives.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-A2-12-001": {
+"notes": "Names add -s with no apostrophe: Annas Auto. An apostrophe (Anna's) is a common anglicism, tolerated on shop signs only.",
+"tip": "No apostrophe: Annas Auto.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-12-002": {
+"notes": "In speech, von + dative replaces the genitive: das Auto von meinem Bruder. In writing, the genitive (meines Bruders) is preferred.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken)"
+},
+"DE-A2-12-003": {
+"notes": "wessen (whose) is the genitive of wer. In speech, Wem gehört die Tasche? is more common. It is followed directly by the noun owned: Wessen Tasche?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-12-004": {
+"notes": "The genitive plural article is der, and possessives take -er: meiner Eltern. The noun itself adds no ending.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"DE-A2-13-001": {
+"notes": "werden + noun means 'become': Ich werde Lehrerin. There's no article with jobs, as with sein. A man would say Ich werde Lehrer.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-13-002": {
+"notes": "es wird dunkel = it's getting dark: werden + adjective describes a change. schon here means 'already'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-13-003": {
+"notes": "werden + infinitive forms the future: Was wirst du machen? du takes wirst, with no d. In speech, the present with a time word often replaces this future.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A2-13-004": {
+"notes": "The past of werden is wurde: Er wurde krank (he fell ill). It's also the past passive auxiliary. The Perfekt is ist … geworden.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-001": {
+"notes": "Nouns in -heit are always feminine: die Freiheit. Likewise -keit (die Möglichkeit) and -ung. -heit nouns often come from adjectives: frei → die Freiheit.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-002": {
+"notes": "Nouns in -um are neuter: das Museum, das Zentrum. Their plural often replaces -um with -en: Museen. montags here means 'on Mondays'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-003": {
+"notes": "Nouns in -ling are masculine: der Frühling, der Lehrling, der Liebling. The other seasons are masculine too: der Sommer, der Herbst, der Winter.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-004": {
+"notes": "Nouns in -tät are feminine: die Universität, die Qualität. They're mostly Latin loans. The stress falls on the final syllable: Universität.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-005": {
+"notes": "Nouns in -ismus are masculine: der Tourismus, der Kapitalismus. The plural is rare; -ismus nouns are mostly uncountable.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-006": {
+"notes": "Nouns in -ment are mostly neuter: das Dokument, das Instrument. der Zement is an exception. The plural is -e: Dokumente.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-007": {
+"notes": "Nouns in -ion are feminine: die Situation, die Nation, die Information. The plural is -en: Situationen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-008": {
+"notes": "Metals are neuter: das Gold, das Silber, das Eisen. Exceptions include die Bronze and der Stahl. Metal nouns rarely have plurals.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-009": {
+"notes": "Numbers used as nouns are feminine: die Eins, die Drei. German school marks run from 1 (best) to 6. eine Eins is the best mark.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-010": {
+"notes": "Diminutives in -chen are always neuter, whatever the base noun: die Katze → das Kätzchen. -lein (das Kätzlein) is a more literary equivalent.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-011": {
+"notes": "-chen adds an umlaut where possible: Haus → Häuschen. Häuschen also means a little cottage. Diminutives in -chen take no plural ending: zwei Häuschen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-012": {
+"notes": "Tochter forms its plural with an umlaut only: Töchter. Mutter does the same: Mütter. studieren means study at university.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-013": {
+"notes": "Nacht takes umlaut + -e: Nächte. Several one-syllable feminines do the same: Stadt → Städte, Hand → Hände.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-014": {
+"notes": "Garten ends in -en, so it adds no ending, only an umlaut: Gärten. Masculine nouns in -el behave the same way: Mantel → Mäntel.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A2-14-015": {
+"notes": "Kino ends in a vowel other than -e, so the plural is -s: Kinos. es gibt takes the accusative but this doesn't show in the plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+}
+}

@@ -1,0 +1,1044 @@
+{
+"DE-A1-01-001": {
+"notes": "ich takes bin, the most irregular form of sein. The verb has no stem in common with the infinitive in the present: bin, bist, ist, sind, seid, sind. müde is a predicative adjective, so it has no ending.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-01-002": {
+"notes": "du takes bist. The du form of almost every verb ends in -st, and sein follows that pattern even though its stem is irregular. nett after sein stays without an ending.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-01-003": {
+"notes": "er takes ist. With jobs after sein (or werden), German uses no article: Er ist Lehrer, not ein Lehrer. The article returns with an adjective: Er ist ein guter Lehrer.",
+"tip": "No article with jobs: Er ist Lehrer.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-01-004": {
+"notes": "wir takes sind, the same form as sie (they) and Sie (you, formal). aus + country says where someone is from; England needs no article, unlike die Schweiz or die Türkei.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-01-005": {
+"notes": "ihr (you, several people you say du to) takes seid, spelt with d. It sounds like the preposition seit (since), a classic spelling trap. spät dran sein = be late; plain spät sein sounds odd.",
+"tip": "seid (you are) vs seit (since).",
+"compare": "",
+"register": "Informal (ihr)",
+"text": "(To two friends) Ihr {{c1::seid::sein · ihr}} spät dran.",
+"flag": "text: Ihr seid spät is unidiomatic; changed to Ihr seid spät dran"
+},
+"DE-A1-01-006": {
+"notes": "Sie (formal you) takes sind, the same form as the plural, and is always written with a capital. In a yes/no question the verb comes first: Sind Sie Frau Müller? Frau is used with a surname for any adult woman.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-A1-01-007": {
+"notes": "ich takes habe. haben drops the b in the du and er forms (hast, hat) but is otherwise regular. eine Frage haben = have a question; Frage is feminine, so eine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-01-008": {
+"notes": "du takes hast, without the b of the stem. A yes/no question puts the verb first: Hast du Zeit? Zeit haben (have time) takes no article in German.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-01-009": {
+"notes": "sie meaning 'she' takes the er form, hat. The same word sie with a plural verb (haben) means 'they', so the verb ending tells you which is meant.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-01-010": {
+"notes": "ihr takes habt. German says Hunger haben (have hunger) where English uses 'be hungry'; likewise Durst haben, Angst haben, Recht haben.",
+"tip": "Hunger haben = be hungry.",
+"compare": "",
+"register": "Informal (ihr)"
+},
+"DE-A1-01-011": {
+"notes": "With a friend, du takes kommst; formally, Sie takes kommen, the same form as the infinitive. The choice of du or Sie also changes possessives (dein / Ihr) and the imperative.",
+"tip": "",
+"compare": "",
+"register": "Informal (du); formal (Sie)"
+},
+"DE-A1-02-001": {
+"notes": "ich takes -e on the stem: wohn-e. wohnen means live in the sense of reside; leben is broader (be alive, live a life). in + city names takes no article.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-002": {
+"notes": "du takes -st: machst. Was machst du…? is the everyday way to ask about plans; German uses the present tense for the near future, so no 'going to' is needed.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-003": {
+"notes": "er takes -t: spielt. gern after the verb turns it into 'like doing': Er spielt gern Fußball. There's no separate verb for 'like doing'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-004": {
+"notes": "ihr takes -t, the same ending as er: ihr lernt. The ihr and er forms coincide for almost every regular verb, so the pronoun is what tells them apart.",
+"tip": "",
+"compare": "",
+"register": "Informal (ihr)"
+},
+"DE-A1-02-005": {
+"notes": "arbeiten has a stem ending in -t, so -e- is inserted before the ending to make it pronounceable: sie arbeitet, du arbeitest. The same applies to stems in -d: finden → findet.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-006": {
+"notes": "heißen has a stem ending in -ß, so the du form adds only -t: du heißt, not heißst. Wie heißt du? is the standard way to ask a name; the formal version is Wie heißen Sie?",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-007": {
+"notes": "finden has a stem in -d, so du takes -est: findest. etwas gut finden means 'think something is good'; it's the usual way to give an opinion in speech.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-008": {
+"notes": "Verbs in -eln drop the e of the stem in the ich form: sammeln → ich sammle. The other forms keep it: du sammelst, wir sammeln.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-009": {
+"notes": "Verbs in -ern and -eln take only -n, not -en, in the wir and sie forms: wir wandern. wandern means hiking or walking in the countryside, not wandering aimlessly.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-010": {
+"notes": "Verbs in -ern keep the e in the ich form: ändern → ich ändere. Only -eln verbs drop it (ich sammle), so the two groups behave differently here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-011": {
+"notes": "lächeln keeps the e of -eln in the du form: du lächelst. Only the ich form drops it (ich lächle). Warum asks for a reason and sends the verb to second place.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-012": {
+"notes": "tanzen has a stem ending in -z, so the du form adds only -t: du tanzt. The s of -st merges with the z sound, as with heißen and sitzen.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-013": {
+"notes": "sitzen has a stem in -tz, so du takes only -t: du sitzt. auf meinem Platz is dative, because sitzen describes position, not movement.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-014": {
+"notes": "halten changes a → ä and adds no extra -et in the er form: er hält, not hältet. The stem's t merges with the ending. halten here means 'stop' of a vehicle.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-015": {
+"notes": "raten (advise, guess) changes a → ä and drops the extra e: du rätst, er rät. It takes the dative of the person advised: Was rätst du mir?",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-016": {
+"notes": "laufen changes au → äu in the du and er forms: sie läuft. In everyday German laufen often means 'walk' as well as 'run'; context decides.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-017": {
+"notes": "fahren changes a → ä in the du and er forms: er fährt. fahren covers any journey by vehicle, so Er fährt nach Hamburg doesn't say whether he's driving or on the train.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-018": {
+"notes": "sprechen changes e → i in the du and er forms: du sprichst. With languages, gut Deutsch sprechen uses Deutsch as an adverb-like noun, with no article.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-019": {
+"notes": "lesen changes e → ie in the du and er forms: sie liest. The du form is also liest, as the stem's s absorbs the -st ending.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-020": {
+"notes": "essen changes e → i: du isst, er isst, with ss throughout. gern after the verb means 'like doing', so Was isst du gern? asks what food you like.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-021": {
+"notes": "nehmen changes e → i and also its consonants: er nimmt, du nimmst, with mm and no h. den Bus nehmen = take the bus.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-022": {
+"notes": "sehen changes e → ie in the du and er forms: du siehst. German uses the plain present for 'can see'; können is unnecessary.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-023": {
+"notes": "schlafen changes a → ä in the er form: es schläft. Das Baby is neuter, so the matching pronoun is es, and the verb takes the er / es form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-024": {
+"notes": "helfen changes e → i: er hilft. It takes a dative object, so the person helped is dative: seiner Mutter, not seine Mutter.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-025": {
+"notes": "wissen is irregular in the singular: ich weiß, du weißt, er weiß, with no -t in the ich and er forms. It's used for facts; for people or places use kennen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-02-026": {
+"notes": "du takes weißt. Weißt du, wo…? introduces an indirect question, which sends its verb (wohnt) to the end of the clause.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-027": {
+"notes": "möchte (would like) is a Konjunktiv II form of mögen and has no ending in the ich or er form: ich möchte. It's the polite way to order or ask for something.",
+"tip": "",
+"compare": "",
+"register": "Polite"
+},
+"DE-A1-02-028": {
+"notes": "du takes möchtest. möchte works like a modal: the second verb (trinken) goes to the end as an infinitive.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-02-029": {
+"notes": "ihn (a person) needs kennen: know someone, be familiar with. A fact or a clause such as wo er wohnt needs wissen. English 'know' covers both.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-001": {
+"notes": "Tisch is masculine, so the nominative article is der. German has no reliable rule for the gender of most nouns, so each must be learned with its article.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-002": {
+"notes": "Lampe is feminine, so die. Most nouns ending in -e are feminine (die Lampe, die Tasse, die Straße), though there are exceptions such as der Junge.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-003": {
+"notes": "Buch is neuter, so das. Neuter is grammatical, not about meaning: das Buch, das Auto, das Haus. Its plural is die Bücher, with umlaut + -er.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-004": {
+"notes": "Kinder is plural, and every plural takes die in the nominative, whatever the singular's gender: das Kind → die Kinder.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-005": {
+"notes": "Mädchen ends in -chen, and every -chen noun is neuter, even for a girl: das Mädchen. Grammatical gender follows the suffix, not the meaning.",
+"tip": "-chen and -lein nouns are always das.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-006": {
+"notes": "Zeitung ends in -ung, and -ung nouns are always feminine: die Zeitung. Likewise -heit, -keit and -schaft.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-007": {
+"notes": "Hund is masculine, and the indefinite article in the masculine nominative is ein, with no ending. Das ist… uses invariable das whatever the noun's gender.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-008": {
+"notes": "Katze is feminine, so the indefinite article is eine. Masculine and neuter both take plain ein in the nominative; only the feminine adds -e.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-009": {
+"notes": "A compound noun takes the gender of its last part: Haus is neuter, but Tür is feminine, so die Haustür. The first part only modifies.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-010": {
+"notes": "Fahrrad is neuter, but the compound ends in Schlüssel, which is masculine, so der Fahrradschlüssel. Compounds are written as one word.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-011": {
+"notes": "Kinderzimmer ends in Zimmer, which is neuter, so das. The first part is the plural Kinder, as often in compounds about people.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-012": {
+"notes": "Arzt forms its feminine with -in plus an umlaut: Ärztin. With jobs after sein there's no article: Sie ist Ärztin.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-013": {
+"notes": "The plural of -in is -innen, with a doubled n: Lehrerin → Lehrerinnen. die covers every plural, so only the noun shows gender here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-014": {
+"notes": "Koch takes -in and an umlaut: Köchin. Not every -in feminine has an umlaut (Lehrerin, Freundin), so learn the form with the noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-015": {
+"notes": "Kind takes -er in the plural: Kinder. Many one-syllable neuters do the same, often with an umlaut: Haus → Häuser, Buch → Bücher.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-016": {
+"notes": "Apfel forms its plural with an umlaut only: Äpfel. Masculine nouns in -el and -er often add nothing but the umlaut (Vater → Väter).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-017": {
+"notes": "Frau takes -en in the plural: Frauen. Most feminine nouns form their plural with -(e)n, which makes this the commonest plural ending.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-018": {
+"notes": "Auto ends in a vowel other than -e, so the plural is -s: Autos. -s is also used for many loanwords (Hotels, Handys).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-019": {
+"notes": "Haus takes umlaut + -er: Häuser. The umlaut changes au to äu, as in laufen → läuft. Other neuters with this plural: Buch → Bücher, Dorf → Dörfer.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-020": {
+"notes": "Bruder forms its plural with an umlaut and no ending: Brüder. meine is the plural form of mein, which agrees with Brüder.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-021": {
+"notes": "kein replaces ein or no article: kein Problem. With a possessive (mein) or definite article, use nicht instead: nicht mein Problem.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-03-022": {
+"notes": "kein declines like ein, and Zeit is feminine, so the accusative is keine. Ich habe keine Zeit is far more natural than Ich habe nicht Zeit.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-001": {
+"notes": "haben takes an accusative object, and Bruder is masculine, so ein becomes einen. The masculine is the only gender that changes in the accusative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-002": {
+"notes": "Mantel is masculine and the object of kaufen, so der → den. A present tense with a purchase in view often means 'I'll buy' in English.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-003": {
+"notes": "Frau is feminine, and the feminine accusative is the same as the nominative: die. Only masculine articles change between the two cases.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-004": {
+"notes": "Kaffee is masculine and the object, so kein → keinen. Ich trinke keinen Kaffee states a habit: I don't drink coffee.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-005": {
+"notes": "Auto is neuter, and the neuter accusative is the same as the nominative: ein. brauchen takes a plain accusative object.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-006": {
+"notes": "The subject (der Mann) stays nominative; the object (den Wagen) takes the accusative. Because the case marks the roles, the word order can change: Den Wagen kauft der Mann.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-007": {
+"notes": "für always takes the accusative, so mein → meinen before masculine Vater. The other accusative prepositions are durch, gegen, ohne and um.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-008": {
+"notes": "durch (through) takes the accusative: den Park. It never contracts in standard writing, unlike the dative prepositions (zum, beim).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-009": {
+"notes": "du in the accusative is dich. Ich liebe dich is reserved for romantic or family love; for friends, Ich hab dich lieb is common.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-04-010": {
+"notes": "er in the accusative is ihn. kennen takes a direct object: Kennst du ihn? The accusative of sie and es doesn't change.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-04-011": {
+"notes": "ich in the accusative is mich. anrufen takes the accusative of the person called, unlike English 'call to'; the prefix an goes to the end.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-04-012": {
+"notes": "ihr in the accusative is euch, which is also its dative. besuchen takes a direct object; am Sonntag uses am for days.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-001": {
+"notes": "mit always takes the dative, and Bus is masculine, so der → dem. mit dem Bus fahren = go by bus; mit marks the means of transport.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-002": {
+"notes": "bei takes the dative, and Mutter is feminine, so mein → meiner. bei + person means 'at someone's home', not 'with' in the sense of together.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-003": {
+"notes": "aus takes the dative, and Schweiz is feminine with an article, so aus der Schweiz. Most countries have no article (aus England), but a few do: die Schweiz, die Türkei.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-004": {
+"notes": "zu takes the dative and contracts with dem: zu dem → zum. zu + person means going to their place or practice: zum Arzt.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-005": {
+"notes": "Schule is feminine, so zu der contracts to zur. zur Schule gehen = go to school, attend school. Feminine zu der always contracts in speech and writing.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-006": {
+"notes": "von takes the dative, and Freund is masculine, so mein → meinem. von here marks where something comes from, or who gave it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-007": {
+"notes": "nach (after) takes the dative: nach dem Essen. Essen is a neuter noun formed from the infinitive, so das → dem.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-008": {
+"notes": "The dative plural adds -n to the noun unless it already ends in -n or -s: Kinder → mit den Kindern. The article den is the dative plural.",
+"tip": "Dative plural: + -n (den Kindern).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-009": {
+"notes": "Wie geht es dir? uses the dative of du, dir. The person feeling is dative and es is the subject; the formal version is Wie geht es Ihnen?",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-05-010": {
+"notes": "gefallen makes the thing liked the subject and the person the dative: Das Kleid gefällt mir. The verb agrees with das Kleid, not with mir.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-011": {
+"notes": "helfen takes the dative, so er → ihm, not ihn. English 'help him' tempts learners into the accusative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-012": {
+"notes": "geben takes the person in the dative and the thing in the accusative: ihr (to her) das Buch. ihr is also the dative of sie (she).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-013": {
+"notes": "außer (except) takes the dative: außer mir. The sentence starts with the außer-phrase, so the verb war comes second.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-014": {
+"notes": "gegenüber (opposite) takes the dative: gegenüber dem Bahnhof. With pronouns it follows the word: mir gegenüber.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-015": {
+"notes": "um (around) takes the accusative: um den Tisch. um also means 'at' with clock times (um acht Uhr), with no case visible.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-016": {
+"notes": "gegen (against) takes the accusative: gegen den Plan. With times it means 'around': gegen acht Uhr. gegen also means 'versus' in sport: Bayern gegen Dortmund.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-05-017": {
+"notes": "ohne (without) takes the accusative: ohne meinen Mann. It often takes no article at all: ohne Zucker, ohne Geld.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-06-001": {
+"notes": "Bruder is masculine nominative, so mein has no ending. mein follows the pattern of ein: mein, meine, mein, meine.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-06-002": {
+"notes": "Schwester is feminine, so mein takes -e: meine. The ending matches the thing owned, not the owner's gender.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-06-003": {
+"notes": "du gives dein, and Handy is neuter nominative, so no ending. Handy is the German word for a mobile phone.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-06-004": {
+"notes": "unser takes the plural -e before Kinder: unsere. The -er of unser is part of the stem, not an ending.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-06-005": {
+"notes": "Sie gives Ihr, always with a capital: Ist das Ihr Koffer? Lower-case ihr means her or their. Ihr declines like mein: Ihre Tasche, Ihren Koffer.",
+"tip": "Ihr (your, formal) vs ihr (her / their).",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-A1-06-006": {
+"notes": "Schlüssel is masculine and the object of suchen, so mein → meinen. suchen takes a direct object: look for something.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-06-007": {
+"notes": "euer drops its second e before an ending: eure Wohnung, not euere. ihr (several friends) gives euer.",
+"tip": "",
+"compare": "",
+"register": "Informal (ihr)"
+},
+"DE-A1-06-008": {
+"notes": "The possessive depends on the owner: Peter → sein, Anna → ihr. The ending depends on the thing owned: seine Frau (f.), ihr Mann (m.).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-07-001": {
+"notes": "können has no ending in the ich form and changes its vowel: ich kann. The second verb (schwimmen) goes to the end as an infinitive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-07-002": {
+"notes": "du takes kannst. Kannst du…? asks about ability or availability; a polite request uses Könntest du…?",
+"tip": "",
+"compare": "",
+"register": "Informal (du)",
+"text": "(To a friend) {{c1::Kannst::können · du}} du heute Abend kommen?",
+"tr": "Can you come this evening?",
+"flag": "dup: replaced Kannst du mir helfen? (near-identical to A1-05-011 Kannst du ihm helfen?)"
+},
+"DE-A1-07-003": {
+"notes": "müssen changes ü → u in the singular: ich muss. It expresses necessity; the negative müssen nicht means 'don't have to', not 'mustn't'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-07-004": {
+"notes": "wollen gives er will, which means 'wants', not 'will'. werden is the German future auxiliary; will is a false friend.",
+"tip": "er will = he wants, not he will.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-07-005": {
+"notes": "dürfen gives man darf; with nicht it means 'mustn't, not allowed': Hier darf man nicht rauchen. man takes the er form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-07-006": {
+"notes": "sollen expresses what someone else wants you to do: Du sollst… (you're supposed to). It keeps its vowel throughout: ich soll, du sollst.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-07-007": {
+"notes": "mögen gives ich mag and is usually used with a noun: Ich mag keine Tomaten. With a verb, gern is more natural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-07-008": {
+"notes": "ihr takes wollt, with the infinitive vowel. mitkommen goes to the end in one piece because it's an infinitive after the modal.",
+"tip": "",
+"compare": "",
+"register": "Informal (ihr)"
+},
+"DE-A1-07-009": {
+"notes": "müssen nicht means 'don't have to': you have a choice. nicht dürfen means 'mustn't': it's forbidden. English 'must not' maps onto dürfen, not müssen.",
+"tip": "musst nicht = don't have to; darfst nicht = mustn't.",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-08-001": {
+"notes": "aufstehen splits in a main clause: the stem stehe goes second and the prefix auf to the end. um sieben Uhr uses um for clock times.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-08-002": {
+"notes": "anrufen splits: ruft … an. It takes the accusative of the person called (seine Mutter), not a preposition.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-08-003": {
+"notes": "einkaufen splits: wir kaufen … ein. am Samstag points to one particular Saturday; samstags would mean every Saturday.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"tr": "We're going shopping on Saturday.",
+"flag": "tr: am Samstag is one Saturday; was 'on Saturdays'"
+},
+"DE-A1-08-004": {
+"notes": "ankommen splits: kommt … an. Der Zug is masculine, so the matching pronoun is er; the verb takes the er form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-08-005": {
+"notes": "The prefix mit from mitkommen stands alone at the end of the question: Kommst du mit? Many separable prefixes are also prepositions.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-08-006": {
+"notes": "fernsehen splits and keeps its vowel change: sie sieht … fern. The prefix fern (far) goes to the end.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-08-007": {
+"notes": "After a modal, a separable verb stays in one piece at the end as an infinitive: aufstehen. The split only happens when the verb itself is conjugated.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-08-008": {
+"notes": "In the imperative, a separable verb still splits: Steh … auf! The du imperative is the bare stem with no -st and no pronoun.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)",
+"text": "(To a friend) {{c1::Steh::aufstehen · imperative, du}} endlich auf!",
+"tr": "Get up, will you!",
+"flag": "dup: replaced Ruf mich morgen an! (near-identical to A1-04-011 Er ruft mich morgen an); answer Ruf → Steh"
+},
+"DE-A1-08-009": {
+"notes": "zumachen splits in the imperative: Mach … zu! The prefix zu is the last word. bitte usually comes after the verb.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-09-001": {
+"notes": "Heute takes first position, so the verb gehe comes second and the subject ich follows it. The verb is always the second element in a statement.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-09-002": {
+"notes": "Morgen comes first, so fliegt must come second, before er. English keeps subject-verb order here; German never does.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-09-003": {
+"notes": "A yes/no question starts with the verb: Wohnst du…? German has no 'do' auxiliary for questions. The answer is ja, nein, or doch after a negative question.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-09-004": {
+"notes": "wo asks for a location, woher for an origin, wohin for a destination. English 'where' covers all three; the German verb choice (wohnen, kommen, gehen) points to the right one.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-09-005": {
+"notes": "wann asks 'when?' about time. It's never used for 'when' in statements; that's wenn or als. In indirect questions it sends the verb to the end: Weißt du, wann er kommt?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-09-006": {
+"notes": "warum asks for a reason; the answer usually starts with weil. Wieso and weshalb are close synonyms. warum is followed straight by the verb: Warum lernst du…?",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-09-007": {
+"notes": "Wie viel (how much) is two words; wie viele is used with plurals (Wie viele Kinder?). Wie viel kostet das? is the standard price question.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-09-008": {
+"notes": "ja answers a positive question; doch contradicts a negative one: Hast du keinen Hunger? – Doch! English 'yes' covers both.",
+"tip": "doch = yes, contradicting a negative question.",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-09-009": {
+"notes": "The question asks for the object of treffen, so the accusative wen. wer is only for the subject: Wer hat dich getroffen?",
+"tip": "",
+"compare": "",
+"register": "Informal (du)",
+"text": "{{c1::Wen::who · accusative}} hast du gestern getroffen?",
+"tr": "Who did you meet yesterday?",
+"flag": "dup: replaced Wen besuchst du am Wochenende? (near-identical to A1-02-002 Was machst du am Wochenende?)"
+},
+"DE-A1-09-010": {
+"notes": "gehören takes the dative, so the question word is wem. Wem gehört…? is the standard way to ask who owns something.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-09-011": {
+"notes": "Was für ein asks what kind of: Was für ein Auto? ein declines with the noun, and für doesn't trigger the accusative here.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-10-001": {
+"notes": "Days take am (an + dem): am Freitag. Clock times take um: um acht Uhr. Two prepositions in one sentence keep the two time types apart.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-002": {
+"notes": "Months and seasons take im (in + dem): im Mai, im Sommer. Geburtstag haben = have one's birthday. Years, by contrast, take no preposition: 2010 or im Jahr 2010.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-003": {
+"notes": "Cities and countries without an article take nach: nach Berlin. Countries with an article take in + accusative: in die Schweiz.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-004": {
+"notes": "nach Hause means going home (direction); zu Hause means being at home (location). Both keep the old dative -e in Hause.",
+"tip": "nach Hause (going), zu Hause (being).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-005": {
+"notes": "halb acht means half on the way to eight: 7:30. English counts from the past hour, so 'half eight' is a false friend.",
+"tip": "halb acht = 7:30, not 8:30.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-006": {
+"notes": "Viertel nach drei = quarter past three (3:15). nach (past) counts on from the hour, like English. In parts of Austria and eastern Germany, viertel vier means the same.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-007": {
+"notes": "Viertel vor vier = quarter to four (3:45). vor counts back from the coming hour. In parts of Austria and eastern Germany, dreiviertel vier means the same.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-008": {
+"notes": "German says the units before the tens, joined by und, all in one word: einundzwanzig (one-and-twenty). The numbers up to a million are written as one word.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-009": {
+"notes": "Years up to 1999 are said in hundreds: neunzehnhundertneunzig (nineteen hundred ninety). From 2000 they're said as thousands: zweitausendzehn.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-010": {
+"notes": "German uses a decimal comma, spoken Komma: drei Komma fünf (3,5). A full stop separates thousands: 1.000.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-011": {
+"notes": "Official times use the 24-hour clock with Uhr between hours and minutes: vierzehn Uhr dreißig (14:30). In conversation, halb drei is also common.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-012": {
+"notes": "fünf vor halb drei = five before half (towards) three: 2:25. Times near the half hour are counted from halb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-013": {
+"notes": "Masculine and neuter measure words stay singular after numbers: zwei Kilo. There's no 'of': zwei Kilo Äpfel.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-014": {
+"notes": "Glas as a measure stays singular: zwei Glas Wein. As a countable object, it has a plural: zwei Gläser im Schrank.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-10-015": {
+"notes": "Stück as a measure stays singular: zwei Stück Kuchen. Feminine measures take the plural: zwei Flaschen Wasser.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-11-001": {
+"notes": "The du imperative is the bare stem with no ending and no pronoun: Komm! An -e (Komme!) is old-fashioned.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-11-002": {
+"notes": "The Sie imperative is the infinitive form + Sie: Kommen Sie! Without Sie it would sound like a sharp order.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-A1-11-003": {
+"notes": "The ihr imperative is the ihr form without the pronoun: Kommt mit! mit is the separable prefix of mitkommen.",
+"tip": "",
+"compare": "",
+"register": "Informal (ihr)"
+},
+"DE-A1-11-004": {
+"notes": "Verbs with e → i keep the i in the du imperative: nehmen → Nimm! The double m is also kept. The ihr and Sie forms are regular: Nehmt!, Nehmen Sie!",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-11-005": {
+"notes": "sein has an irregular imperative: Sei! (du), Seid! (ihr), Seien Sie! (Sie). leise means quietly. Being an imperative, the sentence has no pronoun du.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-11-006": {
+"notes": "helfen keeps its e → i change in the imperative: Hilf! The person helped is dative: Hilf mir! The Sie form, Helfen Sie mir!, has no vowel change.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-11-007": {
+"notes": "Verbs with a → ä drop the umlaut in the imperative: fahren → Fahr! (not Fähr!). Only e → i verbs keep their change.",
+"tip": "a → ä verbs lose the umlaut: Fahr!",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-11-008": {
+"notes": "aufmachen splits in the imperative: Mach … auf! The prefix auf ends the sentence. bitte can sit after the verb or at the very end.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-11-009": {
+"notes": "sein has the Sie imperative Seien Sie!, not Sind Sie, which would be a question. pünktlich = on time.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-A1-12-001": {
+"notes": "sein is normally used in the simple past, even in speech: ich war. Ich bin gewesen is possible but less common.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-12-002": {
+"notes": "wir takes waren. letztes Jahr is an accusative time expression with no preposition. The past of sein has no -t in the ich and er forms: ich war, er war.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-12-003": {
+"notes": "haben is also normally used in the simple past: du hattest. Geburtstag haben = have one's birthday. The ich form is hatte, with no ending.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)",
+"text": "(To a friend) {{c1::Hattest::haben · past, du}} du gestern Geburtstag?",
+"tr": "Was it your birthday yesterday?",
+"flag": "dup: replaced Hattest du Zeit? (near-identical to A1-01-008 Hast du Zeit?)"
+},
+"DE-A1-12-004": {
+"notes": "er takes hatte, with no -t ending. keine Lust haben = not feel like it, a very common phrase. The du form is hattest, the plural hatten.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-12-005": {
+"notes": "Regular verbs form the participle with ge- + stem + -t: gespielt. The Perfekt is the normal spoken past for most verbs.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-006": {
+"notes": "machen is regular: gemacht. The participle goes to the end of the clause, after any other words. The question word was keeps the verb hast in second place.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-A1-12-007": {
+"notes": "lesen is irregular: gelesen, with -en. Irregular participles must be learned; the vowel often changes too (trinken → getrunken).",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-008": {
+"notes": "essen has the irregular participle gegessen, with an extra g. Pizza essen is the everyday way to say 'have pizza'.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-009": {
+"notes": "Separable verbs put ge- between the prefix and the stem: an-ge-rufen. The participle is written as one word.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-010": {
+"notes": "Verbs in -ieren take no ge- in the participle: studiert. They're always regular: studieren → studiert.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-011": {
+"notes": "kommen is a verb of movement, so the Perfekt uses sein: Er ist gekommen. The participle gekommen is irregular.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-012": {
+"notes": "bleiben takes sein, though it describes staying put: Sie ist geblieben. It's the main exception to 'sein for movement'.",
+"tip": "bleiben takes sein.",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-013": {
+"notes": "gehen (movement to a place) takes sein: bin gegangen. arbeiten (an activity) takes haben: habe gearbeitet.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-12-014": {
+"notes": "fahren nach Wien is movement from A to B, so the Perfekt uses sein: Wir sind gefahren. With a direct object (das Auto fahren) it switches to haben.",
+"tip": "",
+"compare": "",
+"register": "Neutral (spoken past)"
+},
+"DE-A1-13-001": {
+"notes": "es gibt means 'there is / there are' and never changes for number: es gibt einen Supermarkt, es gibt zwei Supermärkte. The object is accusative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-13-002": {
+"notes": "es gibt takes the accusative, so kein → keinen before masculine Parkplatz. The verb stays singular. The plural would be es gibt keine Parkplätze, still with a singular verb.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-13-003": {
+"notes": "gern after a verb means 'like doing': Ich spiele gern Tennis. There's no equivalent of the English -ing form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-13-004": {
+"notes": "lieber is the comparative of gern: prefer. The superlative is am liebsten: Ich trinke am liebsten Tee.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-A1-13-005": {
+"notes": "man means 'one, people, you' in general and takes the er form: man spricht. English often uses 'they' instead.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+}
+}

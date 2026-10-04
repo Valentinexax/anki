@@ -1,0 +1,870 @@
+{
+"DE-B2-01-001": {
+"notes": "Reported speech in news and formal writing uses Konjunktiv I: er sei. sein is the most irregular: ich sei, du seist, er sei, wir seien. The reporter doesn't vouch for the claim.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"DE-B2-01-002": {
+"notes": "haben gives sie habe in Konjunktiv I: stem + -e. It's distinct from the indicative hat, which is why it's usable in reported speech.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"DE-B2-01-003": {
+"notes": "Modals form Konjunktiv I from the infinitive stem, without the vowel change: er könne (not kann). behaupten = claim.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"DE-B2-01-004": {
+"notes": "werden gives sie werde, which reports a future: the company would not cut jobs. die Firma takes the third-person singular.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"DE-B2-01-005": {
+"notes": "es gibt becomes es gebe in reported speech: Laut Polizei gebe es keine Verletzten. laut (according to) often introduces the source.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"DE-B2-01-006": {
+"notes": "The Konjunktiv I of sie haben is also haben, identical to the indicative, so Konjunktiv II hätten is used instead to mark it as reported.",
+"tip": "If Konjunktiv I = indicative, switch to Konjunktiv II.",
+"compare": "",
+"register": "Formal; news"
+},
+"DE-B2-01-007": {
+"notes": "The past in Konjunktiv I uses sei / habe + participle: sie sei gewesen. Konjunktiv I has no separate simple past.",
+"tip": "",
+"compare": "",
+"register": "Formal; news"
+},
+"DE-B2-02-001": {
+"notes": "sich lassen + infinitive means 'can be done': Das Problem lässt sich lösen. It's a common alternative to kann gelöst werden.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-02-002": {
+"notes": "sein + zu + infinitive means 'can be done': leicht zu verstehen. The same construction can also mean 'must be done' in instructions.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-02-003": {
+"notes": "In official instructions, sein + zu means 'must be done': ist einzureichen. A separable verb puts zu in the middle.",
+"tip": "",
+"compare": "",
+"register": "Official"
+},
+"DE-B2-02-004": {
+"notes": "-bar added to a verb stem gives a passive '-able': machbar (doable). It's very productive: essbar, trinkbar, erreichbar.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-02-005": {
+"notes": "lesbar (legible) is lesen + -bar. The negative is unlesbar; kaum lesbar is 'barely legible'. Not every -bar adjective is passive: dankbar (grateful) is an exception.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-02-006": {
+"notes": "man + active verb often replaces the passive in speech: Hier kann man gut essen. English uses 'you' or a passive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-02-007": {
+"notes": "Dative verbs keep their dative in the passive and have no subject: Mir wurde geholfen. Ich wurde geholfen is wrong.",
+"tip": "Mir wurde geholfen, not Ich wurde geholfen.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-02-008": {
+"notes": "A subjectless passive keeps the verb in the third-person singular: wurde gratuliert. ihm (dative) stays dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-02-009": {
+"notes": "In the passive, durch marks a cause or means (an earthquake); von marks the agent, usually a person (the Romans).",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-02-010": {
+"notes": "war + participle describes the state already reached (it was shut); wurde + participle describes the action (it got shut).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-03-001": {
+"notes": "Partizip I (infinitive + -d) means '-ing' and declines like an adjective: den schlafenden Hund. The proverb Schlafende Hunde soll man nicht wecken builds on it.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"tr": "Don't wake the sleeping dog!",
+"flag": "tr: was 'Let sleeping dogs lie', the English proverb rather than a translation"
+},
+"DE-B2-03-002": {
+"notes": "Partizip II used as an adjective means 'done, -ed': ein gekochtes Ei. After ein, the neuter accusative takes -es.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-03-003": {
+"notes": "Partizip I describes something ongoing: die steigenden Preise (rising prices). After die in the plural, -en.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-03-004": {
+"notes": "An extended attribute puts a whole phrase before the noun: der seit Jahren leer stehende Laden. English needs a relative clause.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"DE-B2-03-005": {
+"notes": "zu + Partizip I means 'which must / can be done': ein schwer zu lösendes Problem. It's typical of written German.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"DE-B2-03-006": {
+"notes": "Partizip II as an extended attribute: die im letzten Jahr gebaute Brücke. The phrase im letzten Jahr sits between article and participle.",
+"tip": "",
+"compare": "",
+"register": "Written; formal"
+},
+"DE-B2-03-007": {
+"notes": "The perfect infinitive is participle + haben / sein: gewusst zu haben. scheinen + zu takes it to refer to the past.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-03-008": {
+"notes": "The passive infinitive is participle + werden: eingeladen zu werden. zu goes before werden. The perfect form adds worden: eingeladen worden zu sein.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-03-009": {
+"notes": "kommen takes sein, so its perfect infinitive is gekommen sein: froh, gekommen zu sein. English uses a plain past here: I'm glad I came.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-04-001": {
+"notes": "sollen can report hearsay: Er soll reich sein (he's said to be rich). The speaker passes on what others say without vouching for it.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-04-002": {
+"notes": "wollen can report the subject's own claim, often doubted: Sie will ihn nie gesehen haben. The perfect infinitive refers to the past.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-04-003": {
+"notes": "müssen can express a strong logical inference: er muss zu Hause sein (he must be). It's not about obligation here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-04-004": {
+"notes": "dürfte (Konjunktiv II of dürfen) gives a cautious estimate: That'll probably take… It's typical of careful or formal speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-04-005": {
+"notes": "können expresses possibility: Das kann nicht stimmen (that can't be right). The negation makes it a firm conclusion.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-04-006": {
+"notes": "Subjective modals refer to the past with a perfect infinitive: soll geflohen sein. fliehen takes sein.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-05-001": {
+"notes": "ja (unstressed) marks something both speakers know: Das weißt du ja. It often adds a slight reproach or reminder.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-002": {
+"notes": "doch in an imperative urges or encourages: Komm doch mit! It softens the command into a friendly suggestion.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-003": {
+"notes": "mal (short for einmal) softens a request: Kannst du mal kurz helfen? Without it, the request sounds blunter.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-004": {
+"notes": "denn in a question signals interest or surprise: Was ist denn los? It never begins the sentence and is unstressed.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-005": {
+"notes": "eben marks resignation: that's just how it is. Das ist eben so is the neutral and northern form. Stressed, eben means 'just now' or 'flat, even'.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-006": {
+"notes": "halt means the same as eben but is southern and colloquial: Wir müssen halt warten (we'll just have to wait).",
+"tip": "",
+"compare": "",
+"register": "Spoken; southern",
+"text": "(Southern Germany / Austria) Wir müssen {{c1::halt::particle: that's just how it is (southern)}} warten.",
+"tr": "We'll just have to wait.",
+"flag": "dup: replaced Das ist halt so (near-identical to B2-05-005 Das ist eben so)"
+},
+"DE-B2-05-007": {
+"notes": "schon (unstressed) reassures: you'll manage, don't worry. Stressed, schon means 'already'. Here schon goes after the verb, in the middle field.",
+"tip": "",
+"compare": "",
+"register": "Spoken",
+"text": "Du findest {{c1::schon::particle: reassurance}} eine Lösung.",
+"tr": "You'll find a solution, don't worry.",
+"flag": "dup: replaced Keine Sorge, das klappt schon (near-identical to B1-15-003 Keine Sorge, das wird schon klappen)"
+},
+"DE-B2-05-008": {
+"notes": "wohl expresses probability: Er ist wohl noch im Büro. It's weaker than sicher and stronger than vielleicht.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-009": {
+"notes": "eigentlich in a question means 'by the way, actually' and signals a change of topic or curiosity. As an ordinary adverb it means 'actually, in fact'.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-010": {
+"notes": "ruhig in an imperative reassures: go ahead, feel free. Komm ruhig rein = do come in. Outside imperatives, ruhig means 'calm, quiet'.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-011": {
+"notes": "bloß in an imperative turns it into a warning: Mach das bloß nicht! nur works the same way. In wishes, bloß means 'if only': Wäre ich bloß zu Hause!",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-012": {
+"notes": "nur in a Konjunktiv II wish means 'if only': Wäre ich nur früher losgefahren! The verb comes first when wenn is left out.",
+"tip": "",
+"compare": "",
+"register": "Spoken",
+"text": "Wäre ich {{c1::nur::particle: if only}} früher losgefahren!",
+"tr": "If only I'd set off earlier!",
+"flag": "dup: replaced Wenn er nur käme! (near-identical to B2-11-001 Wenn er doch nur käme!)"
+},
+"DE-B2-05-013": {
+"notes": "etwa in a question signals suspicion or a hoped-for 'no': Bist du etwa krank? (you're not ill, are you?).",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-014": {
+"notes": "aber in an exclamation intensifies: Das ist aber schön! It expresses surprise rather than contrast. Stressed or as a conjunction, aber means 'but'.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-015": {
+"notes": "auch in a question checks something that should be true: Hast du auch alles eingepackt? It works like an English tag question.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-05-016": {
+"notes": "vielleicht in an exclamation means 'what a…!': Das war vielleicht ein Tag! It has nothing to do with 'perhaps' here.",
+"tip": "",
+"compare": "",
+"register": "Spoken"
+},
+"DE-B2-06-001": {
+"notes": "indem (by doing) sends the verb to the end and describes the method. Both clauses share the subject (man).",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-06-002": {
+"notes": "sodass (so that, with the result that) introduces a consequence. It can also be written so dass. so … dass splits the same idea round an adjective.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-06-003": {
+"notes": "falls (if, in case) introduces a possible condition. It's slightly more tentative than wenn. The verb goes to the end of the falls-clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-06-004": {
+"notes": "je nachdem (depending on) is followed by ob or a question word: je nachdem, wie das Wetter ist. It's set off by a comma.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-06-005": {
+"notes": "ohne dass (without) is used when the subject changes: Er ging, ohne dass jemand es merkte. With the same subject, ohne … zu.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-06-006": {
+"notes": "zu + adjective …, als dass + Konjunktiv II means 'too … for': zu kalt, als dass man schwimmen könnte. It's formal.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-06-007": {
+"notes": "so + adjective …, dass introduces a result: so müde, dass er einschlief. so goes before the adjective in the main clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-06-008": {
+"notes": "außer dass means 'except that' and sends the verb to the end. Here the reported speech keeps Konjunktiv I: er müde sei.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-06-009": {
+"notes": "während can mean 'whereas' and contrast two facts, as well as 'while' (time). The verb goes to the end either way.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-07-001": {
+"notes": "beim + nominalised infinitive means 'while doing': beim Kochen = wenn ich koche. The infinitive is capitalised as a noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-07-002": {
+"notes": "Nominal style replaces a clause with a noun: nach seiner Ankunft = nachdem er angekommen war. ankommen gives die Ankunft.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-07-003": {
+"notes": "durch + noun gives the means: durch regelmäßiges Üben (by practising). durch takes the accusative, and Üben is neuter.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-07-004": {
+"notes": "abfahren gives die Abfahrt: vor der Abfahrt = bevor man abfährt. Nouns from verbs in -fahren end in -fahrt.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-07-005": {
+"notes": "anmelden gives die Anmeldung: bei der Anmeldung = wenn Sie sich anmelden. -ung nouns are always feminine.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-08-001": {
+"notes": "aufgrund (due to) takes the genitive: aufgrund des Streiks. It's also written auf Grund. In speech, wegen is more common.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-08-002": {
+"notes": "angesichts (in view of) takes the genitive: angesichts der Lage. It's typical of reports and speeches.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-08-003": {
+"notes": "innerhalb (within) takes the genitive: innerhalb einer Woche. Without an article, von + dative is used: innerhalb von zwei Tagen.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-B2-08-004": {
+"notes": "mithilfe (with the help of) takes the genitive and is also written mit Hilfe. It's often followed by von + dative when there's no article: mithilfe von Freunden.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-08-005": {
+"notes": "bezüglich (regarding) takes the genitive: bezüglich Ihrer Anfrage. It's common in business letters. hinsichtlich is a close synonym.",
+"tip": "",
+"compare": "",
+"register": "Formal; business"
+},
+"DE-B2-08-006": {
+"notes": "gemäß (in accordance with) takes the dative and can go before or after the noun: gemäß der Hausordnung / der Hausordnung gemäß.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-08-007": {
+"notes": "zufolge (according to) takes the dative and follows its noun: dem Bericht zufolge. Before the noun it would take the genitive, which is rare.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-B2-08-008": {
+"notes": "gegenüber in the sense 'towards, in relation to' takes the dative and follows a pronoun: mir gegenüber.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-08-009": {
+"notes": "entlang usually follows its noun with the accusative: die Straße entlang. Before the noun it takes the genitive or dative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-08-010": {
+"notes": "dank (thanks to) takes the dative or genitive: dank seiner Hilfe. It's used for positive causes only.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-08-011": {
+"notes": "laut (according to) often takes no article: laut Wetterbericht. With an article it takes the dative or genitive.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-08-012": {
+"notes": "zuliebe (for someone's sake) takes the dative and follows the noun: dir zuliebe. It's the only common preposition that can only follow its noun.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-08-013": {
+"notes": "samt (together with) takes the dative: samt seiner Familie. It's more formal than mit. It mainly survives in samt und sonders (each and every one).",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-08-014": {
+"notes": "entgegen (contrary to) takes the dative: entgegen allen Erwartungen. It can also follow the noun. In speech, gegen alle Erwartungen is more common.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-09-001": {
+"notes": "bestehen aus + dative = consist of: aus fünf Personen. The same verb with auf means 'insist on'. The team is the subject, so the verb is singular.",
+"tip": "bestehen aus (consist of) vs bestehen auf (insist on).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-09-002": {
+"notes": "bestehen auf + dative = insist on: auf einer Entschuldigung. Unusually, auf here takes the dative, not the accusative.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-09-003": {
+"notes": "abhängen von + dative = depend on. The prefix ab goes to the end: Das hängt von dir ab. The question form is Wovon hängt das ab?",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-09-004": {
+"notes": "sich verlassen auf + accusative = rely on. Here auf ihn is fronted for emphasis. The noun is der Verlass: Auf ihn ist Verlass.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-09-005": {
+"notes": "sich bewerben um + accusative = apply for (a job); bei + dative = with (a company). The noun is die Bewerbung (application).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-09-006": {
+"notes": "verzichten auf + accusative = do without, give up: auf Kaffee verzichten. The noun is der Verzicht. The verb goes to the end after the modal kann.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-09-007": {
+"notes": "sich gewöhnen an + accusative = get used to. The Perfekt uses haben: habe mich gewöhnt. The adjective is gewöhnt an or gewohnt (+ accusative).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-09-008": {
+"notes": "sich beschweren über + accusative = complain about; bei + dative = complain to. Both appear here. The noun is die Beschwerde (complaint).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-10-001": {
+"notes": "eine Entscheidung treffen = make a decision. treffen is the fixed verb; machen would be a calque from English.",
+"tip": "Entscheidung treffen, not machen.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-10-002": {
+"notes": "zur Verfügung stellen = make available, provide. stellen splits from its phrase: stellt … zur Verfügung.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-10-003": {
+"notes": "nicht in Frage kommen = be out of the question. Also written infrage. Positively, in Frage kommen means 'be an option'.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-10-004": {
+"notes": "Bescheid sagen / geben = let someone know. It's neutral and very common in speech. The noun Bescheid is always used without an article here.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-10-005": {
+"notes": "in Kraft treten = come into force. treten has e → i: es tritt. The Perfekt is ist in Kraft getreten.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-10-006": {
+"notes": "zum Ausdruck bringen = express. The phrase is more formal than ausdrücken. bringen goes into the Präteritum here: brachte.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-10-007": {
+"notes": "in Anspruch nehmen = take up (time); also make use of (a service). Anspruch also means 'claim, entitlement'.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-11-001": {
+"notes": "Strong verbs have their own Konjunktiv II: Präteritum stem + umlaut + -e: kam → käme. Wenn … doch nur expresses a wish.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-11-002": {
+"notes": "wissen → wüsste is used freely in speech: Ich wüsste gern… (I'd like to know). würde wissen is avoided.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-11-003": {
+"notes": "geben → gäbe: wenn es keine Autos gäbe. es gibt / gäbe is one of the strong forms still common in speech.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-11-004": {
+"notes": "gehen → ginge. In speech würde gehen is also common, but es ginge is idiomatic in this phrase. The main clause and the condition both use Konjunktiv II.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal",
+"text": "Es {{c1::ginge::gehen · Konjunktiv II, es}} schneller, wenn du mir helfen würdest.",
+"flag": "text: wenn du hilfst mixed the indicative with a Konjunktiv II main clause; changed to wenn du mir helfen würdest"
+},
+"DE-B2-11-005": {
+"notes": "With a modal, the past Konjunktiv II is hätte + infinitive + modal infinitive: hätte kommen sollen (should have come).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-11-006": {
+"notes": "hättest … anrufen können = could have called. The modal stays an infinitive, not gekonnt, and goes last. It often carries a mild reproach.",
+"tip": "",
+"compare": "",
+"register": "Informal (du)"
+},
+"DE-B2-11-007": {
+"notes": "The condition can be a phrase: ohne dich (= wenn du nicht da wärst). The main clause still uses Konjunktiv II: wäre.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-11-008": {
+"notes": "fast + Konjunktiv II past means 'nearly happened': Fast wäre ich gestürzt. The Konjunktiv marks it as not real.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-11-009": {
+"notes": "bei + noun can replace a wenn-clause: bei schönem Wetter (= wenn das Wetter schön wäre). The verb is Konjunktiv II.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-11-010": {
+"notes": "With a double infinitive in a subordinate clause, the auxiliary goes before the two infinitives: dass er hat arbeiten müssen.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-11-011": {
+"notes": "The same rule with lassen: ob ich das Auto habe reparieren lassen. It's an exception to verb-final order.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-12-001": {
+"notes": "es fills the first position and points forward to the dass-clause: Es freut mich, dass… It disappears if the clause comes first.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-12-002": {
+"notes": "es fills the first position in an impersonal passive: Es wurde getanzt. If something else comes first, es drops: Gestern wurde getanzt.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-12-003": {
+"notes": "es can stand in for a subject that comes later: Es kamen viele Leute. The verb agrees with viele Leute (plural).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-12-004": {
+"notes": "man has no oblique forms of its own; einen serves as its accusative: So etwas freut einen. The nominative is still man.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-12-005": {
+"notes": "einem is the dative of man: Das kann einem passieren. passieren takes the dative. schon mal softens it: it can happen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-13-001": {
+"notes": "Futur II (werden + participle + haben / sein) mostly expresses an assumption about the past: Er wird den Zug verpasst haben.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-13-002": {
+"notes": "Futur II can also mean 'will have done by then': Bis morgen werde ich das Buch gelesen haben. In speech, the Perfekt with bis morgen is more common.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-13-003": {
+"notes": "gehen takes sein, so Futur II ends in gegangen sein: Sie wird schon gegangen sein. schon adds 'surely, probably'.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-14-001": {
+"notes": "alle is a der-word, so the following adjective takes the weak plural -en: alle neuen Studenten. The same goes for beide, keine and the plural possessives.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-14-002": {
+"notes": "viele is not a der-word, so the adjective takes the strong plural -e: viele neue Studenten. The same goes for mehrere, wenige and einige.",
+"tip": "alle neuen (weak) vs viele neue (strong).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-14-003": {
+"notes": "After die beiden, the adjective takes -en, like after die: die beiden jungen Frauen. Without die, beide works like alle: beide jungen Frauen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-14-004": {
+"notes": "einige (some) works like viele: the adjective takes the strong -e: einige gute Bücher. In the genitive plural it would be einiger guter Bücher.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-14-005": {
+"notes": "Numbers are not der-words, so the adjective takes strong endings: drei kleine Kinder. With an article, it would be die drei kleinen Kinder.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-15-001": {
+"notes": "haben + zu + infinitive means 'have to, must': Du hast hier nichts zu sagen (you have no say). It sounds authoritarian.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-15-002": {
+"notes": "scheinen + zu = seem to: Er scheint müde zu sein. Without zu it isn't correct. The perfect infinitive gives the past: Er scheint es gewusst zu haben.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-15-003": {
+"notes": "drohen + zu = threaten to, be in danger of: droht einzustürzen. A separable verb puts zu in the middle.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-15-004": {
+"notes": "pflegen + zu = be in the habit of. It's formal and somewhat literary. In speech, normalerweise or meistens is used instead.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-16-001": {
+"notes": "Name is an irregular n-noun: dem Namen, but the genitive takes -ns: des Namens. dem Namen nach = by name.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-16-002": {
+"notes": "The genitive of Name is Namens, with both -n and -s. Gedanke, Buchstabe, Glaube and Wille behave the same way.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-16-003": {
+"notes": "Herz is neuter and irregular: dem Herzen, des Herzens, but das Herz in the accusative. von Herzen = sincerely.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-16-004": {
+"notes": "Gedanke takes -n in the dative: mit dem Gedanken. sich mit etwas anfreunden = get used to something.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-16-005": {
+"notes": "Präsident is a regular n-noun: den Präsidenten. Most masculine nouns in -ent are n-nouns. The feminine is Präsidentin, with regular endings.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-16-006": {
+"notes": "Mensch is an n-noun: keinen Menschen. keinen Menschen kennen = not know a soul. The plural is die Menschen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-16-007": {
+"notes": "derselbe (the very same) declines in both parts: in demselben Haus. der gleiche means an identical but separate one.",
+"tip": "derselbe = the very same; der gleiche = an identical one.",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-16-008": {
+"notes": "derjenige / diejenigen (the one(s) who) points forward to a relative clause. Both parts decline. In speech, die, die … or alle, die … is more common.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-B2-16-009": {
+"notes": "Naming both forms (Kolleginnen und Kollegen) is the established inclusive address in letters and speeches.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-16-010": {
+"notes": "Participle nouns such as die Studierenden are gender-neutral in the plural and widely used at universities.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal",
+"text": "Die {{c1::Studierenden::students (gender-neutral participle noun)}} protestieren gegen die Gebühren.",
+"tr": "The students are protesting against the fees.",
+"flag": "dup: replaced Alle Studierenden müssen sich anmelden (near-identical to B2-14-001 Alle neuen Studenten müssen sich anmelden)"
+},
+"DE-B2-16-011": {
+"notes": "Decades are written as one word: die Neunzigerjahre, or 90er-Jahre. in den … takes the dative plural.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-17-001": {
+"notes": "Separable umfahren (stress on um) means knock down: hat umgefahren, with ge- in the middle. The stress decides the meaning.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-17-002": {
+"notes": "Inseparable umfahren (stress on fahren) means drive round: hat umfahren, with no ge-. The noun is die Umfahrung (Austrian: bypass).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-17-003": {
+"notes": "Inseparable übersetzen (stress on setzen) means translate: ich übersetze, participle übersetzt. The noun is die Übersetzung.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-17-004": {
+"notes": "Separable übersetzen (stress on über) means ferry across: setzt … über. The literal meaning goes with the separable form.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-17-005": {
+"notes": "Inseparable durchschauen means see through (a person): durchschaut, without ge-. Separable durchschauen means look through.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-17-006": {
+"notes": "erschrecken is strong when it means 'be startled' (erschrak) and weak when it means 'startle someone' (erschreckte).",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-17-007": {
+"notes": "schaffen is strong for 'create' (schuf, geschaffen) and weak for 'manage' (schaffte, geschafft). In speech, geschafft (managed) is far more common.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-17-008": {
+"notes": "wiegen is strong for 'weigh' (wog, gewogen) and weak for 'rock' (wiegte, gewiegt). Weighing oneself is sich wiegen: Ich wiege mich.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-B2-18-001": {
+"notes": "After etwas, nichts or alles, a preposition + relative becomes wo(r)-: etwas, worüber… (nachdenken über).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-18-002": {
+"notes": "alles, wofür… uses wofür because arbeiten takes für. wo + für needs no r. The participle gearbeitet is followed by habe in the subordinate clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-18-003": {
+"notes": "wer with no antecedent means 'whoever': Wer zu spät kommt, muss draußen warten. The main clause can add der.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-B2-18-004": {
+"notes": "was with no antecedent means 'what, that which': Was du sagst, stimmt nicht. In colloquial speech, das, was du sagst is also heard.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+}
+}

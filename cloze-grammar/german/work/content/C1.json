@@ -1,0 +1,551 @@
+{
+"DE-C1-01-001": {
+"notes": "gedenken (commemorate) takes a genitive object: der Opfer (genitive plural). It's used in speeches and on memorials; the noun is das Gedenken.",
+"tip": "",
+"compare": "",
+"register": "Formal; elevated"
+},
+"DE-C1-01-002": {
+"notes": "bedürfen (require) takes the genitive: keiner Erklärung. In everyday German, brauchen + accusative is used instead.",
+"tip": "",
+"compare": "",
+"register": "Formal; elevated"
+},
+"DE-C1-01-003": {
+"notes": "sich bedienen (make use of) takes the genitive: eines Tricks. sich bedienen without an object means 'help oneself'.",
+"tip": "",
+"compare": "",
+"register": "Formal; elevated"
+},
+"DE-C1-01-004": {
+"notes": "sich der Stimme enthalten = abstain from voting. The genitive object is fixed in this phrase; the noun is die Enthaltung.",
+"tip": "",
+"compare": "",
+"register": "Formal; elevated"
+},
+"DE-C1-01-005": {
+"notes": "sich (dative) einer Sache bewusst sein takes the genitive: des Risikos. Risiko is neuter, so the genitive adds -s.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-01-006": {
+"notes": "anklagen + genitive of the charge: des Diebstahls angeklagt. Modern legal German also uses wegen + genitive.",
+"tip": "",
+"compare": "",
+"register": "Formal; legal"
+},
+"DE-C1-01-007": {
+"notes": "würdig (worthy) takes the genitive: einer Antwort würdig. The adjective follows its object, as with bewusst.",
+"tip": "",
+"compare": "",
+"register": "Formal; elevated"
+},
+"DE-C1-02-001": {
+"notes": "es sei denn (unless) is a frozen Konjunktiv I. It's followed by main-clause word order (es regnet) or a dass-clause.",
+"tip": "",
+"compare": "",
+"register": "Formal; set phrase"
+},
+"DE-C1-02-002": {
+"notes": "Sei es … oder … means 'whether … or…'. The Konjunktiv I sei opens the phrase, which stands apart from the main clause.",
+"tip": "",
+"compare": "",
+"register": "Formal; set phrase"
+},
+"DE-C1-02-003": {
+"notes": "Wie dem auch sei = be that as it may. It closes a digression and returns to the main point. dem here is the old dative of das, referring to the situation.",
+"tip": "",
+"compare": "",
+"register": "Formal; set phrase"
+},
+"DE-C1-02-004": {
+"notes": "Recipes traditionally use man + Konjunktiv I as an instruction: Man nehme… Modern recipes use the imperative or infinitive.",
+"tip": "",
+"compare": "",
+"register": "Formal; dated"
+},
+"DE-C1-02-005": {
+"notes": "Es lebe …! (Long live…!) is a Konjunktiv I wish. The noun that follows is the subject: die Freiheit.",
+"tip": "",
+"compare": "",
+"register": "Rhetorical"
+},
+"DE-C1-02-006": {
+"notes": "koste es, was es wolle = whatever it costs. Both koste and wolle are Konjunktiv I. It's set off by commas from the main clause.",
+"tip": "",
+"compare": "",
+"register": "Formal; set phrase"
+},
+"DE-C1-03-001": {
+"notes": "A participle phrase can replace a time clause: In Berlin angekommen = als er in Berlin angekommen war. It's written style.",
+"tip": "",
+"compare": "",
+"register": "Written"
+},
+"DE-C1-03-002": {
+"notes": "ehrlich gesagt (to be honest) is a fixed participle phrase. It counts as position one, so the verb habe comes next.",
+"tip": "",
+"compare": "",
+"register": "Neutral (set phrase)"
+},
+"DE-C1-03-003": {
+"notes": "genau genommen = strictly speaking. Likewise streng genommen, kurz gesagt. The participle phrase takes first position, so hast follows.",
+"tip": "",
+"compare": "",
+"register": "Neutral (set phrase)"
+},
+"DE-C1-03-004": {
+"notes": "abgesehen davon = apart from that. davon can be replaced by von + dative: abgesehen von dem Preis. It's usually followed by a comma when it comes first.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-03-005": {
+"notes": "vorausgesetzt, (dass) = provided (that). The weather mitspielen means 'play along, cooperate'. With dass dropped, a main clause follows: vorausgesetzt, das Wetter spielt mit.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-03-006": {
+"notes": "Gesetzt den Fall, (dass) … = supposing (that). The accusative den Fall is frozen in the phrase. angenommen, (dass) is a more neutral synonym.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-04-001": {
+"notes": "im Rahmen + genitive = as part of, within the framework of. It's frequent in business and official reports.",
+"tip": "",
+"compare": "",
+"register": "Official; business"
+},
+"DE-C1-04-002": {
+"notes": "seitens + genitive = on the part of. In speech, von is used instead. It's typical of reports: seitens der Regierung.",
+"tip": "",
+"compare": "",
+"register": "Official"
+},
+"DE-C1-04-003": {
+"notes": "zwecks + genitive = for the purpose of. With a noun without article, the genitive doesn't show: zwecks Terminvereinbarung.",
+"tip": "",
+"compare": "",
+"register": "Official"
+},
+"DE-C1-04-004": {
+"notes": "mangels + genitive = for lack of. With a plural noun and no article, the dative appears instead: mangels Beweisen.",
+"tip": "",
+"compare": "",
+"register": "Official; legal"
+},
+"DE-C1-04-005": {
+"notes": "zuzüglich (plus) and abzüglich (minus) take the genitive and are common on invoices. Mehrwertsteuer (VAT) is often abbreviated MwSt.",
+"tip": "",
+"compare": "",
+"register": "Official; business"
+},
+"DE-C1-04-006": {
+"notes": "unter Berücksichtigung + genitive = taking into account. The phrase takes first position, so haben comes next.",
+"tip": "",
+"compare": "",
+"register": "Official"
+},
+"DE-C1-04-007": {
+"notes": "im Zuge + genitive = in the course of, as part of a process. It's typical of news reports. Zuge is the dative of Zug with the old -e.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-05-001": {
+"notes": "ver- can mean doing something wrongly: verschlafen = oversleep. Inseparable, so no ge-: verschlafen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-05-002": {
+"notes": "sich verlaufen = get lost on foot; sich verfahren = by car. Both use ver- in the sense 'wrongly'. sich verlaufen also means 'disperse' of crowds.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-05-003": {
+"notes": "zer- means 'to pieces': zerbrechen, zerreißen, zerstören. zerbrechen without an object takes sein. With an object it takes haben: Er hat das Glas zerbrochen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-05-004": {
+"notes": "er- often means achieving something by effort: erarbeiten (earn through work), erkämpfen (win by fighting).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-05-005": {
+"notes": "ent- means 'away from, escape': entkommen + dative (escape someone). It takes sein. The dative der Polizei is the thing escaped from.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-05-006": {
+"notes": "antworten takes auf + accusative; beantworten takes a direct accusative object. be- turns the prepositional verb into a transitive one.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-06-001": {
+"notes": "-erweise turns an adjective into a sentence adverb that comments on the whole: glücklicherweise (fortunately).",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C1-06-002": {
+"notes": "möglicherweise = possibly, perhaps. It's more formal than vielleicht. It can stand anywhere in the middle field.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C1-06-003": {
+"notes": "-weise added to a noun means 'in a … way': teilweise (partly). There's no -er- with nouns. It can also be an adjective: eine teilweise Sperrung.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-06-004": {
+"notes": "schrittweise = step by step. Before a noun it can be used as an adjective: eine schrittweise Einführung.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C1-06-005": {
+"notes": "beispielsweise = for example; it's more formal than zum Beispiel and is set off by commas. It's often abbreviated z. B. in its synonym zum Beispiel.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C1-07-001": {
+"notes": "Leaving out wenn puts the verb first: Hätte ich das gewusst = wenn ich das gewusst hätte. The main clause often starts with dann or so.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-07-002": {
+"notes": "Sollten Sie … = should you … is a formal conditional with the verb first. It's common in business letters.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-07-003": {
+"notes": "Kaum hatte er …, als … = no sooner had he … than. Kaum takes first position, so hatte follows. The als-clause has its verb at the end.",
+"tip": "",
+"compare": "",
+"register": "Neutral; slightly literary"
+},
+"DE-C1-07-004": {
+"notes": "The second part of kaum … als is introduced by als, with the verb at the end of the als-clause. The als here is not comparative but temporal.",
+"tip": "",
+"compare": "",
+"register": "Neutral; slightly literary",
+"text": "Kaum war sie zu Hause, {{c1::als::than (kaum … , …)}} es zu regnen begann.",
+"tr": "She'd barely got home when it started to rain.",
+"flag": "dup: replaced Kaum hatte er sich hingesetzt, als das Telefon klingelte (same sentence as C1-07-003)"
+},
+"DE-C1-07-005": {
+"notes": "Wäre das Wetter besser = wenn das Wetter besser wäre. The verb-first form is neutral in speech too. The main clause starts with its own verb: könnten wir.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-08-001": {
+"notes": "zumal (especially as) adds a strengthening reason and sends the verb to the end. It's more formal than weil.",
+"tip": "",
+"compare": "",
+"register": "Formal",
+"text": "Wir nehmen ein Taxi, {{c1::zumal::especially as}} es schon spät ist.",
+"tr": "We'll take a taxi, especially as it's already late.",
+"flag": "dup: replaced Ich bleibe zu Hause, zumal ich erkältet bin (near-identical to A2-01-002)"
+},
+"DE-C1-08-002": {
+"notes": "wohingegen (whereas) contrasts two parallel facts and sends the verb to the end. während can be used in the same sense.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-08-003": {
+"notes": "geschweige denn (let alone) follows a negative or near-negative statement: kaum laufen, geschweige denn rennen.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-08-004": {
+"notes": "insofern …, als = in so far as. insofern goes in the main clause, als starts the subordinate clause.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-08-005": {
+"notes": "obgleich (although) is a formal synonym of obwohl; wenngleich is another. The main clause starts with the verb arbeitete.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-08-006": {
+"notes": "nichtsdestotrotz (nevertheless) is an adverb, so the verb follows it. It's slightly humorous in speech.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-08-007": {
+"notes": "folglich (consequently) is an adverb: the verb follows. demzufolge and somit are synonyms. It can also stand inside the clause: wurde folglich abgelehnt.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-08-008": {
+"notes": "wo … doch means 'when, even though' and expresses indignation: Er schweigt, wo er doch alles weiß. doch in the clause is essential to the meaning.",
+"tip": "",
+"compare": "",
+"register": "Neutral; emphatic"
+},
+"DE-C1-08-009": {
+"notes": "Nicht dass + Konjunktiv II means 'not that…': Nicht dass ich etwas dagegen hätte. The clause is incomplete, ending in aber…",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-08-010": {
+"notes": "ehe (before) is a literary synonym of bevor, with the verb at the end. It's common in older literature and fixed phrases such as ehe man sich's versieht.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"DE-C1-08-011": {
+"notes": "sowie as a conjunction means 'as soon as', like sobald. As a connector it means 'as well as'. It's typical of formal and written German.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-09-001": {
+"notes": "davon ausgehen, dass … = assume that. The prepositional verb ausgehen von needs the da-word davon before a dass-clause.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C1-09-002": {
+"notes": "dafür sorgen, dass … = make sure that. sorgen für + accusative becomes dafür. The imperative Sorgen Sie is formal.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C1-09-003": {
+"notes": "Das liegt daran, dass … = that's because… liegen an + dative becomes daran. woran liegt das? asks for the cause.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-09-004": {
+"notes": "darauf hinweisen, dass … = point out that. hinweisen auf + accusative becomes darauf; the prefix hin goes to the end.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-09-005": {
+"notes": "sich darauf verlassen, dass … = count on (something happening). verlassen auf + accusative becomes darauf.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-10-001": {
+"notes": "bekommen + participle forms a passive with the recipient as subject: Ich bekomme das Paket geschickt. kriegen is the colloquial version.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-10-002": {
+"notes": "Perfekt of the bekommen-passive: hat … geschenkt bekommen. The giver can be added with von. bekommen here is the participle; it has no ge-.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-10-003": {
+"notes": "Es wird gebeten, … is an impersonal passive used in notices: you are requested to… It avoids naming anyone.",
+"tip": "",
+"compare": "",
+"register": "Official"
+},
+"DE-C1-10-004": {
+"notes": "The past passive in Konjunktiv II with a modal: hätte gemacht werden müssen. The modal infinitive goes last.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-10-005": {
+"notes": "wäre … worden is the past passive Konjunktiv II: wäre gebaut worden (would have been built). The wenn-clause also uses Konjunktiv II: gegeben hätte.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-11-001": {
+"notes": "der See (masculine) is a lake: im See. die See (feminine) is the sea, mostly in fixed phrases. The plural of der See is die Seen.",
+"tip": "der See = lake; die See = sea.",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-002": {
+"notes": "die See (sea) appears in auf See (at sea), an die See. Otherwise das Meer is used. die See has no plural in this sense.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-003": {
+"notes": "die Steuer (tax) has the plural Steuern. das Steuer (steering wheel) is rarely plural. The verb zahlen takes a direct object: Steuern zahlen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-004": {
+"notes": "das Steuer (steering wheel): am Steuer sitzen = be at the wheel. The neuter gives am (an dem). The verb is steuern (steer).",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-005": {
+"notes": "Bank meaning 'bench' has the plural Bänke, with an umlaut. The dative plural is den Bänken. The two meanings share one singular, die Bank.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-006": {
+"notes": "Bank meaning a financial institution has the plural Banken. Both meanings are feminine in the singular.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-007": {
+"notes": "Wörter is the plural for separate words, as in a dictionary or a count. Wörterbuch itself is built on Wörter.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-008": {
+"notes": "Worte is the plural for words said, a statement or speech: freundliche Worte. In set phrases: mit anderen Worten (in other words).",
+"tip": "Wörter (separate words) vs Worte (what someone said).",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-009": {
+"notes": "der Leiter (manager, head) vs die Leiter (ladder). The article is the only marker of meaning. die Leiter has the plural die Leitern.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-010": {
+"notes": "der Kiefer (jaw) vs die Kiefer (pine tree). Mir tut … weh uses the dative experiencer. die Kiefer has the plural die Kiefern.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-011": {
+"notes": "der Erbe (heir, an n-noun) vs das Erbe (inheritance). der Erbe takes -n in all other cases: den Erben.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-11-012": {
+"notes": "das Gehalt (salary, plural Gehälter) vs der Gehalt (content, proportion). Gehalt an + dative gives the content of something.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-12-001": {
+"notes": "als + Konjunktiv II verb straight after it means 'as if': als wäre nichts geschehen. It's the same as als ob … wäre.",
+"tip": "",
+"compare": "",
+"register": "Neutral to literary"
+},
+"DE-C1-12-002": {
+"notes": "als hätte sie … = as if she had… The verb comes straight after als, and the participle goes to the end.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-12-003": {
+"notes": "als ob keeps verb-final order: als ob jemand weint. In speech the indicative is common after als ob; writing prefers Konjunktiv II.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-13-001": {
+"notes": "stolz auf + accusative = proud of: stolz auf dich. The noun is der Stolz. With a clause, the da-word appears: stolz darauf, dass…",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-13-002": {
+"notes": "gespannt auf + accusative = eager to know, curious about. It suggests suspense. Ich bin gespannt, ob… is common too.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-13-003": {
+"notes": "abhängig von + dative = dependent on, as with the verb abhängen von. The noun is die Abhängigkeit von.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-13-004": {
+"notes": "zufrieden mit + dative = satisfied with. The noun is die Zufriedenheit. The opposite is unzufrieden mit.",
+"tip": "",
+"compare": "",
+"register": "Formal (Sie)"
+},
+"DE-C1-13-005": {
+"notes": "verantwortlich für + accusative = responsible for. The noun is die Verantwortung für. With a clause: verantwortlich dafür, dass…",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-13-006": {
+"notes": "interessiert an + dative = interested in, unlike the verb sich interessieren für + accusative. With a clause: interessiert daran, dass…",
+"tip": "interessiert an (adjective) vs sich interessieren für (verb).",
+"compare": "",
+"register": "Formal"
+},
+"DE-C1-14-001": {
+"notes": "Unstressed pronouns move ahead of a noun subject in the middle of the clause: hat ihn mein Bruder angerufen.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C1-14-002": {
+"notes": "Two pronoun objects go ahead of the noun subject, accusative first: hat es uns der Kellner gebracht.",
+"tip": "",
+"compare": "",
+"register": "Neutral",
+"text": "Später hat {{c1::es::it · accusative (before a noun subject)}} uns der Kellner gebracht.",
+"tr": "Later the waiter brought it to us.",
+"flag": "dup: replaced Dann hat es ihr der Lehrer erklärt (near-identical to A2-07-009 Der Lehrer hat es gut erklärt)"
+},
+"DE-C1-14-003": {
+"notes": "dessen as a possessive removes ambiguity: Paul und dessen Frau means Paul's wife; seine could be Peter's.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-C1-14-004": {
+"notes": "derer is the genitive plural pointing forward to a relative clause: die Zahl derer, die zustimmen. The singular equivalents are dessen and deren.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-C1-14-005": {
+"notes": "manch can stand uninflected before einer: manch einer (many a person). It's literary. With a noun: manch ein Mensch, or inflected mancher Mensch.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"DE-C1-14-006": {
+"notes": "solch can stand uninflected before ein: solch ein Unsinn. In speech, so ein is far more common. Inflected, it becomes solcher: solcher Unsinn.",
+"tip": "",
+"compare": "",
+"register": "Literary; formal"
+}
+}

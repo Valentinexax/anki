@@ -1,0 +1,294 @@
+{
+"DE-C2-01-001": {
+"notes": "im Grunde (basically) keeps the old dative -e, which modern German has otherwise dropped. Such frozen forms survive in set phrases: im Laufe, zu Hause.",
+"tip": "",
+"compare": "",
+"register": "Neutral (set phrase)"
+},
+"DE-C2-01-002": {
+"notes": "auf dem Lande keeps the old dative -e and sounds old-fashioned; auf dem Land is the modern form. auf dem Land itself means 'in the country(side)'.",
+"tip": "",
+"compare": "",
+"register": "Dated"
+},
+"DE-C2-01-003": {
+"notes": "ward is the old past of werden, now only biblical or poetic: Und es ward Licht (Genesis). The modern form is wurde.",
+"tip": "",
+"compare": "",
+"register": "Literary; biblical"
+},
+"DE-C2-01-004": {
+"notes": "wes is the old genitive of wer (= wessen). The proverb keeps elided forms (ess', sing') for rhythm. des is the matching old demonstrative: whose bread I eat, his song I sing.",
+"tip": "",
+"compare": "",
+"register": "Proverb"
+},
+"DE-C2-01-005": {
+"notes": "jener (that) contrasts with dieser in written style and declines like it: jenes Haus. In speech, der da or das andere is used.",
+"tip": "",
+"compare": "",
+"register": "Written; literary",
+"tr": "It's not this house I'd like to buy, but that one.",
+"flag": "tr: previous version was unidiomatic"
+},
+"DE-C2-01-006": {
+"notes": "welch ein …! (what a…!) is a literary exclamation with uninflected welch. Everyday speech uses Was für ein…!",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"DE-C2-02-001": {
+"notes": "eines Tages (one day) is an adverbial genitive. The time phrase takes first position, so the verb wirst follows.",
+"tip": "",
+"compare": "",
+"register": "Neutral (set phrase)"
+},
+"DE-C2-02-002": {
+"notes": "meines Wissens (as far as I know) is a fixed genitive phrase, written and formal. Speech prefers soweit ich weiß.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C2-02-003": {
+"notes": "letzten Endes (ultimately) is a genitive phrase with adjective -en. letztendlich is a common one-word synonym.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-02-004": {
+"notes": "allen Ernstes (in all seriousness) is a fixed genitive and often implies the speaker's disbelief. It usually follows the verb.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C2-02-005": {
+"notes": "schweren Herzens (with a heavy heart) is a fixed genitive of manner. Herz takes -ens in the genitive.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"DE-C2-02-006": {
+"notes": "unverrichteter Dinge (without achieving anything) is a genitive plural phrase. It's formal and slightly ironic.",
+"tip": "",
+"compare": "",
+"register": "Formal; literary"
+},
+"DE-C2-03-001": {
+"notes": "meinetwegen literally means 'because of me' but is mostly used as 'fine by me, I don't mind'. The -et- links the pronoun to -wegen.",
+"tip": "",
+"compare": "",
+"register": "Colloquial"
+},
+"DE-C2-03-002": {
+"notes": "deinetwegen = because of you. The pattern gives seinetwegen, ihretwegen, unsertwegen. It's written as one word.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-03-003": {
+"notes": "um … willen (for the sake of) wraps a genitive: um Himmels willen. Um Gottes willen is the stronger variant.",
+"tip": "",
+"compare": "",
+"register": "Neutral (exclamation)"
+},
+"DE-C2-03-004": {
+"notes": "um des lieben Friedens willen = for the sake of peace and quiet. The genitive sits between um and willen.",
+"tip": "",
+"compare": "",
+"register": "Formal; idiomatic"
+},
+"DE-C2-03-005": {
+"notes": "statt meiner uses the genitive pronoun meiner, which is formal. Colloquial German says statt mir. Likewise statt seiner, statt ihrer.",
+"tip": "",
+"compare": "",
+"register": "Formal"
+},
+"DE-C2-04-001": {
+"notes": "möge (Konjunktiv I of mögen) expresses a formal wish: Man möge mir verzeihen. Möge er in Frieden ruhen is a common formula.",
+"tip": "",
+"compare": "",
+"register": "Formal; elevated"
+},
+"DE-C2-04-002": {
+"notes": "An indirect command uses Konjunktiv I of sollen: Er sagte, ich solle warten. In speech, ich soll or ich sollte.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-C2-04-003": {
+"notes": "Indirect questions can take Konjunktiv I: ob er komme. Speech normally uses the indicative: ob er kommt.",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-C2-04-004": {
+"notes": "müssen gives sie müsse in Konjunktiv I, without the umlaut change of the indicative singular (muss).",
+"tip": "",
+"compare": "",
+"register": "Formal; written"
+},
+"DE-C2-05-001": {
+"notes": "so + adjective + auch means 'however…': So schwer es auch ist. The main clause usually keeps normal word order (wir geben…).",
+"tip": "",
+"compare": "",
+"register": "Formal; literary"
+},
+"DE-C2-05-002": {
+"notes": "was auch immer = whatever. auch immer can also follow the verb: Was immer passiert… The main clause keeps verb-second order.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C2-05-003": {
+"notes": "wer auch immer = whoever. The main clause refers back with er or der. In speech, wer immer or just wer is also used.",
+"tip": "",
+"compare": "",
+"register": "Neutral to formal"
+},
+"DE-C2-05-004": {
+"notes": "Mag es noch so regnen = however much it may rain. mögen here is concessive, not 'like'. The main clause keeps normal order: wir gehen.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"DE-C2-06-001": {
+"notes": "binnen (within) is legal and official; it takes the dative (binnen 14 Tagen) or the genitive. In everyday German, innerhalb von is used.",
+"tip": "",
+"compare": "",
+"register": "Legal"
+},
+"DE-C2-06-002": {
+"notes": "unbeschadet + genitive = without prejudice to. It's a fixed legal formula. It's often placed at the start of the sentence.",
+"tip": "",
+"compare": "",
+"register": "Legal"
+},
+"DE-C2-06-003": {
+"notes": "vorbehaltlich + genitive = subject to. The noun is der Vorbehalt (reservation). unter Vorbehalt means 'with reservations'.",
+"tip": "",
+"compare": "",
+"register": "Legal"
+},
+"DE-C2-06-004": {
+"notes": "sein + zu in legal texts means 'must be done': sind vorzulegen. vorlegen is separable, so zu goes in the middle.",
+"tip": "",
+"compare": "",
+"register": "Legal"
+},
+"DE-C2-06-005": {
+"notes": "haben + zu in contracts imposes an obligation: Der Mieter hat … zu tragen (shall bear). English legal texts use 'shall' in the same way.",
+"tip": "",
+"compare": "",
+"register": "Legal"
+},
+"DE-C2-06-006": {
+"notes": "sofern nicht anders vereinbart = unless otherwise agreed. The auxiliary ist is dropped, as often in legal shorthand.",
+"tip": "",
+"compare": "",
+"register": "Legal"
+},
+"DE-C2-07-001": {
+"notes": "Atlas has the learned plural Atlanten; Atlasse is also accepted. Atlas is also the name of the Titan and of the mountains.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-07-002": {
+"notes": "Kaktus has the learned plural Kakteen; Kaktusse is colloquial. The singular Kaktus is masculine, and the noun counts as a Latin loan.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-07-003": {
+"notes": "Visum has the Latin plural Visa (or Visen). The same -um → -a pattern gives Praktikum → Praktika. The singular is das Visum.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-07-004": {
+"notes": "Komma has the plural Kommata (learned) or Kommas (everyday). Both are correct. The singular is das Komma.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-07-005": {
+"notes": "Museum has the plural Museen: -um is replaced by -en. Likewise Zentrum → Zentren, Studium → Studien.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-07-006": {
+"notes": "Praktikum has the plural Praktika. ein Praktikum machen = do an internship. Its plural Praktika is the only form in use.",
+"tip": "",
+"compare": "",
+"register": "Neutral"
+},
+"DE-C2-08-001": {
+"notes": "Names take -s in the genitive and can follow the noun in formal style: die Werke Goethes. Goethes Werke is equally correct.",
+"tip": "",
+"compare": "",
+"register": "Standard; written"
+},
+"DE-C2-08-002": {
+"notes": "Names ending in -s, -ß, -x or -z take only an apostrophe in the genitive: Hans' Schwester. In speech von is used.",
+"tip": "",
+"compare": "",
+"register": "Standard; written",
+"text": "{{c1::Hans'::Hans · genitive (name ending in -s)}} Schwester wohnt in Köln.",
+"tr": "Hans's sister lives in Cologne.",
+"flag": "dup: replaced Das ist Hans' Auto (near-identical to A2-12-001 Das ist Annas Auto)"
+},
+"DE-C2-08-003": {
+"notes": "With an article and a title, only the article and the title change: das Büro des Herrn Müller. The name itself stays.",
+"tip": "",
+"compare": "",
+"register": "Standard; written"
+},
+"DE-C2-08-004": {
+"notes": "Without an article, the name takes the -s: Herrn Müllers Vortrag. Herr still takes its n-noun -n. Both versions are correct; the second is more modern.",
+"tip": "",
+"compare": "",
+"register": "Standard; written",
+"text": "{{c1::Herrn::Herr · genitive (no article; … Müllers)}} Müllers Vortrag hat allen gefallen.",
+"tr": "Everyone enjoyed Mr Müller's talk.",
+"flag": "dup: replaced Herrn Müllers Büro ist im zweiten Stock (same sentence as C2-08-003)"
+},
+"DE-C2-09-001": {
+"notes": "Fronting the participle puts contrastive stress on it: Gesehen habe ich ihn nicht (but heard him). The verb stays second.",
+"tip": "",
+"compare": "",
+"register": "Neutral; spoken emphasis"
+},
+"DE-C2-09-002": {
+"notes": "Geschlafen hat er kaum: the fronted participle is the topic. English needs a cleft: as for sleep… The verb hat stays second.",
+"tip": "",
+"compare": "",
+"register": "Neutral; spoken emphasis",
+"tr": "As for sleep, he hardly got any.",
+"flag": "tr: previous version was unidiomatic"
+},
+"DE-C2-09-003": {
+"notes": "An infinitive can be fronted too: Helfen kann ich dir nicht. The modal stays in second place. The subject ich comes after the modal.",
+"tip": "",
+"compare": "",
+"register": "Neutral; spoken emphasis"
+},
+"DE-C2-10-001": {
+"notes": "sterben has the old Konjunktiv II stürbe, with ü. Modern German uses würde sterben. The main clause uses erbte, an ambiguous form for Konjunktiv II.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"DE-C2-10-002": {
+"notes": "helfen has the literary Konjunktiv II hülfe (also hälfe). In speech: würde helfen. Both forms sound archaic today.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+},
+"DE-C2-10-003": {
+"notes": "empfehlen has the literary Konjunktiv II empföhle (also empfähle). Today: würde empfehlen. Ich würde Ihnen … empfehlen is the everyday form.",
+"tip": "",
+"compare": "",
+"register": "Literary"
+}
+}
